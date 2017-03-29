@@ -1,0 +1,375 @@
+{
+  "extension_display_names": [
+    {
+      "rel_name": "activated_by",
+      "display_name": "activated by"
+    },
+    {
+      "rel_name": "coincident_with",
+      "display_name": "at"
+    },
+    {
+      "rel_name": "directly_negatively_regulates",
+      "display_name": "directly inhibits",
+      "reciprocal_display": "directly inhibited by"
+    },
+    {
+      "rel_name": "directly_positively_regulates",
+      "display_name": "directly activates",
+      "reciprocal_display": "directly activated by"
+    },
+    {
+      "rel_name": "during",
+      "display_name": "during"
+    },
+    {
+      "rel_name": "exists_during",
+      "display_name": "during"
+    },
+    {
+      "rel_name": "happens_during",
+      "display_name": "during"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "display_name": "regulates",
+      "reciprocal_display": "regulated by"
+    },
+    {
+      "rel_name": "in_presence_of",
+      "display_name": "in presence of"
+    },
+    {
+      "rel_name": "inhibited_by",
+      "display_name": "inhibited by"
+    },
+    {
+      "rel_name": "not_during",
+      "display_name": "except during"
+    },
+    {
+      "rel_name": "not_exists_during",
+      "display_name": "except during"
+    },
+    {
+      "rel_name": "not_happens_during",
+      "display_name": "except during"
+    },
+    {
+      "rel_name": "not_occurs_at",
+      "display_name": "not at"
+    },
+    {
+      "rel_name": "not_occurs_in",
+      "display_name": "not in"
+    },
+    {
+      "rel_name": "occurs_at",
+      "display_name": "at"
+    },
+    {
+      "rel_name": "occurs_in",
+      "display_name": "in"
+    },
+    {
+      "rel_name": "part_of",
+      "display_name": "involved in"
+    },
+    {
+      "rel_name": "required_for",
+      "display_name": "required for"
+    },
+    {
+      "rel_name": "stabilizes",
+      "display_name": "stabilizes"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendent_of": "GO:0003824",
+      "display_name": "has substrate",
+      "reciprocal_display": "substrate of"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendent_of": "GO:0006810",
+      "display_name": "transports",
+      "reciprocal_display": "transported by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendent_of": "GO:0005215",
+      "display_name": "transports",
+      "reciprocal_display": "transported by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendent_of": "GO:0005488",
+      "display_name": "binds",
+      "reciprocal_display": "binds"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendent_of": "GO:0051179",
+      "display_name": "localizes",
+      "reciprocal_display": "localized by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0003824",
+      "display_name": "has substrate",
+      "reciprocal_display": "substrate of"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0006810",
+      "display_name": "transports",
+      "reciprocal_display": "transported by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0005215",
+      "display_name": "transports",
+      "reciprocal_display": "transported by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0005488",
+      "display_name": "binds",
+      "reciprocal_display": "binds"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0051179",
+      "display_name": "localizes",
+      "reciprocal_display": "localized by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0005085",
+      "display_name": "positively regulates",
+      "reciprocal_display": "positively regulated by"
+    },
+    {
+      "rel_name": "has_indirect_input",
+      "if_descendent_of": "GO:0003824",
+      "display_name": "has substrate",
+      "reciprocal_display": "substrate of"
+    },
+    {
+      "rel_name": "has_indirect_input",
+      "if_descendent_of": "GO:0006810",
+      "display_name": "transports",
+      "reciprocal_display": "transported by"
+    },
+    {
+      "rel_name": "has_indirect_input",
+      "if_descendent_of": "GO:0005215",
+      "display_name": "transports",
+      "reciprocal_display": "transported by"
+    },
+    {
+      "rel_name": "has_indirect_input",
+      "if_descendent_of": "GO:0005488",
+      "display_name": "binds",
+      "reciprocal_display": "binds"
+    },
+    {
+      "rel_name": "has_indirect_input",
+      "if_descendent_of": "GO:0051179",
+      "display_name": "localizes",
+      "reciprocal_display": "localized by"
+    },
+    {
+      "rel_name": "assayed_using",
+      "if_descendent_of": "FYPO:0001985",
+      "display_name": "affecting",
+      "reciprocal_display": "affected by mutation in"
+    },
+    {
+      "rel_name": "assayed_enzyme",
+      "if_descendent_of": "FYPO:0001985",
+      "display_name": "affecting activity of",
+      "reciprocal_display": "activity affected by mutation in"
+    },
+    {
+      "rel_name": "assayed_substrate",
+      "if_descendent_of": "FYPO:0001985",
+      "display_name": "affecting substrate",
+      "reciprocal_display": "affected by mutation in"
+    },
+    {
+      "rel_name": "assayed_using",
+      "if_descendent_of": "FYPO:0000257",
+      "display_name": "affecting"
+    },
+    {
+      "rel_name": "assayed_enzyme",
+      "if_descendent_of": "FYPO:0000257",
+      "display_name": "affecting activity of"
+    },
+    {
+      "rel_name": "assayed_substrate",
+      "if_descendent_of": "FYPO:0000257",
+      "display_name": "affecting"
+    }
+  ],
+  "extension_relation_order": {
+    "relation_order": [
+      "directly_positively_regulates",
+      "directly_negatively_regulates",
+      "has_direct_input",
+      "has_input",
+      "has_regulation_target",
+      "binds",
+      "involved_in",
+      "occurs_at",
+      "occurs_in",
+      "added_by",
+      "added_during",
+      "present_during",
+      "in_presence_of",
+      "removed_by",
+      "removed_during",
+      "absent_during",
+      "has_expressivity",
+      "has_penetrance"
+    ],
+    "always_last": [
+      "happens_during",
+      "exists_during"
+    ]
+  },
+  "evidence_types": {
+    "Inferred from Mutant Phenotype": "IMP",
+    "Inferred from Direct Assay": "IDA",
+    "Inferred from Genetic Interaction": "IGI",
+    "Inferred from Physical Interaction": "IPI",
+    "Inferred from Experiment": "EXP",
+    "Inferred from Expression Pattern": "IEP",
+    "Inferred from Sequence or Structural Similarity": "ISS",
+    "Inferred from Sequence Orthology": "ISO",
+    "Inferred from Sequence Alignment": "ISA",
+    "Inferred from Sequence Model": "ISM",
+    "Inferred from Genomic Context": "IGC",
+    "Inferred from Biological aspect of Ancestor": "IBA",
+    "Inferred from Biological aspect of Descendant": "IBD",
+    "Inferred from Key Residues": "IKR",
+    "Inferred from Rapid Divergence": "IRD",
+    "inferred from Reviewed Computational Analysis": "RCA",
+    "Non-traceable Author Statement": "NAS",
+    "Inferred by Curator": "IC",
+    "No biological Data available": "ND",
+    "Inferred from Electronic Annotation": "IEA",
+    "Not Recorded": "NR",
+    "Traceable Author Statement": "TAS",
+    "Unknown": "UNK"
+  },
+  "cv_config": {
+    "fission_yeast_phenotype": {
+      "feature_type": "genotype",
+      "filters": [
+        {
+          "term": {
+            "display_name": "Phenotype type",
+            "divisions": [
+              {
+                "display_name": "Viable cell",
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000124"
+                  }
+                ]
+              },
+              {
+                "display_name": "Inviable cell",
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000049"
+                  }
+                ]
+              },
+              {
+                "display_name": "abnormal cell population growth",
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000045"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "summary_relations_to_hide": [
+        "has_penetrance",
+        "has_expressivity"
+      ],
+      "summary_gene_relations_to_collect": [
+        "assayed_enzyme",
+        "assayed_substrate",
+        "assayed_using"
+      ]
+    },
+    "molecular_function": {
+      "feature_type": "gene",
+      "summary_relations_to_hide": [
+        "active_form"
+      ],
+      "summary_gene_relations_to_collect": [
+        "directly_activates",
+        "directly_inhibits",
+        "has_input",
+        "has_direct_input",
+        "has_regulation_target",
+        "has_substrate",
+        "binds"
+      ]
+    },
+    "biological_process": {
+      "feature_type": "gene",
+      "summary_relations_to_hide": [],
+      "summary_gene_relations_to_collect": [
+        "has_input",
+        "has_regulation_target"
+      ]
+    },
+    "cellular_component": {
+      "feature_type": "gene",
+      "summary_relations_to_hide": [],
+      "summary_gene_relations_to_collect": [
+        "coincident_with"
+      ]
+    },
+    "PSI-MOD": {
+      "feature_type": "gene",
+      "summary_relations_to_hide": [
+        "ALL"
+      ],
+      "summary_gene_relations_to_collect": [
+        "added_by",
+        "removed_by"
+      ]
+    }
+  },
+  "interesting_parents": [
+    {
+      "termid": "FYPO:0000002",
+      "rel_name": "is_a"
+    },
+    {
+      "termid": "FYPO:0000003",
+      "rel_name": "is_a"
+    },
+    {
+      "termid": "FYPO:0000652",
+      "rel_name": "is_a"
+    },
+    {
+      "termid": "GO:0005515",
+      "rel_name": "is_a"
+    }
+  ]
+}
