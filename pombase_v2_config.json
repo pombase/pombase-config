@@ -267,6 +267,8 @@
   "cv_config": {
     "fission_yeast_phenotype": {
       "feature_type": "genotype",
+      "displayName": "Phenotype",
+      "columnsToShow": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
       "filters": [
         {
           "term": {
@@ -313,8 +315,38 @@
         "assayed_using"
       ]
     },
+    "single_allele_phenotype": {
+      "displayName": "Single allele phenotype",
+      "columnsToShow": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "splitByParents": [
+        {
+          "termid": "FYPO:0000003",
+          "displayName": "Population phenotype"
+        },
+        {
+          "termid": "FYPO:0000002",
+          "displayName": "Cell phenotype"
+        }
+      ]
+    },
+    "multi_allele_phenotype": {
+      "displayName": "Multi allele phenotype",
+      "columnsToShow": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "splitByParents": [
+        {
+          "termid": "FYPO:0000003",
+          "displayName": "Population phenotype"
+        },
+        {
+          "termid": "FYPO:0000002",
+          "displayName": "Cell phenotype"
+        }
+      ]
+    },
     "molecular_function": {
       "feature_type": "gene",
+      "displayName": "GO molecular function",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "summary_relations_to_hide": [
         "active_form"
       ],
@@ -330,6 +362,8 @@
     },
     "biological_process": {
       "feature_type": "gene",
+      "displayName": "GO biological process",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "summary_relations_to_hide": [],
       "summary_gene_relations_to_collect": [
         "has_input",
@@ -338,6 +372,8 @@
     },
     "cellular_component": {
       "feature_type": "gene",
+      "displayName": "GO cellular component",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "summary_relations_to_hide": [],
       "summary_gene_relations_to_collect": [
         "coincident_with"
@@ -345,6 +381,9 @@
     },
     "PSI-MOD": {
       "feature_type": "gene",
+      "displayName": "Modification",
+      "columnsToShow": ["desc-rel", "gene", "genotype",
+                      "evidence", "residue", "reference", "count", "extension"],
       "summary_relations_to_hide": [
         "ALL"
       ],
@@ -352,6 +391,74 @@
         "added_by",
         "removed_by"
       ]
+    },
+    "qualitative_gene_expression": {
+      "displayName": "Qualitative gene expression"
+    },
+    "quantitative_gene_expression": {
+      "displayName": "Quantitative gene expression"
+    },
+    "species_dist": {
+      "displayName": "Taxonomic conservation",
+      "columnsToShow": ["desc-rel", "gene", "count"],
+      "hideTermDetails": "true"
+    },
+    "complementation": {
+      "displayName": "Complementation",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "PomBase family or domain": {
+      "displayName": "Protein features",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "target_of": {
+      "displayName": "Target of",
+      "miscConfig": {
+        "ontologyLabels": {
+          "molecular_function": "GO",
+          "biological_process": "GO",
+          "cellular_component": "GO",
+          "fission_yeast_phenotype": "FYPO",
+          "single_allele_phenotype": "FYPO",
+          "multi_allele_phenotype": "FYPO"
+        }
+      }
+    },
+    "genetic_interactions": {
+      "displayName": "Genetic interaction",
+      "columnsToShow": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
+    },
+    "physical_interactions": {
+      "displayName": "Physical interaction",
+      "columnsToShow": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
+    },
+    "orthologs": {
+      "displayName": "Orthologs",
+      "columnsToShow": ["species", "ortholog", "description"]
+    },
+    "paralogs": {
+      "displayName": "Paralogs",
+      "columnsToShow": ["ortholog", "description"]
+    },
+    "subunit_composition": {
+      "displayName": "Subunit Composition",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "misc": {
+      "displayName": "Miscellaneous",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "sequence": {
+      "displayName": "Sequence",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "warning": {
+      "displayName": "Warnings",
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "_DEFAULT_": {
+      "displayName": null,
+      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     }
   },
   "interesting_parents": [
