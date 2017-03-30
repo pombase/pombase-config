@@ -267,8 +267,8 @@
   "cv_config": {
     "fission_yeast_phenotype": {
       "feature_type": "genotype",
-      "displayName": "Phenotype",
-      "columnsToShow": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "display_name": "Phenotype",
+      "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
       "filters": [
         {
           "term": {
@@ -316,37 +316,39 @@
       ]
     },
     "single_allele_phenotype": {
-      "displayName": "Single allele phenotype",
-      "columnsToShow": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
-      "splitByParents": [
+      "feature_type": "genotype",
+      "display_name": "Single allele phenotype",
+      "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "split_by_parents": [
         {
           "termid": "FYPO:0000003",
-          "displayName": "Population phenotype"
+          "display_name": "Population phenotype"
         },
         {
           "termid": "FYPO:0000002",
-          "displayName": "Cell phenotype"
+          "display_name": "Cell phenotype"
         }
       ]
     },
     "multi_allele_phenotype": {
-      "displayName": "Multi allele phenotype",
-      "columnsToShow": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
-      "splitByParents": [
+      "feature_type": "genotype",
+      "display_name": "Multi allele phenotype",
+      "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "split_by_parents": [
         {
           "termid": "FYPO:0000003",
-          "displayName": "Population phenotype"
+          "display_name": "Population phenotype"
         },
         {
           "termid": "FYPO:0000002",
-          "displayName": "Cell phenotype"
+          "display_name": "Cell phenotype"
         }
       ]
     },
     "molecular_function": {
       "feature_type": "gene",
-      "displayName": "GO molecular function",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "display_name": "GO molecular function",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "summary_relations_to_hide": [
         "active_form"
       ],
@@ -362,9 +364,8 @@
     },
     "biological_process": {
       "feature_type": "gene",
-      "displayName": "GO biological process",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "summary_relations_to_hide": [],
+      "display_name": "GO biological process",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "summary_gene_relations_to_collect": [
         "has_input",
         "has_regulation_target"
@@ -372,17 +373,16 @@
     },
     "cellular_component": {
       "feature_type": "gene",
-      "displayName": "GO cellular component",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "summary_relations_to_hide": [],
+      "display_name": "GO cellular component",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "summary_gene_relations_to_collect": [
         "coincident_with"
       ]
     },
     "PSI-MOD": {
       "feature_type": "gene",
-      "displayName": "Modification",
-      "columnsToShow": ["desc-rel", "gene", "genotype",
+      "display_name": "Modification",
+      "columns_to_show": ["desc-rel", "gene", "genotype",
                       "evidence", "residue", "reference", "count", "extension"],
       "summary_relations_to_hide": [
         "ALL"
@@ -393,27 +393,33 @@
       ]
     },
     "qualitative_gene_expression": {
-      "displayName": "Qualitative gene expression"
+      "feature_type": "gene",
+      "display_name": "Qualitative gene expression"
     },
     "quantitative_gene_expression": {
-      "displayName": "Quantitative gene expression"
+      "feature_type": "gene",
+      "display_name": "Quantitative gene expression"
     },
     "species_dist": {
-      "displayName": "Taxonomic conservation",
-      "columnsToShow": ["desc-rel", "gene", "count"],
+      "feature_type": "gene",
+      "display_name": "Taxonomic conservation",
+      "columns_to_show": ["desc-rel", "gene", "count"],
       "hideTermDetails": "true"
     },
     "complementation": {
-      "displayName": "Complementation",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": "Complementation",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "PomBase family or domain": {
-      "displayName": "Protein features",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": "Protein features",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "target_of": {
-      "displayName": "Target of",
-      "miscConfig": {
+      "feature_type": "gene",
+      "display_name": "Target of",
+      "misc_config": {
         "ontologyLabels": {
           "molecular_function": "GO",
           "biological_process": "GO",
@@ -425,40 +431,49 @@
       }
     },
     "genetic_interactions": {
-      "displayName": "Genetic interaction",
-      "columnsToShow": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
+      "feature_type": "gene",
+      "display_name": "Genetic interaction",
+      "columns_to_show": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
     },
     "physical_interactions": {
-      "displayName": "Physical interaction",
-      "columnsToShow": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
+      "feature_type": "gene",
+      "display_name": "Physical interaction",
+      "columns_to_show": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
     },
     "orthologs": {
-      "displayName": "Orthologs",
-      "columnsToShow": ["species", "ortholog", "description"]
+      "feature_type": "gene",
+      "display_name": "Orthologs",
+      "columns_to_show": ["species", "ortholog", "description"]
     },
     "paralogs": {
-      "displayName": "Paralogs",
-      "columnsToShow": ["ortholog", "description"]
+      "feature_type": "gene",
+      "display_name": "Paralogs",
+      "columns_to_show": ["ortholog", "description"]
     },
     "subunit_composition": {
-      "displayName": "Subunit Composition",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": "Subunit Composition",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "misc": {
-      "displayName": "Miscellaneous",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": "Miscellaneous",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "sequence": {
-      "displayName": "Sequence",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": "Sequence",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "warning": {
-      "displayName": "Warnings",
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": "Warnings",
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "_DEFAULT_": {
-      "displayName": null,
-      "columnsToShow": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "feature_type": "gene",
+      "display_name": null,
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     }
   },
   "interesting_parents": [
