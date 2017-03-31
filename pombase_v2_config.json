@@ -275,31 +275,103 @@
             "display_name": "Phenotype term",
             "categories": [
               {
-                "display_name": "Viable cell",
                 "ancestors": [
                   {
                     "rel_name": "is_a",
-                    "termid": "FYPO:0000124"
+                    "termid": "FYPO:0000257"
                   }
-                ]
+                ],
+                "display_name": "normal phenotype"
               },
               {
-                "display_name": "Inviable cell",
                 "ancestors": [
                   {
                     "rel_name": "is_a",
-                    "termid": "FYPO:0000049"
+                    "termid": "FYPO:0001985"
                   }
-                ]
+                ],
+                "display_name": "abnormal phenotype"
               },
               {
-                "display_name": "abnormal cell population growth",
                 "ancestors": [
                   {
                     "rel_name": "is_a",
-                    "termid": "FYPO:0000045"
+                    "termid": "FYPO:0001320"
                   }
-                ]
+                ],
+                "display_name": "vegetative cell phenotype"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0002683"
+                  }
+                ],
+                "display_name": "sensitive to chemical"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0005447"
+                  }
+                ],
+                "display_name": "abnormal biological process"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000005"
+                  }
+                ],
+                "display_name": "abnormal cell morphology"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000631"
+                  }
+                ],
+                "display_name": "cell cycle phenotype"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000138"
+                  }
+                ],
+                "display_name": "localization phenotype"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000004"
+                  }
+                ],
+                "display_name": "cell viability"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0002057"
+                  }
+                ],
+                "display_name": "cell population viability"
+              },
+              {
+                "ancestors": [
+                  {
+                    "rel_name": "is_a",
+                    "termid": "FYPO:0000707"
+                  }
+                ],
+                "display_name": "abnormal molecular function"
               }
             ]
           }
