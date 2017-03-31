@@ -273,7 +273,7 @@
         {
           "term": {
             "display_name": "Phenotype type",
-            "divisions": [
+            "categories": [
               {
                 "display_name": "Viable cell",
                 "ancestors": [
