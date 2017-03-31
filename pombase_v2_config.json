@@ -272,7 +272,7 @@
       "filters": [
         {
           "term": {
-            "display_name": "Phenotype type",
+            "display_name": "Phenotype term",
             "categories": [
               {
                 "display_name": "Viable cell",
