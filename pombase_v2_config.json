@@ -305,6 +305,16 @@
           }
         }
       ],
+      "split_by_parents": [
+        {
+          "termid": "FYPO:0000003",
+          "display_name": "Population phenotype"
+        },
+        {
+          "termid": "FYPO:0000002",
+          "display_name": "Cell phenotype"
+        }
+      ],
       "summary_relations_to_hide": [
         "has_penetrance",
         "has_expressivity"
@@ -318,32 +328,12 @@
     "single_allele_phenotype": {
       "feature_type": "genotype",
       "display_name": "Single allele phenotype",
-      "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
-      "split_by_parents": [
-        {
-          "termid": "FYPO:0000003",
-          "display_name": "Population phenotype"
-        },
-        {
-          "termid": "FYPO:0000002",
-          "display_name": "Cell phenotype"
-        }
-      ]
+      "inherits_from": "fission_yeast_phenotype"
     },
     "multi_allele_phenotype": {
       "feature_type": "genotype",
       "display_name": "Multi allele phenotype",
-      "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
-      "split_by_parents": [
-        {
-          "termid": "FYPO:0000003",
-          "display_name": "Population phenotype"
-        },
-        {
-          "termid": "FYPO:0000002",
-          "display_name": "Cell phenotype"
-        }
-      ]
+      "inherits_from": "fission_yeast_phenotype"
     },
     "molecular_function": {
       "feature_type": "gene",
