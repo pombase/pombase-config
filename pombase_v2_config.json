@@ -276,188 +276,67 @@
             "categories": [
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0000257"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0000257"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0000257"
-                  }
+                  "FYPO:0000257"
                 ],
                 "display_name": "Normal phenotype"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0001985"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0001985"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0001985"
-                  }
+                  "FYPO:0001985"
                 ],
                 "display_name": "Abnormal phenotype"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0001320"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0001320"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0001320"
-                  }
+                  "FYPO:0001320"
                 ],
                 "display_name": "Vegetative cell phenotype"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0002683"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0002683"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0002683"
-                  }
+                  "FYPO:0002683"
                 ],
                 "display_name": "Sensitive to chemical"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0005447"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0005447"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0005447"
-                  }
+                  "FYPO:0005447"
                 ],
                 "display_name": "Abnormal biological process"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0000005"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0000005"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0000005"
-                  }
+                  "FYPO:0000005"
                 ],
                 "display_name": "Abnormal cell morphology"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0000631"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0000631"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0000631"
-                  }
+                  "FYPO:0000631"
                 ],
                 "display_name": "Cell cycle phenotype"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0000138"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0000138"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0000138"
-                  }
+                  "FYPO:0000138"
                 ],
                 "display_name": "Localization phenotype"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0000004"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0000004"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0000004"
-                  }
+                  "FYPO:0000004"
                 ],
                 "display_name": "Cell viability"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0002057"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0002057"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0002057"
-                  }
+                  "FYPO:0002057"
                 ],
                 "display_name": "Cell population viability"
               },
               {
                 "ancestors": [
-                  {
-                    "rel_name": "is_a",
-                    "termid": "FYPO:0000707"
-                  },
-                  {
-                    "rel_name": "part_of",
-                    "termid": "FYPO:0000707"
-                  },
-                  {
-                    "rel_name": "has_part",
-                    "termid": "FYPO:0000707"
-                  }
+                  "FYPO:0000707"
                 ],
                 "display_name": "Abnormal molecular function"
               }
