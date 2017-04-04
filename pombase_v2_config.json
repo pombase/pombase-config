@@ -522,5 +522,85 @@
       "termid": "GO:0005515",
       "rel_name": "is_a"
     }
+  ],
+  "external_gene_references": [
+    {
+      "ref_type": "Strain and reagents",
+      "name": "National BioResource Project (NBRP)",
+      "description": "Strains and clones",
+      "url": "http://viewer.shigen.info/yeastvw/wordsearch/search?fuzzy=y&action=mapview&ysttype=f&word=<<uniquename>>"
+    },
+    {
+      "ref_type": "Strain and reagents",
+      "name": "SPD / RIKEN",
+      "description": "Orfeome Localization Data",
+      "url": "http://www.riken.jp/SPD/<<orfeome_identifier>>.html"
+    },
+    {
+      "ref_type": "Interactions",
+      "name": "BioGRID",
+      "description": "Physical and genetic interactions",
+      "url": "https://thebiogrid.org/276415/summary/schizosaccharomyces-pombe/<<uniquename>>.html"
+    },
+    {
+      "ref_type": "Interactions",
+      "name": "STRING",
+      "description": "Network display of known and predicted interactions and functional associations",
+      "url": "http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<<uniprot_identifier>>"
+    },
+    {
+      "ref_type": "Expression",
+      "name": "Gene Expression Omnibus",
+      "description": "GEO profiles",
+      "url": "https://www.ncbi.nlm.nih.gov/geoprofiles/?term=<<uniquename>>"
+    },
+    {
+      "ref_type": "Expression",
+      "name": "pombeTV",
+      "description": "Tiling array & illumina sequencing profiles",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/pombetv/pombetv?condition=13&action=display&genename=<<uniquename>>"
+    },
+    {
+      "ref_type": "Expression",
+      "name": "Expression viewer",
+      "description": "Cell cycle, stress, meiosis, or mating",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=4&scale=log2&scale_min=-2&scale_max=2&q=<<uniquename>>"
+    },
+    {
+      "ref_type": "Proteomics",
+      "name": "PeptideAtlas",
+      "description": "Peptides identified in tandem mass spectrometry",
+      "url": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/GetProtein?action=QUERY&atlas_build_id=355&protein_name=<<uniquename>>"
+    },
+    {
+      "ref_type": "Structure",
+      "name": "ModBase",
+      "description": "Comparative protein structure models",
+      "go_xrf_abbrev": "ModBase"
+    },
+    {
+      "ref_type": "Sequence Resources",
+      "name": "UniProtKB/SwissProt",
+      "description": "Protein database ",
+      "go_xrf_abbrev": "UniProtKB"
+    },
+    {
+      "ref_type": "Sequence Resources",
+      "name": "NCBI",
+      "description": "Query all NCBI databases",
+      "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<NCBI_ALL_IDS>>)+AND+(pombe+OR+fission+yeast)"
+    },
+    {
+      "ref_type": "Orthologs",
+      "name": "DIOPT",
+      "description": "DRSC Integrative Ortholog Prediction Tool",
+      "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<uniquename>>"
+    },
+    {
+      "ref_type": "Promoters",
+      "name": "Eukaryotic Promoter Database",
+      "description": "Experimentally validated promoters",
+      "url": "http://epd.vital-it.ch/search_EPDnew.php?db=S_pombe&query=<<uniquename>>"
+    }
   ]
 }
