@@ -528,79 +528,92 @@
       "ref_type": "Strain and reagents",
       "name": "National BioResource Project (NBRP)",
       "description": "Strains and clones",
-      "url": "http://viewer.shigen.info/yeastvw/wordsearch/search?fuzzy=y&action=mapview&ysttype=f&word=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "http://viewer.shigen.info/yeastvw/wordsearch/search?fuzzy=y&action=mapview&ysttype=f&word=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Strain and reagents",
       "name": "SPD / RIKEN",
       "description": "Orfeome Localization Data",
-      "url": "http://www.riken.jp/SPD/<<orfeome_identifier>>.html"
+      "field_name": "orfeome_identifier",
+      "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
     },
     {
       "ref_type": "Interactions",
       "name": "BioGRID",
       "description": "Physical and genetic interactions",
-      "url": "https://thebiogrid.org/276415/summary/schizosaccharomyces-pombe/<<uniquename>>.html"
+      "field_name": "uniquename",
+      "url": "https://thebiogrid.org/276415/summary/schizosaccharomyces-pombe/<<IDENTIFIER>>.html"
     },
     {
       "ref_type": "Interactions",
       "name": "STRING",
       "description": "Network display of known and predicted interactions and functional associations",
-      "url": "http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<<uniprot_identifier>>"
+      "field_name": "uniprot_identifier",
+      "url": "http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Expression",
       "name": "Gene Expression Omnibus",
       "description": "GEO profiles",
-      "url": "https://www.ncbi.nlm.nih.gov/geoprofiles/?term=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "https://www.ncbi.nlm.nih.gov/geoprofiles/?term=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Expression",
       "name": "pombeTV",
       "description": "Tiling array & illumina sequencing profiles",
-      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/pombetv/pombetv?condition=13&action=display&genename=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/pombetv/pombetv?condition=13&action=display&genename=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Expression",
       "name": "Expression viewer",
       "description": "Cell cycle, stress, meiosis, or mating",
-      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=4&scale=log2&scale_min=-2&scale_max=2&q=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=4&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Proteomics",
       "name": "PeptideAtlas",
       "description": "Peptides identified in tandem mass spectrometry",
-      "url": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/GetProtein?action=QUERY&atlas_build_id=355&protein_name=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/GetProtein?action=QUERY&atlas_build_id=355&protein_name=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Structure",
       "name": "ModBase",
       "description": "Comparative protein structure models",
+      "field_name": "uniprot_identifier",
       "go_xrf_abbrev": "ModBase"
     },
     {
       "ref_type": "Sequence Resources",
       "name": "UniProtKB/SwissProt",
       "description": "Protein database ",
+      "field_name": "uniprot_identifier",
       "go_xrf_abbrev": "UniProtKB"
     },
     {
       "ref_type": "Sequence Resources",
       "name": "NCBI",
       "description": "Query all NCBI databases",
-      "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<NCBI_ALL_IDS>>)+AND+(pombe+OR+fission+yeast)"
+      "field_name": "NCBI_ALL_IDS",
+      "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<IDENTIFIER>>)+AND+(pombe+OR+fission+yeast)"
     },
     {
       "ref_type": "Orthologs",
       "name": "DIOPT",
       "description": "DRSC Integrative Ortholog Prediction Tool",
-      "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Promoters",
       "name": "Eukaryotic Promoter Database",
       "description": "Experimentally validated promoters",
-      "url": "http://epd.vital-it.ch/search_EPDnew.php?db=S_pombe&query=<<uniquename>>"
+      "field_name": "uniquename",
+      "url": "http://epd.vital-it.ch/search_EPDnew.php?db=S_pombe&query=<<IDENTIFIER>>"
     }
   ]
 }
