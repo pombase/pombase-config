@@ -271,77 +271,109 @@
       "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
       "filters": [
         {
-          "term": {
-            "display_name": "Phenotype term",
-            "categories": [
-              {
-                "ancestors": [
-                  "FYPO:0000257"
-                ],
-                "display_name": "Normal phenotype"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0001985"
-                ],
-                "display_name": "Abnormal phenotype"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0001320"
-                ],
-                "display_name": "Vegetative cell phenotype"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0002683"
-                ],
-                "display_name": "Sensitive to chemical"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0005447"
-                ],
-                "display_name": "Abnormal biological process"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0000005"
-                ],
-                "display_name": "Abnormal cell morphology"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0000631"
-                ],
-                "display_name": "Cell cycle phenotype"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0000138"
-                ],
-                "display_name": "Localization phenotype"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0000004"
-                ],
-                "display_name": "Cell viability"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0002057"
-                ],
-                "display_name": "Cell population viability"
-              },
-              {
-                "ancestors": [
-                  "FYPO:0000707"
-                ],
-                "display_name": "Abnormal molecular function"
-              }
-            ]
-          }
+          "filter_name": "term",
+          "display_name": "Term",
+          "detailed_view_only": "false",
+          "term_categories": [
+            {
+              "ancestors": [
+                "FYPO:0000257"
+              ],
+              "display_name": "Normal phenotype"
+            },
+            {
+              "ancestors": [
+                "FYPO:0001985"
+              ],
+              "display_name": "Abnormal phenotype"
+            },
+            {
+              "ancestors": [
+                "FYPO:0001320"
+              ],
+              "display_name": "Vegetative cell phenotype"
+            },
+            {
+              "ancestors": [
+                "FYPO:0002683"
+              ],
+              "display_name": "Sensitive to chemical"
+            },
+            {
+              "ancestors": [
+                "FYPO:0005447"
+              ],
+              "display_name": "Abnormal biological process"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000005"
+              ],
+              "display_name": "Abnormal cell morphology"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000631"
+              ],
+              "display_name": "Cell cycle phenotype"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000138"
+              ],
+              "display_name": "Localization phenotype"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000004"
+              ],
+              "display_name": "Cell viability"
+            },
+            {
+              "ancestors": [
+                "FYPO:0002057"
+              ],
+              "display_name": "Cell population viability"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000707"
+              ],
+              "display_name": "Abnormal molecular function"
+            }
+          ]
+        },
+        {
+          "filter_name": "evidence",
+          "display_name": "Evidence",
+          "detailed_view_only": "true",
+          "evidence_categories": [
+            {
+              "display_name": "Microscopy",
+              "evidence_codes": ["Microscopy",
+                                 "immunofluorescence",
+                                 "Epitope-tagged protein immunolocalization experiment data",
+                                 "Immunolocalization experiment data",
+                                 "Fusion protein localization",
+                                 "In situ hybridization assay"]
+            },
+            {
+              "display_name": "Gel electrophoresis",
+              "evidence_codes": ["Gel electrophoresis",
+                                 "Sodium dodecyl sulfate polyacrylamide gel electrophoresis",
+                                 "RNA protection assay"]
+            },
+            {
+              "display_name": "Western blot",
+              "evidence_codes": ["Western blot evidence",
+                                 "Co-immunoprecipitation experiment",
+                                 "Western blot assay"]
+            },
+            {
+              "display_name": "Cell growth assay",
+              "evidence_codes": ["Cell growth assay"]
+            }
+          ]
         }
       ],
       "split_by_parents": [
