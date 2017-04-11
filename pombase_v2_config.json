@@ -365,7 +365,7 @@
             },
             {
               "display_name": "Western blot",
-              "evidence_codes": ["Western blot evidence",
+              "evidence_codes": ["Western blot",
                                  "Co-immunoprecipitation experiment",
                                  "Western blot assay"]
             },
