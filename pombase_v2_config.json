@@ -1,4 +1,8 @@
 {
+  "load_organism": {
+    "genus": "Schizosaccharomyces",
+    "species": "pombe"
+  },
   "extension_display_names": [
     {
       "rel_name": "activated_by",
