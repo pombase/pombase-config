@@ -344,6 +344,18 @@
                 "FYPO:0000707"
               ],
               "display_name": "Abnormal molecular function"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000702"
+              ],
+              "display_name": "Protein-protein interaction"
+            },
+            {
+              "ancestors": [
+                "FYPO:0000661"
+              ],
+              "display_name": "Abnormal catalytic activity"
             }
           ]
         },
@@ -387,10 +399,6 @@
             {
               "display_name": "Chromatography",
               "evidence_codes": ["Chromatography"]
-            },
-            {
-              "display_name": "Co-immunoprecipitation experiment",
-              "evidence_codes": ["Co-immunoprecipitation experiment"]
             },
             {
               "display_name": "Competitive growth assay",
@@ -463,6 +471,10 @@
         {
           "termid": "FYPO:0000002",
           "display_name": "Cell phenotype"
+        },
+        {
+          "termid": "FYPO:0000652",
+          "display_name": "Molecular function phenotype"
         }
       ],
       "summary_relations_to_hide": [
