@@ -497,6 +497,11 @@
       "display_name": "Multi allele phenotype",
       "inherits_from": "fission_yeast_phenotype"
     },
+    "phenotype_condition": {
+      "feature_type": "genotype",
+      "display_name": "Phenotype condition",
+      "columns_to_show": ["desc-rel", "genotype", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
     "molecular_function": {
       "feature_type": "gene",
       "display_name": "GO molecular function",
