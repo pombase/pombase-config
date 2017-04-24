@@ -649,6 +649,14 @@
     {
       "termid": "GO:0005515",
       "rel_name": "is_a"
+    },
+    {
+      "termid": "FYPO:0002058",
+      "rel_name": "is_a"
+    },
+    {
+      "termid": "FYPO:0002059",
+      "rel_name": "is_a"
     }
   ],
   "external_gene_references": [
@@ -743,5 +751,9 @@
       "field_name": "uniquename",
       "url": "http://epd.vital-it.ch/search_EPDnew.php?db=S_pombe&query=<<IDENTIFIER>>"
     }
-  ]
+  ],
+  "viability_terms": {
+    "viable": "FYPO:0002058",
+    "inviable": "FYPO:0002059"
+  }
 }
