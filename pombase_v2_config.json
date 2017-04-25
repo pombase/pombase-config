@@ -755,5 +755,199 @@
   "viability_terms": {
     "viable": "FYPO:0002058",
     "inviable": "FYPO:0002059"
-  }
+  },
+  "go_slim_terms": [
+    {
+      "name": "DNA recombination",
+      "termid": "GO:0006310"
+    },
+    {
+      "name": "DNA repair",
+      "termid": "GO:0006281"
+    },
+    {
+      "name": "DNA replication",
+      "termid": "GO:0006260"
+    },
+    {
+      "name": "actin cytoskeleton organization",
+      "termid": "GO:0030036"
+    },
+    {
+      "name": "ascospore formation",
+      "termid": "GO:0030437"
+    },
+    {
+      "name": "autophagy",
+      "termid": "GO:0006914"
+    },
+    {
+      "name": "carbohydrate derivative metabolic process",
+      "termid": "GO:1901135"
+    },
+    {
+      "name": "carbohydrate metabolic process",
+      "termid": "GO:0005975"
+    },
+    {
+      "name": "cell adhesion",
+      "termid": "GO:0007155"
+    },
+    {
+      "name": "cell wall organization or biogenesis",
+      "termid": "GO:0071554"
+    },
+    {
+      "name": "cellular amino acid metabolic process",
+      "termid": "GO:0006520"
+    },
+    {
+      "name": "chromatin organization",
+      "termid": "GO:0006325"
+    },
+    {
+      "name": "cofactor metabolic process",
+      "termid": "GO:0051186"
+    },
+    {
+      "name": "conjugation with cellular fusion",
+      "termid": "GO:0000747"
+    },
+    {
+      "name": "cytoplasmic translation",
+      "termid": "GO:0002181"
+    },
+    {
+      "name": "detoxification",
+      "termid": "GO:0098754"
+    },
+    {
+      "name": "establishment or maintenance of cell polarity",
+      "termid": "GO:0007163"
+    },
+    {
+      "name": "generation of precursor metabolites and energy",
+      "termid": "GO:0006091"
+    },
+    {
+      "name": "lipid metabolic process",
+      "termid": "GO:0006629"
+    },
+    {
+      "name": "mRNA metabolic process",
+      "termid": "GO:0016071"
+    },
+    {
+      "name": "meiotic nuclear division",
+      "termid": "GO:0007126"
+    },
+    {
+      "name": "membrane organization",
+      "termid": "GO:0061024"
+    },
+    {
+      "name": "microtubule cytoskeleton organization",
+      "termid": "GO:0000226"
+    },
+    {
+      "name": "mitochondrion organization",
+      "termid": "GO:0007005"
+    },
+    {
+      "name": "mitotic cytokinesis",
+      "termid": "GO:0000281"
+    },
+    {
+      "name": "mitotic sister chromatid segregation",
+      "termid": "GO:0000070"
+    },
+    {
+      "name": "nitrogen cycle metabolic process",
+      "termid": "GO:0071941"
+    },
+    {
+      "name": "nucleobase-containing small molecule metabolic process",
+      "termid": "GO:0055086"
+    },
+    {
+      "name": "nucleocytoplasmic transport",
+      "termid": "GO:0006913"
+    },
+    {
+      "name": "peroxisome organization",
+      "termid": "GO:0007031"
+    },
+    {
+      "name": "protein catabolic process",
+      "termid": "GO:0030163"
+    },
+    {
+      "name": "protein complex assembly",
+      "termid": "GO:0006461"
+    },
+    {
+      "name": "protein folding",
+      "termid": "GO:0006457"
+    },
+    {
+      "name": "protein glycosylation",
+      "termid": "GO:0006486"
+    },
+    {
+      "name": "protein maturation",
+      "termid": "GO:0051604"
+    },
+    {
+      "name": "protein modification by small protein conjugation or removal",
+      "termid": "GO:0070647"
+    },
+    {
+      "name": "protein targeting",
+      "termid": "GO:0006605"
+    },
+    {
+      "name": "regulation of mitotic cell cycle phase transition",
+      "termid": "GO:1901990"
+    },
+    {
+      "name": "regulation of transcription, DNA-templated",
+      "termid": "GO:0006355"
+    },
+    {
+      "name": "ribosome biogenesis",
+      "termid": "GO:0042254"
+    },
+    {
+      "name": "signaling",
+      "termid": "GO:0023052"
+    },
+    {
+      "name": "snoRNA metabolic process",
+      "termid": "GO:0016074"
+    },
+    {
+      "name": "tRNA metabolic process",
+      "termid": "GO:0006399"
+    },
+    {
+      "name": "telomere organization",
+      "termid": "GO:0032200"
+    },
+    {
+      "name": "transcription, DNA-templated",
+      "termid": "GO:0006351"
+    },
+    {
+      "name": "transmembrane transport",
+      "termid": "GO:0055085"
+    },
+    {
+      "name": "vesicle-mediated transport",
+      "termid": "GO:0016192"
+    },
+    {
+      "name": "vitamin metabolic process",
+      "termid": "GO:0006766"
+    }
+  ]
 }
