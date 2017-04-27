@@ -949,5 +949,8 @@
       "name": "vitamin metabolic process",
       "termid": "GO:0006766"
     }
-  ]
+  ],
+  "misc_external_links": {
+    "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false"
+  }
 }
