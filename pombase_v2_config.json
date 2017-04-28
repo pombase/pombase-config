@@ -495,7 +495,7 @@
     },
     "multi_allele_phenotype": {
       "feature_type": "genotype",
-      "display_name": "Multi allele phenotype",
+      "display_name": "Multi-allele phenotype",
       "inherits_from": "fission_yeast_phenotype"
     },
     "phenotype_condition": {
