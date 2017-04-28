@@ -226,6 +226,7 @@
       "has_regulation_target",
       "binds",
       "involved_in",
+      "part_of",
       "occurs_at",
       "occurs_in",
       "added_by",
