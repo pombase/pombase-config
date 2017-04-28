@@ -851,6 +851,10 @@
       "termid": "GO:0000226"
     },
     {
+      "name": "mitochondrial translation",
+      "termid": "GO:0032543"
+    },
+    {
       "name": "mitochondrion organization",
       "termid": "GO:0007005"
     },
