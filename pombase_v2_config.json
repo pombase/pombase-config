@@ -650,14 +650,6 @@
     {
       "termid": "GO:0005515",
       "rel_name": "is_a"
-    },
-    {
-      "termid": "FYPO:0002060",
-      "rel_name": "is_a"
-    },
-    {
-      "termid": "FYPO:0002061",
-      "rel_name": "is_a"
     }
   ],
   "external_gene_references": [
@@ -754,8 +746,8 @@
     }
   ],
   "viability_terms": {
-    "viable": "FYPO:0002058",
-    "inviable": "FYPO:0002059"
+    "viable": "FYPO:0002060",
+    "inviable": "FYPO:0002061"
   },
   "go_slim_terms": [
     {
