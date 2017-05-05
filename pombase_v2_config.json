@@ -466,16 +466,12 @@
       ],
       "split_by_parents": [
         {
-          "termid": "FYPO:0000003",
+          "termids": ["FYPO:0000003"],
           "display_name": "Population phenotype"
         },
         {
-          "termid": "FYPO:0000002",
+          "termids": ["FYPO:0000002", "FYPO:0000652"],
           "display_name": "Cell phenotype"
-        },
-        {
-          "termid": "FYPO:0000652",
-          "display_name": "Molecular function phenotype"
         }
       ],
       "summary_relations_to_hide": [
