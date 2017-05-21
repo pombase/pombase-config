@@ -3,6 +3,26 @@
     "genus": "Schizosaccharomyces",
     "species": "pombe"
   },
+  "chromosomes": {
+    "chromosome_1": {
+      "display_name": "I"
+    },
+    "chromosome_2": {
+      "display_name": "II"
+    },
+    "chromosome_3": {
+      "display_name": "III"
+    },
+    "MISPCG": {
+      "display_name": "Mitochondria"
+    },
+    "mating_type_region": {
+      "display_name": "Mating type region"
+    },
+    "AB325691": {
+      "display_name": "AB325691"
+    }
+  },
   "extension_display_names": [
     {
       "rel_name": "activated_by",
