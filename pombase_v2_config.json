@@ -3,6 +3,7 @@
     "genus": "Schizosaccharomyces",
     "species": "pombe"
   },
+  "api_seq_chunk_size": 10000,
   "chromosomes": {
     "chromosome_1": {
       "display_name": "I"
