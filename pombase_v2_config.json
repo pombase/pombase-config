@@ -501,7 +501,7 @@
         "has_penetrance",
         "has_expressivity"
       ],
-      "summary_gene_relations_to_collect": [
+      "summary_relation_ranges_to_collect": [
         "assayed_enzyme",
         "assayed_substrate",
         "assayed_using"
@@ -541,7 +541,7 @@
       "summary_relations_to_hide": [
         "active_form"
       ],
-      "summary_gene_relations_to_collect": [
+      "summary_relation_ranges_to_collect": [
         "directly_activates",
         "directly_inhibits",
         "has_input",
@@ -555,7 +555,7 @@
       "feature_type": "gene",
       "display_name": "GO biological process",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "summary_gene_relations_to_collect": [
+      "summary_relation_ranges_to_collect": [
         "has_input",
         "has_regulation_target"
       ]
@@ -564,8 +564,11 @@
       "feature_type": "gene",
       "display_name": "GO cellular component",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "summary_gene_relations_to_collect": [
-        "coincident_with"
+      "summary_relation_ranges_to_collect": [
+        "coincident_with",
+        "during",
+        "exists_during",
+        "happens_during"
       ]
     },
     "PSI-MOD": {
@@ -576,7 +579,7 @@
       "summary_relations_to_hide": [
         "ALL"
       ],
-      "summary_gene_relations_to_collect": [
+      "summary_relation_ranges_to_collect": [
         "added_by",
         "removed_by"
       ]
