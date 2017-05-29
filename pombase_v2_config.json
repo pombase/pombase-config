@@ -704,6 +704,7 @@
   "external_gene_references": [
     {
       "ref_type": "Strain and reagents",
+      "feature_types": ["ALL"],
       "name": "National BioResource Project (NBRP)",
       "description": "Strains and clones",
       "field_name": "uniquename",
@@ -711,6 +712,7 @@
     },
     {
       "ref_type": "Strain and reagents",
+      "feature_types": ["ALL"],
       "name": "SPD / RIKEN",
       "description": "Orfeome Localization Data",
       "field_name": "orfeome_identifier",
@@ -718,6 +720,7 @@
     },
     {
       "ref_type": "Interactions",
+      "feature_types": ["ALL"],
       "name": "BioGRID",
       "description": "Physical and genetic interactions",
       "field_name": "uniquename",
@@ -725,6 +728,7 @@
     },
     {
       "ref_type": "Interactions",
+      "feature_types": ["ALL"],
       "name": "STRING",
       "description": "Network display of known and predicted interactions and functional associations",
       "field_name": "uniprot_identifier",
@@ -732,6 +736,7 @@
     },
     {
       "ref_type": "Expression",
+      "feature_types": ["ALL"],
       "name": "Gene Expression Omnibus",
       "description": "GEO profiles",
       "field_name": "uniquename",
@@ -739,6 +744,7 @@
     },
     {
       "ref_type": "Expression",
+      "feature_types": ["ALL"],
       "name": "pombeTV",
       "description": "Tiling array & illumina sequencing profiles",
       "field_name": "uniquename",
@@ -746,6 +752,7 @@
     },
     {
       "ref_type": "Expression",
+      "feature_types": ["ALL"],
       "name": "Expression viewer",
       "description": "Cell cycle, stress, meiosis, or mating",
       "field_name": "uniquename",
@@ -753,6 +760,7 @@
     },
     {
       "ref_type": "Proteomics",
+      "feature_types": ["mRNA gene", "pseudogene"],
       "name": "PeptideAtlas",
       "description": "Peptides identified in tandem mass spectrometry",
       "field_name": "uniquename",
@@ -760,6 +768,7 @@
     },
     {
       "ref_type": "Structure",
+      "feature_types": ["mRNA gene", "pseudogene"],
       "name": "ModBase",
       "description": "Comparative protein structure models",
       "field_name": "uniprot_identifier",
@@ -767,6 +776,7 @@
     },
     {
       "ref_type": "Sequence Resources",
+      "feature_types": ["mRNA gene", "pseudogene"],
       "name": "UniProtKB/SwissProt",
       "description": "Protein database ",
       "field_name": "uniprot_identifier",
@@ -774,6 +784,7 @@
     },
     {
       "ref_type": "Sequence Resources",
+      "feature_types": ["ALL"],
       "name": "NCBI",
       "description": "Query all NCBI databases",
       "field_name": "NCBI_ALL_IDS",
@@ -781,6 +792,7 @@
     },
     {
       "ref_type": "Orthologs",
+      "feature_types": ["mRNA gene", "pseudogene"],
       "name": "DIOPT",
       "description": "DRSC Integrative Ortholog Prediction Tool",
       "field_name": "uniquename",
@@ -788,6 +800,7 @@
     },
     {
       "ref_type": "Promoters",
+      "feature_types": ["ALL"],
       "name": "Eukaryotic Promoter Database",
       "description": "Experimentally validated promoters",
       "field_name": "uniquename",
