@@ -299,10 +299,11 @@
         {
           "filter_name": "term",
           "display_name": "Term",
+          "scope": ["gene", "genotype", "reference"],
           "detailed_view_only": "false",
           "term_categories": [
             {
-              "ancestors": [
+       "ancestors": [
                 "FYPO:0000257"
               ],
               "display_name": "Normal phenotype"
@@ -384,6 +385,7 @@
         {
           "filter_name": "evidence",
           "display_name": "Evidence",
+          "scope": ["gene", "term", "genotype", "reference"],
           "detailed_view_only": "true",
           "evidence_categories": [
             {
