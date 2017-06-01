@@ -605,6 +605,10 @@
       "display_name": "Complementation",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
+    "transcript_view": {
+      "feature_type": "gene",
+      "display_name": "Transcript"
+    },
     "protein_features": {
       "feature_type": "gene",
       "display_name": "Protein features"
