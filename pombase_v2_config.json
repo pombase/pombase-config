@@ -170,6 +170,12 @@
     },
     {
       "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0005085",
+      "display_name": "positively regulates",
+      "reciprocal_display": "positively regulated by"
+    },
+    {
+      "rel_name": "has_direct_input",
       "if_descendent_of": "GO:0008047",
       "display_name": "positively regulates",
       "reciprocal_display": "positively regulated by"
