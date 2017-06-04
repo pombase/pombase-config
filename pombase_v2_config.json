@@ -1023,5 +1023,8 @@
   ],
   "misc_external_links": {
     "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false"
+  },
+  "interpro": {
+    "dbnames_to_filter": ["GENE3D"]
   }
 }
