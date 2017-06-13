@@ -600,6 +600,12 @@
       "feature_type": "gene",
       "display_name": "Quantitative gene expression"
     },
+    "disease_associated": {
+      "feature_type": "gene",
+      "display_name": "Disease association",
+      "columns_to_show": ["desc-rel", "gene", "count"],
+      "hideTermDetails": "true"
+    },
     "species_dist": {
       "feature_type": "gene",
       "display_name": "Taxonomic conservation",
