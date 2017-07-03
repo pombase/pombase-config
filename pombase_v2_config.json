@@ -603,7 +603,7 @@
     "disease_associated": {
       "feature_type": "gene",
       "display_name": "Disease association",
-      "columns_to_show": ["desc-rel", "gene", "count"],
+      "columns_to_show": ["desc-rel", "gene", "reference", "count"],
       "hideTermDetails": "true"
     },
     "species_dist": {
@@ -629,6 +629,9 @@
       "feature_type": "gene",
       "display_name": "Protein features",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    },
+    "PomBase gene characterisation status": {
+      "feature_type": "gene"
     },
     "target_of": {
       "feature_type": "gene",
