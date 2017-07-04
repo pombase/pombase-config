@@ -1035,5 +1035,17 @@
   },
   "interpro": {
     "dbnames_to_filter": ["GENE3D"]
+  },
+  "server": {
+    "subsets": {
+      "prefixes_to_remove": [
+        "interpro:CDD", "interpro:MOBIDBLT", "interpro:PANTHER",
+        "interpro:PANTHER", "interpro:PFAM", "interpro:PIRSF",
+        "interpro:PRINTS", "interpro:PRODOM", "interpro:PROFILE",
+        "interpro:PROSITE", "interpro:SFLD", "interpro:SMART",
+        "interpro:SSF", "interpro:TIGRFAMs", "interpro"
+      ]
+    }
   }
 }
+
