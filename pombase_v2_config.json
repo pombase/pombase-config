@@ -926,8 +926,8 @@
       "termid": "GO:0000226"
     },
     {
-      "name": "mitochondrial translation",
-      "termid": "GO:0032543"
+      "name": "mitochondrial gene expression",
+      "termid": "GO:0140053"
     },
     {
       "name": "mitochondrion organization",
