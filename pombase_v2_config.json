@@ -315,6 +315,7 @@
       "feature_type": "genotype",
       "display_name": "Phenotype",
       "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "external_db_link_keys": ["BioPortal"],
       "filters": [
         {
           "filter_name": "term",
@@ -548,6 +549,7 @@
       "feature_type": "gene",
       "display_name": "GO molecular function",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
       "split_by_parents": [
         {
           "config_name": "NOT binding",
@@ -577,6 +579,7 @@
       "feature_type": "gene",
       "display_name": "GO biological process",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
       "summary_relation_ranges_to_collect": [
         "has_input",
         "has_regulation_target"
@@ -586,6 +589,7 @@
       "feature_type": "gene",
       "display_name": "GO cellular component",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
       "summary_relation_ranges_to_collect": [
         "coincident_with",
         "during",
@@ -598,6 +602,7 @@
       "display_name": "Modification",
       "columns_to_show": ["desc-rel", "gene", "genotype",
                       "evidence", "residue", "reference", "count", "extension"],
+      "external_db_link_keys": ["BioPortal"],
       "summary_relations_to_hide": [
         "ALL"
       ],
@@ -694,7 +699,8 @@
     "sequence": {
       "feature_type": "gene",
       "display_name": "Sequence",
-      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "external_db_link_keys": ["MISO"]
     },
     "warning": {
       "feature_type": "gene",
@@ -842,6 +848,16 @@
       "url": "http://epd.vital-it.ch/search_EPDnew.php?db=S_pombe&query=<<IDENTIFIER>>"
     }
   ],
+  "external_term_references": [
+    {
+      "name": "BioPortal",
+      "url": "http://bioportal.bioontology.org/ontologies/[conf_db_prefix]?p=classes&conceptid=[example_id]#details"
+    },
+    {
+      "name": "MISO",
+      "url": "http://www.sequenceontology.org/browser/current_svn/term/[example_id]"
+    }
+  ],
   "viability_terms": {
     "viable": "FYPO:0002060",
     "inviable": "FYPO:0002061"
@@ -862,6 +878,10 @@
     {
       "name": "actin cytoskeleton organization",
       "termid": "GO:0030036"
+    },
+    {
+      "name": "apoptotic process",
+      "termid": "GO:0006915"
     },
     {
       "name": "ascospore formation",
@@ -936,6 +956,10 @@
       "termid": "GO:0061024"
     },
     {
+      "name": "metal ion homeostasis",
+      "termid": "GO:0055065"
+    },
+    {
       "name": "microtubule cytoskeleton organization",
       "termid": "GO:0000226"
     },
@@ -968,8 +992,16 @@
       "termid": "GO:0006913"
     },
     {
+      "name": "organelle localization by membrane tethering",
+      "termid": "GO:0140056"
+    },
+    {
       "name": "peroxisome organization",
       "termid": "GO:0007031"
+    },
+    {
+      "name": "polyphosphate metabolic process",
+      "termid": "GO:0006797"
     },
     {
       "name": "protein catabolic process",
@@ -1018,6 +1050,14 @@
     {
       "name": "snoRNA metabolic process",
       "termid": "GO:0016074"
+    },
+    {
+      "name": "snRNA metabolic process",
+      "termid": "GO:0016073"
+    },
+    {
+      "name": "sulfur compound metabolic process",
+      "termid": "GO:0006790"
     },
     {
       "name": "tRNA metabolic process",
