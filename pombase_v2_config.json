@@ -17,6 +17,55 @@
       "species": "cerevisiae"
     }
   ],
+  "predefined_queries": {
+    "priority-unstudied-genes:unknown_genes": {
+      "constraints": {
+        "or": [
+          {
+            "subset": {
+              "subset_name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized"
+            }
+          },
+          {
+            "subset": {
+              "subset_name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized"
+            }
+          },
+          {
+            "subset": {
+              "subset_name": "characterisation_status_conserved_unknown"
+            }
+          }
+        ]
+      }
+    },
+    "priority-unstudied-genes:conserved_unknown": {
+      "constraints": {
+        "subset": {
+          "subset_name": "characterisation_status_conserved_unknown"
+        }
+      }
+    },
+    "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates": {
+      "constraints": {
+        "and": [
+          {
+            "term": {
+              "termid": "PBO:0011070",
+              "name": "conserved in vertebrates",
+              "single_or_multi_allele": null,
+              "expression": null
+            }
+          },
+          {
+            "subset": {
+              "subset_name": "characterisation_status_conserved_unknown"
+            }
+          }
+        ]
+      }
+    }
+  },
   "api_seq_chunk_sizes": [10000, 200000],
   "chromosomes": {
     "chromosome_1": {
