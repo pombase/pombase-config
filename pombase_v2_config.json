@@ -702,7 +702,7 @@
       "feature_type": "gene",
       "display_name": "Protein features",
       "details_only": true,
-      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+      "columns_to_show": ["count"]
     },
     "PomBase gene characterisation status": {
       "feature_type": "gene"
