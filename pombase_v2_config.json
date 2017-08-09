@@ -701,6 +701,7 @@
     "PomBase family or domain": {
       "feature_type": "gene",
       "display_name": "Protein features",
+      "details_only": true,
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
     "PomBase gene characterisation status": {
