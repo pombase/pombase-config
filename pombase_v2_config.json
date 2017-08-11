@@ -566,7 +566,7 @@
         {
           "config_name": "cell_phenotype",
           "termids": [
-            "FYPO:0000002", "FYPO:0000652", "FYPO:0000300", "FYPO:0000301",
+            "FYPO:0000002", "FYPO:0000652", "FYPO:0000301",
             "FYPO:0001312", "FYPO:0002928", "FYPO:0002931",
             "FYPO:0003093", "FYPO:0003324", "FYPO:0003427", "FYPO:0003480",
             "FYPO:0004914", "FYPO:0004915", "FYPO:0004942", "FYPO:0005157"],
