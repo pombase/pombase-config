@@ -831,6 +831,14 @@
       "url": "http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<<IDENTIFIER>>"
     },
     {
+      "ref_type": "Modifications",
+      "feature_types": ["mRNA gene"],
+      "name": "iPTMnet",
+      "description": "Protein modifications",
+      "field_name": "uniprot_identifier",
+      "go_xrf_abbrev": "iPTMnet"
+    },
+    {
       "ref_type": "Expression",
       "feature_types": ["ALL"],
       "name": "Gene Expression Omnibus",
