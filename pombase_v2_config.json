@@ -209,6 +209,12 @@
     },
     {
       "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0030234",
+      "display_name": "has substrate",
+      "reciprocal_display": "substrate of"
+    },
+    {
+      "rel_name": "has_direct_input",
       "if_descendent_of": "GO:0006810",
       "display_name": "transports",
       "reciprocal_display": "transported by"
