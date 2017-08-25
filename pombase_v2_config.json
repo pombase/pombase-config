@@ -801,6 +801,10 @@
     {
       "termid": "GO:0005515",
       "rel_name": "is_a"
+    },
+    {
+      "termid": "SO:0000839",
+      "rel_name": "is_a"
     }
   ],
   "external_gene_references": [
