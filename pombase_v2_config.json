@@ -144,14 +144,6 @@
       "display_name": "except during"
     },
     {
-      "rel_name": "not_occurs_at",
-      "display_name": "not at"
-    },
-    {
-      "rel_name": "not_occurs_in",
-      "display_name": "not in"
-    },
-    {
       "rel_name": "occurs_at",
       "display_name": "at"
     },
@@ -161,15 +153,17 @@
     },
     {
       "rel_name": "part_of",
+      "if_descendent_of": "GO:0003824",
       "display_name": "involved in"
+    },
+    {
+      "rel_name": "part_of",
+      "if_descendent_of": "GO:0008150",
+      "display_name": "part of"
     },
     {
       "rel_name": "required_for",
       "display_name": "required for"
-    },
-    {
-      "rel_name": "stabilizes",
-      "display_name": "stabilizes"
     },
     {
       "rel_name": "has_input",
@@ -250,34 +244,10 @@
       "reciprocal_display": "positively regulated by"
     },
     {
-      "rel_name": "has_indirect_input",
-      "if_descendent_of": "GO:0003824",
-      "display_name": "has substrate",
-      "reciprocal_display": "substrate of"
-    },
-    {
-      "rel_name": "has_indirect_input",
-      "if_descendent_of": "GO:0006810",
-      "display_name": "transports",
-      "reciprocal_display": "transported by"
-    },
-    {
-      "rel_name": "has_indirect_input",
-      "if_descendent_of": "GO:0005215",
-      "display_name": "transports",
-      "reciprocal_display": "transported by"
-    },
-    {
-      "rel_name": "has_indirect_input",
-      "if_descendent_of": "GO:0005488",
-      "display_name": "binds",
-      "reciprocal_display": "binds"
-    },
-    {
-      "rel_name": "has_indirect_input",
-      "if_descendent_of": "GO:0051179",
-      "display_name": "localizes",
-      "reciprocal_display": "localized by"
+      "rel_name": "has_direct_input",
+      "if_descendent_of": "GO:0004857",
+      "display_name": "negatively regulates",
+      "reciprocal_display": "negatively regulated by"
     },
     {
       "rel_name": "assayed_using",
