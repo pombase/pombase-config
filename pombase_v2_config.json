@@ -691,6 +691,16 @@
       "columns_to_show": ["desc-rel", "gene", "count"],
       "hideTermDetails": "true"
     },
+    "ex_tools": {
+      "display_name": "Experimental tools",
+      "feature_type": "gene",
+      "columns_to_show": ["gene", "reference", "count"]
+    },
+    "cat_act": {
+      "feature_type": "gene",
+      "display_name": "Catalytic activity attributes",
+      "columns_to_show": ["gene", "reference", "count"]
+    },
     "complementation": {
       "feature_type": "gene",
       "display_name": "Complementation",
@@ -761,6 +771,7 @@
       "feature_type": "gene",
       "display_name": "Sequence",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "details_only": true,
       "external_db_link_keys": ["MISO"]
     },
     "warning": {
