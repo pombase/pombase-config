@@ -664,12 +664,26 @@
     "ex_tools": {
       "display_name": "Experimental tools",
       "feature_type": "gene",
-      "columns_to_show": ["gene", "reference", "count"]
+      "columns_to_show": ["gene", "reference", "count"],
+      "details_only": true
     },
     "cat_act": {
       "feature_type": "gene",
       "display_name": "Catalytic activity attributes",
-      "columns_to_show": ["gene", "reference", "count"]
+      "columns_to_show": ["gene", "reference", "count"],
+      "details_only": true
+    },
+    "genome_org": {
+      "feature_type": "gene",
+      "display_name": "Genome organisation",
+      "columns_to_show": ["gene", "reference", "count"],
+      "details_only": true
+    },
+    "misc": {
+      "feature_type": "gene",
+      "display_name": "Miscellaneous functional group",
+      "columns_to_show": ["gene", "reference", "count"],
+      "details_only": true
     },
     "complementation": {
       "feature_type": "gene",
@@ -732,11 +746,6 @@
       "display_name": "Subunit Composition",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     },
-    "misc": {
-      "feature_type": "gene",
-      "display_name": "Miscellaneous",
-      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
-    },
     "sequence": {
       "feature_type": "gene",
       "display_name": "Sequence",
@@ -768,7 +777,7 @@
     "PSI-MOD",
     "qualitative_gene_expression",
     "quantitative_gene_expression",
-    "misc",
+    "miscellaneous",
     "physical_interactions",
     "genetic_interactions",
     "orthologs",
