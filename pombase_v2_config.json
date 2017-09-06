@@ -681,7 +681,7 @@
     },
     "misc": {
       "feature_type": "gene",
-      "display_name": "Miscellaneous functional group",
+      "display_name": "Comment",
       "columns_to_show": ["gene", "reference", "count"],
       "details_only": true
     },
