@@ -64,8 +64,48 @@
           }
         ]
       }
+    },
+    "canned_query:all_diseases": {
+      "name": "All disease associated genes",
+      "constraints": {
+        "term": {
+          "termid": "PBO:5000000",
+          "name": "disease_associated",
+          "single_or_multi_allele": null,
+          "expression": null
+        }
+      }
+    },
+    "canned_query:all_protein_coding_ex_dubious_and_transposon": {
+      "name": "All protein coding genes (ex. dubious and transposon)",
+      "constraints": {
+        "not": [
+          {
+            "not": [
+              {
+                "subset": {
+                  "subset_name": "feature_type_mRNA_gene"
+                }
+              },
+              {
+                "subset": {
+                  "subset_name": "characterisation_status_transposon"
+                }
+              }
+            ]
+          },
+          {
+            "subset": {
+              "subset_name": "characterisation_status_dubious"
+            }
+          }
+        ]
+      }
     }
   },
+  "canned_query_ids": [
+    "all_diseases", "all_protein_coding_ex_dubious_and_transposon"
+  ],
   "api_seq_chunk_sizes": [10000, 200000],
   "chromosomes": {
     "chromosome_1": {
