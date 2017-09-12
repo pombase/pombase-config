@@ -806,6 +806,7 @@
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     }
   },
+  "phenotype_id_prefixes": ["FYPO"],
   "annotation_type_order": [
     "molecular_function",
     "biological_process",
