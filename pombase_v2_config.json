@@ -742,7 +742,8 @@
       "feature_type": "gene",
       "display_name": "Protein features",
       "details_only": true,
-      "columns_to_show": ["count"]
+      "no_gene_details_section": true,
+      "columns_to_show": ["gene", "count"]
     },
     "PomBase gene characterisation status": {
       "feature_type": "gene"
@@ -788,9 +789,10 @@
     },
     "sequence": {
       "feature_type": "gene",
-      "display_name": "Sequence",
+      "display_name": "Protein sequence feature",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "details_only": true,
+      "no_gene_details_section": true,
       "external_db_link_keys": ["MISO"]
     },
     "warning": {
@@ -817,6 +819,8 @@
     "PSI-MOD",
     "qualitative_gene_expression",
     "quantitative_gene_expression",
+    "PomBase family or domain",
+    "sequence",
     "miscellaneous",
     "physical_interactions",
     "genetic_interactions",
