@@ -1108,10 +1108,6 @@
       "termid": "GO:0007031"
     },
     {
-      "name": "polyphosphate metabolic process",
-      "termid": "GO:0006797"
-    },
-    {
       "name": "protein catabolic process",
       "termid": "GO:0030163"
     },
