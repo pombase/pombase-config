@@ -17,6 +17,22 @@
       "species": "cerevisiae"
     }
   ],
+  "front_page_panels": [
+    {
+      "title": "Gould lab",
+      "panel_type": "spotlight",
+      "head_image": "assets/spotlight_gould-2017-10-06.png",
+      "content": "Cytokinestic ring assembly.",
+      "link": "https://medschool.vanderbilt.edu/gould-lab/",
+      "link_label": "Gould lab website"
+    },
+    {
+      "panel_type": "explore",
+      "head_image": "assets/explore-poster-2017-10-06.png",
+      "content": "Browse the [biological process summary](browse-curation/fission-yeast-go-slim-terms).",
+      "link": null
+    }
+  ],
   "predefined_queries": {
     "priority-unstudied-genes:unknown_genes": {
       "constraints": {
