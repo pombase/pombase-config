@@ -21,16 +21,33 @@
     {
       "title": "Gould lab",
       "panel_type": "spotlight",
-      "head_image": "assets/spotlight_gould-2017-10-06.png",
+      "head_image": ["assets/spotlight/2017-10-06-gould.png"],
       "content": "Cytokinestic ring assembly.",
       "link": "https://medschool.vanderbilt.edu/gould-lab/",
       "link_label": "Gould lab website"
     },
     {
+      "title": "Recent community curation",
+      "panel_type": "community",
+      "head_image": ["assets/community/2017-10-07-community_curation_graph.png",
+                     "assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
+      "content": "<app-recent-community-pubs></app-recent-community-pubs>"
+    },
+    {
+      "title": "Step into the unknown",
       "panel_type": "explore",
-      "head_image": "assets/explore-poster-2017-10-06.png",
-      "content": "Browse the [biological process summary](browse-curation/fission-yeast-go-slim-terms).",
-      "link": null
+      "head_image": ["assets/explore/2017-10-08-unknowns.png"],
+      "content": "PomBase maintains an inventory of proteins with no known biological role, including their taxonomic conservation",
+      "link": "status/priority-unstudied-genes",
+      "link_label": "more ..."
+    },
+    {
+      "title": "Biological processes Overview",
+      "panel_type": "explore",
+      "head_image": ["assets/explore/2017-10-08-slimming.png"],
+      "content": "The fission yeast \"GO slim\" provides a summary of genes annotated to broad biological processes",
+      "link": "browse-curation/fission-yeast-go-slim-terms",
+      "link_label": "more ..."
     }
   ],
   "predefined_queries": {
