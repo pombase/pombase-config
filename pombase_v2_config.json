@@ -24,14 +24,16 @@
       "head_image": ["assets/spotlight/2017-10-06-gould.png"],
       "content": "Cytokinetic ring assembly",
       "link": "https://medschool.vanderbilt.edu/gould-lab/",
-      "link_label": "Gould lab website"
+      "link_label": "Gould lab website",
+      "is_current": true
     },
     {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2017-10-07-community_curation_graph.png",
                      "assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
-      "content": "<app-recent-community-pubs></app-recent-community-pubs>"
+      "content": "<app-recent-community-pubs></app-recent-community-pubs>",
+      "is_current": true
     },
     {
       "title": "Step into the unknown",
@@ -39,13 +41,15 @@
       "head_image": ["assets/explore/2017-10-08-unknowns.png"],
       "content": "Browse PomBase's inventory of conserved proteins with no known biological role",
       "link": "status/priority-unstudied-genes",
-      "link_label": "more ..."
+      "link_label": "more ...",
+      "is_current": true
     },
     {
       "title": "Biological process overview",
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-08-slimming.png"],
-      "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes"
+      "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes",
+      "is_current": true
     }
   ],
   "predefined_queries": {
