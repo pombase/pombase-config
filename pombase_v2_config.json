@@ -45,9 +45,7 @@
       "title": "Biological processes Overview",
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-08-slimming.png"],
-      "content": "The fission yeast \"GO slim\" provides a summary of genes annotated to broad biological processes",
-      "link": "browse-curation/fission-yeast-go-slim-terms",
-      "link_label": "more ..."
+      "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes"
     }
   ],
   "predefined_queries": {
