@@ -22,7 +22,7 @@
       "title": "Gould lab",
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2017-10-06-gould.png"],
-      "content": "Cytokinestic ring assembly.",
+      "content": "Cytokinetic ring assembly",
       "link": "https://medschool.vanderbilt.edu/gould-lab/",
       "link_label": "Gould lab website"
     },
@@ -37,12 +37,12 @@
       "title": "Step into the unknown",
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-08-unknowns.png"],
-      "content": "PomBase maintains an inventory of proteins with no known biological role, including their taxonomic conservation",
+      "content": "Browse PomBase's inventory of conserved proteins with no known biological role",
       "link": "status/priority-unstudied-genes",
       "link_label": "more ..."
     },
     {
-      "title": "Biological processes Overview",
+      "title": "Biological process overview",
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-08-slimming.png"],
       "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes"
