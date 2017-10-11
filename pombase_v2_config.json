@@ -20,7 +20,7 @@
   "front_page_panels": [
     {
       "title": "McDonald et al, 2017",
-      "title_link": "https://medschool.vanderbilt.edu/gould-lab/",
+      "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2017-10-06-gould.mp4"],
       "content": "Super-resolution microscopy to determine the spatial relationship of contractile ring proteins at nanoscale resolution [published in eLife](https://elifesciences.org/articles/28865) ([Image Attribution](https://creativecommons.org/licenses/by/2.0/legalcode))",
