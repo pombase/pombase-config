@@ -49,6 +49,14 @@
       "head_image": ["assets/explore/2017-10-08-slimming.png"],
       "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes",
       "is_current": true
+    },
+    {
+      "title": "Data mining",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["assets/explore/2017-10-13-data_mining.png"],
+      "content": "Use the [Advanced Search](/query) to construct complex queries (GO, phenotypes, taxonomic distribution, domain, chromosomal location).",
+      "is_current": true
     }
   ],
   "predefined_queries": {
