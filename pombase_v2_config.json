@@ -29,8 +29,7 @@
     {
       "title": "Recent community curation",
       "panel_type": "community",
-      "head_image": ["assets/community/2017-10-07-community_curation_graph.png",
-                     "assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
+      "head_image": ["assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
       "content": "<app-recent-community-pubs></app-recent-community-pubs>",
       "is_current": true
     },
