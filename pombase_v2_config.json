@@ -956,7 +956,7 @@
       "name": "Cyclebase",
       "description": "Genome-wide cell-cycle-related experimental results",
       "field_name": "uniquename",
-      "url": "https://cyclebase.org/CyclebasePage?type=4896&id=<<IDENTIFIER>>"
+      "url": "https://cyclebase.org/CyclebasePage?type=4896&id=<<IDENTIFIER>>.1"
     },
     {
       "ref_type": "Proteomics",
