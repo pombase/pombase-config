@@ -938,7 +938,7 @@
       "ref_type": "Expression",
       "feature_types": ["ALL"],
       "name": "pombeTV",
-      "description": "Tiling array & illumina sequencing profiles",
+      "description": "Tiling array & Illumina sequencing profiles",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/pombetv/pombetv?condition=13&action=display&genename=<<IDENTIFIER>>"
     },
@@ -949,6 +949,14 @@
       "description": "Cell cycle, stress, meiosis, or mating",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=4&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
+    },
+    {
+      "ref_type": "Expression",
+      "feature_types": ["mRNA gene"],
+      "name": "Cyclebase",
+      "description": "Genome-wide cell-cycle-related experimental results",
+      "field_name": "uniquename",
+      "url": "https://cyclebase.org/CyclebasePage?type=4896&id=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Proteomics",
