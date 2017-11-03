@@ -946,9 +946,33 @@
       "ref_type": "Expression",
       "feature_types": ["ALL"],
       "name": "Expression viewer",
-      "description": "Cell cycle, stress, meiosis, or mating",
+      "description": "RNA expression during the cell cycle",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=4&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
+    },
+    {
+      "ref_type": "Expression",
+      "feature_types": ["ALL"],
+      "name": "Expression viewer",
+      "description": "RNA expression during stress",
+      "field_name": "uniquename",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=3&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
+    },
+    {
+      "ref_type": "Expression",
+      "feature_types": ["ALL"],
+      "name": "Expression viewer",
+      "description": "RNA expression during meiosis",
+      "field_name": "uniquename",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=2&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
+    },
+    {
+      "ref_type": "Expression",
+      "feature_types": ["ALL"],
+      "name": "Expression viewer",
+      "description": "RNA expression during Mating",
+      "field_name": "uniquename",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=1&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Expression",
