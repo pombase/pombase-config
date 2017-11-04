@@ -974,7 +974,7 @@
       "ref_type": "Expression",
       "feature_types": ["ALL"],
       "name": "Expression viewer",
-      "description": "RNA expression during Mating",
+      "description": "RNA expression during mating",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=1&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
     },
