@@ -881,6 +881,10 @@
       "rel_name": "is_a"
     },
     {
+      "termid": "GO:0003723",
+      "rel_name": "is_a"
+    },
+    {
       "termid": "SO:0000839",
       "rel_name": "is_a"
     }
