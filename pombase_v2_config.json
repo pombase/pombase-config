@@ -26,6 +26,7 @@
       "content": "Contractile ring structure at nanoscale resolution. Image from [eLife 2017;6:e28865](https://elifesciences.org/articles/28865), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms.",
       "link": "reference/PMID:28914606",
       "link_label": "Publication record in PomBase ...",
+      "date_added": "2017-10-06",
       "is_current": true
     },
     {
@@ -33,6 +34,7 @@
       "panel_type": "community",
       "head_image": ["assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
       "content": "<app-recent-community-pubs></app-recent-community-pubs>",
+      "date_added": "2017-10-10",
       "is_current": true
     },
     {
@@ -42,6 +44,7 @@
       "content": "Browse PomBase's inventory of conserved proteins with no known biological role",
       "link": "status/priority-unstudied-genes",
       "link_label": "more ...",
+      "date_added": "2017-10-10",
       "is_current": true
     },
     {
@@ -49,6 +52,7 @@
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-08-slimming.png"],
       "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes",
+      "date_added": "2017-10-10",
       "is_current": true
     },
     {
@@ -57,6 +61,7 @@
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-13-data_mining.png"],
       "content": "Use the [Advanced Search](/query) to construct complex queries (GO, phenotypes, taxonomic distribution, domain, chromosomal location).",
+      "date_added": "2017-10-13",
       "is_current": true
     }
   ],
