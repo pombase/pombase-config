@@ -69,16 +69,16 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-200_000_curated_annotations.png"],
-      "content": "PomBase has integrated over 200,000 manually curated gene specific annotations. See our [Resource Metrics](about/resource-metrics) page for more literature curation progress reports.",
+      "content": "PomBase has integrated over 200,000 manually curated gene-specific annotations. See our [Resource Metrics](about/resource-metrics) page for more literature curation progress reports.",
       "date_added": "2017-11-06",
       "is_current": true
     },
     {
-      "title": "Building Networks",
+      "title": "Building networks",
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-building_networks.png"],
-      "content": "PomBase is using manually curated Gene Ontology annotation to generate biological process specific networks. Part of the cytokinesis network is displayed. Currently available networks can be accessed from the [GO slim](browse-curation/fission-yeast-go-slim-terms) page.",
+      "content": "PomBase uses manually curated Gene Ontology annotation to generate biological process-specific networks, such as the cytokinesis network excerpted above. Currently available networks are linked to the [GO slim](browse-curation/fission-yeast-go-slim-terms) page.",
       "date_added": "2017-11-06",
       "is_current": true
     },
@@ -87,16 +87,16 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-help.png"],
-      "content": "PomBase provides extensive and answers many questions in the [FAQ](faq) but please <app-contact-email [linkName]=\"'contact the heskdesk'\" [subject]=\"'PomBase question'\"></app-contact-email> if you can’t find the information you are looking for.",
+      "content": "PomBase provides extensive documentation and answers many questions in the [FAQ](faq). For any information you can't find there, please <app-contact-email [linkName]=\"'contact the helpdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
       "date_added": "2017-11-06",
       "is_current": true
     },
     {
-      "title": "Community Curation in Canto",
+      "title": "Community curation in Canto",
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-community_curation.png"],
-      "content": "PomBase has pioneered a community curation system that enables researchers to contribute publication-based annotations directly to database curators. To participate, search for the PuBMed ID of your paper [in Canto](https://curation.pombase.org/pombe) or <app-contact-email [linkName]=\"'contact the heskdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
+      "content": "PomBase has pioneered a community curation system that enables researchers to contribute publication-based annotations directly to database curators. To participate, search for the PubMed ID of your paper [in Canto](https://curation.pombase.org/pombe) or <app-contact-email [linkName]=\"'contact the helpdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
       "date_added": "2017-11-06",
       "is_current": true
     },
@@ -105,7 +105,7 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-motif_search.png"],
-      "content": "The [Protein Motif Search Tool](https://curation.pombase.org/cgi-bin/sanger_motif_search) finds any user-defined amino acid sequence. Search supports exact match queries, wildcards, gaps, and ambiguity codes.",
+      "content": "The [Protein Motif Search Tool](https://curation.pombase.org/cgi-bin/sanger_motif_search) finds any user-defined amino acid sequence. The search supports exact match queries, wildcards, gaps, and ambiguity codes.",
       "date_added": "2017-11-06",
       "is_current": true
     },
@@ -114,16 +114,16 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-building_networks.png"],
-      "content": "4020 of the 5070 fission yeast protein coding genes now have assigned primary names. We encourage all authors and reviewers to ensure that gene names are registered prior to publication. Visit our [gene registry page](gene-names), and the [S. pombe gene naming guidelines](gene-names/gene-naming-guidelines) for more information.",
+      "content": "4020 of the 5070 fission yeast protein-coding genes now have assigned standard names. We encourage all authors and reviewers to ensure that gene names are registered prior to publication. Visit our [gene registry page](gene-names) and the [*S. pombe* gene naming guidelines](gene-names/gene-naming-guidelines) for more information.",
       "date_added": "2017-11-06",
       "is_current": true
     },
     {
-      "title": "Disease Gene Orthologs",
+      "title": "Disease gene orthologs",
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-disease_gene_orthologs.png"],
-      "content": "Over 500 S. pombe genes whose human orthologs have been implicated in disease are manually annotated with terms from a small in-house vocabulary. See the [disease gene FAQ](faq/how-can-i-find-s.-pombe-genes-associated-human-disease) for information on searching these genes.",
+      "content": "Over 500 *S. pombe* genes whose human orthologs have been implicated in disease are manually annotated with terms from a small in-house vocabulary. See the [disease gene FAQ](faq/how-can-i-find-s.-pombe-genes-associated-human-disease) for information on searching these genes.",
       "date_added": "2017-11-06",
       "is_current": true
     }
