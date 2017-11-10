@@ -737,12 +737,12 @@
         {
           "config_name": "NOT binding",
           "termids": ["NOT GO:0005488"],
-          "display_name": ""
+          "display_name": "Activity terms"
         },
         {
           "config_name": "Binding",
           "termids": ["GO:0005488"],
-          "display_name": ""
+          "display_name": "Binding terms"
         }
       ],
       "summary_relations_to_hide": [
