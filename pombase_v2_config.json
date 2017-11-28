@@ -1035,7 +1035,7 @@
     {
       "ref_type": "Expression",
       "feature_types": ["ALL"],
-      "name": "Wähler Expression viewer",
+      "name": "Bähler Expression viewer",
       "description": "RNA expression during meiosis",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/SPGE/geexview?group=2&scale=log2&scale_min=-2&scale_max=2&q=<<IDENTIFIER>>"
