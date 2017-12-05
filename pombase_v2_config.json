@@ -214,6 +214,28 @@
           }
         ]
       }
+    },
+    "single_allele_chemical_resistance": {
+      "name": "chemical resistance (single mutants)",
+      "constraints": {
+        "term": {
+          "termid": "FYPO:0002682",
+          "name": "increased resistance to chemical",
+          "single_or_multi_allele": "single",
+          "expression": "any"
+        }
+      }
+    },
+    "single_allele_chemical_sensitivity": {
+      "name": "chemical sensitivity (single mutants)",
+      "constraints": {
+        "term": {
+          "termid": "FYPO:0002683",
+          "name": "increased sensitivity to chemical",
+          "single_or_multi_allele": "single",
+          "expression": "any"
+        }
+      }
     }
   },
   "canned_query_ids": [
