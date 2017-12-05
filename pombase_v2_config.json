@@ -1149,10 +1149,6 @@
       "termid": "GO:0006914"
     },
     {
-      "name": "carbohydrate derivative metabolic process",
-      "termid": "GO:1901135"
-    },
-    {
       "name": "carbohydrate metabolic process",
       "termid": "GO:0005975"
     },
