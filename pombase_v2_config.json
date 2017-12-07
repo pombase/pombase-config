@@ -811,6 +811,7 @@
       "summary_relations_to_hide": [
         "ALL"
       ],
+      "sort_details_by": ["modification", "extension"],
       "summary_relation_ranges_to_collect": [
         "added_by",
         "removed_by"
