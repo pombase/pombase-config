@@ -236,43 +236,43 @@
           "expression": "any"
         }
       }
-    }
+    },
     "null_inviable": {
       "name": "TEXT NAME",
-      "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}} 
+      "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}} 
     },
     "null_viable": {
       "name": "TEXT NAME",
-      "constraints": {"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}} 
+      "constraints": {"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}
     },
     "null_viable_and_inviable": {
       "name": "TEXT NAME",
-      "constraints": {"and":[{"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}},{"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}]}} 
+      "constraints": {"and":[{"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}},{"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}]}
     },
     "conserved_in_vertebrates": {
       "name": "conserved in vertebrates",
-      "constraints": {"term":{"termid":"PBO:0011070","name":"conserved in vertebrates","single_or_multi_allele":null,"expression":null}}} 
+      "constraints": {"term":{"termid":"PBO:0011070","name":"conserved in vertebrates","single_or_multi_allele":null,"expression":null}} 
     },
     "GO_976_or_GO_3700": {
       "name": "GO:0000976 or GO:0003700",
-      "constraints": {"or":[{"term":{"termid":"GO:0003700","name":"DNA binding transcription factor activity","single_or_multi_allele":null,"expression":null}},{"term":{"termid":"GO:0000976","name":"transcription regulatory region sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}}]}} 
+      "constraints": {"or":[{"term":{"termid":"GO:0003700","name":"DNA binding transcription factor activity","single_or_multi_allele":null,"expression":null}},{"term":{"termid":"GO:0000976","name":"transcription regulatory region sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}}]} 
     },
     "GO_978_and_published": {
       "name": "GO:0000978 and published",
-      "constraints": {"and":[{"term":{"termid":"GO:0000978","name":"RNA polymerase II proximal promoter sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}},{"subset":{"subset_name":"characterisation_status_published"}}]}} 
+      "constraints": {"and":[{"term":{"termid":"GO:0000978","name":"RNA polymerase II proximal promoter sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}},{"subset":{"subset_name":"characterisation_status_published"}}]} 
     },
     "transposons": {
       "name": "Transposons",
-      "constraints": {"subset":{"subset_name":"characterisation_status_transposon"}}} 
+      "constraints": {"subset":{"subset_name":"characterisation_status_transposon"}} 
     },
     "canned_query:all_genes": {
       "name": "All genes",
-      "constraints": {"or":[{"subset":{"subset_name":"feature_type_ncRNA_gene"}},{"subset":{"subset_name":"feature_type_mRNA_gene"}},{"subset":{"subset_name":"feature_type_pseudogene"}},{"subset":{"subset_name":"feature_type_rRNA_gene"}},{"subset":{"subset_name":"feature_type_snoRNA_gene"}},{"subset":{"subset_name":"feature_type_snRNA_gene"}},{"subset":{"subset_name":"feature_type_tRNA_gene"}}]}} 
+      "constraints": {"or":[{"subset":{"subset_name":"feature_type_ncRNA_gene"}},{"subset":{"subset_name":"feature_type_mRNA_gene"}},{"subset":{"subset_name":"feature_type_pseudogene"}},{"subset":{"subset_name":"feature_type_rRNA_gene"}},{"subset":{"subset_name":"feature_type_snoRNA_gene"}},{"subset":{"subset_name":"feature_type_snRNA_gene"}},{"subset":{"subset_name":"feature_type_tRNA_gene"}}]}
     },
     "2-20_exons": {
       "name": "protein-coding genes with 2-20 exons",
-      "constraints": {"int_range":{"range_type":"exon_count","start":2,"end":20}}} 
-    } 
+      "constraints": {"int_range":{"range_type":"exon_count","start":2,"end":20}} 
+    }
   },
   "canned_query_ids": [
     "all_diseases", "all_protein_coding_ex_dubious_and_transposon", "all_genes"
