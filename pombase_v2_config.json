@@ -610,6 +610,21 @@
       "long": "Traceable Author Statement",
       "link": "http://www.geneontology.org/page/tas-traceable-author-statement"
     },
+    "HTP": {
+      "long": "Inferred from high throughput experiment"
+    },
+    "HDA": {
+      "long": "Inferred from high throughput direct assay"
+    },
+    "HEP": {
+      "long": "Inferred from high throughput expression pattern"
+    },
+    "HGI": {
+      "long": "Inferred from high throughput genetic interaction"
+    },
+    "HMP": {
+      "long": "Inferred from high throughput mutant phenotype"
+    },
     "UNK": {
       "long": "Unknown"
     }
