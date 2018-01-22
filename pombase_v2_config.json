@@ -1487,12 +1487,15 @@
     }
   ],
   "extra_database_aliases": {
-    "TIGRFAMs": "JCVI_TIGRFAMS",
-    "SSF": "SUPERFAMILY",
-    "PROFILE": "Prosite",
-    "MOBIDBLT": "MobiDB",
-    "AmiGO": "GO",
-    "MOBIDB": "MobiDB"
+    "tigrfams": "JCVI_TIGRFAMS",
+    "ssf": "SUPERFAMILY",
+    "profile": "Prosite",
+    "mobidblt": "MobiDB",
+    "amigo": "GO",
+    "mobidb": "MobiDB",
+    "pfam": "Pfam",
+    "gene3d": "Gene3D",
+    "prosite": "Prosite"
   },
   "misc_external_links": {
     "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false"
