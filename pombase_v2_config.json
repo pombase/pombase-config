@@ -26,7 +26,7 @@
       "panel_type": "spotlight",
       "head_image": ["/media/2017-10-06-gould.mp4"],
       "content": "Contractile ring structure at nanoscale resolution. Image from [eLife 2017;6:e28865](https://elifesciences.org/articles/28865), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms.",
-      "link": "reference/PMID:28914606",
+      "link": "/reference/PMID:28914606",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2017-10-06",
       "is_current": true
@@ -37,7 +37,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-01-22-jaspersen-centrosome.png"],
       "content": "Molecular model of fission yeast centrosome assembly determined by superresolution imaging.  Originally published in [JCB](http://jcb.rupress.org/content/216/8/2409).",
-      "link": "reference/PMID:28619713",
+      "link": "/reference/PMID:28619713",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-01-22",
       "is_current": true
@@ -55,7 +55,7 @@
       "panel_type": "explore",
       "head_image": ["assets/explore/2017-10-08-unknowns.png"],
       "content": "Browse PomBase's inventory of conserved proteins with no known biological role",
-      "link": "status/priority-unstudied-genes",
+      "link": "/status/priority-unstudied-genes",
       "link_label": "more ...",
       "date_added": "2017-10-10",
       "is_current": true
@@ -1495,7 +1495,9 @@
     "mobidb": "MobiDB",
     "pfam": "Pfam",
     "gene3d": "Gene3D",
-    "prosite": "Prosite"
+    "prosite": "Prosite",
+    "scanprosite": "Prosite",
+    "prodom": "ProDom"
   },
   "misc_external_links": {
     "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false"
