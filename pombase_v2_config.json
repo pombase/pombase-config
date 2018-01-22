@@ -32,6 +32,17 @@
       "is_current": true
     },
     {
+      "title": "Bestul AJ et al., 2017",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-01-22-jaspersen-centrosome.png"],
+      "content": "Molecular model of fission yeast centrosome assembly determined by superresolution imaging.  Originally published in [JCB](http://jcb.rupress.org/content/216/8/2409).",
+      "link": "reference/PMID:28619713",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-01-22",
+      "is_current": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
