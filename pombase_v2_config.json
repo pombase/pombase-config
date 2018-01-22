@@ -1486,6 +1486,14 @@
       "termid": "GO:0006766"
     }
   ],
+  "extra_database_aliases": {
+    "TIGRFAMs": "JCVI_TIGRFAMS",
+    "SSF": "SUPERFAMILY",
+    "PROFILE": "Prosite",
+    "MOBIDBLT": "MobiDB",
+    "AmiGO": "GO",
+    "MOBIDB": "MobiDB"
+  },
   "misc_external_links": {
     "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false"
   },
