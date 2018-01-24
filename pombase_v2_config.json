@@ -43,6 +43,17 @@
       "is_current": true
     },
     {
+      "title": "J-K Kim et al., 2017",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/media/2018-01-24-j.k.kim.mp4"],
+      "content": "Structural Basis for Shelterin Bridge Assembly.  Originally published in [Mol. Cell](http://www.cell.com/molecular-cell/fulltext/S1097-2765%2817%2930809-2).",
+      "link": "/reference/PMID:29149597",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-01-24",
+      "is_current": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
