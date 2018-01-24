@@ -260,15 +260,12 @@
       }
     },
     "null_inviable": {
-      "name": "TEXT NAME",
       "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}} 
     },
     "null_viable": {
-      "name": "TEXT NAME",
       "constraints": {"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}
     },
     "null_viable_and_inviable": {
-      "name": "TEXT NAME",
       "constraints": {"and":[{"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}},{"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}]}
     },
     "conserved_in_vertebrates": {
