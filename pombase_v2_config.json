@@ -238,6 +238,28 @@
         ]
       }
     },
+    "canned_query:protein_coding_genes_unknown_process": {
+      "name": "Protein coding genes, unkonwn process",
+      "constraints": {
+        "or": [
+          {
+            "subset": {
+              "subset_name": "characterisation_status_conserved_unknown"
+            }
+          },
+          {
+            "subset": {
+              "subset_name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized"
+            }
+          },
+          {
+            "subset": {
+              "subset_name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized"
+            }
+          }
+        ]
+      }
+    },
     "single_allele_chemical_resistance": {
       "name": "chemical resistance (single mutants)",
       "constraints": {
@@ -295,7 +317,8 @@
     }
   },
   "canned_query_ids": [
-    "all_diseases", "all_protein_coding_ex_dubious_and_transposon", "all_genes"
+    "all_diseases", "all_protein_coding_ex_dubious_and_transposon",
+    "protein_coding_genes_unknown_process", "all_genes"
   ],
   "api_seq_chunk_sizes": [10000, 200000],
   "chromosomes": {
