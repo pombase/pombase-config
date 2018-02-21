@@ -1461,8 +1461,8 @@
       "termid": "GO:0030163"
     },
     {
-      "name": "protein complex assembly",
-      "termid": "GO:0006461"
+      "name": "protein-containing complex assembly",
+      "termid": "GO:0065003"
     },
     {
       "name": "protein folding",
