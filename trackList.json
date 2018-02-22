@@ -1,12 +1,19 @@
 {
   "trackSelector" : {
     "renameFacets" : {
+      "pmed_id": "PubMed ID",
+      "geo_id": "GEO study ID",
+      "array_express_id": "Array Express ID"
     },
     "displayColumns" : [
       "key",
       "data_type",
       "assay_type",
-      "first_author"
+      "first_author",
+      "pmed_id",
+      "array_express_id",
+      "geo_id",
+      "ena_study_id",
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -21,7 +28,11 @@
     "indexFacets" : [
       "data_type",
       "assay_type",
-      "first_author"
+      "first_author",
+      "pmed_id",
+      "array_express_id",
+      "geo_id",
+      "ena_study_id",
     ]
   },
   "tracks" : [
