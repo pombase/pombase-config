@@ -340,7 +340,7 @@
       "short_display_name": "III",
       "long_display_name": "Chromosome III"
     },
-    "MISPCG": {
+    "mitochondrial": {
       "export_id": "mitochondrial",
       "export_file_id": "mitochondrial_chromosome",
       "short_display_name": "Mitochondrial",
@@ -352,7 +352,7 @@
       "short_display_name": "Mating type region",
       "long_display_name": "Mating type region"
     },
-    "AB325691": {
+    "chr_II_telomeric_gap": {
       "export_id": "chr_II_telomeric_gap",
       "export_file_id": "chr_II_telomeric_gap",
       "short_display_name": "Chromosome II telomeric gap",
