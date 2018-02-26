@@ -239,7 +239,7 @@
       }
     },
     "canned_query:protein_coding_genes_unknown_process": {
-      "name": "Protein coding genes, unkonwn process",
+      "name": "Protein coding genes, unknown process",
       "constraints": {
         "or": [
           {
