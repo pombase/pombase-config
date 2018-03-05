@@ -14,7 +14,7 @@
       "pmed_id",
       "array_express_id",
       "geo_id",
-      "ena_study_id",
+      "ena_study_id"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -34,7 +34,7 @@
       "pmed_id",
       "array_express_id",
       "geo_id",
-      "ena_study_id",
+      "ena_study_id"
     ]
   },
   "tracks" : [
