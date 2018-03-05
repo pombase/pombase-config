@@ -3,7 +3,14 @@
     "renameFacets" : {
       "pmed_id": "PubMed ID",
       "geo_id": "GEO study ID",
-      "array_express_id": "Array Express ID"
+      "array_express_id": "Array Express ID",
+      "data_type": "Data type",
+      "assay_type": "Assay type",
+      "first_author": "First author",
+      "publication_date": "Publication date",
+      "extra_db_id": "Extra database ID",
+      "data_file_type": "Data file type",
+      "source_url": "Source URL"
     },
     "displayColumns" : [
       "key",
