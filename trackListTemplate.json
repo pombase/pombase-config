@@ -57,8 +57,22 @@
     },
     {
       "trackType" : "CanvasFeatures",
-      "key" : "PomBase features",
-      "label" : "PomBase features",
+      "key" : "PomBase forward strand features",
+      "label" : "PomBase forward strand features",
+      "type" : "CanvasFeatures",
+      "urlTemplate" : "tracks/PomBase features/{refseq}/trackData.json",
+      "style" : {
+        "className" : "feature",
+        "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
+      },
+      "compress" : 0,
+      "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+      "fmtDetailValue_Name" : "function(name, feature) {if(feature.get('type')=='gene') {return '<a href=\"http://www.pombase.org/gene/'+feature.get('Id')+'\">'+name+'</a>';} else { return name;}}"
+    },
+    {
+      "trackType" : "CanvasFeatures",
+      "key" : "PomBase reverse strand features",
+      "label" : "PomBase reverse strand features",
       "type" : "CanvasFeatures",
       "urlTemplate" : "tracks/PomBase features/{refseq}/trackData.json",
       "style" : {
