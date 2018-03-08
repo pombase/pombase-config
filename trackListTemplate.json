@@ -60,7 +60,7 @@
       "key" : "PomBase forward strand features",
       "label" : "PomBase forward strand features",
       "type" : "CanvasFeatures",
-      "urlTemplate" : "tracks/PomBase features/{refseq}/trackData.json",
+      "urlTemplate" : "tracks/PomBase forward strand features/{refseq}/trackData.json",
       "style" : {
         "className" : "feature",
         "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
@@ -74,7 +74,7 @@
       "key" : "PomBase reverse strand features",
       "label" : "PomBase reverse strand features",
       "type" : "CanvasFeatures",
-      "urlTemplate" : "tracks/PomBase features/{refseq}/trackData.json",
+      "urlTemplate" : "tracks/PomBase reverse strand features/{refseq}/trackData.json",
       "style" : {
         "className" : "feature",
         "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
