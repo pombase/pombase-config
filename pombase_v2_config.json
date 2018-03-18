@@ -1565,7 +1565,10 @@
         "interpro:PROSITE", "interpro:SFLD", "interpro:SMART",
         "interpro:SSF", "interpro:TIGRFAMs", "interpro"
       ]
-    }
+    },
+    "solr_url": "http://localhost:8983/solr",
+    "close_synonym_boost": 0.45,
+    "distant_synonym_boost": 0.2
   }
 }
 
