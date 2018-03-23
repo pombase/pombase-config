@@ -1546,6 +1546,7 @@
     "mobidb": "MobiDB",
     "pfam": "Pfam",
     "gene3d": "Gene3D",
+    "cathgene3d": "Gene3D",
     "prosite": "Prosite",
     "scanprosite": "Prosite",
     "prodom": "ProDom"
