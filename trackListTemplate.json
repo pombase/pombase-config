@@ -2,26 +2,26 @@
   "trackSelector" : {
     "renameFacets" : {
       "pmed_id": "PubMed ID",
-      "geo_id": "GEO study ID",
-      "array_express_id": "Array Express ID",
+      "study_id": "Study ID",
       "data_type": "Data type",
       "assay_type": "Assay type",
       "first_author": "First author",
       "publication_date": "Publication date",
       "extra_db_id": "Extra database ID",
       "data_file_type": "Data file type",
+      "assayed_gene_product": "Assayed gene product",
+      "mutant_allele": "Allele",
+      "growth_phase_or_response": "Growth phase or response",
       "source_url": "Source URL"
     },
     "displayColumns" : [
-      "key",
       "data_type",
-      "assay_type",
       "first_author",
-      "publication_date",
       "pmed_id",
-      "array_express_id",
-      "geo_id",
-      "ena_study_id"
+      "growth_phase_or_response",
+      "assayed_gene_product",
+      "mutant_allele",
+      "study_id"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -40,8 +40,15 @@
       "publication_date",
       "pmed_id",
       "array_express_id",
-      "geo_id",
-      "ena_study_id"
+      "study_id",
+      "sample_id",
+      "mutant_allele",
+      "mating_type",
+      "condition",
+      "growth_phase_or_response",
+      "strand",
+      "experimental_mutant_background",
+      "assayed_gene"
     ]
   },
   "tracks" : [
