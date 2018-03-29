@@ -12,19 +12,16 @@
       "assayed_gene_product": "Localized gene product",
       "mutant_allele": "Mutant alleles",
       "growth_phase_or_response": "Growth phase or response",
+      "label": "Track label",
       "source_url": "Source URL"
     },
     "displayColumns" : [
       "data_type",
       "first_author",
-      "growth_phase_or_response",
-      "assayed_gene_product",
+      "pmed_id",,
+      "study_id",
       "mutant_allele",
-      "experimental_mutant_background",
-      "condition",
-      "study_id"
-      "sample_id",
-      "pmed_id",
+      "growth_phase_or_response",
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -39,10 +36,15 @@
     "indexFacets" : [
       "data_type",
       "first_author",
-      "pmed_id",,
-      "study_id",
-      "mutant_allele",
+      "label",
       "growth_phase_or_response",
+      "assayed_gene_product",
+      "mutant_allele",
+      "experimental_mutant_background",
+      "condition",
+      "study_id"
+      "sample_id",
+      "pmed_id",
     ]
   },
   "tracks" : [
