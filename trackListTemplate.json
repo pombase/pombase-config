@@ -7,21 +7,24 @@
       "assay_type": "Assay type",
       "first_author": "First author",
       "publication_date": "Publication date",
-      "extra_db_id": "Extra database ID",
+      "sample_id": "Sample ID",
       "data_file_type": "Data file type",
-      "assayed_gene_product": "Assayed gene product",
-      "mutant_allele": "Allele",
+      "assayed_gene_product": "Localized gene product",
+      "mutant_allele": "Mutant alleles",
       "growth_phase_or_response": "Growth phase or response",
       "source_url": "Source URL"
     },
     "displayColumns" : [
       "data_type",
       "first_author",
-      "pmed_id",
       "growth_phase_or_response",
       "assayed_gene_product",
       "mutant_allele",
+      "experimental_mutant_background",
+      "condition",
       "study_id"
+      "sample_id",
+      "pmed_id",
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -35,20 +38,11 @@
     ],
     "indexFacets" : [
       "data_type",
-      "assay_type",
       "first_author",
-      "publication_date",
-      "pmed_id",
-      "array_express_id",
+      "pmed_id",,
       "study_id",
-      "sample_id",
       "mutant_allele",
-      "mating_type",
-      "condition",
       "growth_phase_or_response",
-      "strand",
-      "experimental_mutant_background",
-      "assayed_gene"
     ]
   },
   "tracks" : [
