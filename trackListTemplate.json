@@ -18,10 +18,10 @@
     "displayColumns" : [
       "data_type",
       "first_author",
-      "pmed_id",,
+      "pmed_id",
       "study_id",
       "mutant_allele",
-      "growth_phase_or_response",
+      "growth_phase_or_response"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -42,9 +42,9 @@
       "mutant_allele",
       "experimental_mutant_background",
       "condition",
-      "study_id"
+      "study_id",
       "sample_id",
-      "pmed_id",
+      "pmed_id"
     ]
   },
   "tracks" : [
