@@ -10,7 +10,7 @@
       "sample_id": "Sample ID",
       "data_file_type": "Data file type",
       "assayed_gene_product": "Localized gene product",
-      "mutant_allele": "Mutant alleles",
+      "mutant_allele": "Alleles",
       "growth_phase_or_response": "Growth phase or response",
       "label": "Track label",
       "source_url": "Source URL"
@@ -35,8 +35,9 @@
     ],
     "indexFacets" : [
       "data_type",
-      "first_author",
       "label",
+      "first_author",
+      "mutant_allele",
       "growth_phase_or_response",
       "assayed_gene_product",
       "mutant_allele",
@@ -44,6 +45,7 @@
       "condition",
       "study_id",
       "sample_id",
+      "first_author",
       "pmed_id"
     ]
   },
