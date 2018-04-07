@@ -17,11 +17,18 @@
     },
     "displayColumns" : [
       "data_type",
+      "label",
       "first_author",
-      "pmed_id",
-      "study_id",
       "mutant_allele",
-      "growth_phase_or_response"
+      "growth_phase_or_response",
+      "assayed_gene_product",
+      "mutant_allele",
+      "experimental_mutant_background",
+      "condition",
+      "study_id",
+      "sample_id",
+      "first_author",
+      "pmed_id"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -35,18 +42,11 @@
     ],
     "indexFacets" : [
       "data_type",
-      "label",
       "first_author",
-      "mutant_allele",
-      "growth_phase_or_response",
-      "assayed_gene_product",
-      "mutant_allele",
-      "experimental_mutant_background",
-      "condition",
+      "pmed_id",
       "study_id",
-      "sample_id",
-      "first_author",
-      "pmed_id"
+      "mutant_allele",
+      "growth_phase_or_response"
     ]
   },
   "tracks" : [
