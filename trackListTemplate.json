@@ -15,7 +15,7 @@
       "label": "Track label",
       "source_url": "Source URL",
       "condition": "Conditions",
-      "experimental_mutant_background": "Experimental mutant background",
+      "experimental_mutant_background": "Experimental mutant background"
     },
     "displayColumns" : [
       "data_type",
