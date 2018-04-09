@@ -15,6 +15,7 @@
       "label": "Track label",
       "source_url": "Source URL",
       "conditions": "Conditions",
+      "mating_type": "Mating type and ploidy",
       "experimental_mutant_background": "Experimental mutant background"
     },
     "displayColumns" : [
@@ -24,6 +25,7 @@
       "growth_phase_or_response",
       "assayed_gene_product",
       "experimental_mutant_background",
+      "mating_type",
       "conditions",
       "study_id",
       "sample_id",
