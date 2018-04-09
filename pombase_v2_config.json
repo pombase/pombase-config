@@ -1301,6 +1301,14 @@
       "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<IDENTIFIER>>)+AND+(pombe+OR+fission+yeast)"
     },
     {
+      "ref_type": "Sequence Resources",
+      "feature_types": ["ALL"],
+      "name": "Ensembl",
+      "description": "Genome browser",
+      "field_name": "uniquename",
+      "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Location/View?db=core;g=<<IDENTIFIER>>"
+    },
+    {
       "ref_type": "Orthologs",
       "feature_types": ["mRNA gene", "pseudogene"],
       "name": "DIOPT",
