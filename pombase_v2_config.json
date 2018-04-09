@@ -1181,6 +1181,14 @@
       "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
     },
     {
+      "ref_type": "GO annotation",
+      "feature_types": ["mRNA gene"],
+      "name": "AmiGO",
+      "field_name": "uniquename",
+      "description": "GO Consortium browser",
+      "url": "http://amigo.geneontology.org/amigo/gene_product/PomBase:<<IDENTIFIER>>"
+    },
+    {
       "ref_type": "Interactions",
       "feature_types": ["ALL"],
       "name": "BioGRID",
@@ -1307,13 +1315,6 @@
       "description": "Experimentally validated promoters",
       "field_name": "uniquename",
       "url": "http://epd.vital-it.ch/search_EPDnew.php?db=S_pombe&query=<<IDENTIFIER>>"
-    },
-    {
-      "ref_type": "GO annotation",
-      "feature_types": ["mRNA gene"],
-      "name": "GOC",
-      "description": "AmiGO Gene Ontology annotation browser",
-      "url": "http://amigo.geneontology.org/amigo/gene_product/PomBase:<<IDENTIFIER>>"
     }
   ],
   "external_term_references": [
