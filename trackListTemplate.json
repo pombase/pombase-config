@@ -6,7 +6,7 @@
       "data_type": "Data type",
       "assay_type": "Assay type",
       "first_author": "First author",
-      "publication_date": "Publication date",
+      "publication_year": "Publication year",
       "sample_id": "Sample ID",
       "data_file_type": "Data file type",
       "assayed_gene_product": "Localized gene product",
@@ -16,7 +16,7 @@
       "source_url": "Source URL",
       "conditions": "Conditions",
       "mating_type": "Mating type and ploidy",
-      "experimental_mutant_background": "Experimental mutant background"
+      "technical_mutant_background": "Background mutations"
     },
     "displayColumns" : [
       "data_type",
@@ -31,6 +31,7 @@
       "sample_id",
       "first_author",
       "pmed_id"
+      "publication_year"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
@@ -44,11 +45,11 @@
     ],
     "indexFacets" : [
       "data_type",
+      "growth_phase_or_response",
+      "alleles",
       "first_author",
       "pmed_id",
       "study_id",
-      "alleles",
-      "growth_phase_or_response"
     ]
   },
   "tracks" : [
