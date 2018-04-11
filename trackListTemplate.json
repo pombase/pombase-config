@@ -30,7 +30,7 @@
       "study_id",
       "sample_id",
       "first_author",
-      "pmed_id"
+      "pmed_id",
       "publication_year"
     ],
     "type" : "Faceted",
@@ -49,7 +49,7 @@
       "alleles",
       "first_author",
       "pmed_id",
-      "study_id",
+      "study_id"
     ]
   },
   "tracks" : [
