@@ -58,7 +58,7 @@
       "type" : "SequenceTrack",
       "label" : "DNA",
       "chunkSize" : 20000,
-      "key" : "Reference sequence",
+      "key" : "DNA sequence",
       "seqType" : "dna",
       "storeClass" : "JBrowse/Store/Sequence/StaticChunked",
       "category" : "Reference sequence",
