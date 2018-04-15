@@ -56,7 +56,7 @@
     {
       "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
       "type" : "SequenceTrack",
-      "label" : "DNA",
+      "label" : "DNA sequence",
       "chunkSize" : 20000,
       "key" : "DNA sequence",
       "seqType" : "dna",
