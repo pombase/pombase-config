@@ -325,11 +325,11 @@
     "2-20_exons": {
       "name": "protein-coding genes with 2-20 exons",
       "constraints": {"int_range":{"range_type":"exon_count","start":2,"end":20}} 
-    }
-  },
+    },
     "chr2_1000000-2000000": {
       "name": "genes between coordinates 1000000-2000000 on chromosome 2",
-      "constraints": {"constraints":{"genome_range":{"start":1000000,"end":2000000,"chromosome_name":"chromosome_2"}}}
+      "constraints":{"genome_range": {"start":1000000,"end":2000000,"chromosome_name":"chromosome_2"}}
+    }
   },
   "canned_query_ids": [
     "all_diseases", "all_protein_coding_ex_dubious_and_transposon",
