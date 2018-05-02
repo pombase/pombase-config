@@ -329,6 +329,50 @@
     "chr2_1000000-2000000": {
       "name": "genes between coordinates 1000000-2000000 on chromosome 2",
       "constraints":{"genome_range": {"start":1000000,"end":2000000,"chromosome_name":"chromosome_2"}}
+    },
+    "MOD_696": {
+      "name": "phosphorylated residue",
+      "constraints": {"term":{"termid":"MOD:00696","name":"phosphorylated residue","single_or_multi_allele":null,"expression":null}}
+    },
+    "SO_1528": {
+      "name": "nuclear localization signal",
+      "constraints": {"term":{"termid":"SO:0001528","name":"nuclear_localization_signal","single_or_multi_allele":null,"expression":null}}
+    },
+    "FYPO_17_all": {
+      "name": "elongated cell",
+      "constraints": {"term":{"termid":"FYPO:0000017","name":"elongated cell","single_or_multi_allele":"single","expression":"any"}}
+    },
+    "Pfam_PF00004": {
+      "name": "ATPase, AAA-type, core",
+      "constraints": {"subset":{"subset_name":"PF00004"}}
+    },
+    "GO_4721": {
+      "name": "phosphoprotein phosphatase activity",
+      "constraints": {"term":{"termid":"GO:0004721","name":"phosphoprotein phosphatase activity","single_or_multi_allele":null,"expression":null}}
+    },
+    "GO_5634": {
+      "name": "nucleus",
+      "constraints": {"term":{"termid":"GO:0005634","name":"nucleus","single_or_multi_allele":null,"expression":null}}
+    },
+    "7TM": {
+      "name": "proteins with 7 transmembrane domains",
+      "constraints": {"int_range":{"range_type":"tm_domain_count","start":7,"end":7}}
+    },
+    "rrna_genes": {
+      "name": "rRNA genes",
+      "constraints": {"subset":{"subset_name":"feature_type_rRNA_gene"}}
+    },
+    "cancer": {
+      "name": "cancer",
+      "constraints": {"term":{"termid":"PBO:0000239","name":"cancer","single_or_multi_allele":null,"expression":null}}
+    },
+    "snorna_genes": {
+      "name": "snoRNA genes",
+      "constraints": {"subset":{"subset_name":"feature_type_snoRNA_gene"}}
+    },
+    "FYPO_78_or_GO_45333": {
+      "name": "FYPO:0000078 or GO:0045333",
+      "constraints": {"or":[{"term":{"termid":"FYPO:0000078","name":"abnormal cellular respiration","single_or_multi_allele":"single","expression":"any"}},{"term":{"termid":"GO:0045333","name":"cellular respiration","single_or_multi_allele":null,"expression":null}}]}
     }
   },
   "canned_query_ids": [
