@@ -373,11 +373,20 @@
     "FYPO_78_or_GO_45333": {
       "name": "FYPO:0000078 or GO:0045333",
       "constraints": {"or":[{"term":{"termid":"FYPO:0000078","name":"abnormal cellular respiration","single_or_multi_allele":"single","expression":"any"}},{"term":{"termid":"GO:0045333","name":"cellular respiration","single_or_multi_allele":null,"expression":null}}]}
+    },
+    "canned_query:viable_deletions": {
+      "name": "Viable deletions",
+      "constraints": { "term": { "termid": "FYPO:0002060", "name": "viable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
+    },
+    "canned_query:inviable_deletions": {
+      "name": "Inviable deletions",
+      "constraints": { "term": { "termid": "FYPO:0002061", "name": "inviable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
     }
   },
   "canned_query_ids": [
     "all_diseases", "all_protein_coding_ex_dubious_and_transposon",
-    "protein_coding_genes_unknown_process", "all_genes"
+    "protein_coding_genes_unknown_process", "all_genes", "viable_deletions",
+    "inviable_deletions"
   ],
   "api_seq_chunk_sizes": [10000, 200000],
   "chromosomes": {
