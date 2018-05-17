@@ -1077,6 +1077,12 @@
       "display_name": "GO biological process",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
+      "external_link_config": [
+        {
+          "display_text": "View ancestor chart ...",
+          "url_prefix": "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids}/chart?ids="
+        }
+      ],
       "summary_relation_ranges_to_collect": [
         "has_input",
         "has_regulation_target"
