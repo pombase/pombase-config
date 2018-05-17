@@ -1030,12 +1030,14 @@
     "single_allele_phenotype": {
       "feature_type": "genotype",
       "display_name": "Single allele phenotype",
-      "inherits_from": "fission_yeast_phenotype"
+      "inherits_from": "fission_yeast_phenotype",
+      "help_route": "/documentation/gene-page-phenotypes"
     },
     "multi_allele_phenotype": {
       "feature_type": "genotype",
       "display_name": "Multi-allele phenotype",
-      "inherits_from": "fission_yeast_phenotype"
+      "inherits_from": "fission_yeast_phenotype",
+      "help_route": "/documentation/gene-page-phenotypes"
     },
     "phenotype_condition": {
       "feature_type": "genotype",
@@ -1070,7 +1072,8 @@
         "has_regulation_target",
         "has_substrate",
         "binds"
-      ]
+      ],
+      "help_route": "/documentation/gene-page-gene-ontology"
     },
     "biological_process": {
       "feature_type": "gene",
@@ -1086,7 +1089,8 @@
       "summary_relation_ranges_to_collect": [
         "has_input",
         "has_regulation_target"
-      ]
+      ],
+      "help_route": "/documentation/gene-page-gene-ontology"
     },
     "cellular_component": {
       "feature_type": "gene",
@@ -1098,7 +1102,8 @@
         "during",
         "exists_during",
         "happens_during"
-      ]
+      ],
+      "help_route": "/documentation/gene-page-gene-ontology"
     },
     "PSI-MOD": {
       "feature_type": "gene",
@@ -1113,7 +1118,8 @@
       "summary_relation_ranges_to_collect": [
         "added_by",
         "removed_by"
-      ]
+      ],
+      "help_route": "/documentation/gene-page-modifications"
     },
     "qualitative_gene_expression": {
       "feature_type": "gene",
@@ -1133,7 +1139,8 @@
       "feature_type": "gene",
       "display_name": "Taxonomic conservation",
       "columns_to_show": ["desc-rel", "gene", "count"],
-      "hideTermDetails": "true"
+      "hideTermDetails": "true",
+      "help_route": "/documentation/taxonomic-conservation"
     },
     "ex_tools": {
       "display_name": "Experimental tools",
