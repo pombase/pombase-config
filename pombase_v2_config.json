@@ -1082,7 +1082,7 @@
       "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
       "external_link_config": [
         {
-          "display_text": "View ancestor chart ...",
+          "display_text": "View process term ancestry ...",
           "url_prefix": "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids}/chart?ids="
         }
       ],
