@@ -90,7 +90,7 @@
       "link": "/status/priority-unstudied-genes",
       "link_label": "more ...",
       "date_added": "2017-10-10",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Biological process overview",
@@ -98,7 +98,7 @@
       "head_image": ["assets/explore/2017-10-08-slimming.png"],
       "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes",
       "date_added": "2017-10-10",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Data mining",
@@ -107,7 +107,7 @@
       "head_image": ["assets/explore/2017-10-13-data_mining.png"],
       "content": "Use the [Advanced Search](/query) to construct complex queries (GO, phenotypes, taxonomic distribution, domain, chromosomal location).",
       "date_added": "2017-10-13",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Over 200,000 curated annotations",
@@ -116,7 +116,7 @@
       "head_image": ["explore/2017-11-06-200_000_curated_annotations.png"],
       "content": "PomBase has integrated over 200,000 manually curated gene-specific annotations. See our [Resource Metrics](about/resource-metrics) page for more literature curation progress reports.",
       "date_added": "2017-11-06",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Building networks",
@@ -125,7 +125,7 @@
       "head_image": ["explore/2017-11-06-building_networks.png"],
       "content": "PomBase uses manually curated Gene Ontology annotation to generate biological process-specific networks, such as the cytokinesis network excerpted above. Currently available networks are linked to the [GO slim](browse-curation/fission-yeast-go-slim-terms) page.",
       "date_added": "2017-11-06",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Help!",
@@ -134,7 +134,7 @@
       "head_image": ["explore/2017-11-06-help.png"],
       "content": "PomBase provides extensive documentation and answers many questions in the [FAQ](faq). For any information you can't find there, please <app-contact-email [linkName]=\"'contact the helpdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
       "date_added": "2017-11-06",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Community curation in Canto",
@@ -143,7 +143,7 @@
       "head_image": ["explore/2017-11-06-community_curation.png"],
       "content": "PomBase has pioneered a community curation system that enables researchers to contribute publication-based annotations directly to database curators. To participate, search for the PubMed ID of your paper [in Canto](https://curation.pombase.org/pombe) or <app-contact-email [linkName]=\"'contact the helpdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
       "date_added": "2017-11-06",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Motif search",
@@ -152,7 +152,7 @@
       "head_image": ["explore/2017-11-06-motif_search.png"],
       "content": "The [Protein Motif Search Tool](https://curation.pombase.org/cgi-bin/sanger_motif_search) finds any user-defined amino acid sequence. The search supports exact match queries, wildcards, gaps, and ambiguity codes.",
       "date_added": "2017-11-06",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "The naming of parts",
@@ -161,7 +161,7 @@
       "head_image": ["explore/2017-11-09-name_that_gene.png"],
       "content": "4020 of the 5070 fission yeast protein-coding genes now have assigned standard names. We encourage all authors and reviewers to ensure that gene names are registered prior to publication. Visit our [gene registry page](gene-names) and the [<em>S. pombe</em> gene naming guidelines](gene-names/gene-naming-guidelines) for more information.",
       "date_added": "2017-11-06",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Disease gene orthologs",
@@ -170,6 +170,15 @@
       "head_image": ["explore/2017-11-06-disease_gene_orthologs.png"],
       "content": "Of the 3526 *S. pombe* with identified human orthologs, over 500 have been implicated in disease. These are manually annotated with terms from a small in-house vocabulary, and can be searched as described in the [disease gene FAQ](faq/how-can-i-find-s.-pombe-genes-associated-human-disease).",
       "date_added": "2017-11-06",
+      "is_current": false
+    },
+    {
+      "title": "In Methods and Protocols",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2018-05-21-pombase-book-chapter.png"],
+      "content": "Curation philosophy and data organization, a user guide to getting the most from PomBase. [Free download](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4) thanks to the [Wellcome Trust](https://wellcome.ac.uk/)\n\n[View chapter ...](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)",
+      "date_added": "2018-05-21",
       "is_current": true
     }
   ],
