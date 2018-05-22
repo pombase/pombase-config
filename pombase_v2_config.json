@@ -80,7 +80,7 @@
       "head_image": ["assets/community/2017-10-07-community_curation_pie_and_cloud.png"],
       "content": "<app-recent-community-pubs></app-recent-community-pubs>",
       "date_added": "2017-10-10",
-      "is_current": true
+      "is_current": false
     },
     {
       "title": "Step into the unknown",
@@ -806,7 +806,8 @@
     "fission_yeast_phenotype": {
       "feature_type": "genotype",
       "display_name": "Phenotype",
-      "columns_to_show": ["desc-rel", "genotype", "evidence", "conditions", "reference", "extension"],
+      "columns_to_show": ["desc-rel", "genotype", "genotype_background",
+                          "evidence", "conditions", "reference", "extension"],
       "external_db_link_keys": ["BioPortal"],
       "filters": [
         {
