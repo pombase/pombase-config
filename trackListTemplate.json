@@ -54,22 +54,6 @@
   },
   "tracks" : [
     {
-      "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
-      "type" : "SequenceTrack",
-      "label" : "DNA sequence",
-      "chunkSize" : 20000,
-      "key" : "DNA sequence",
-      "seqType" : "dna",
-      "storeClass" : "JBrowse/Store/Sequence/StaticChunked",
-      "category" : "Reference sequence",
-      "data_type": "PomBase track",
-      "alleles": "WT",
-      "first_author": "Wood",
-      "growth_phase_or_response": "vegetative growth",
-      "pmed_id": 11859360,
-      "study_ID": "not specified"
-    },
-    {
       "trackType" : "CanvasFeatures",
       "key" : "PomBase forward strand features",
       "label" : "PomBase forward strand features",
