@@ -16,7 +16,7 @@
       "source_url": "Source URL",
       "conditions": "Conditions",
       "mating_type": "Mating type and ploidy",
-      "technical_mutant_background": "Background mutations"
+      "technical_strain_background": "Strain background mutations"
     },
     "displayColumns" : [
       "data_type",
@@ -24,7 +24,7 @@
       "alleles",
       "growth_phase_or_response",
       "assayed_gene_product",
-      "experimental_mutant_background",
+      "technical_strain_background",
       "mating_type",
       "conditions",
       "study_id",
