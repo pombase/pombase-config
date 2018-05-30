@@ -173,11 +173,11 @@
       "show_on_front_page": false
     },
     {
-      "title": "In Methods and Protocols",
+      "title": "Methods and Protocols chapter",
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2018-05-21-pombase-book-chapter.png"],
-      "content": "A user guide to getting the most from PomBase, curation philosophy and data organization. [Free download](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4) thanks to the [Wellcome Trust](https://wellcome.ac.uk/).\n\n[View chapter ...](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)",
+      "content": "A guide to getting the most from PomBase, and to its curation philosophy and data organization. [Free download](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4) thanks to the [Wellcome Trust](https://wellcome.ac.uk/).\n\n[View chapter ...](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)",
       "date_added": "2018-05-21",
       "show_on_front_page": true
     }
