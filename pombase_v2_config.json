@@ -1451,6 +1451,14 @@
       "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
     },
     {
+      "ref_type": "Orthologs",
+      "feature_types": ["mRNA gene", "pseudogene"],
+      "name": "HCOP",
+      "description": "Ortholog predictions, integrated methods, multispecies",
+      "field_name": "uniquename",
+      "url": "https://www.genenames.org/cgi-bin/search?search_type=all&search=+<<IDENTIFIER>>"
+    },
+    {
       "ref_type": "Promoters",
       "feature_types": ["ALL"],
       "name": "Eukaryotic Promoter Database",
