@@ -52,11 +52,7 @@
       "study_id"
     ]
   },
-  "defaultTracks": [
-    "PomBase forward strand features",
-    "DNA sequence",
-    "PomBase reverse strand features"
-  ],
+  "defaultTracks": "PomBase forward strand features,DNA sequence,PomBase reverse strand features",
   "tracks" : [
     {
       "trackType" : "CanvasFeatures",
