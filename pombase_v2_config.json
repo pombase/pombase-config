@@ -66,6 +66,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Yukawa M. et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-06-13-toda-kinesin-14.png"],
+      "content": "Model illustrating collaborative inward force generation by kinesin-14s.  Originally published in the <a href='http://jcs.biologists.org/content/131/1/jcs210740.long'>Journal of Cell Science</a>.",
+      "link": "/reference/PMID:29167352",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-06-13",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-04-05-community_papers_curated.png"],
