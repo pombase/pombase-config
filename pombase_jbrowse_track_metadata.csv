@@ -145,8 +145,11 @@ Transcription start sites,yes,yes,Transcription start sites during oxidative str
 Transcription start sites,yes,yes,Transcription start sites during nitrogen starvation (forward strand) - Thodberg et al (2018),,,WT,h-,"glucose MM, no nitrogen",nitrogen starvation,forward,CAGE,Thodberg,2018,xxx,GSE110976,GEO,"GSM3019619, GSM3019620, GSM3019621",,,bigWig,https://www.pombase.org/external_datasets/Thodberg_GSE110976/GSE110976_EMM_nitro_plus.bw
 Transcription start sites,yes,yes,Transcription start sites during nitrogen starvation (reverse strand) - Thodberg et al (2018),,,WT,h-,"glucose MM, no nitrogen",nitrogen starvation,reverse,CAGE,Thodberg,2018,xxx,GSE110976,GEO,"GSM3019619, GSM3019620, GSM3019621",,,bigWig,https://www.pombase.org/external_datasets/Thodberg_GSE110976/GSE110976_EMM_nitro_minus.bw
 Transcription start sites,yes,no,Consensus transcription start sites - Thodberg et al (2018),,,WT,h-,"glucose MM, YES, YES & H2O2, YES & heatshock, glucose MM & no nitrogen",multiple (combined data),both,CAGE,Thodberg,2018,xxx,GSE110976,GEO,GSE110976,,,bed,https://www.pombase.org/external_datasets/Thodberg_GSE110976/GSE110976_TSSs.sorted.bed.gz
-Transposon insertions,,yes,Hermes transposon insertions,,ura4ÐD18 leu1Ð32,WT,h-,,vegetative growth,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
-Transposon insertions,,yes,Hemes HMM state,,ura4ÐD18 leu1Ð32,WT,h-,,vegetative growth,,not specified,Grech,2018,xxx,not available,,,,,bigWig,
-Transposon insertions,,yes,Hermes HMM-defined elements,,ura4ÐD18 leu1Ð32,WT,h-,,vegetative growth,,not specified,Grech,2018,xxx,not available,,,,,bed,
-Nucleosome positioning,,yes,Nucleosome positioning in WT,,ura4ÐD18 leu1Ð32,WT,h-,,vegetative growth,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
-Comparative genomics,,yes,Conservation (phyloP),,,not applicable,h-,,not applicable,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
+Transposon insertions,yes,yes,Hermes transposon insertions,,ura4_D18 leu1_32,WT,h-,,vegetative growth,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
+Transposon insertions,yes,yes,Hemes HMM state,,ura4_D18 leu1_32,WT,h-,,vegetative growth,,not specified,Grech,2018,xxx,not available,,,,,bigWig,
+Transposon insertions,yes,yes,Hermes HMM-defined elements,,ura4_D18 leu1_32,WT,h-,,vegetative growth,,not specified,Grech,2018,xxx,not available,,,,,bed,
+Nucleosome positioning,yes,yes,Nucleosome positioning in WT,,ura4_D18 leu1_32,WT,h-,,vegetative growth,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
+Comparative genomics,yes,yes,Conservation (phyloP),,,not applicable,h-,,not applicable,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
+Variation,yes,yes,Indels and SNPs in 57 non-clonal S. Pombe strains,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,not applicable,,,,vcf,
+Variation,yes,yes,Indels in 57 non-clonal S. Pombe strains,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,dbSNP,974702618-974688139,,,vcf,
+Variation,yes,yes,SNPs in 57 non-clonal S. Pombe strains,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,dbSNP,974514578-974688138,,,vcf,
