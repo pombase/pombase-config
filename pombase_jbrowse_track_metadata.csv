@@ -150,5 +150,5 @@ Transposon insertions,yes,yes,Hemes HMM state,,ura4_D18 leu1_32,WT,h-,,vegetativ
 Transposon insertions,yes,yes,Hermes HMM-defined elements,,ura4_D18 leu1_32,WT,h-,,vegetative growth,,not specified,Grech,2018,xxx,not available,,,,,bed,
 Nucleosome positioning,yes,yes,Nucleosome positioning in WT,,ura4_D18 leu1_32,WT,h-,,vegetative growth,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
 Comparative genomics,yes,yes,Conservation (phyloP),,,not applicable,h-,,not applicable,,HT sequencing,Grech,2018,xxx,not available,,,,,bigWig,
-Variation,yes,yes,Indels in 161 S. pombe natural isolates,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,dbSNP,974702618-974688139,,,vcf,
-Variation,yes,yes,SNPs in 161 S. pombe natural isolates,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,dbSNP,974514578-974688138,,,vcf,
+Variation,yes,yes,Indels in 161 S. pombe natural isolates,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,dbSNP,974702618-974688139,,,vcf,https://www.pombase.org/external_datasets/DJeffares_Diversity/Schizosaccharomycespombeindels.gatk.union.genotyped.filter2.vcf.gz
+Variation,yes,yes,SNPs in 161 S. pombe natural isolates,,,not applicable,h-,,not applicable,,not specified,Jeffares,2015,25665008,,dbSNP,974514578-974688138,,,vcf,https://www.pombase.org/external_datasets/DJeffares_Diversity/Schizosaccharomycespombesnps.20121212.filt3c.all.snpsonly.anno4.vcf.gz
