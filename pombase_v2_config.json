@@ -88,6 +88,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Curto M. et al., 2017",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-06-26-curto-dni2.png"],
+      "content": "The ancient claudin Dni2 facilitates cell fusion at the shmoo tip. Originally published in <a href='https://link.springer.com/article/10.1007%2Fs00018-017-2709-4'>Cellular and Molecular Life Sciences</a>.",
+      "link": "/reference/PMID:29134248",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-06-26",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-04-05-community_papers_curated.png"],
