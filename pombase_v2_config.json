@@ -99,6 +99,16 @@
       "show_on_front_page": true
     },
     {
+      "title": "MacKay K. et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-07-03-mackay-GrapHi-C.png"],
+      "content": "Graph-based visualization of Hi-C datasets. Originally published in <a href='https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3507-2'>BMC Research Notes</a>.",
+      "link": null,
+      "date_added": "2018-07-03",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-04-05-community_papers_curated.png"],
