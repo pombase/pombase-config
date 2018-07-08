@@ -1782,6 +1782,30 @@
     "solr_url": "http://localhost:8983/solr",
     "close_synonym_boost": 0.45,
     "distant_synonym_boost": 0.2
+  },
+  "gene_results": {
+    "visualisation": {
+      "columns": [
+        {
+          "name": "deletion_viability",
+          "display_name": "Deletion viability",
+          "attr_values": {
+            "inviable": {
+              "color": "#f44"
+            },
+            "viable": {
+              "color": "#4f4"
+            },
+            "depends_on_conditions": {
+              "color": "#44f"
+            },
+            "unknown": {
+              "color": "#777"
+            }
+          }
+        }
+      ]
+    }
   }
 }
 
