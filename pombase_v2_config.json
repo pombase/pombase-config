@@ -455,7 +455,7 @@
       "constraints": { "term": { "termid": "FYPO:0002061", "name": "inviable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
     },
     "canned_query:conserved_in_S_cerevisiae": {
-      "name": "Conserved in S. cerevisiae",
+      "name": "Proteins conserved in *S. cerevisiae*",
       "constraints": {
         "not": [
           {
@@ -469,7 +469,7 @@
           {
             "term": {
               "termid": "PBO:0000055",
-              "name": "no apparent S. cerevisiae ortholog",
+              "name": "no apparent *S. cerevisiae* ortholog",
               "single_or_multi_allele": null,
               "expression": null
             }
@@ -478,7 +478,7 @@
       }
     },
     "canned_query:conserved_in_vertebrates": {
-      "name": "Conserved in human/vertebrates",
+      "name": "Proteins conserved in human/vertebrates",
       "constraints":{
         "term": {
           "termid": "PBO:0011070",
