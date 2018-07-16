@@ -1803,9 +1803,38 @@
               "color": "#777"
             }
           }
+        },
+        {
+          "name": "go_component",
+          "display_name": "GO component",
+          "attr_values": {
+            "nucleus": {
+              "color": "#a05"
+            },
+            "endoplasmic reticulum": {
+              "color": "#4f4"
+            },
+            "mitochondria": {
+              "color": "#44f"
+            },
+            "cytoplasm": {
+              "color": "#2bf"
+            },
+            "other": {
+              "color": "#a73"
+            },
+            "none": {
+              "color": "#777"
+            }
+          }
         }
       ]
     }
+  },
+  "query_data_config": {
+    "go_components": [
+      "GO:0005634", "GO:0005783", "GO:0005739", "GO:0005737"
+    ]
   }
 }
 
