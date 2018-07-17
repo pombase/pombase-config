@@ -1827,6 +1827,30 @@
               "color": "#777"
             }
           }
+        },
+        {
+          "name": "ortholog_taxonids:9606",
+          "display_name": "Human ortholog",
+          "attr_values": {
+            "present": {
+              "color": "#3c2"
+            },
+            "absent": {
+              "color": "#c32"
+            }
+          }
+        },
+        {
+          "name": "ortholog_taxonids:4932",
+          "display_name": "Budding yeast ortholog",
+          "attr_values": {
+            "present": {
+              "color": "#3c2"
+            },
+            "absent": {
+              "color": "#c32"
+            }
+          }
         }
       ]
     }
