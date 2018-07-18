@@ -1800,7 +1800,7 @@
         {
           "name": "deletion_viability",
           "display_name": "Deletion viability",
-          "default_order": "reverse",
+          "default_order": "forward",
           "attr_values": {
             "inviable": {
               "color": "#f44"
