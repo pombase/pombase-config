@@ -120,6 +120,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Parua P. et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-07-18-parua-cdk9-pp1-switch.png"],
+      "content": "A Cdk9-PP1 switch for RNA polymerase II elongation-termination. Originally published in <a href='https://www.nature.com/articles/s41586-018-0214-z'>Nature</a>. ",
+      "link": "/reference/PMID:29899453",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-07-18",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-04-05-community_papers_curated.png"],
