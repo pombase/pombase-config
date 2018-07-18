@@ -1789,6 +1789,7 @@
         {
           "name": "deletion_viability",
           "display_name": "Deletion viability",
+          "default_order": "reverse",
           "attr_values": {
             "inviable": {
               "color": "#f44"
@@ -1807,6 +1808,7 @@
         {
           "name": "go_component",
           "display_name": "GO component",
+          "default_order": "forward",
           "attr_values": {
             "nucleus": {
               "color": "#a05"
@@ -1829,8 +1831,9 @@
           }
         },
         {
-          "name": "ortholog_taxonids:9606",
-          "display_name": "Human ortholog",
+          "name": "ortholog_taxonids:4932",
+          "display_name": "Budding yeast ortholog",
+          "default_order": "reverse",
           "attr_values": {
             "present": {
               "color": "#3c2"
@@ -1841,8 +1844,9 @@
           }
         },
         {
-          "name": "ortholog_taxonids:4932",
-          "display_name": "Budding yeast ortholog",
+          "name": "ortholog_taxonids:9606",
+          "display_name": "Human ortholog",
+          "default_order": "reverse",
           "attr_values": {
             "present": {
               "color": "#3c2"
