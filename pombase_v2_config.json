@@ -142,6 +142,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Meadows. et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-08-13-mad2-anaphase-switch.png"],
+      "content": "Sharpening the anaphase switch. Originally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(17)30069-4'>Cell</a>. ",
+      "link": "/reference/PMID:29996109",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-08-13",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Tay. et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-08-14-tay-portli.png"],
+      "content": "Microtubule depolymerization in scd1&Delta; cells leads to PORTLI growth. Originally published in the <a href=''>Journal of Cell Science</a>. ",
+      "link": "/reference/PMID:29930085",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-08-14",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-04-05-community_papers_curated.png"],
