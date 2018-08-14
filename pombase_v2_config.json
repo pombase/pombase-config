@@ -1879,6 +1879,67 @@
           }
         },
         {
+          "name": "go_process_superslim",
+          "display_name": "GO process",
+          "default_order": "forward",
+          "attr_values": {
+            "signaling": {
+              "color": "#9b9144"
+            },
+            "gene expression": {
+              "color": "#5f1827"
+            },
+            "chromatin remodeling": {
+              "color": "#9d7b69"
+            },
+            "protein folding": {
+              "color": "#cf9eb0"
+            },
+            "cellular component biogenesis": {
+              "color": "#da4837"
+            },
+            "DNA metabolic process": {
+              "color": "#198744"
+            },
+            "cell cycle": {
+              "color": "#e41532"
+            },
+            "cytoskeleton organization": {
+              "color": "#cc64d9"
+            },
+            "membrane organization": {
+              "color": "#efbf98"
+            },
+            "organelle localization": {
+              "color": "#c8b35b"
+            },
+            "lipid metabolic process": {
+              "color": "#394b2d"
+            },
+            "small molecule metabolic process": {
+              "color": "#d998f5"
+            },
+            "generation of precursor metabolites and energy": {
+              "color": "#e5c17c"
+            },
+            "transport": {
+              "color": "#c2dd36"
+            },
+            "cellular catabolic process": {
+              "color": "#bbc9b7"
+            },
+            "detoxification": {
+              "color": "#9960d8"
+            },
+            "other": {
+              "color": "#a73"
+            },
+            "none": {
+              "color": "#777"
+            }
+          }
+        },
+        {
           "name": "ortholog_taxonids:4932",
           "display_name": "Budding yeast ortholog",
           "default_order": "reverse",
@@ -1910,6 +1971,12 @@
   "query_data_config": {
     "go_components": [
       "GO:0005634", "GO:0005783", "GO:0005739", "GO:0005737"
+    ],
+    "go_process_superslim": [
+      "GO:0023052", "GO:0010467", "GO:0006338", "GO:0006457", "GO:0044085",
+      "GO:0006259", "GO:0007049", "GO:0007010", "GO:0061024", "GO:0051640",
+      "GO:0006629", "GO:0044281", "GO:0006091", "GO:0006810", "GO:0044248",
+      "GO:0098754"
     ],
     "ortholog_presence_taxonids": [9606, 4932]
   },
