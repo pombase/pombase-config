@@ -643,12 +643,12 @@
     },
     {
       "rel_name": "part_of",
-      "if_descendent_of": "GO:0003824",
+      "if_descendant_of": "GO:0003824",
       "display_name": "involved in"
     },
     {
       "rel_name": "part_of",
-      "if_descendent_of": "GO:0008150",
+      "if_descendant_of": "GO:0008150",
       "display_name": "part of"
     },
     {
@@ -657,119 +657,119 @@
     },
     {
       "rel_name": "has_input",
-      "if_descendent_of": "GO:0003824",
+      "if_descendant_of": "GO:0003824",
       "display_name": "has substrate",
       "reciprocal_display": "substrate of"
     },
     {
       "rel_name": "has_input",
-      "if_descendent_of": "GO:0006810",
+      "if_descendant_of": "GO:0006810",
       "display_name": "transports",
       "reciprocal_display": "transported by"
     },
     {
       "rel_name": "has_input",
-      "if_descendent_of": "GO:0005215",
+      "if_descendant_of": "GO:0005215",
       "display_name": "transports",
       "reciprocal_display": "transported by"
     },
     {
       "rel_name": "has_input",
-      "if_descendent_of": "GO:0005488",
+      "if_descendant_of": "GO:0005488",
       "display_name": "binds",
       "reciprocal_display": "binds"
     },
     {
       "rel_name": "has_input",
-      "if_descendent_of": "GO:0051179",
+      "if_descendant_of": "GO:0051179",
       "display_name": "localizes",
       "reciprocal_display": "localized by"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0003824",
+      "if_descendant_of": "GO:0003824",
       "display_name": "has substrate",
       "reciprocal_display": "substrate of"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0030234",
+      "if_descendant_of": "GO:0030234",
       "display_name": "has substrate",
       "reciprocal_display": "substrate of"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0006810",
+      "if_descendant_of": "GO:0006810",
       "display_name": "transports",
       "reciprocal_display": "transported by"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0005215",
+      "if_descendant_of": "GO:0005215",
       "display_name": "transports",
       "reciprocal_display": "transported by"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0005488",
+      "if_descendant_of": "GO:0005488",
       "display_name": "binds",
       "reciprocal_display": "binds"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0051179",
+      "if_descendant_of": "GO:0051179",
       "display_name": "localizes",
       "reciprocal_display": "localized by"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0005085",
+      "if_descendant_of": "GO:0005085",
       "display_name": "positively regulates",
       "reciprocal_display": "positively regulated by"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0008047",
+      "if_descendant_of": "GO:0008047",
       "display_name": "positively regulates",
       "reciprocal_display": "positively regulated by"
     },
     {
       "rel_name": "has_direct_input",
-      "if_descendent_of": "GO:0004857",
+      "if_descendant_of": "GO:0004857",
       "display_name": "negatively regulates",
       "reciprocal_display": "negatively regulated by"
     },
     {
       "rel_name": "assayed_using",
-      "if_descendent_of": "FYPO:0001985",
+      "if_descendant_of": "FYPO:0001985",
       "display_name": "affecting",
       "reciprocal_display": "affected by mutation in"
     },
     {
       "rel_name": "assayed_enzyme",
-      "if_descendent_of": "FYPO:0001985",
+      "if_descendant_of": "FYPO:0001985",
       "display_name": "affecting activity of",
       "reciprocal_display": "activity affected by mutation in"
     },
     {
       "rel_name": "assayed_substrate",
-      "if_descendent_of": "FYPO:0001985",
+      "if_descendant_of": "FYPO:0001985",
       "display_name": "affecting substrate",
       "reciprocal_display": "affected by mutation in"
     },
     {
       "rel_name": "assayed_using",
-      "if_descendent_of": "FYPO:0000257",
+      "if_descendant_of": "FYPO:0000257",
       "display_name": "affecting"
     },
     {
       "rel_name": "assayed_enzyme",
-      "if_descendent_of": "FYPO:0000257",
+      "if_descendant_of": "FYPO:0000257",
       "display_name": "affecting activity of"
     },
     {
       "rel_name": "assayed_substrate",
-      "if_descendent_of": "FYPO:0000257",
+      "if_descendant_of": "FYPO:0000257",
       "display_name": "affecting"
     }
   ],
@@ -1940,6 +1940,73 @@
           }
         },
         {
+          "name": "go_function",
+          "display_name": "GO function",
+          "default_order": "forward",
+          "attr_values": {
+            "oxidoreductase activity": {
+              "color": "#89a6a1"
+            },
+            "hydrolase activity": {
+              "color": "#2a394a"
+            },
+            "transferase activity": {
+              "color": "#6d3ba4"
+            },
+            "ligase activity": {
+              "color": "#da9d46"
+            },
+            "cyclase activity": {
+              "color": "#d770f5"
+            },
+            "lyase activity": {
+              "color": "#99a1c0"
+            },
+            "catalytic activity": {
+              "color": "#dd37de"
+            },
+            "enzyme regulator activity": {
+              "color": "#feb62f"
+            },
+            "transcription regulator activity": {
+              "color": "#cb3063"
+            },
+            "transporter activity": {
+              "color": "#f498f0"
+            },
+            "cytoskeletal protein binding": {
+              "color": "#6ba420"
+            },
+            "unfolded protein binding": {
+              "color": "#21a18f"
+            },
+            "DNA binding": {
+              "color": "#821fad"
+            },
+            "RNA binding": {
+              "color": "#f6a0cd"
+            },
+            "metal ion binding": {
+              "color": "#bc6384"
+            },
+            "lipid binding": {
+              "color": "#22849b"
+            },
+            "cell adhesion mediator activity": {
+              "color": "#3f6865"
+            },
+            "structural molecule activity": {
+              "color": "#cdb4da"
+            },
+            "other": {
+              "color": "#a73"
+            },
+            "none": {
+              "color": "#777"
+            }
+          }
+        },
+        {
           "name": "ortholog_taxonids:4932",
           "display_name": "Budding yeast ortholog",
           "default_order": "reverse",
@@ -1977,6 +2044,12 @@
       "GO:0006259", "GO:0007049", "GO:0007010", "GO:0061024", "GO:0051640",
       "GO:0006629", "GO:0044281", "GO:0006091", "GO:0006810", "GO:0044248",
       "GO:0098754"
+    ],
+    "go_function": [
+      "GO:0016491", "GO:0016787", "GO:0016740", "GO:0016874", "GO:0009975",
+      "GO:0016829", "GO:0003824", "GO:0030234", "GO:0140110", "GO:0005215",
+      "GO:0008092", "GO:0051082", "GO:0003677", "GO:0003723", "GO:0046872",
+      "GO:0008289", "GO:0098631", "GO:0005198"
     ],
     "ortholog_presence_taxonids": [9606, 4932]
   },
