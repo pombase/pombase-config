@@ -1843,6 +1843,7 @@
           "name": "deletion_viability",
           "display_name": "Deletion viability",
           "default_order": "forward",
+          "column_type": "attribute",
           "attr_values": {
             "inviable": {
               "color": "#f44"
@@ -1862,6 +1863,7 @@
           "name": "go_component",
           "display_name": "GO component",
           "default_order": "forward",
+          "column_type": "ontology_term",
           "attr_values": {
             "nucleus": {
               "color": "#a05"
@@ -1887,6 +1889,7 @@
           "name": "go_process_superslim",
           "display_name": "GO process",
           "default_order": "forward",
+          "column_type": "ontology_term",
           "attr_values": {
             "signaling": {
               "color": "#9b9144"
@@ -1948,6 +1951,7 @@
           "name": "go_function",
           "display_name": "GO function",
           "default_order": "forward",
+          "column_type": "ontology_term",
           "attr_values": {
             "oxidoreductase activity": {
               "color": "#89a6a1"
@@ -2015,6 +2019,7 @@
           "name": "ortholog_taxonids:4932",
           "display_name": "Budding yeast ortholog",
           "default_order": "reverse",
+          "column_type": "ortholog",
           "attr_values": {
             "present": {
               "color": "#3c2"
@@ -2028,6 +2033,7 @@
           "name": "ortholog_taxonids:9606",
           "display_name": "Human ortholog",
           "default_order": "reverse",
+          "column_type": "ortholog",
           "attr_values": {
             "present": {
               "color": "#3c2"
