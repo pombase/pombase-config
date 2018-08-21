@@ -1186,6 +1186,65 @@
         "has_substrate",
         "binds"
       ],
+      "filters": [
+        {
+          "filter_name": "extension",
+          "display_name": "During",
+          "scope": ["gene", "term", "genotype", "reference"],
+          "detailed_view_only": true,
+          "extension_rel_type_name": "exists_during",
+          "extension_categories": [
+            {
+              "display_name": "interphase",
+              "ancestors": ["GO:0051325"]
+            },
+            {
+              "display_name": "G1 phase",
+              "ancestors": ["GO:0051318"]
+            },
+            {
+              "display_name": "S phase",
+              "ancestors": ["GO:0051320"]
+            },
+            {
+              "display_name": "G2 phase",
+              "ancestors": ["GO:0051319"]
+            },
+            {
+              "display_name": "M phase",
+              "ancestors": ["GO:0000279"]
+            },
+            {
+              "display_name": "mitotic prometaphase",
+              "ancestors": ["GO:0000236"]
+            },
+            {
+              "display_name": "prophase",
+              "ancestors": ["GO:0051324"]
+            },
+            {
+              "display_name": "metaphase",
+              "ancestors": ["GO:0051323"]
+            },
+            {
+              "display_name": "anaphase",
+              "ancestors": ["GO:0051322"]
+            },
+            {
+              "display_name": "telophase",
+              "ancestors": ["GO:0051326"]
+            },
+            {
+              "display_name": "G1 to G0 transition",
+              "ancestors": ["GO:0070314"]
+            },
+            {
+              "display_name": "cell quiescence",
+              "ancestors": ["GO:0044838"]
+            }
+          ]
+        }
+      ],
       "help_route": "/documentation/gene-page-gene-ontology"
     },
     "biological_process": {
@@ -1203,6 +1262,65 @@
         "has_input",
         "has_regulation_target"
       ],
+      "filters": [
+        {
+          "filter_name": "extension",
+          "display_name": "During",
+          "scope": ["gene", "term", "genotype", "reference"],
+          "detailed_view_only": true,
+          "extension_rel_type_name": "exists_during",
+          "extension_categories": [
+            {
+              "display_name": "interphase",
+              "ancestors": ["GO:0051325"]
+            },
+            {
+              "display_name": "G1 phase",
+              "ancestors": ["GO:0051318"]
+            },
+            {
+              "display_name": "S phase",
+              "ancestors": ["GO:0051320"]
+            },
+            {
+              "display_name": "G2 phase",
+              "ancestors": ["GO:0051319"]
+            },
+            {
+              "display_name": "M phase",
+              "ancestors": ["GO:0000279"]
+            },
+            {
+              "display_name": "mitotic prometaphase",
+              "ancestors": ["GO:0000236"]
+            },
+            {
+              "display_name": "prophase",
+              "ancestors": ["GO:0051324"]
+            },
+            {
+              "display_name": "metaphase",
+              "ancestors": ["GO:0051323"]
+            },
+            {
+              "display_name": "anaphase",
+              "ancestors": ["GO:0051322"]
+            },
+            {
+              "display_name": "telophase",
+              "ancestors": ["GO:0051326"]
+            },
+            {
+              "display_name": "G1 to G0 transition",
+              "ancestors": ["GO:0070314"]
+            },
+            {
+              "display_name": "cell quiescence",
+              "ancestors": ["GO:0044838"]
+            }
+          ]
+        }
+      ],
       "help_route": "/documentation/gene-page-gene-ontology"
     },
     "cellular_component": {
@@ -1215,6 +1333,65 @@
         "during",
         "exists_during",
         "happens_during"
+      ],
+      "filters": [
+        {
+          "filter_name": "extension",
+          "display_name": "During",
+          "scope": ["gene", "term", "genotype", "reference"],
+          "detailed_view_only": true,
+          "extension_rel_type_name": "exists_during",
+          "extension_categories": [
+            {
+              "display_name": "interphase",
+              "ancestors": ["GO:0051325"]
+            },
+            {
+              "display_name": "G1 phase",
+              "ancestors": ["GO:0051318"]
+            },
+            {
+              "display_name": "S phase",
+              "ancestors": ["GO:0051320"]
+            },
+            {
+              "display_name": "G2 phase",
+              "ancestors": ["GO:0051319"]
+            },
+            {
+              "display_name": "M phase",
+              "ancestors": ["GO:0000279"]
+            },
+            {
+              "display_name": "mitotic prometaphase",
+              "ancestors": ["GO:0000236"]
+            },
+            {
+              "display_name": "prophase",
+              "ancestors": ["GO:0051324"]
+            },
+            {
+              "display_name": "metaphase",
+              "ancestors": ["GO:0051323"]
+            },
+            {
+              "display_name": "anaphase",
+              "ancestors": ["GO:0051322"]
+            },
+            {
+              "display_name": "telophase",
+              "ancestors": ["GO:0051326"]
+            },
+            {
+              "display_name": "G1 to G0 transition",
+              "ancestors": ["GO:0070314"]
+            },
+            {
+              "display_name": "cell quiescence",
+              "ancestors": ["GO:0044838"]
+            }
+          ]
+        }
       ],
       "help_route": "/documentation/gene-page-gene-ontology"
     },
@@ -1236,11 +1413,129 @@
     },
     "qualitative_gene_expression": {
       "feature_type": "gene",
-      "display_name": "Qualitative gene expression"
+      "display_name": "Qualitative gene expression",
+      "filters": [
+        {
+          "filter_name": "extension",
+          "display_name": "During",
+          "scope": ["gene", "term", "genotype", "reference"],
+          "detailed_view_only": true,
+          "extension_rel_type_name": "exists_during",
+          "extension_categories": [
+            {
+              "display_name": "interphase",
+              "ancestors": ["GO:0051325"]
+            },
+            {
+              "display_name": "G1 phase",
+              "ancestors": ["GO:0051318"]
+            },
+            {
+              "display_name": "S phase",
+              "ancestors": ["GO:0051320"]
+            },
+            {
+              "display_name": "G2 phase",
+              "ancestors": ["GO:0051319"]
+            },
+            {
+              "display_name": "M phase",
+              "ancestors": ["GO:0000279"]
+            },
+            {
+              "display_name": "mitotic prometaphase",
+              "ancestors": ["GO:0000236"]
+            },
+            {
+              "display_name": "prophase",
+              "ancestors": ["GO:0051324"]
+            },
+            {
+              "display_name": "metaphase",
+              "ancestors": ["GO:0051323"]
+            },
+            {
+              "display_name": "anaphase",
+              "ancestors": ["GO:0051322"]
+            },
+            {
+              "display_name": "telophase",
+              "ancestors": ["GO:0051326"]
+            },
+            {
+              "display_name": "G1 to G0 transition",
+              "ancestors": ["GO:0070314"]
+            },
+            {
+              "display_name": "cell quiescence",
+              "ancestors": ["GO:0044838", "PBQ:0000001"]
+            }
+          ]
+        }
+      ]
     },
     "quantitative_gene_expression": {
       "feature_type": "gene",
-      "display_name": "Quantitative gene expression"
+      "display_name": "Quantitative gene expression",
+      "filters": [
+        {
+          "filter_name": "extension",
+          "display_name": "During",
+          "scope": ["gene", "term", "genotype", "reference"],
+          "detailed_view_only": true,
+          "extension_rel_type_name": "exists_during",
+          "extension_categories": [
+            {
+              "display_name": "interphase",
+              "ancestors": ["GO:0051325"]
+            },
+            {
+              "display_name": "G1 phase",
+              "ancestors": ["GO:0051318"]
+            },
+            {
+              "display_name": "S phase",
+              "ancestors": ["GO:0051320"]
+            },
+            {
+              "display_name": "G2 phase",
+              "ancestors": ["GO:0051319"]
+            },
+            {
+              "display_name": "M phase",
+              "ancestors": ["GO:0000279"]
+            },
+            {
+              "display_name": "mitotic prometaphase",
+              "ancestors": ["GO:0000236"]
+            },
+            {
+              "display_name": "prophase",
+              "ancestors": ["GO:0051324"]
+            },
+            {
+              "display_name": "metaphase",
+              "ancestors": ["GO:0051323"]
+            },
+            {
+              "display_name": "anaphase",
+              "ancestors": ["GO:0051322"]
+            },
+            {
+              "display_name": "telophase",
+              "ancestors": ["GO:0051326"]
+            },
+            {
+              "display_name": "G1 to G0 transition",
+              "ancestors": ["GO:0070314"]
+            },
+            {
+              "display_name": "cell quiescence",
+              "ancestors": ["GO:0044838", "PBQ:0000001"]
+            }
+          ]
+        }
+      ]
     },
     "disease_associated": {
       "feature_type": "gene",
