@@ -1469,6 +1469,14 @@
             {
               "display_name": "cell quiescence",
               "ancestors": ["GO:0044838", "PBQ:0000001"]
+            },
+            {
+              "display_name": "mitotic cell cycle",
+              "ancestors": ["GO:0000278"]
+            },
+            {
+              "display_name": "single-celled organism vegetative growth phase",
+              "ancestors": ["GO:0072690"]
             }
           ]
         }
@@ -1532,6 +1540,14 @@
             {
               "display_name": "cell quiescence",
               "ancestors": ["GO:0044838", "PBQ:0000001"]
+            },
+            {
+              "display_name": "mitotic cell cycle",
+              "ancestors": ["GO:0000278"]
+            },
+            {
+              "display_name": "single-celled organism vegetative growth phase",
+              "ancestors": ["GO:0072690"]
             }
           ]
         }
