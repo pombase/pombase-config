@@ -3,6 +3,7 @@
   "database_name": "PomBase",
   "site_description": "PomBase is a comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "load_organism_taxonid": 4896,
+  "helpdesk_address": "vw253@cam.ac.uk",
   "organisms": [
     {
       "taxonid": 4896,
