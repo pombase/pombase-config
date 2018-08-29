@@ -1,9 +1,11 @@
 {
   "site_name": "PomBase",
   "database_name": "PomBase",
+  "database_citation": "PMID:22039153",
   "site_description": "PomBase is a comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "load_organism_taxonid": 4896,
   "helpdesk_address": "vw253@cam.ac.uk",
+  "base_url": "https://www.pombase.org",
   "organisms": [
     {
       "taxonid": 4896,
@@ -2420,6 +2422,9 @@
         "GO:1903293", "GO:1990104", "GO:1990204", "GO:1990234", "GO:1990342",
         "GO:1990351", "GO:1990391"
       ]
+    },
+    "rnacentral": {
+      "export_so_ids": ["SO:0000252", "SO:0000253", "SO:0000274", "SO:0000275", "SO:0000655"]
     }
   }
 }
