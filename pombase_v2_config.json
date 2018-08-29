@@ -10,7 +10,8 @@
     {
       "taxonid": 4896,
       "genus": "Schizosaccharomyces",
-      "species": "pombe"
+      "species": "pombe",
+      "assembly_version": "ASM294v2"
     },
     {
       "taxonid": 9606,
