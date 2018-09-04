@@ -495,11 +495,11 @@
       "constraints": {"or":[{"term":{"termid":"FYPO:0000078","name":"abnormal cellular respiration","single_or_multi_allele":"single","expression":"any"}},{"term":{"termid":"GO:0045333","name":"cellular respiration","single_or_multi_allele":null,"expression":null}}]}
     },
     "canned_query:viable_deletions": {
-      "name": "Viable deletions",
+      "name": "Viable deletions and disruptions",
       "constraints": { "term": { "termid": "FYPO:0002060", "name": "viable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
     },
     "canned_query:inviable_deletions": {
-      "name": "Inviable deletions",
+      "name": "Inviable deletions and disruptions",
       "constraints": { "term": { "termid": "FYPO:0002061", "name": "inviable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
     },
     "canned_query:conserved_in_S_cerevisiae": {
