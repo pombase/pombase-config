@@ -6,6 +6,26 @@
   "load_organism_taxonid": 4896,
   "helpdesk_address": "helpdesk@pombase.org",
   "base_url": "https://www.pombase.org",
+  "missing_browser_images": [
+    "SPNCRNA.1701",
+    "SPAC110.06",
+    "SPAPB1A11.06",
+    "SPNCRNA.1705",
+    "SPNCRNA.1703",
+    "SPNCRNA.1702",
+    "SPNCRNA.1704",
+    "SPNCRNA.1698",
+    "SPNCRNA.1712",
+    "SPNCRNA.1709",
+    "SPNCRNA.1708",
+    "SPNCRNA.1707",
+    "SPCC4G3.20",
+    "SPNCRNA.1706",
+    "SPNCRNA.1711",
+    "SPNCRNA.1710",
+    "SPCC1840.13",
+    "SPMITNCRNA.01"
+  ],
   "organisms": [
     {
       "taxonid": 4896,
