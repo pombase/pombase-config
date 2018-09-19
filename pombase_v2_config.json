@@ -166,7 +166,7 @@
       "show_on_front_page": true
     },
     {
-      "title": "Meadows. et al., 2018",
+      "title": "Meadows et al., 2018",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-08-13-mad2-anaphase-switch.png"],
@@ -177,7 +177,7 @@
       "show_on_front_page": true
     },
     {
-      "title": "Tay. et al., 2018",
+      "title": "Tay et al., 2018",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-08-14-tay-portli.png"],
@@ -188,7 +188,7 @@
       "show_on_front_page": true
     },
     {
-      "title": "Sajiki. et al., 2018",
+      "title": "Sajiki et al., 2018",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-08-27-yanagida-mitotic-restart.png"],
@@ -196,6 +196,17 @@
       "link": "/reference/PMID:30116786",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-27",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Ganguly et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2018-09-20-russell-cadmium.png"],
+      "content": "Genome-wide phenotypic analysis of chromate toxicity.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007595'>PLOS Genetics</a>. ",
+      "link": "/reference/PMID:30148840",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2018-09-20",
       "show_on_front_page": true
     },
     {
