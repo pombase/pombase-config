@@ -887,83 +887,78 @@
     },
     "ISO": {
       "long": "Inferred from Sequence Orthology",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/iso-inferred-sequence-orthology"
     },
     "ISA": {
       "long": "Inferred from Sequence Alignment",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/isa-inferred-sequence-alignment"
     },
     "ISM": {
       "long": "Inferred from Sequence Model",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/ism-inferred-sequence-model"
     },
     "IGC": {
       "long": "Inferred from Genomic Context",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/igc-inferred-genomic-context"
     },
     "IBA": {
       "long": "Inferred from Biological aspect of Ancestor",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/iba-inferred-biological-aspect-ancestor"
     },
     "IBD": {
       "long": "Inferred from Biological aspect of Descendant",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/ibd-inferred-biological-aspect-descendent"
     },
     "IKR": {
       "long": "Inferred from Key Residues",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/ikr-inferred-key-residues"
     },
     "IRD": {
       "long": "Inferred from Rapid Divergence",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/ird-inferred-rapid-divergence"
     },
     "RCA": {
       "long": "inferred from Reviewed Computational Analysis",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/rca-inferred-reviewed-computational-analysis"
     },
     "NAS": {
       "long": "Non-traceable Author Statement",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/nas-non-traceable-author-statement"
     },
     "IC": {
       "long": "Inferred by Curator",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/ic-inferred-curator"
     },
     "ND": {
       "long": "No biological Data available",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/guide-go-evidence-codes"
     },
     "IEA": {
       "long": "Inferred from Electronic Annotation",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/automatically-assigned-evidence-codes"
     },
     "NR": {
       "long": "Not Recorded",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/guide-go-evidence-codes"
     },
     "TAS": {
       "long": "Traceable Author Statement",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://www.geneontology.org/page/tas-traceable-author-statement"
     },
     "HTP": {
-      "long": "Inferred from high throughput experiment",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "long": "Inferred from high throughput experiment"
     },
     "HDA": {
-      "long": "Inferred from high throughput direct assay",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "long": "Inferred from high throughput direct assay"
     },
     "HEP": {
-      "long": "Inferred from high throughput expression pattern",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "long": "Inferred from high throughput expression pattern"
     },
     "HGI": {
-      "long": "Inferred from high throughput genetic interaction",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "long": "Inferred from high throughput genetic interaction"
     },
     "HMP": {
-      "long": "Inferred from high throughput mutant phenotype",
-      "link": "http://geneontology.org/page/guide-go-evidence-codes"
+      "long": "Inferred from high throughput mutant phenotype"
     },
     "UNK": {
       "long": "Unknown"
