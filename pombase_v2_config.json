@@ -1794,14 +1794,6 @@
     {
       "ref_type": "Interactions",
       "feature_types": ["ALL"],
-      "name": "BioGRID",
-      "description": "Physical and genetic interactions",
-      "field_name": "uniquename",
-      "url": "https://thebiogrid.org/276415/summary/schizosaccharomyces-pombe/<<IDENTIFIER>>.html"
-    },
-    {
-      "ref_type": "Interactions",
-      "feature_types": ["ALL"],
       "name": "STRING",
       "description": "Network display of known and predicted interactions and functional associations",
       "field_name": "uniprot_identifier",
