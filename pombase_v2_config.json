@@ -2397,7 +2397,7 @@
         {
           "name": "ortholog_taxonids:4932",
           "display_name": "Budding yeast ortholog",
-          "default_order": "reverse",
+          "default_order": "forward",
           "column_type": "ortholog",
           "attr_values": {
             "present": {
@@ -2411,7 +2411,7 @@
         {
           "name": "ortholog_taxonids:9606",
           "display_name": "Human ortholog",
-          "default_order": "reverse",
+          "default_order": "forward",
           "column_type": "ortholog",
           "attr_values": {
             "present": {
