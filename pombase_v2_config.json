@@ -2221,20 +2221,26 @@
         {
           "name": "deletion_viability",
           "display_name": "Deletion viability",
-          "default_order": "forward",
+          "default_order": "sort_priority",
           "column_type": "attribute",
           "attr_values": {
             "inviable": {
-              "color": "#f44"
-            },
-            "viable": {
-              "color": "#4f4"
+              "color": "#f44",
+              "sort_priority": 1
             },
             "depends_on_conditions": {
-              "color": "#44f"
+              "color": "#44f",
+              "display_name": "variable",
+              "sort_priority": 2
+            },
+            "viable": {
+              "color": "#4f4",
+              "sort_priority": 3
             },
             "unknown": {
-              "color": "#777"
+              "color": "#777",
+              "display_name": "no data",
+              "sort_priority": 4
             }
           }
         },
