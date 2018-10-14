@@ -2245,28 +2245,30 @@
           }
         },
         {
-          "name": "go_component",
-          "display_name": "GO component",
+          "name": "ortholog_taxonids:4932",
+          "display_name": "Budding yeast ortholog",
           "default_order": "forward",
-          "column_type": "ontology_term",
+          "column_type": "ortholog",
           "attr_values": {
-            "nucleus": {
-              "color": "#a05"
+            "present": {
+              "color": "#3c2"
             },
-            "endoplasmic reticulum": {
-              "color": "#4f4"
+            "absent": {
+              "color": "#c32"
+            }
+          }
+        },
+        {
+          "name": "ortholog_taxonids:9606",
+          "display_name": "Human ortholog",
+          "default_order": "forward",
+          "column_type": "ortholog",
+          "attr_values": {
+            "present": {
+              "color": "#3c2"
             },
-            "mitochondria": {
-              "color": "#44f"
-            },
-            "cytoplasm": {
-              "color": "#2bf"
-            },
-            "other": {
-              "color": "#a73"
-            },
-            "none": {
-              "color": "#777"
+            "absent": {
+              "color": "#c32"
             }
           }
         },
@@ -2323,6 +2325,32 @@
             },
             "detoxification": {
               "color": "#9960d8"
+            },
+            "other": {
+              "color": "#a73"
+            },
+            "none": {
+              "color": "#777"
+            }
+          }
+        },
+        {
+          "name": "go_component",
+          "display_name": "GO component",
+          "default_order": "forward",
+          "column_type": "ontology_term",
+          "attr_values": {
+            "nucleus": {
+              "color": "#a05"
+            },
+            "endoplasmic reticulum": {
+              "color": "#4f4"
+            },
+            "mitochondria": {
+              "color": "#44f"
+            },
+            "cytoplasm": {
+              "color": "#2bf"
             },
             "other": {
               "color": "#a73"
@@ -2397,34 +2425,6 @@
             },
             "none": {
               "color": "#777"
-            }
-          }
-        },
-        {
-          "name": "ortholog_taxonids:4932",
-          "display_name": "Budding yeast ortholog",
-          "default_order": "forward",
-          "column_type": "ortholog",
-          "attr_values": {
-            "present": {
-              "color": "#3c2"
-            },
-            "absent": {
-              "color": "#c32"
-            }
-          }
-        },
-        {
-          "name": "ortholog_taxonids:9606",
-          "display_name": "Human ortholog",
-          "default_order": "forward",
-          "column_type": "ortholog",
-          "attr_values": {
-            "present": {
-              "color": "#3c2"
-            },
-            "absent": {
-              "color": "#c32"
             }
           }
         }
