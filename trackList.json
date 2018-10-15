@@ -1,0 +1,74 @@
+{
+  "trackSelector" : {
+    "renameFacets" : {
+      "pmed_id": "PubMed ID",
+      "geo_id": "GEO study ID",
+      "array_express_id": "Array Express ID",
+      "data_type": "Data type",
+      "assay_type": "Assay type",
+      "first_author": "First author",
+      "publication_date": "Publication date",
+      "extra_db_id": "Extra database ID",
+      "data_file_type": "Data file type",
+      "source_url": "Source URL"
+    },
+    "displayColumns" : [
+      "key",
+      "data_type",
+      "assay_type",
+      "first_author",
+      "publication_date",
+      "pmed_id",
+      "array_express_id",
+      "geo_id",
+      "ena_study_id"
+    ],
+    "type" : "Faceted",
+    "escapeHTMLInData" : false
+  },
+  "trackMetadata" : {
+    "sources" : [
+      {
+        "url" : "data/pombase_jbrowse_track_metadata.csv",
+        "type" : "csv"
+      }
+    ],
+    "indexFacets" : [
+      "data_type",
+      "assay_type",
+      "first_author",
+      "publication_date",
+      "pmed_id",
+      "array_express_id",
+      "geo_id",
+      "ena_study_id"
+    ]
+  },
+  "tracks" : [
+    {
+      "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
+      "type" : "SequenceTrack",
+      "label" : "DNA",
+      "chunkSize" : 20000,
+      "key" : "Reference sequence",
+      "seqType" : "dna",
+      "storeClass" : "JBrowse/Store/Sequence/StaticChunked",
+      "category" : "Reference sequence"
+    },
+    {
+      "trackType" : "CanvasFeatures",
+      "key" : "PomBase features",
+      "label" : "PomBase features",
+      "type" : "CanvasFeatures",
+      "urlTemplate" : "tracks/PomBase features/{refseq}/trackData.json",
+      "style" : {
+        "className" : "feature",
+        "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
+      },
+      "compress" : 0,
+      "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+      "fmtDetailValue_Name" : "function(name, feature) {if(feature.get('type')=='gene') {return '<a target=\"_parent\" href=\"http://www.pombase.org/gene/'+feature.get('Id')+'\">'+name+'</a>';} else { return name;}}"
+    }
+  ],
+  "formatVersion" : 1
+}
