@@ -2329,7 +2329,7 @@
             "other": {
               "color": "#a73"
             },
-            "none": {
+            "unknown": {
               "color": "#777"
             }
           }
@@ -2355,7 +2355,7 @@
             "other": {
               "color": "#a73"
             },
-            "none": {
+            "unknown": {
               "color": "#777"
             }
           }
@@ -2423,7 +2423,7 @@
             "other": {
               "color": "#a73"
             },
-            "none": {
+            "unknown": {
               "color": "#777"
             }
           }
