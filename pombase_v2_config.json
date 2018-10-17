@@ -2288,7 +2288,7 @@
               "color": "#9d7b69"
             },
             "protein folding": {
-              "color": "#cf9eb0"
+              "color": "#5544ff"
             },
             "cellular component biogenesis": {
               "color": "#da4837"
@@ -2341,19 +2341,19 @@
           "column_type": "ontology_term",
           "attr_values": {
             "nucleus": {
-              "color": "#a05"
+              "color": "#e05"
             },
             "endoplasmic reticulum": {
               "color": "#4f4"
             },
             "mitochondrion": {
-              "color": "#44f"
+              "color": "#04f"
             },
             "cytoplasm": {
-              "color": "#2bf"
+              "color": "#a30"
             },
             "other": {
-              "color": "#a73"
+              "color": "#fb0"
             },
             "unknown": {
               "color": "#fff"
