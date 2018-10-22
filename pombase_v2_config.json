@@ -2221,61 +2221,53 @@
         {
           "name": "deletion_viability",
           "display_name": "Deletion viability",
-          "default_order": "sort_priority",
           "column_type": "attribute",
           "attr_values": {
             "inviable": {
-              "color": "#f44",
-              "sort_priority": 1
+              "color": "#f44"
             },
             "depends_on_conditions": {
               "color": "#44f",
-              "display_name": "variable",
-              "sort_priority": 2
+              "display_name": "variable"
             },
             "viable": {
-              "color": "#4f4",
-              "sort_priority": 3
+              "color": "#4f4"
             },
             "unknown": {
               "color": "#fff",
-              "display_name": "no data",
-              "sort_priority": 4
+              "display_name": "no data"
             }
           }
         },
         {
           "name": "ortholog_taxonids:4932",
           "display_name": "Budding yeast ortholog",
-          "default_order": "forward",
           "column_type": "ortholog",
           "attr_values": {
-            "present": {
-              "color": "#3c2"
-            },
             "absent": {
               "color": "#c32"
+            },
+            "present": {
+              "color": "#3c2"
             }
           }
         },
         {
           "name": "ortholog_taxonids:9606",
           "display_name": "Human ortholog",
-          "default_order": "forward",
           "column_type": "ortholog",
           "attr_values": {
-            "present": {
-              "color": "#3c2"
-            },
             "absent": {
               "color": "#c32"
+            },
+            "present": {
+              "color": "#3c2"
             }
           }
         },
         {
           "name": "go_process_superslim",
           "display_name": "GO process",
-          "default_order": "forward",
           "column_type": "ontology_term",
           "attr_values": {
             "signaling": {
@@ -2337,7 +2329,6 @@
         {
           "name": "go_component",
           "display_name": "GO component",
-          "default_order": "forward",
           "column_type": "ontology_term",
           "attr_values": {
             "nucleus": {
@@ -2363,7 +2354,6 @@
         {
           "name": "go_function",
           "display_name": "GO function",
-          "default_order": "forward",
           "column_type": "ontology_term",
           "attr_values": {
             "oxidoreductase activity": {
