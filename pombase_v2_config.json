@@ -2222,221 +2222,296 @@
           "name": "deletion_viability",
           "display_name": "Deletion viability",
           "column_type": "attribute",
-          "attr_values": {
-            "inviable": {
+          "attr_values": [
+            {
+              "name": "inviable",
               "color": "#f44"
             },
-            "depends_on_conditions": {
+            {
+              "name": "depends_on_conditions",
               "color": "#44f",
               "display_name": "variable"
             },
-            "viable": {
+            {
+              "name": "viable",
               "color": "#4f4"
             },
-            "unknown": {
+            {
+              "name": "unknown",
               "color": "#fff",
               "display_name": "no data"
             }
-          }
+          ]
         },
         {
           "name": "ortholog_taxonids:4932",
           "display_name": "Budding yeast ortholog",
           "column_type": "ortholog",
-          "attr_values": {
-            "absent": {
+          "attr_values": [
+            {
+              "name": "absent",
               "color": "#c32"
             },
-            "present": {
+            {
+              "name": "present",
               "color": "#3c2"
             }
-          }
+          ]
         },
         {
           "name": "ortholog_taxonids:9606",
           "display_name": "Human ortholog",
           "column_type": "ortholog",
-          "attr_values": {
-            "absent": {
+          "attr_values": [
+            {
+              "name": "absent",
               "color": "#c32"
             },
-            "present": {
+            {
+              "name": "present",
               "color": "#3c2"
             }
-          }
+          ]
         },
         {
           "name": "go_process_superslim",
           "display_name": "GO process",
           "column_type": "ontology_term",
-          "attr_values": {
-            "signaling": {
+          "attr_values": [
+            {
+              "name": "signaling",
+              "termid": "GO:0023052",
               "color": "#9b9144"
             },
-            "gene expression": {
+            {
+              "name": "gene expression",
+              "termid": "GO:0010467",
               "color": "#5f1827"
             },
-            "chromatin remodeling": {
+            {
+              "name": "chromatin remodeling",
+              "termid": "GO:0006338",
               "color": "#9d7b69"
             },
-            "protein folding": {
+            {
+              "name": "protein folding",
+              "termid": "GO:0006457",
               "color": "#5544ff"
             },
-            "cellular component biogenesis": {
+            {
+              "name": "cellular component biogenesis",
+              "termid": "GO:0044085",
               "color": "#da4837"
             },
-            "DNA metabolic process": {
+            {
+              "name": "DNA metabolic process",
+              "termid": "GO:0006259",
               "color": "#198744"
             },
-            "cell cycle": {
+            {
+              "name": "cell cycle",
+              "termid": "GO:0007049",
               "color": "#e41532"
             },
-            "cytoskeleton organization": {
+            {
+              "name": "cytoskeleton organization",
+              "termid": "GO:0007010",
               "color": "#cc64d9"
             },
-            "membrane organization": {
+            {
+              "name": "membrane organization",
+              "termid": "GO:0061024",
               "color": "#efbf98"
             },
-            "organelle localization": {
+            {
+              "name": "organelle localization",
+              "termid": "GO:0051640",
               "color": "#c8b35b"
             },
-            "lipid metabolic process": {
+            {
+              "name": "lipid metabolic process",
+              "termid": "GO:0006629",
               "color": "#394b2d"
             },
-            "small molecule metabolic process": {
+            {
+              "name": "small molecule metabolic process",
+              "termid": "GO:0044281",
               "color": "#d998f5"
             },
-            "generation of precursor metabolites and energy": {
+            {
+              "name": "generation of precursor metabolites and energy",
+              "termid": "GO:0006091",
               "color": "#e5c17c"
             },
-            "transport": {
+            {
+              "name": "transport",
+              "termid": "GO:0006810",
               "color": "#c2dd36"
             },
-            "cellular catabolic process": {
+            {
+              "name": "cellular catabolic process",
+              "termid": "GO:0044248",
               "color": "#bbc9b7"
             },
-            "detoxification": {
+            {
+              "name": "detoxification",
+              "termid": "GO:0098754",
               "color": "#9960d8"
             },
-            "other": {
+            {
+              "name": "other",
               "color": "#a73"
             },
-            "unknown": {
+            {
+              "name": "unknown",
               "color": "#fff"
             }
-          }
+          ]
         },
         {
           "name": "go_component",
           "display_name": "GO component",
           "column_type": "ontology_term",
-          "attr_values": {
-            "nucleus": {
+          "attr_values": [
+            {
+              "name": "nucleus",
+              "termid": "GO:0005634",
               "color": "#e05"
             },
-            "endoplasmic reticulum": {
+            {
+              "name": "endoplasmic reticulum",
+              "termid":  "GO:0005783",
               "color": "#4f4"
             },
-            "mitochondrion": {
+            {
+              "name": "mitochondrion",
+              "termid":  "GO:0005739",
               "color": "#04f"
             },
-            "cytoplasm": {
+            {
+              "name": "cytoplasm",
+              "termid":  "GO:0005737",
               "color": "#a30"
             },
-            "other": {
+            {
+              "name": "other",
               "color": "#fb0"
             },
-            "unknown": {
+            {
+              "name": "unknown",
               "color": "#fff"
             }
-          }
+          ]
         },
         {
           "name": "go_function",
           "display_name": "GO function",
           "column_type": "ontology_term",
-          "attr_values": {
-            "oxidoreductase activity": {
+          "attr_values": [
+            {
+              "name": "oxidoreductase activity",
+              "termid": "GO:0016491",
               "color": "#89a6a1"
             },
-            "hydrolase activity": {
+            {
+              "name": "hydrolase activity",
+              "termid": "GO:0016787",
               "color": "#2a394a"
             },
-            "transferase activity": {
+            {
+              "name": "transferase activity",
+              "termid": "GO:0016740",
               "color": "#6d3ba4"
             },
-            "ligase activity": {
+            {
+              "name": "ligase activity",
+              "termid": "GO:0016874",
               "color": "#da9d46"
             },
-            "cyclase activity": {
+            {
+              "name": "cyclase activity",
+              "termid": "GO:0009975",
               "color": "#d770f5"
             },
-            "lyase activity": {
+            {
+              "name": "lyase activity",
+              "termid": "GO:0016829",
               "color": "#99a1c0"
             },
-            "catalytic activity": {
+            {
+              "name": "catalytic activity",
+              "termid": "GO:0003824",
               "color": "#dd37de"
             },
-            "enzyme regulator activity": {
+            {
+              "name": "enzyme regulator activity",
+              "termid": "GO:0030234",
               "color": "#feb62f"
             },
-            "transcription regulator activity": {
+            {
+              "name": "transcription regulator activity",
+              "termid": "GO:0140110",
               "color": "#cb3063"
             },
-            "transporter activity": {
+            {
+              "name": "transporter activity",
+              "termid": "GO:0005215",
               "color": "#f498f0"
             },
-            "cytoskeletal protein binding": {
+            {
+              "name": "cytoskeletal protein binding",
+              "termid": "GO:0008092",
               "color": "#6ba420"
             },
-            "unfolded protein binding": {
+            {
+              "name": "unfolded protein binding",
+              "termid": "GO:0051082",
               "color": "#21a18f"
             },
-            "DNA binding": {
+            {
+              "name": "DNA binding",
+              "termid": "GO:0003677",
               "color": "#821fad"
             },
-            "RNA binding": {
+            {
+              "name": "RNA binding",
+              "termid": "GO:0003723",
               "color": "#f6a0cd"
             },
-            "metal ion binding": {
+            {
+              "name": "metal ion binding",
+              "termid": "GO:0046872",
               "color": "#bc6384"
             },
-            "lipid binding": {
+            {
+              "name": "lipid binding",
+              "termid": "GO:0008289",
               "color": "#22849b"
             },
-            "cell adhesion mediator activity": {
+            {
+              "name": "cell adhesion mediator activity",
+              "termid": "GO:0098631",
               "color": "#3f6865"
             },
-            "structural molecule activity": {
+            {
+              "name": "structural molecule activity",
+              "termid": "GO:0005198",
               "color": "#cdb4da"
             },
-            "other": {
+            {
+              "name": "other",
               "color": "#a73"
             },
-            "unknown": {
+            {
+              "name": "unknown",
               "color": "#fff"
             }
-          }
+          ]
         }
       ]
     }
   },
   "query_data_config": {
-    "go_components": [
-      "GO:0005634", "GO:0005783", "GO:0005739", "GO:0005737"
-    ],
-    "go_process_superslim": [
-      "GO:0023052", "GO:0010467", "GO:0006338", "GO:0006457", "GO:0044085",
-      "GO:0006259", "GO:0007049", "GO:0007010", "GO:0061024", "GO:0051640",
-      "GO:0006629", "GO:0044281", "GO:0006091", "GO:0006810", "GO:0044248",
-      "GO:0098754"
-    ],
-    "go_function": [
-      "GO:0016491", "GO:0016787", "GO:0016740", "GO:0016874", "GO:0009975",
-      "GO:0016829", "GO:0003824", "GO:0030234", "GO:0140110", "GO:0005215",
-      "GO:0008092", "GO:0051082", "GO:0003677", "GO:0003723", "GO:0046872",
-      "GO:0008289", "GO:0098631", "GO:0005198"
-    ],
     "ortholog_presence_taxonids": [9606, 4932]
   },
   "file_exports": {
