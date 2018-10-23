@@ -70,6 +70,7 @@
         "className" : "feature",
         "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
       },
+      "labelTranscripts": false,
       "compress" : 0,
       "storeClass" : "JBrowse/Store/SeqFeature/NCList",
       "fmtDetailValue_Name" : "function(name, feature) {if(feature.get('type')=='gene') {return '<a target=\"_parent\" href=\"http://www.pombase.org/gene/'+feature.get('Id')+'\">'+name+'</a>';} else { return name;}}"
@@ -90,6 +91,7 @@
         "className" : "feature",
         "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
       },
+      "labelTranscripts": false,
       "compress" : 0,
       "storeClass" : "JBrowse/Store/SeqFeature/NCList",
       "fmtDetailValue_Name" : "function(name, feature) {if(feature.get('type')=='gene') {return '<a target=\"_parent\" href=\"http://www.pombase.org/gene/'+feature.get('Id')+'\">'+name+'</a>';} else { return name;}}"
