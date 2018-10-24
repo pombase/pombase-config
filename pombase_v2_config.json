@@ -2449,6 +2449,11 @@
               "color": "#feb62f"
             },
             {
+              "name": "DNA binding",
+              "termid": "GO:0003677",
+              "color": "#821fad"
+            },
+            {
               "name": "transcription regulator activity",
               "termid": "GO:0140110",
               "color": "#cb3063"
@@ -2467,11 +2472,6 @@
               "name": "unfolded protein binding",
               "termid": "GO:0051082",
               "color": "#21a18f"
-            },
-            {
-              "name": "DNA binding",
-              "termid": "GO:0003677",
-              "color": "#821fad"
             },
             {
               "name": "RNA binding",
