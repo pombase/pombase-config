@@ -2441,7 +2441,8 @@
             {
               "name": "catalytic activity",
               "termid": "GO:0003824",
-              "color": "#dd37de"
+              "color": "#dd37de",
+              "display_name": "other catalytic activity"
             },
             {
               "name": "enzyme regulator activity",
