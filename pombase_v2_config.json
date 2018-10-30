@@ -566,12 +566,24 @@
             }
           },
           {
-            "term": {
-              "termid": "PBO:0000055",
-              "name": "no apparent *S. cerevisiae* ortholog",
-              "single_or_multi_allele": null,
-              "expression": null
-            }
+            "or": [
+              {
+                "term": {
+                  "termid": "PBO:0000055",
+                  "name": "no apparent S. cerevisiae ortholog",
+                  "single_or_multi_allele": null,
+                  "expression": null
+                }
+              },
+              {
+                "term": {
+                  "termid": "PBO:0000110",
+                  "name": "orthologs cannot be distinguished",
+                  "single_or_multi_allele": null,
+                  "expression": null
+                }
+              }
+            ]
           }
         ]
       }
