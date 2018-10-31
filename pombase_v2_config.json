@@ -958,19 +958,24 @@
       "link": "http://www.geneontology.org/page/tas-traceable-author-statement"
     },
     "HTP": {
-      "long": "Inferred from high throughput experiment"
+      "long": "Inferred from high throughput experiment",
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_High_Throughput_Experiment_(HTP)"
     },
     "HDA": {
-      "long": "Inferred from high throughput direct assay"
+      "long": "Inferred from high throughput direct assay",
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_High_Throughput_Direct_Assay_(HDA)"
     },
     "HEP": {
-      "long": "Inferred from high throughput expression pattern"
+      "long": "Inferred from high throughput expression pattern",
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_High_Throughput_Expression_Pattern_(HEP)"
     },
     "HGI": {
-      "long": "Inferred from high throughput genetic interaction"
+      "long": "Inferred from high throughput genetic interaction",
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_High_Throughput_Genetic_Interaction_(HGI)"
     },
     "HMP": {
-      "long": "Inferred from high throughput mutant phenotype"
+      "long": "Inferred from high throughput mutant phenotype",
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_High_Throughput_Mutant_Phenotype_(HMP)"
     },
     "UNK": {
       "long": "Unknown"
