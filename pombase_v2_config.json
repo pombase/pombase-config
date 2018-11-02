@@ -1627,6 +1627,12 @@
       "columns_to_show": ["desc-rel", "gene", "reference", "count"],
       "hideTermDetails": "true"
     },
+    "disease_ontology": {
+      "feature_type": "gene",
+      "display_name": "MalaCards disease association",
+      "columns_to_show": ["desc-rel", "gene", "reference", "count"],
+      "deploy_mode": "dev"
+    },
     "species_dist": {
       "feature_type": "gene",
       "display_name": "Taxonomic conservation",
@@ -1762,6 +1768,7 @@
     "paralogs",
     "species_dist",
     "disease_associated",
+    "disease_ontology",
     "warning",
     "subunit_composition"
   ],
