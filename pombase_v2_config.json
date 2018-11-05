@@ -1330,6 +1330,10 @@
         "has_input",
         "has_regulation_target"
       ],
+      "slim_subset_name": "bp_goslim_pombe",
+      "slim_description": "Biological process overview (GO slim)",
+      "slim_link": "/browse-curation/fission-yeast-go-slim-terms",
+      "slim_no_category_text": "biological process GO Slim category",
       "filters": [
         {
           "filter_name": "extension",
@@ -1631,7 +1635,10 @@
       "feature_type": "gene",
       "display_name": "MalaCards disease association",
       "columns_to_show": ["desc-rel", "gene", "reference", "count"],
-      "deploy_mode": "dev"
+      "deploy_mode": "dev",
+      "slim_subset_name": "disease_ontology_slim",
+      "slim_description": "Disease ontology overview",
+      "slim_no_category_text": "disease ontology overview category"
     },
     "species_dist": {
       "feature_type": "gene",
@@ -2187,6 +2194,20 @@
       {
         "name": "vitamin metabolic process",
         "termid": "GO:0006766"
+      }
+    ],
+    "disease_ontology_slim": [
+      {
+        "name": "nervous system disease",
+        "termid": "DOID:863"
+      },
+      {
+        "name": "disease of cellular proliferation",
+        "termid": "DOID:14566"
+      },
+      {
+        "name": "cardiovascular system disease",
+        "termid": "DOID:1287"
       }
     ]
   },
