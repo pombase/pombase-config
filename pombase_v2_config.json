@@ -1636,7 +1636,10 @@
     "disease_ontology": {
       "feature_type": "gene",
       "display_name": "MalaCards disease association",
-      "columns_to_show": ["desc-rel", "gene", "reference", "count"],
+      "columns_to_show": ["desc-rel", "gene", "term-xref", "reference", "count"],
+      "term_xref_display_name_prop": "malacards_displayed_disease_name",
+      "term_xref_id_prop": "malacards_disease_slug",
+      "term_xref_conf_key": "MalaCards",
       "deploy_mode": "dev",
       "slim_subset_name": "disease_ontology_slim",
       "slim_description": "Disease ontology overview",
@@ -2336,7 +2339,8 @@
     "prodom": "ProDom"
   },
   "misc_external_links": {
-    "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false"
+    "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
+    "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>"
   },
   "interpro": {
     "dbnames_to_filter": []
