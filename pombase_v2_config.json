@@ -26,6 +26,8 @@
     "SPCC1840.13",
     "SPMITNCRNA.01"
   ],
+  "search_box_cv_names": ["molecular_function", "biological_process", "cellular_component",
+                          "fission_yeast_phenotype", "disease_ontology"],
   "organisms": [
     {
       "taxonid": 4896,
