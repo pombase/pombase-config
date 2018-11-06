@@ -2198,16 +2198,124 @@
     ],
     "disease_ontology_slim": [
       {
-        "name": "nervous system disease",
-        "termid": "DOID:863"
+        "name": "amino acid metabolic disorder",
+        "termid": "DOID:9252"
       },
       {
-        "name": "disease of cellular proliferation",
-        "termid": "DOID:14566"
+        "name": "purine-pyrimidine metabolic disorder",
+        "termid": "DOID:653"
       },
       {
-        "name": "cardiovascular system disease",
-        "termid": "DOID:1287"
+        "name": "peroxisomal disease",
+        "termid": "DOID:906"
+      },
+      {
+        "name": "lipid metabolism disorder",
+        "termid": "DOID:3146"
+      },
+      {
+        "name": "mitochondrial metabolism disease",
+        "termid": "DOID:700"
+      },
+      {
+        "name": "lysosomal storage disease",
+        "termid": "DOID:3211"
+      },
+      {
+        "name": "carbohydrate metabolism disease",
+        "termid": "DOID:0050013"
+      },
+      {
+        "name": "neuropathy",
+        "termid": "DOID:870"
+      },
+      {
+        "name": "neurodegenerative disease",
+        "termid": "DOID:1289"
+      },
+      {
+        "name": "paraplegia",
+        "termid": "DOID:607"
+      },
+      {
+        "name": "dystonia",
+        "termid": "DOID:543"
+      },
+      {
+        "name": "epilepsy",
+        "termid": "DOID:1826"
+      },
+      {
+        "name": "cerebral degeneration",
+        "termid": "DOID:1443"
+      },
+      {
+        "name": "cognitive disorder",
+        "termid": "DOID:1561"
+      },
+      {
+        "name": "bone development disease",
+        "termid": "DOID:0080006"
+      },
+      {
+        "name": "anemia",
+        "termid": "DOID:2355"
+      },
+      {
+        "name": "nonsyndromic deafness",
+        "termid": "DOID:0050563"
+      },
+      {
+        "name": "eye disease",
+        "termid": "DOID:5614"
+      },
+      {
+        "name": "skin disease",
+        "termid": "DOID:37"
+      },
+      {
+        "name": "kidney disease",
+        "termid": "DOID:557"
+      },
+      {
+        "name": "hepatobiliary disease",
+        "termid": "DOID:3118"
+      },
+      {
+        "name": "heart disease",
+        "termid": "DOID:114"
+      },
+      {
+        "name": "myopathy",
+        "termid": "DOID:423"
+      },
+      {
+        "name": "amyloidosis",
+        "termid": "DOID:9120"
+      },
+      {
+        "name": "porphyria",
+        "termid": "DOID:13268"
+      },
+      {
+        "name": "immune system disease",
+        "termid": "DOID:2914"
+      },
+      {
+        "name": "cancer",
+        "termid": "DOID:162"
+      },
+      {
+        "name": "monogenic disease",
+        "termid": "DOID:0050177"
+      },
+      {
+        "name": "autosomal dominant disease",
+        "termid": "DOID:0050736"
+      },
+      {
+        "name": "autosomal recessive disease",
+        "termid": "DOID:0050737"
       }
     ]
   },
