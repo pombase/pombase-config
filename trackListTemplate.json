@@ -27,6 +27,7 @@
       "technical_strain_background",
       "mating_type",
       "conditions",
+      "assay_type",
       "study_id",
       "sample_id",
       "first_author",
