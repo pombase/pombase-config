@@ -328,12 +328,12 @@
       "show_on_front_page": false
     },
     {
-      "title": "Browse PomBase's inventory of conserved proteins with no known biological role",
+      "title": "Browse our inventory of conserved proteins with no known biological role",
       "title_link": null,
       "panel_type": "explore",
-      "head_image": ["explore/2018-10-07-unknowns-preview.png"],
-      "content": "Unknown process now down to 696, [conserved unknowns 410](/gene_subset/characterisation_status_conserved_unknown). Our \"unknowns\" manuscript will be available soon.",
-      "date_added": "2018-10-07",
+      "head_image": ["explore/2017-11-17-unknowns.png"],
+      "content": "Unknown process now down to 696, [conserved unknowns 410](/gene_subset/characterisation_status_conserved_unknown).\nOur \"Unknowns\" manuscript is now available on bioRxiv: [DOI: 10.1101/469569](https://www.biorxiv.org/content/early/2018/11/16/469569).",
+      "date_added": "2018-11-17",
       "show_on_front_page": true
     }
   ],
