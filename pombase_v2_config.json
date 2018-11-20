@@ -33,17 +33,20 @@
       "taxonid": 4896,
       "genus": "Schizosaccharomyces",
       "species": "pombe",
+      "common_name": "S. pombe",
       "assembly_version": "ASM294v2"
     },
     {
       "taxonid": 9606,
       "genus": "Homo",
-      "species": "sapiens"
+      "species": "sapiens",
+      "common_name": "human"
     },
     {
       "taxonid": 4932,
       "genus": "Saccharomyces",
-      "species": "cerevisiae"
+      "species": "cerevisiae",
+      "common_name": "S. cerevisiae"
     }
   ],
   "front_page_panels": [
