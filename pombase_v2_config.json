@@ -2438,7 +2438,7 @@
           ]
         },
         {
-          "name": "has_tmm",
+          "name": "tmm",
           "display_name": "Transmembrane domain",
           "column_type": "attribute",
           "attr_values": [
@@ -2449,6 +2449,11 @@
             {
               "name": "absent",
               "color": "#f8f8f8"
+            },
+            {
+              "name": "not_applicable",
+              "display_name": "not applicable",
+              "color": "#765"
             }
           ]
         },
