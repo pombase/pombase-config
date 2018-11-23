@@ -2438,6 +2438,21 @@
           ]
         },
         {
+          "name": "has_tmm",
+          "display_name": "Transmembrane domain",
+          "column_type": "attribute",
+          "attr_values": [
+            {
+              "name": "present",
+              "color": "#283048"
+            },
+            {
+              "name": "absent",
+              "color": "#f8f8f8"
+            }
+          ]
+        },
+        {
           "name": "go_process_superslim",
           "display_name": "GO process",
           "column_type": "ontology_term",
