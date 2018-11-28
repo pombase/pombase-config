@@ -1234,7 +1234,7 @@
       "feature_type": "gene",
       "display_name": "GO molecular function",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal", "Reactome"],
       "split_by_parents": [
         {
           "config_name": "NOT binding",
@@ -1324,7 +1324,7 @@
       "feature_type": "gene",
       "display_name": "GO biological process",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal", "Reactome"],
       "external_link_config": [
         {
           "display_text": "View process term ancestry ...",
@@ -1991,6 +1991,10 @@
     {
       "name": "MISO",
       "url": "http://www.sequenceontology.org/browser/current_svn/term/[example_id]"
+    }, 
+    {
+      "name": "Reactome",
+      "url": "https://reactome.org/content/query?species=Schizosaccharomyces+pombe&q=[example_id]"
     }
   ],
   "viability_terms": {
