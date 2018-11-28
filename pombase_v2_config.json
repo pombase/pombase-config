@@ -1927,6 +1927,14 @@
       "go_xrf_abbrev": "ModBase"
     },
     {
+      "ref_type": "Pathways",
+      "feature_types": ["mRNA gene", "pseudogene"],
+      "name": "Reactome",
+      "description": "Manually curated and peer-reviewed pathways",
+      "field_name": "uniprot_identifier",
+      "url": "https://reactome.org/content/query?q=<<IDENTIFIER>>"
+    },
+    {
       "ref_type": "Sequence Resources",
       "feature_types": ["mRNA gene", "pseudogene"],
       "name": "UniProtKB/SwissProt",
