@@ -2704,6 +2704,51 @@
               "color": "#fff"
             }
           ]
+        },
+        {
+          "name": "characterisation_status",
+          "display_name": "Characterisation status",
+          "column_type": "attribute",
+          "attr_values": [
+            {
+              "name": "published",
+              "color": "#2d3"
+            },
+            {
+              "name": "dubious",
+              "color": "#299"
+            },
+            {
+              "name": "Schizosaccharomyces pombe specific protein, uncharacterized",
+              "display_name": "S. pombe specific protein, uncharacterized",
+              "color": "#359"
+            },
+            {
+              "name": "Schizosaccharomyces specific protein, uncharacterized",
+              "color": "#9af"
+            },
+            {
+              "name": "fission yeast specific family",
+              "color": "#23a"
+            },
+            {
+              "name": "biological role inferred",
+              "color": "#a26"
+            },
+            {
+              "name": "transposon",
+              "color": "#d72"
+            },
+            {
+              "name": "conserved unknown",
+              "color": "#882"
+            },
+            {
+              "name": "unknown",
+              "display_name": "not applicable",
+              "color": "#aaa"
+            }
+          ]
         }
       ]
     }
