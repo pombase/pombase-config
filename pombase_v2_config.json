@@ -2725,6 +2725,7 @@
             },
             {
               "name": "Schizosaccharomyces specific protein, uncharacterized",
+              "display_name": "Schizosaccharomyces specific, uncharacterized",
               "color": "#9af"
             },
             {
@@ -2745,7 +2746,7 @@
             },
             {
               "name": "unknown",
-              "display_name": "not applicable",
+              "display_name": "not curated for this datatype",
               "color": "#aaa"
             }
           ]
