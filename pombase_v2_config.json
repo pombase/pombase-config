@@ -2750,6 +2750,49 @@
               "color": "#aaa"
             }
           ]
+        },
+        {
+          "name": "taxonomic_distribution",
+          "display_name": "Taxonomic distribution",
+          "column_type": "attribute",
+          "attr_values": [
+            {
+              "name": "fungi and prokaryotes",
+              "color": "#1c2"
+            },
+            {
+              "name": "eukaryotes only, fungi and metazoa",
+              "color": "#de3"
+            },
+            {
+              "name": "eukaryotes and prokaryotes",
+              "color": "#35b"
+            },
+            {
+              "name": "fungi only",
+              "color": "#39e"
+            },
+            {
+              "name": "S. pombe specific",
+              "color": "#23a"
+            },
+            {
+              "name": "Schizos. specific",
+              "color": "#a26"
+            },
+            {
+              "name": "dubious",
+              "color": "#f52"
+            },
+            {
+              "name": "not curated",
+              "color": "#882"
+            },
+            {
+              "name": "other",
+              "color": "#bbb"
+            }
+          ]
         }
       ]
     }
