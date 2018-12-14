@@ -1638,7 +1638,7 @@
     },
     "disease_ontology": {
       "feature_type": "gene",
-      "display_name": "MalaCards disease association",
+      "display_name": "Disease association",
       "columns_to_show": ["desc-rel", "gene", "term-xref", "reference", "count"],
       "term_xref_display_name_prop": "malacards_displayed_disease_name",
       "term_xref_id_prop": "malacards_disease_slug",
