@@ -1640,6 +1640,7 @@
       "feature_type": "gene",
       "display_name": "Disease association",
       "columns_to_show": ["desc-rel", "gene", "term-xref", "reference", "count"],
+      "external_db_link_keys": ["MalaCards"],
       "term_xref_display_name_prop": "malacards_displayed_disease_name",
       "term_xref_id_prop": "malacards_disease_slug",
       "term_xref_conf_key": "MalaCards",
@@ -1995,6 +1996,10 @@
     {
       "name": "Reactome",
       "url": "https://reactome.org/content/query?species=Schizosaccharomyces+pombe&q=[example_id]"
+    },
+    {
+      "name": "MalaCards",
+      "url": "http://disease-ontology.org/term/[example_id]"
     }
   ],
   "viability_terms": {
