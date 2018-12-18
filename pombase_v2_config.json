@@ -1644,6 +1644,7 @@
       "term_xref_display_name_prop": "malacards_displayed_disease_name",
       "term_xref_id_prop": "malacards_disease_slug",
       "term_xref_conf_key": "MalaCards",
+      "term_xref_condition": "reference=PMID:27899610",
       "deploy_mode": "dev",
       "slim_subset_name": "disease_ontology_slim",
       "slim_description": "Disease ontology overview",
