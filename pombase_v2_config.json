@@ -217,7 +217,7 @@
     {
       "title": "Recent community curation",
       "panel_type": "community",
-      "head_image": ["assets/community/2018-04-05-community_papers_curated.png"],
+      "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
       "head_image_link": "https://curation.pombase.org/pombe/stats/annotation",
       "content": "<app-recent-community-pubs></app-recent-community-pubs>",
       "date_added": "2017-10-10",
