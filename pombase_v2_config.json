@@ -2001,7 +2001,7 @@
     },
     {
       "name": "Disease Ontology",
-      "url": "http://disease-ontology.org/term/[example_id]"
+      "url": "http://www.disease-ontology.org/?id=[example_id]"
     }
   ],
   "viability_terms": {
