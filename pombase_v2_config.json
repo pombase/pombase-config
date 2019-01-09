@@ -1654,7 +1654,6 @@
           "condition": "reference=PMID:30371878"
         }
       },
-      "deploy_mode": "dev",
       "slim_subset_name": "disease_ontology_slim",
       "slim_description": "Disease ontology overview",
       "slim_no_category_text": "disease ontology overview category"
