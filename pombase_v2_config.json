@@ -392,7 +392,7 @@
       "name": "All disease associated genes",
       "constraints": {
         "term": {
-          "termid": "PBO:5000000",
+          "termid": "DOID:4",
           "name": "disease_associated",
           "single_or_multi_allele": null,
           "expression": null
@@ -1630,12 +1630,6 @@
         }
       ]
     },
-    "disease_associated": {
-      "feature_type": "gene",
-      "display_name": "Disease association",
-      "columns_to_show": ["desc-rel", "gene", "reference", "count"],
-      "hideTermDetails": "true"
-    },
     "disease_ontology": {
       "feature_type": "gene",
       "display_name": "Disease association",
@@ -1792,7 +1786,6 @@
     "orthologs",
     "paralogs",
     "species_dist",
-    "disease_associated",
     "disease_ontology",
     "warning",
     "subunit_composition"
