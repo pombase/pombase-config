@@ -470,7 +470,7 @@
       }
     },
     "null_inviable": {
-      "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}} 
+      "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}
     },
     "null_viable": {
       "constraints": {"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}
@@ -480,19 +480,19 @@
     },
     "conserved_in_vertebrates": {
       "name": "conserved in vertebrates",
-      "constraints": {"term":{"termid":"PBO:0011070","name":"conserved in vertebrates","single_or_multi_allele":null,"expression":null}} 
+      "constraints": {"term":{"termid":"PBO:0011070","name":"conserved in vertebrates","single_or_multi_allele":null,"expression":null}}
     },
     "GO_976_or_GO_3700": {
       "name": "GO:0000976 or GO:0003700",
-      "constraints": {"or":[{"term":{"termid":"GO:0003700","name":"DNA binding transcription factor activity","single_or_multi_allele":null,"expression":null}},{"term":{"termid":"GO:0000976","name":"transcription regulatory region sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}}]} 
+      "constraints": {"or":[{"term":{"termid":"GO:0003700","name":"DNA binding transcription factor activity","single_or_multi_allele":null,"expression":null}},{"term":{"termid":"GO:0000976","name":"transcription regulatory region sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}}]}
     },
     "GO_978_and_published": {
       "name": "GO:0000978 and published",
-      "constraints": {"and":[{"term":{"termid":"GO:0000978","name":"RNA polymerase II proximal promoter sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}},{"subset":{"subset_name":"characterisation_status_published"}}]} 
+      "constraints": {"and":[{"term":{"termid":"GO:0000978","name":"RNA polymerase II proximal promoter sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}},{"subset":{"subset_name":"characterisation_status_published"}}]}
     },
     "transposons": {
       "name": "Transposons",
-      "constraints": {"subset":{"subset_name":"characterisation_status_transposon"}} 
+      "constraints": {"subset":{"subset_name":"characterisation_status_transposon"}}
     },
     "canned_query:all_genes": {
       "name": "All genes",
@@ -500,7 +500,7 @@
     },
     "2-20_exons": {
       "name": "protein-coding genes with 2-20 exons",
-      "constraints": {"int_range":{"range_type":"exon_count","start":2,"end":20}} 
+      "constraints": {"int_range":{"range_type":"exon_count","start":2,"end":20}}
     },
     "chr2_1000000-2000000": {
       "name": "genes between coordinates 1000000-2000000 on chromosome 2",
@@ -1994,7 +1994,7 @@
     {
       "name": "MISO",
       "url": "http://www.sequenceontology.org/browser/current_svn/term/[example_id]"
-    }, 
+    },
     {
       "name": "Reactome",
       "url": "https://reactome.org/content/query?species=Schizosaccharomyces+pombe&q=[example_id]"
@@ -2804,6 +2804,66 @@
               "color": "#bbb"
             }
           ]
+        },
+        {
+          "name": "protein_length_bin",
+          "display_name": "Protein length",
+          "column_type": "value_bins",
+          "attr_values": [
+            {
+              "name": "1-100",
+              "color": "#e14e4e",
+              "bin_start": 1,
+              "bin_end": 100
+            },
+            {
+              "name": "101-200",
+              "color": "#d0804b",
+              "bin_start": 101,
+              "bin_end": 200
+            },
+            {
+              "name": "201-300",
+              "color": "#e0b030",
+              "bin_start": 201,
+              "bin_end": 300
+            },
+            {
+              "name": "301-400",
+              "color": "#3c2",
+              "bin_start": 301,
+              "bin_end": 400
+            },
+            {
+              "name": "401-500",
+              "color": "#40d3a6",
+              "bin_start": 401,
+              "bin_end": 500
+            },
+            {
+              "name": "501-600",
+              "color": "#30a0d0",
+              "bin_start": 501,
+              "bin_end": 600
+            },
+            {
+              "name": "601-700",
+              "color": "#6a5be0",
+              "bin_start": 601,
+              "bin_end": 700
+            },
+            {
+              "name": "701-",
+              "color": "#d054e3",
+              "bin_start": 701,
+              "bin_end": 999999999
+            },
+            {
+              "name": "unknown",
+              "display_name": "unknown / not applicable",
+              "color": "#777"
+            }
+          ]
         }
       ]
     }
@@ -2822,11 +2882,11 @@
         "GO:0098802", "GO:0097648", "GO:0044796", "GO:0038037", "GO:0045267",
         "GO:0098797", "GO:0098796", "GO:0061695", "GO:0098797", "GO:0098798",
         "GO:0098799", "GO:0098800", "GO:0098803", "GO:1902555", "GO:0000015",
-        "GO:0000109", "GO:0000118", "GO:0000120", "GO:0000123", 
+        "GO:0000109", "GO:0000118", "GO:0000120", "GO:0000123",
         "GO:0000151", "GO:0000152", "GO:0000159", "GO:0000178", "GO:0000313",
         "GO:0000314", "GO:0000315", "GO:0000428", "GO:0000445", "GO:0000502",
         "GO:0000775", "GO:0000776", "GO:0000777", "GO:0000778", "GO:0000779",
-        "GO:0000780", "GO:0000782", "GO:0000785", "GO:0000786", 
+        "GO:0000780", "GO:0000782", "GO:0000785", "GO:0000786",
         "GO:0000790", "GO:0000791", "GO:0000792", "GO:0000796", "GO:0000808",
         "GO:0000941", "GO:0000942", "GO:0002178", "GO:0005667", "GO:0005677",
         "GO:0005681", "GO:0005719", "GO:0005720", "GO:0005721", "GO:0005724",
@@ -2844,7 +2904,7 @@
         "GO:0031934", "GO:0032300", "GO:0032301", "GO:0032302", "GO:0032991",
         "GO:0032993", "GO:0033177", "GO:0033178", "GO:0033202", "GO:0033553",
         "GO:0033573", "GO:0034702", "GO:0034703", "GO:0034704", "GO:0034707",
-        "GO:0034708", "GO:0035339", "GO:0035770", "GO:0036464", 
+        "GO:0034708", "GO:0035339", "GO:0035770", "GO:0036464",
         "GO:0042788", "GO:0043189", "GO:0043234", "GO:0043235", "GO:0043527",
         "GO:0043601", "GO:0044391", "GO:0044798", "GO:0044815", "GO:0045239",
         "GO:0045259", "GO:0045263", "GO:0045271", "GO:0045274", "GO:0045282",
