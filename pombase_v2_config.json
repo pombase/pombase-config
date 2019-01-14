@@ -2346,6 +2346,9 @@
       }
     ]
   },
+  "reference_page_config": {
+    "triage_status_to_ignore": []
+  },
   "extra_database_aliases": {
     "tigrfams": "JCVI_TIGRFAMS",
     "ssf": "SUPERFAMILY",
