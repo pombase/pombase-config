@@ -103,7 +103,7 @@
       "link": "/reference/PMID:29167352",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-06-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Thodberg M. et al., 2018",
@@ -114,7 +114,7 @@
       "link": "https://www.pombase.org/jbrowse/?loc=II%3A2002310..2015112&tracks=PomBase%20forward%20strand%20features%2CDNA%20sequence%2CPomBase%20reverse%20strand%20features%2CConsensus%20transcription%20start%20sites%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20in%20YES%20(forward%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20during%20oxidative%20stress%20(forward%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20during%20heat%20shock%20(reverse%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20during%20nitrogen%20starvation%20(forward%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20during%20nitrogen%20starvation%20(reverse%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20during%20heat%20shock%20(forward%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20during%20oxidative%20stress%20(reverse%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20in%20YES%20(reverse%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20in%20glucose%20minimal%20medium%20(forward%20strand)%20-%20Thodberg%20et%20al.%20(2018)%2CTranscription%20start%20sites%20in%20glucose%20minimal%20medium%20(reverse%20strand)%20-%20Thodberg%20et%20al.%20(2018)&highlight=",
       "link_label": "View in JBrowse ...",
       "date_added": "2018-06-14",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Curto M. et al., 2017",
@@ -125,7 +125,7 @@
       "link": "/reference/PMID:29134248",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-06-26",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "MacKay K. et al., 2018",
@@ -135,7 +135,7 @@
       "content": "Graph-based visualization of Hi-C datasets. Originally published in <a href='https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3507-2'>BMC Research Notes</a>.",
       "link": null,
       "date_added": "2018-07-03",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Allard K. et al., 2018",
@@ -146,7 +146,7 @@
       "link": "/reference/PMID:29514920",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-07-04",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Parua P. et al., 2018",
@@ -157,7 +157,7 @@
       "link": "/reference/PMID:29899453",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-07-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Swaffer M. et al., 2018",
@@ -168,7 +168,7 @@
       "link": "/reference/PMID:29996109",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-07-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Meadows et al., 2018",
@@ -179,7 +179,7 @@
       "link": "/reference/PMID:28178520",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Tay et al., 2018",
@@ -190,7 +190,7 @@
       "link": "/reference/PMID:29930085",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-14",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Sajiki et al., 2018",
@@ -201,7 +201,7 @@
       "link": "/reference/PMID:30116786",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-27",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ganguly et al., 2018",
@@ -212,7 +212,7 @@
       "link": "/reference/PMID:30148840",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-09-20",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Bravo Núñez et al., 2019",
