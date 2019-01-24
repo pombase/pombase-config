@@ -226,6 +226,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Webster et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-01-24-webster-deadenylation.png"],
+      "content": "RNA-binding proteins distinguish between similar sequence motifs to promote targeted deadenylation by Ccr4-Not.\n\nOriginally published in <a href='https://elifesciences.org/articles/40670'>eLife</a>. ",
+      "link": "/reference/PMID:30601114",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-01-24",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
