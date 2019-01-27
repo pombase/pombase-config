@@ -359,8 +359,18 @@
       "head_image": ["explore/2017-11-17-unknowns.png"],
       "content": "Unknown process now down to 696, [conserved unknowns 410](/gene_subset/characterisation_status_conserved_unknown).\nOur \"Unknowns\" manuscript is now available on bioRxiv: [DOI: 10.1101/469569](https://www.biorxiv.org/content/early/2018/11/16/469569).",
       "date_added": "2018-11-17",
+      "show_on_front_page": false
+    },
+    {
+      "title": "New disease associations",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2019-01-27-disease.png"],
+      "content": "[Disease associations](/term/DOID:4) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
+      "date_added": "2019-01-27",
       "show_on_front_page": true
     }
+
   ],
   "predefined_queries": {
     "priority-unstudied-genes:unknown_genes": {
