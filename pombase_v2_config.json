@@ -237,6 +237,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "von Loeffelholz et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-02-04-von-loeffelholz-kinesin-microtubule.png"],
+      "content": "Cryo-EM structure of kinesin-5-microtubule complex reveals a distinct binding footprint and mechanism of drug resistance.\n\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S0022283619300105'>JMB</a>. ",
+      "link": "/reference/PMID:30659798",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-02-04",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
