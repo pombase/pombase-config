@@ -248,6 +248,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Shukla et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-02-06-shukla-cenp-a.png"],
+      "content": "Centromere DNA destabilizes H3 nucleosomes to promote CENP-A deposition during the cell cycle.\n\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S0960982218314167'>Current Biology</a>. ",
+      "link": "/reference/PMID:30503616",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-02-06",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
