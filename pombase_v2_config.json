@@ -2051,8 +2051,10 @@
     "viable": "FYPO:0002060",
     "inviable": "FYPO:0002061"
   },
-  "slim_terms": {
-    "bp_goslim_pombe": [
+  "slims": {
+    "bp_goslim_pombe": {
+      "slim_display_name": "S. pombe high level GO biological process terms",
+      "terms": [
       {
         "name": "DNA recombination",
         "termid": "GO:0006310"
@@ -2265,8 +2267,11 @@
         "name": "vitamin metabolic process",
         "termid": "GO:0006766"
       }
-    ],
-    "disease_ontology_slim": [
+    ]
+    },
+    "disease_ontology_slim": {
+      "slim_display_name": "High level Disease Ontology terms",
+      "terms": [
       {
         "name": "amino acid metabolic disorder",
         "termid": "DOID:9252"
@@ -2388,6 +2393,7 @@
         "termid": "DOID:0050737"
       }
     ]
+    }
   },
   "reference_page_config": {
     "triage_status_to_ignore": []
@@ -2909,7 +2915,8 @@
           ]
         }
       ]
-    }
+    },
+    "slim_table_slim_names": ["bp_goslim_pombe"]
   },
   "query_data_config": {
     "ortholog_presence_taxonids": [9606, 4932]
