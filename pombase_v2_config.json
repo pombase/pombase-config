@@ -259,6 +259,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Nakazawa et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-02-07-nakazawa-topo2.png"],
+      "content": "DNA topoisomerase II phosphorylation in fission yeast reveals anticancer mechanism.\n\nOriginally published in <a href='http://www.jbc.org/content/early/2019/01/11/jbc.RA118.004955.long'>JBC</a>. ",
+      "link": "/reference/PMID:30635402",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-02-07",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
