@@ -410,7 +410,7 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "[Disease associations](/term/DOID:4) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
+      "content": "[Disease associations](/term/DOID:4) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress.\n\nThanks to <a href='https://twitter.com/figgyjam'>Julie McMurry</a> for the image.",
       "date_added": "2019-01-27",
       "show_on_front_page": true
     }
