@@ -275,7 +275,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-02-11-choi-zinc-transporters.png"],
       "content": "Zinc transporters belonging to the Cation Diffusion Facilitator (CDF) family have complementary roles in transporting zinc out of the cytosol.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007262'>PLOS Genetics</a>. ",
-      "link": "/reference/PMID:29529046",
+      "link": "/reference/29529046",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-11",
       "show_on_front_page": true
@@ -410,8 +410,17 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "[Disease associations](/term/DOID:4) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress.\n\nThanks to <a href='https://twitter.com/figgyjam'>Julie McMurry</a> for the image.",
+      "content": "[Disease associations](/term/DOID:4) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
       "date_added": "2019-01-27",
+      "show_on_front_page": false
+    },
+    {
+      "title": "Browse our inventory of conserved proteins with no known biological role",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2017-11-17-unknowns.png"],
+      "content": "Our \"unknowns\" analysis is now published in [Open Biology](https://royalsocietypublishing.org/doi/10.1098/rsob.180241). You can browse the [list of fission yeast unknown proteins](status/priority-unstudied-genes), and use the \"Visualise\" button to explore the data interactively in QuiLT, the new tool inspired by [Figure 4](https://royalsocietypublishing.org/doi/10.1098/rsob.180241#RSOB180241F4).",
+      "date_added": "2019-02-20",
       "show_on_front_page": true
     }
 
