@@ -625,7 +625,7 @@
     },
     "cancer": {
       "name": "cancer",
-      "constraints": {"term":{"termid":"PBO:0000239","name":"cancer","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"DOID:162","name":"cancer","single_or_multi_allele":null,"expression":null}}
     },
     "snorna_genes": {
       "name": "snoRNA genes",
