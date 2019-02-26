@@ -1,0 +1,3 @@
+domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
+PomGeneEx:0000001	is_a	during	GO:0022403|GO:0033554|GO:0072690	during	use when expression was measured during a specific cell cycle phase or cellular response	0,1	user
+PomGeneEx:0000001	is_a	in_presence_of	CHEBI:24431	in presence of	use when expression was measured in the presence of an extraneous substance	0,1	user
