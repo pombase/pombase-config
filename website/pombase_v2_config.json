@@ -281,6 +281,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Li J. et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-03-05-li-essential-gene-bypass.png"],
+      "content": "Systematic analysis reveals the prevalence and principles of bypassable gene essentiality.\n\nOriginally published in <a href='https://www.nature.com/articles/s41467-019-08928-1'>Nature</a>. ",
+      "link": "/reference/PMID:30824696",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-03-05",
+      "show_on_front_page": false
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
@@ -421,6 +432,15 @@
       "head_image": ["explore/2017-11-17-unknowns.png"],
       "content": "Our \"unknowns\" analysis is now published in [Open Biology](https://royalsocietypublishing.org/doi/10.1098/rsob.180241). You can browse the [list of fission yeast unknown proteins](status/priority-unstudied-genes), and use the \"Visualise\" button to explore the data interactively in QuiLT, the new tool inspired by [Figure 4](https://royalsocietypublishing.org/doi/10.1098/rsob.180241#RSOB180241F4).",
       "date_added": "2019-02-20",
+      "show_on_front_page": true
+    }
+    {
+      "title": "GO slim analysis for any gene list",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2019-03-05-slim-list.png"],
+      "content": "PomBase's advanced search now allows you to retrieve [GO slim](documentation/pombase-go-slim-documentation) annotations for any set of search results. Combine with the "Gene IDs" query option to find GO slim annotations for your own list of genes.",
+      "date_added": "2019-03-05",
       "show_on_front_page": true
     }
 
