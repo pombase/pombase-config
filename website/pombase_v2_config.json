@@ -289,7 +289,7 @@
       "link": "/reference/PMID:30824696",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-03-05",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "Recent community curation",
