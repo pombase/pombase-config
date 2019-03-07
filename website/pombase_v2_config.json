@@ -208,7 +208,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-09-20-russell-chromium.png"],
-      "content": "Genome-wide phenotypic analysis of chromate toxicity.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007595'>PLOS Genetics</a>. ",
+      "content": "Genome-wide phenotypic analysis of chromate toxicity.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007595'>PLoS Genetics</a>. ",
       "link": "/reference/PMID:30148840",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-09-20",
@@ -219,7 +219,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-01-16-bravo-nunez-meiotic-drive.png"],
-      "content": "*wtf* genes in poison&ndash;antidote meiotic drive and its suppression.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007836'>PLOS Genetics</a>. ",
+      "content": "*wtf* genes in poison&ndash;antidote meiotic drive and its suppression.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007836'>PLoS Genetics</a>. ",
       "link": "/reference/PMID:30475921",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-01-16",
@@ -270,18 +270,18 @@
       "show_on_front_page": true
     },
     {
-      "title": "Choi S. et al., 2019",
+      "title": "Choi et al., 2019",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-02-11-choi-zinc-transporters.png"],
-      "content": "Zinc transporters belonging to the Cation Diffusion Facilitator (CDF) family have complementary roles in transporting zinc out of the cytosol.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007262'>PLOS Genetics</a>. ",
+      "content": "Zinc transporters belonging to the Cation Diffusion Facilitator (CDF) family have complementary roles in transporting zinc out of the cytosol.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007262'>PLoS Genetics</a>. ",
       "link": "/reference/PMID:29529046",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-11",
       "show_on_front_page": true
     },
     {
-      "title": "Li J. et al., 2019",
+      "title": "Li et al., 2019",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-03-05-li-essential-gene-bypass.png"],
@@ -289,6 +289,39 @@
       "link": "/reference/PMID:30824696",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-03-05",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Lu et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-03-07-rad51-dissociation.png"],
+      "content": "Swi5–Sfr1 stimulates Rad51 recombinase filament assembly by modulating Rad51 dissociation.\n\nOriginally published in <a href='https://www.pnas.org/content/115/43/E10059.long'>PNAS</a>. ",
+      "link": "/reference/PMID:30297419",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-03-07",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Cortés et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-03-07-septum-ingression.png"],
+      "content": "Specific primary septum detection reveals septum and cleavage furrow ingression during early anaphase independent of mitosis completion.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007388'>PLoS Genetics</a>. ",
+      "link": "/reference/PMID:29813053",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-03-07",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Martín-García et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-03-07-paxillin-calcineurin.png"],
+      "content": "Paxillin-mediated recruitment of calcineurin to the contractile ring is required for cytokinesis.\n\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S2211124718315079?via%3Dihub'>Cell Reports</a>. ",
+      "link": "/reference/PMID:30332655",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-03-07",
       "show_on_front_page": true
     },
     {
