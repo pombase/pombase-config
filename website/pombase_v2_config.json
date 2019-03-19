@@ -405,15 +405,6 @@
       "show_on_front_page": false
     },
     {
-      "title": "Motif search",
-      "title_link": null,
-      "panel_type": "explore",
-      "head_image": ["explore/2017-11-06-motif_search.png"],
-      "content": "The PomBase [Protein Motif Search Tool](/motif_search) allows you to search for any user-defined amino acid sequence, supporting exact matches, wildcards, gaps, and ambiguity codes. This search is now fully integrated into PomBase, allowing results to be sent directly to the [advanced search](/query).",
-      "date_added": "2019-03-19",
-      "show_on_front_page": true
-    },
-    {
       "title": "The naming of parts",
       "title_link": null,
       "panel_type": "explore",
@@ -475,8 +466,16 @@
       "content": "PomBase's advanced search now allows you to retrieve [GO slim](documentation/pombase-go-slim-documentation) annotations for any set of search results. Combine with the \"Gene IDs\" query option to find GO slim annotations for your own list of genes.",
       "date_added": "2019-03-05",
       "show_on_front_page": true
+    },
+    {
+      "title": "Motif search",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2017-11-06-motif_search.png"],
+      "content": "The PomBase [Protein Motif Search Tool](/motif_search) allows you to search for any user-defined amino acid sequence, supporting exact matches, wildcards, gaps, and ambiguity codes. This search is now fully integrated into PomBase, allowing results to be sent directly to the [advanced search](/query).",
+      "date_added": "2019-03-19",
+      "show_on_front_page": true
     }
-
   ],
   "predefined_queries": {
     "priority-unstudied-genes:unknown_genes": {
