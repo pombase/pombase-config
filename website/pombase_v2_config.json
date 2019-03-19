@@ -409,9 +409,9 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2017-11-06-motif_search.png"],
-      "content": "The [Protein Motif Search Tool](https://curation.pombase.org/cgi-bin/sanger_motif_search) finds any user-defined amino acid sequence. The search supports exact match queries, wildcards, gaps, and ambiguity codes.",
-      "date_added": "2017-11-06",
-      "show_on_front_page": false
+      "content": "The PomBase [Protein Motif Search Tool](/motif_search) allows you to search for any user-defined amino acid sequence, supporting exact matches, wildcards, gaps, and ambiguity codes. This search is now fully integrated into PomBase, allowing results to be sent directly to the [advanced search](/query).",
+      "date_added": "2019-03-19",
+      "show_on_front_page": true
     },
     {
       "title": "The naming of parts",
