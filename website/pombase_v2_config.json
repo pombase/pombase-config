@@ -325,6 +325,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Laboucarié et al., 2017",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-04-05-Taf12-phosphorylation-starvation.png"],
+      "content": "Taf12 phosphorylation inhibits sexual differentiation downstream of TORC2.\nOriginally published in <a href='http://embor.embopress.org/content/18/12/2197.long'>EMBO reports</a>.",
+      "link": "/reference/PMID:29079657",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-04-05",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
