@@ -58,7 +58,8 @@ FYPO:0005493	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0005800	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0005807	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0005904	is_a	assayed_using	ProteinID	assayed protein		0,1	user
-FYPO:0000063-is_a(FYPO:0003179)&is_a(FYPO:0004057)	is_a	assayed_using	GeneID	assayed gene	recombination assayed near or between gene(s)	0,1,2	admin
+FYPO:0000063-is_a(FYPO:0003179)&is_a(FYPO:0004057)	is_a	assayed_using	GeneID	assayed gene	recombination assayed near or between gene(s)	0,1,2	user
+FYPO:0005578	is_a	assayed_using	GeneID	assayed gene	recombination assayed near or between gene(s)	0,1,2	user
 FYPO:0000137	is_a	assayed_using	ProteinID	assayed protein		0,1	admin
 FYPO:0000654	is_a	assayed_enzyme	GO:0032991	assayed enzyme complex		0,1	admin
 # use commented-out version if we ever move to a setup where admin overrides user for a given domain (canto #1068)
@@ -83,5 +84,4 @@ FYPO:0003891	is_a	assayed_using	GeneID	assayed gene		0,1	admin
 FYPO:0004057	is_a	assayed_using	GeneID	assayed gene		0,1	admin
 FYPO:0004083	is_a	assayed_using	Text	assayed protein isoform		0,1	admin
 FYPO:0004849	is_a	assayed_using	Text	assayed protein isoform		0,1	admin
-FYPO:0005578	is_a	assayed_using	GeneID	assayed gene	recombination assayed near or between gene(s)	0,1,2	admin
 FYPO:0005936	is_a	assayed_using	GeneID	assayed gene		0,1	admin
