@@ -2089,6 +2089,14 @@
       "go_xrf_abbrev": "ModBase"
     },
     {
+      "ref_type": "Structure",
+      "feature_types": ["mRNA gene", "pseudogene"],
+      "name": "SWISS-MODEL",
+      "description": "Automated protein structure homology modelling",
+      "field_name": "uniprot_identifier",
+      "url": "https://swissmodel.expasy.org/repository/uniprot/<<IDENTIFIER>>"
+    },
+    {
       "ref_type": "Pathways",
       "feature_types": ["mRNA gene", "pseudogene"],
       "name": "Reactome",
