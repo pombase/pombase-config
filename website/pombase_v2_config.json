@@ -2007,7 +2007,7 @@
       "name": "STRING",
       "description": "Network display of known and predicted interactions and functional associations",
       "field_name": "uniprot_identifier",
-      "url": "http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<<IDENTIFIER>>"
+      "url": "https://string-db.org/cgi/network.pl?species=4896&identifier=<<IDENTIFIER>>"
     },
     {
       "ref_type": "Modifications",
@@ -2092,7 +2092,7 @@
     {
       "ref_type": "Structure",
       "feature_types": ["mRNA gene", "pseudogene"],
-      "name": "SWISS-MODEL",
+      "name": "SWISS-MODEL Repository",
       "description": "Automated protein structure homology modelling",
       "field_name": "uniprot_identifier",
       "url": "https://swissmodel.expasy.org/repository/uniprot/<<IDENTIFIER>>"
@@ -2145,6 +2145,35 @@
       "field_name": "uniquename",
       "url": "https://www.genenames.org/cgi-bin/hcop?species_a=284812&species_b=9606&ortholog=all&column=pombase&Search=Search&query=<<IDENTIFIER>>"
     },
+
+   {
+      "ref_type": "Orthologs",
+      "feature_types": ["mRNA gene", "pseudogene"],
+      "name": "Ensembl Fungal Compara",
+      "description": "Alignments, gene trees, orthologs, families",
+      "field_name": "uniquename",
+      "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/Compara?db=core;g=<<IDENTIFIER>>"
+    },
+
+   {
+      "ref_type": "Orthologs",
+      "feature_types": ["mRNA gene", "pseudogene"],
+      "name": "Ensembl Pan-taxonomic Compara",
+      "description": " Gene tree, orthologs",
+      "field_name": "uniquename",
+      "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/PanCompara?db=core;g=<<IDENTIFIER>>"
+    },
+
+   {
+      "ref_type": "Orthologs",
+      "feature_types": ["mRNA gene", "pseudogene"],
+      "name": "PANTHER",
+      "description": "Orthologs, gene trees, alignments",
+      "field_name": "uniprot_identifier",
+      "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO|PomBase%3DSPCC18B5.04|UniProtKB%3D<<IDENTIFIER>>"
+    },
+
+
    {
       "ref_type": "Promoters",
       "feature_types": ["ALL"],
