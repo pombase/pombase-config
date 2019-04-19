@@ -49,6 +49,7 @@
       "common_name": "S. cerevisiae"
     }
   ],
+  "ortholog_taxonids": [9606, 4932],
   "front_page_panels": [
     {
       "title": "McDonald et al., 2017",
@@ -3041,9 +3042,6 @@
       ]
     },
     "slim_table_slim_names": ["bp_goslim_pombe"]
-  },
-  "query_data_config": {
-    "ortholog_presence_taxonids": [9606, 4932]
   },
   "file_exports": {
     "macromolecular_complexes": {
