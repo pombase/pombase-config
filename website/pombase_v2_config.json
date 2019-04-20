@@ -359,6 +359,17 @@
       "show_on_front_page": true
     },
     {
+      "title": " et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-04-20-shen-Set7-H3K37-Methyltransferase.png"],
+      "content": "Set7, a histone methyltransferase for the uncharted histone H3-37 mark.\nOriginally published in <a href='https://www.cell.com/structure/fulltext/S0969-2126(19)30011-5'>Structure</a>.",
+      "link": "/reference/PMID:30773398",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-04-20",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
