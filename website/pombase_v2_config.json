@@ -348,6 +348,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Willet et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-04-20-willet-NDR-Kinase-Sid2.png"],
+      "content": "NDR Kinase Sid2 Drives Anillin-like Mid1 from the Membrane to Promote Cytokinesis.\nOriginally published in <a href='https://www.cell.com/current-biology/fulltext/S0960-9822(19)30134-4'>Current Biology</a>.",
+      "link": "/reference/PMID:30853434",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-04-20",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
