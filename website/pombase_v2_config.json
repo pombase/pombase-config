@@ -1905,12 +1905,44 @@
     "genetic_interactions": {
       "feature_type": "gene",
       "display_name": "Genetic interaction",
-      "columns_to_show": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
+      "columns_to_show": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"],
+      "filters": [
+        {
+          "filter_name": "throughput",
+          "display_name": "Throughput",
+          "throughput_categories": [
+            {
+              "display_name": "High",
+              "throughput_type": "high"
+            },
+            {
+              "display_name": "Low",
+              "throughput_type": "low"
+            }
+          ]
+        }
+      ]
     },
     "physical_interactions": {
       "feature_type": "gene",
       "display_name": "Physical interaction",
-      "columns_to_show": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"]
+      "columns_to_show": ["gene", "gene-product", "interactor", "interactor-product", "evidence", "reference"],
+      "filters": [
+        {
+          "filter_name": "throughput",
+          "display_name": "Throughput",
+          "throughput_categories": [
+            {
+              "display_name": "High",
+              "throughput_type": "high"
+            },
+            {
+              "display_name": "Low",
+              "throughput_type": "low"
+            }
+          ]
+        }
+      ]
     },
     "orthologs": {
       "feature_type": "gene",
