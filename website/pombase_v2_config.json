@@ -57,7 +57,7 @@
       "panel_type": "spotlight",
       "head_image": ["/media/2017-10-06-gould.mp4"],
       "content": "Contractile ring structure at nanoscale resolution. Image from [eLife 2017;6:e28865](https://elifesciences.org/articles/28865), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms.",
-      "link": "/reference/PMID:28914606",
+      "reference_id": "PMID:28914606",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2017-10-06",
       "show_on_front_page": false
@@ -68,7 +68,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-01-22-jaspersen-centrosome.png"],
       "content": "Molecular model of fission yeast centrosome assembly determined by superresolution imaging.  Originally published in [JCB](http://jcb.rupress.org/content/216/8/2409).",
-      "link": "/reference/PMID:28619713",
+      "reference_id": "PMID:28619713",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-01-22",
       "show_on_front_page": false
@@ -79,7 +79,7 @@
       "panel_type": "spotlight",
       "head_image": ["/media/2018-01-24-j.k.kim.mp4"],
       "content": "Structural Basis for Shelterin Bridge Assembly.  Originally published in [Mol. Cell](http://www.cell.com/molecular-cell/fulltext/S1097-2765%2817%2930809-2).",
-      "link": "/reference/PMID:29149597",
+      "reference_id": "PMID:29149597",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-01-24",
       "show_on_front_page": false
@@ -90,7 +90,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-04-20-murayama-cohesin-establishment.png"],
       "content": "Study shows second ssDNA capture by the SMC complex during establishment of sister chromatid cohesion.  Originally published in <a href='http://www.cell.com/cell/fulltext/S0092-8674(17)31501-5'>Cell</a>.",
-      "link": "/reference/PMID:29358048",
+      "reference_id": "PMID:29358048",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-04-20",
       "show_on_front_page": false
@@ -101,7 +101,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-06-13-toda-kinesin-14.png"],
       "content": "Model illustrating collaborative inward force generation by kinesin-14s.  Originally published in the <a href='http://jcs.biologists.org/content/131/1/jcs210740.long'>Journal of Cell Science</a>.",
-      "link": "/reference/PMID:29167352",
+      "reference_id": "PMID:29167352",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-06-13",
       "show_on_front_page": false
@@ -123,7 +123,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-06-26-curto-dni2.png"],
       "content": "The ancient claudin Dni2 facilitates cell fusion at the shmoo tip. Originally published in <a href='https://link.springer.com/article/10.1007%2Fs00018-017-2709-4'>Cellular and Molecular Life Sciences</a>.",
-      "link": "/reference/PMID:29134248",
+      "reference_id": "PMID:29134248",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-06-26",
       "show_on_front_page": false
@@ -144,7 +144,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-07-04-allard-unified-model-of-cell-size.png"],
       "content": "A unified model for cell size control. Originally published in <a href='http://jcb.rupress.org/content/217/5/1589'>The Journal of Cell Biology</a>. Image from a <a href='http://jcb.rupress.org/content/217/5/1559'>Commentry</a> by Gerganova and Martin. ",
-      "link": "/reference/PMID:29514920",
+      "reference_id": "PMID:29514920",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-07-04",
       "show_on_front_page": false
@@ -155,7 +155,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-07-18-parua-cdk9-pp1-switch.png"],
       "content": "A Cdk9-PP1 switch for RNA polymerase II elongation-termination. Originally published in <a href='https://www.nature.com/articles/s41586-018-0214-z'>Nature</a>. ",
-      "link": "/reference/PMID:29899453",
+      "reference_id": "PMID:29899453",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-07-18",
       "show_on_front_page": false
@@ -166,7 +166,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-07-19-swaffer-CCDP.png"],
       "content": "Quantitative phosphoproteomics reveals the signaling dynamics of cell-cycle kinases; ~10K phosphorylation sites now in PomBase. Originally published in <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(18)30946-X'>Cell Reports</a>.",
-      "link": "/reference/PMID:29996109",
+      "reference_id": "PMID:29996109",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-07-19",
       "show_on_front_page": false
@@ -177,7 +177,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-08-13-mad2-anaphase-switch.png"],
       "content": "Sharpening the anaphase switch. Originally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(17)30069-4'>Cell Reports</a>.",
-      "link": "/reference/PMID:28178520",
+      "reference_id": "PMID:28178520",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-13",
       "show_on_front_page": false
@@ -188,7 +188,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-08-14-tay-portli.png"],
       "content": "Microtubule depolymerization in scd1&Delta; cells leads to PORTLI growth. Originally published in the <a href='http://jcs.biologists.org/content/131/14/jcs216580'>Journal of Cell Science</a>. ",
-      "link": "/reference/PMID:29930085",
+      "reference_id": "PMID:29930085",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-14",
       "show_on_front_page": false
@@ -199,7 +199,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-08-27-yanagida-mitotic-restart.png"],
       "content": "Essential genes for quiescence to cell cycle switching.\n\nOriginally published in <a href='http://advances.sciencemag.org/content/4/8/eaat5685'>Science Advances</a>. ",
-      "link": "/reference/PMID:30116786",
+      "reference_id": "PMID:30116786",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-08-27",
       "show_on_front_page": false
@@ -210,7 +210,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2018-09-20-russell-chromium.png"],
       "content": "Genome-wide phenotypic analysis of chromate toxicity.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007595'>PLoS Genetics</a>. ",
-      "link": "/reference/PMID:30148840",
+      "reference_id": "PMID:30148840",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2018-09-20",
       "show_on_front_page": false
@@ -221,7 +221,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-01-16-bravo-nunez-meiotic-drive.png"],
       "content": "*wtf* genes in poison&ndash;antidote meiotic drive and its suppression.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007836'>PLoS Genetics</a>. ",
-      "link": "/reference/PMID:30475921",
+      "reference_id": "PMID:30475921",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-01-16",
       "show_on_front_page": true
@@ -232,7 +232,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-01-24-webster-deadenylation.png"],
       "content": "RNA-binding proteins distinguish between similar sequence motifs to promote targeted deadenylation by Ccr4-Not.\n\nOriginally published in <a href='https://elifesciences.org/articles/40670'>eLife</a>. ",
-      "link": "/reference/PMID:30601114",
+      "reference_id": "PMID:30601114",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-01-24",
       "show_on_front_page": true
@@ -243,7 +243,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-02-04-von-loeffelholz-kinesin-microtubule.png"],
       "content": "Cryo-EM structure of kinesin-5-microtubule complex reveals a distinct binding footprint and mechanism of drug resistance.\n\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S0022283619300105'>JMB</a>. ",
-      "link": "/reference/PMID:30659798",
+      "reference_id": "PMID:30659798",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-04",
       "show_on_front_page": true
@@ -254,7 +254,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-02-06-shukla-cenp-a.png"],
       "content": "Centromere DNA destabilizes H3 nucleosomes to promote CENP-A deposition during the cell cycle.\n\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S0960982218314167'>Current Biology</a>. ",
-      "link": "/reference/PMID:30503616",
+      "reference_id": "PMID:30503616",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-06",
       "show_on_front_page": true
@@ -265,7 +265,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-02-07-nakazawa-topo-2.png"],
       "content": "DNA topoisomerase II phosphorylation in fission yeast reveals anticancer mechanism.\n\nOriginally published in <a href='http://www.jbc.org/content/early/2019/01/11/jbc.RA118.004955.long'>JBC</a>. ",
-      "link": "/reference/PMID:30635402",
+      "reference_id": "PMID:30635402",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-07",
       "show_on_front_page": true
@@ -276,7 +276,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-02-11-choi-zinc-transporters.png"],
       "content": "Zinc transporters belonging to the Cation Diffusion Facilitator (CDF) family have complementary roles in transporting zinc out of the cytosol.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007262'>PLoS Genetics</a>. ",
-      "link": "/reference/PMID:29529046",
+      "reference_id": "PMID:29529046",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-11",
       "show_on_front_page": true
@@ -287,7 +287,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-03-05-li-essential-gene-bypass.png"],
       "content": "Systematic analysis reveals the prevalence and principles of bypassable gene essentiality.\n\nOriginally published in <a href='https://www.nature.com/articles/s41467-019-08928-1'>Nature Communications</a>. ",
-      "link": "/reference/PMID:30824696",
+      "reference_id": "PMID:30824696",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-03-05",
       "show_on_front_page": true
@@ -298,7 +298,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-03-07-rad51-dissociation.png"],
       "content": "Swi5-Sfr1 stimulates Rad51 recombinase filament assembly by modulating Rad51 dissociation.\n\nOriginally published in <a href='https://www.pnas.org/content/115/43/E10059.long'>PNAS</a>. ",
-      "link": "/reference/PMID:30297419",
+      "reference_id": "PMID:30297419",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-03-07",
       "show_on_front_page": true
@@ -309,7 +309,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-03-07-septum-ingression.png"],
       "content": "Specific primary septum detection reveals septum and cleavage furrow ingression during early anaphase independent of mitosis completion.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007388'>PLoS Genetics</a>. ",
-      "link": "/reference/PMID:29813053",
+      "reference_id": "PMID:29813053",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-03-07",
       "show_on_front_page": true
@@ -320,7 +320,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-03-07-paxillin-calcineurin.png"],
       "content": "Paxillin-mediated recruitment of calcineurin to the contractile ring is required for cytokinesis.\n\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S2211124718315079?via%3Dihub'>Cell Reports</a>. ",
-      "link": "/reference/PMID:30332655",
+      "reference_id": "PMID:30332655",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-03-07",
       "show_on_front_page": true
@@ -331,7 +331,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-04-05-Taf12-phosphorylation-starvation.png"],
       "content": "Taf12 phosphorylation inhibits sexual differentiation downstream of TORC2.\nOriginally published in <a href='http://embor.embopress.org/content/18/12/2197.long'>EMBO reports</a>.",
-      "link": "/reference/PMID:29079657",
+      "reference_id": "PMID:29079657",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-04-05",
       "show_on_front_page": true
@@ -342,7 +342,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-04-17-Longmuir-CRISPR-Cas9.png"],
       "content": "Unexpected insertion of carrier DNA during CRISPR-Cas9, and \"unknowns\" remain \"unknown\"\nOriginally published in <a href='https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4228-x'>BMC Research Notes</a>.",
-      "link": "/reference/PMID:30925937",
+      "reference_id": "PMID:30925937",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-04-17",
       "show_on_front_page": true
@@ -353,7 +353,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-04-20-willet-NDR-Kinase-Sid2.png"],
       "content": "NDR Kinase Sid2 Drives Anillin-like Mid1 from the Membrane to Promote Cytokinesis.\nOriginally published in <a href='https://www.cell.com/current-biology/fulltext/S0960-9822(19)30134-4'>Current Biology</a>.",
-      "link": "/reference/PMID:30853434",
+      "reference_id": "PMID:30853434",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-04-20",
       "show_on_front_page": true
@@ -364,7 +364,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-04-20-shen-Set7-H3K37-Methyltransferase.png"],
       "content": "Set7, a histone methyltransferase for the uncharted histone H3-37 mark.\nOriginally published in <a href='https://www.cell.com/structure/fulltext/S0969-2126(19)30011-5'>Structure</a>.",
-      "link": "/reference/PMID:30773398",
+      "reference_id": "PMID:30773398",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-04-20",
       "show_on_front_page": true
@@ -375,7 +375,7 @@
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-04-24-reid-tRNA-nucleotidyltransferases.png"],
       "content": "Fission yeast contains separate CC- and A-adding tRNA nucleotidyltransferases.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S0006291X18325634'>Biochemical and Biophysical Research Communications</a>.",
-      "link": "/reference/PMID:30528393",
+      "reference_id": "PMID:30528393",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-04-24",
       "show_on_front_page": true
