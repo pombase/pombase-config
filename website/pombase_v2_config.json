@@ -2674,6 +2674,7 @@
     "distant_synonym_boost": 0.2
   },
   "gene_results": {
+    "sortable_columns": ["Gene name", "Systematic ID", "Product description"],
     "visualisation": {
       "columns": [
         {
