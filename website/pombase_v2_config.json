@@ -52,7 +52,7 @@
       "common_name": "S. cerevisiae"
     }
   ],
-  "ortholog_taxonids": [9606, 4932],
+  "ortholog_taxonids": [4932, 9606],
   "front_page_panels": [
     {
       "title": "McDonald et al., 2017",
