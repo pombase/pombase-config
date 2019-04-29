@@ -1978,7 +1978,6 @@
       "display_name": "Protein sequence feature",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "details_only": true,
-      "no_gene_details_section": true,
       "external_db_link_keys": ["MISO"]
     },
     "warning": {
