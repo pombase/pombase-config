@@ -2219,6 +2219,7 @@
       "name": "Ensembl Fungal Compara",
       "description": "Alignments, gene trees, orthologs, families",
       "field_name": "uniquename",
+      "show_in_sections": ["orthologs"],
       "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/Compara?db=core;g=<<IDENTIFIER>>"
     },
 
@@ -2228,6 +2229,7 @@
       "name": "Ensembl Pan-taxonomic Compara",
       "description": " Gene tree, orthologs",
       "field_name": "uniquename",
+      "show_in_sections": ["orthologs"],
       "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/PanCompara?db=core;g=<<IDENTIFIER>>"
     },
 
@@ -2237,6 +2239,7 @@
       "name": "PANTHER",
       "description": "Orthologs, gene trees, alignments",
       "field_name": "uniprot_identifier",
+      "show_in_sections": ["orthologs"],
       "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO|PomBase%3DSPCC18B5.04|UniProtKB%3D<<IDENTIFIER>>"
     },
 
