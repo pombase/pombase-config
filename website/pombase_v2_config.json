@@ -2239,7 +2239,7 @@
       "description": "Orthologs, gene trees, alignments",
       "field_name": "uniprot_identifier",
       "show_in_sections": ["orthologs"],
-      "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO|PomBase%3DSPCC18B5.04|UniProtKB%3D<<IDENTIFIER>>"
+      "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO|PomBase%3D<<UNIQUENAME>>|UniProtKB%3D<<IDENTIFIER>>"
     },
 
 
