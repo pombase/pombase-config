@@ -2202,6 +2202,7 @@
       "name": "DIOPT",
       "description": "DRSC Integrative Ortholog Prediction Tool",
       "field_name": "uniquename",
+      "show_in_sections": ["orthologs"],
       "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
     },
    {
@@ -2210,6 +2211,7 @@
       "name": "HCOP",
       "description": "Integrated human orthologs",
       "field_name": "uniquename",
+      "show_in_sections": ["orthologs"],
       "url": "https://www.genenames.org/tools/hcop/#!/?q=<<IDENTIFIER>>&qtype=pombase&qtax_id=284812&ttax_id=9606&submit=true"
     },
    {
