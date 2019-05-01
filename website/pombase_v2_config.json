@@ -2210,9 +2210,8 @@
       "name": "HCOP",
       "description": "Integrated human orthologs",
       "field_name": "uniquename",
-      "url": "https://www.genenames.org/cgi-bin/hcop?species_a=284812&species_b=9606&ortholog=all&column=pombase&Search=Search&query=<<IDENTIFIER>>"
+      "url": "https://www.genenames.org/tools/hcop/#!/?q=<<IDENTIFIER>>&qtype=pombase&qtax_id=284812&ttax_id=9606&submit=true"
     },
-
    {
       "ref_type": "Orthologs",
       "feature_types": ["mRNA gene", "pseudogene"],
