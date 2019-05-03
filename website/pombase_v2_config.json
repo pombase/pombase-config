@@ -227,7 +227,7 @@
       "reference_id": "PMID:30475921",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-01-16",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Webster et al., 2019",
@@ -238,7 +238,7 @@
       "reference_id": "PMID:30601114",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-01-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "von Loeffelholz et al., 2019",
@@ -249,7 +249,7 @@
       "reference_id": "PMID:30659798",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-04",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Shukla et al., 2018",
@@ -260,7 +260,7 @@
       "reference_id": "PMID:30503616",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-02-06",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Nakazawa et al., 2019",
@@ -381,6 +381,17 @@
       "reference_id": "PMID:30528393",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-04-24",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Okada et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/"],
+      "content": "Distinct roles of myosin-II isoforms in cytokinesis under normal and stressed conditions.\nOriginally published in iScience<a href='https://doi.org/10.1016/j.isci.2019.03.014'></a>.",
+      "reference_id": "PMID:30928696",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-05-03",
       "show_on_front_page": true
     },
     {
