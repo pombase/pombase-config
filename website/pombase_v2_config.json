@@ -1762,6 +1762,28 @@
         "added_by",
         "removed_by"
       ],
+      "filters": [
+        {
+          "filter_name": "throughput",
+          "display_name": "Throughput",
+          "scope": ["gene", "term", "genotype", "reference"],
+          "detailed_view_only": true,
+          "throughput_categories": [
+            {
+              "display_name": "High",
+              "throughput_type": "high"
+            },
+            {
+              "display_name": "Low",
+              "throughput_type": "low"
+            },
+            {
+              "display_name": "Non-experimental",
+              "throughput_type": "non-experimental"
+            }
+          ]
+        }
+      ],
       "help_route": "/documentation/gene-page-modifications"
     },
     "qualitative_gene_expression": {
