@@ -2797,23 +2797,6 @@
   "interpro": {
     "dbnames_to_filter": []
   },
-  "pubs_to_link_to_jbrowse": [
-      "PMID:18488015",
-      "PMID:21151114",
-      "PMID:21511999",
-      "PMID:21981922",
-      "PMID:22531001",
-      "PMID:23101633",
-      "PMID:23163955",
-      "PMID:23900342",
-      "PMID:24152550",
-      "PMID:24256300",
-      "PMID:24709818",
-      "PMID:25240800",
-      "PMID:25361970",
-      "PMID:25665008",
-      "PMID:29914874"
-  ],
   "server": {
     "subsets": {
       "prefixes_to_remove": [
