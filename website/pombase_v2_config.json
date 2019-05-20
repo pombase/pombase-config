@@ -29,7 +29,7 @@
   "search_box_cv_names": ["molecular_function", "biological_process", "cellular_component",
                           "fission_yeast_phenotype", "disease_ontology"],
   "search_box_config": {
-    "suffixes_to_trim": [".1", ".1:pep"]
+    "suffixes_to_trim": ["\\\\.1", "\\\\.1:pep"]
   },
   "organisms": [
     {
