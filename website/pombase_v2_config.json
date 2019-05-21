@@ -406,12 +406,23 @@
       "show_on_front_page": true
     },
     {
-      "title": "Tang et al., 2018",
+      "title": "Tang et al., 2019",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-05-21-31042107-Tang-temperature-sensitive-mutations.png"],
       "content": "Simple procedure for the generation of temperature-sensitive mutations with error-prone PCR.\nOriginally published in <a href='https://www.tandfonline.com/doi/abs/10.1080/09168451.2019.1611414'>Bioscience, Biotechnology, and Biochemistry </a>.",
       "reference_id": "PMID:31042107",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-05-21",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Xu et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-05-21-30914423-mutants-condensin-hinge.png"],
+      "content": "Isolation of single amino acid t-s mutants in condensin hinge domain.\nOriginally published in <a href='https://www.g3journal.org/content/9/5/1777.long'>G3: Genes, Genomes, Genetics</a>.",
+      "reference_id": "PMID:30914423",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-05-21",
       "show_on_front_page": true
