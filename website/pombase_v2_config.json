@@ -1138,91 +1138,91 @@
   "evidence_types": {
     "IMP": {
       "long": "Inferred from Mutant Phenotype",
-      "link": "http://www.geneontology.org/page/imp-inferred-mutant-phenotype"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Mutant_Phenotype_(IMP)"
     },
     "IDA": {
       "long": "Inferred from Direct Assay",
-      "link": "http://www.geneontology.org/page/ida-inferred-direct-assay"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Direct_Assay_(IDA)"
     },
     "IGI": {
       "long": "Inferred from Genetic Interaction",
-      "link": "http://www.geneontology.org/page/igi-inferred-genetic-interaction"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Genetic_Interaction_(IGI)"
     },
     "IPI": {
       "long": "Inferred from Physical Interaction",
-      "link": "http://www.geneontology.org/page/ipi-inferred-physical-interaction"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Physical_Interaction_(IPI)"
     },
     "EXP": {
       "long": "Inferred from Experiment",
-      "link": "http://www.geneontology.org/page/exp-inferred-experiment"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Experiment_(EXP)"
     },
     "IEP": {
       "long": "Inferred from Expression Pattern",
-      "link": "http://www.geneontology.org/page/iep-inferred-expression-pattern"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Expression_Pattern_(IEP)"
     },
     "ISS": {
       "long": "Inferred from Sequence or Structural Similarity",
-      "link": "http://www.geneontology.org/page/iss-inferred-sequence-or-structural-similarity"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Sequence_or_structural_Similarity_(ISS)"
     },
     "ISO": {
       "long": "Inferred from Sequence Orthology",
-      "link": "http://www.geneontology.org/page/iso-inferred-sequence-orthology"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Sequence_Orthology_(ISO)"
     },
     "ISA": {
       "long": "Inferred from Sequence Alignment",
-      "link": "http://www.geneontology.org/page/isa-inferred-sequence-alignment"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Sequence_Alignment_(ISA)"
     },
     "ISM": {
       "long": "Inferred from Sequence Model",
-      "link": "http://www.geneontology.org/page/ism-inferred-sequence-model"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Sequence_Model_(ISM)"
     },
     "IGC": {
       "long": "Inferred from Genomic Context",
-      "link": "http://www.geneontology.org/page/igc-inferred-genomic-context"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Genomic_Context_(IGC)"
     },
     "IBA": {
       "long": "Inferred from Biological aspect of Ancestor",
-      "link": "http://www.geneontology.org/page/iba-inferred-biological-aspect-ancestor"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Biological_aspect_of_Ancestor_(IBA)"
     },
     "IBD": {
       "long": "Inferred from Biological aspect of Descendant",
-      "link": "http://www.geneontology.org/page/ibd-inferred-biological-aspect-descendent"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Biological_aspect_of_Descendant_(IBD)"
     },
     "IKR": {
       "long": "Inferred from Key Residues",
-      "link": "http://www.geneontology.org/page/ikr-inferred-key-residues"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Key_Residues_(IKR)"
     },
     "IRD": {
       "long": "Inferred from Rapid Divergence",
-      "link": "http://www.geneontology.org/page/ird-inferred-rapid-divergence"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Rapid_Divergence(IRD)"
     },
     "RCA": {
       "long": "inferred from Reviewed Computational Analysis",
-      "link": "http://www.geneontology.org/page/rca-inferred-reviewed-computational-analysis"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Reviewed_Computational_Analysis_(RCA)"
     },
     "NAS": {
       "long": "Non-traceable Author Statement",
-      "link": "http://www.geneontology.org/page/nas-non-traceable-author-statement"
+      "link": "http://wiki.geneontology.org/index.php/Non-traceable_Author_Statement_(NAS)"
     },
     "IC": {
       "long": "Inferred by Curator",
-      "link": "http://www.geneontology.org/page/ic-inferred-curator"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_by_Curator_(IC)"
     },
     "ND": {
       "long": "No biological Data available",
-      "link": "http://www.geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://wiki.geneontology.org/index.php/No_biological_Data_available_(ND)_evidence_code"
     },
     "IEA": {
       "long": "Inferred from Electronic Annotation",
-      "link": "http://www.geneontology.org/page/automatically-assigned-evidence-codes"
+      "link": "http://wiki.geneontology.org/index.php/Inferred_from_Electronic_Annotation_(IEA)"
     },
     "NR": {
       "long": "Not Recorded",
-      "link": "http://www.geneontology.org/page/guide-go-evidence-codes"
+      "link": "http://wiki.geneontology.org/index.php/Guide_to_GO_Evidence_Codes"
     },
     "TAS": {
       "long": "Traceable Author Statement",
-      "link": "http://www.geneontology.org/page/tas-traceable-author-statement"
+      "link": "http://wiki.geneontology.org/index.php/Traceable_Author_Statement_(TAS)"
     },
     "HTP": {
       "long": "Inferred from high throughput experiment",
