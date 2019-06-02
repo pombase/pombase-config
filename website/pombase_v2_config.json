@@ -461,6 +461,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Morris et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-05-31-31116668-chen-pkd2-separation-defects.png"],
+      "content": "Fission yeast TRP channel Pkd2p localizes to the cleavage furrow during cytokinesis.\nOriginally published in <a href='https://www.molbiolcell.org/doi/abs/10.1091/mbc.E18-04-0270'>Molecular Biology of the Cell</a>.",
+      "reference_id": "PMID:31116668",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-06-02",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
