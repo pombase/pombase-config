@@ -472,6 +472,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Shen et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-06-03-30427751-Shen-J-domain-co-chaperone-Rsp1.png"],
+      "content": "The J-domain co-chaperone Rsp1 interacts with Mto1 to organize non-centrosomal microtubule assembly.\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E18-05-0279'>Molecular Biology of the Cell</a>.",
+      "reference_id": "PMID:30427751",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-06-03",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
