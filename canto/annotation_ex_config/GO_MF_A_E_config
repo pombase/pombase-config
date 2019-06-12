@@ -1,4 +1,5 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
+GO:0140313  is_a  has_substrate ProteinID	sequesters		0,1	user
 GO:0003755	is_a	has_substrate	ProteinID	isomerizes		0,1	user
 GO:0000982	is_a	has_regulation_target	TranscriptID	regulates transcription of		0,1	user
 GO:0000988	is_a	has_substrate	ProteinID	binds		0,1	user
