@@ -494,6 +494,16 @@
       "show_on_front_page": true
     },
     {
+      "title": "Yukawa et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-06-18-30463883-Yukawa-MAPs-microtubule-dynamics.png"],
+      "content": "MAPs and Microtubule Dynamics Balance with the Cut7/Kinesin-5 Motor for Mitotic Spindle Assembly.\nOriginally published in <a href='https://www.g3journal.org/content/9/1/269.long'>G3: Genes, Genomes, Genetics</a>. ",
+      "reference_id": "PMID:30463883",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-06-18",
+      "show_on_front_page": true
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
