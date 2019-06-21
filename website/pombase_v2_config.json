@@ -505,6 +505,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Kume et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/media/2019-06-21-31015410-Kume-nuclear-blebbing-lem2-mutants.mp4"],
+      "content": "Nuclear \"blebbing\" in Lem2 mutants from \"Nuclear membrane protein Lem2 regulates nuclear size through membrane flow\".\nOriginally published in <a href='https://www.nature.com/articles/s41467-019-09623-x'>Nature Communications</a>.",
+      "reference_id": "PMID:31015410",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-06-21",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
