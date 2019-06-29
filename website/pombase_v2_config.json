@@ -527,6 +527,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Bao et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/assets/spotlight/2019-06-28-30573453-Bao-Epe1-associates-with-SAGA.png"],
+      "content": "Epe1 associates with the SAGA complex to promote transcription of repeats for heterochromatin assembly.\nOriginally published in <a href='http://genesdev.cshlp.org/content/33/1-2/116.long'>Genes & Development</a>.",
+      "reference_id": "PMID:30573453",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-06-29",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
