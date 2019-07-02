@@ -1,6 +1,7 @@
 {
   "site_name": "PomBase",
   "database_name": "PomBase",
+  "database_long_name": "PomBase, the Schizosaccharomyces pombe genome database",
   "database_citation": "PMID:22039153",
   "site_description": "PomBase is a comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "load_organism_taxonid": 4896,
@@ -37,18 +38,21 @@
       "genus": "Schizosaccharomyces",
       "species": "pombe",
       "common_name": "S. pombe",
+      "alternative_names": ["fission yeast"],
       "assembly_version": "ASM294v2"
     },
     {
       "taxonid": 9606,
       "genus": "Homo",
       "species": "sapiens",
+      "alternative_names": [],
       "common_name": "human"
     },
     {
       "taxonid": 4932,
       "genus": "Saccharomyces",
       "species": "cerevisiae",
+      "alternative_names": ["brewer's yeast", "baker's yeast", "budding yeast"],
       "common_name": "S. cerevisiae"
     }
   ],
