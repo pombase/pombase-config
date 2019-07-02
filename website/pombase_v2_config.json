@@ -2200,7 +2200,8 @@
       "columns_to_show": ["gene", "count"]
     },
     "PomBase gene characterisation status": {
-      "feature_type": "gene"
+      "feature_type": "gene",
+      "display_name": "gene characterisation status"
     },
     "target_of": {
       "feature_type": "gene",
@@ -2287,7 +2288,7 @@
     },
     "_DEFAULT_": {
       "feature_type": "gene",
-      "display_name": null,
+      "display_name": "_DEFAULT_",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     }
   },
