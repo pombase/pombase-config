@@ -3,7 +3,7 @@
   "database_name": "PomBase",
   "database_long_name": "PomBase, the Schizosaccharomyces pombe genome database",
   "database_citation": "PMID:22039153",
-  "site_description": "PomBase is a comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
+  "site_description": "A comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "load_organism_taxonid": 4896,
   "helpdesk_address": "helpdesk@pombase.org",
   "base_url": "https://www.pombase.org",
