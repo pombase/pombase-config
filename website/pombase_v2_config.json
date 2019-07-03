@@ -440,7 +440,7 @@
       "reference_id": "PMID:31072933",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-05-27",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Xu et al., 2019",
@@ -451,7 +451,7 @@
       "reference_id": "PMID:29352077",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-05-27",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Xu et al., 2018",
@@ -462,7 +462,7 @@
       "reference_id": "PMID:29735656",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-05-30",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Morris et al., 2019",
@@ -561,6 +561,17 @@
       "reference_id": "PMID:31077324",
       "link_label": null,
       "date_added": "2019-07-02",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Onwubiko et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/assets/spotlight/2019-07-03-30709916-onwubiko-gef1-cdc15-ring.png"],
+      "content": "A Cdc42 GEF, Gef1, organizes F-BAR Cdc15 along the actomyosin ring.\nOriginally published in <a href='https://jcs.biologists.org/content/132/5/jcs223776.long'>Journal of Cell Science</a>. ",
+      "reference_id": "PMID:30709916",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-07-03",
       "show_on_front_page": true
     },
     {
