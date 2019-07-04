@@ -2321,7 +2321,7 @@
     },
     "_DEFAULT_": {
       "feature_type": "gene",
-      "display_name": "_DEFAULT_",
+      "display_name": null,
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
     }
   },
