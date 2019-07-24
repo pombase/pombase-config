@@ -2310,7 +2310,7 @@
     "sequence": {
       "feature_type": "gene",
       "display_name": "Protein sequence feature",
-      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
+      "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "residue", "reference", "count", "extension"],
       "details_only": true,
       "external_db_link_keys": ["MISO"]
     },
