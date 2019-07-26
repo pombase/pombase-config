@@ -1943,15 +1943,11 @@
       "feature_type": "gene",
       "display_name": "Modification",
       "columns_to_show": ["desc-rel", "gene",
-                      "evidence", "residue", "reference", "count", "extension"],
+                          "evidence", "reference", "count", "extension"],
       "external_db_link_keys": ["BioPortal"],
-      "summary_relations_to_hide": [
-        "ALL"
-      ],
-      "sort_details_by": ["modification", "extension"],
+      "sort_details_by": ["extension"],
       "summary_relation_ranges_to_collect": [
-        "added_by",
-        "removed_by"
+        "modified residue"
       ],
       "filters": [
         {
