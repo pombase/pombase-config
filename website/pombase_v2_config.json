@@ -575,6 +575,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Gallo et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/assets/spotlight/2019-07-31-30389790-Gallo-human-MOGS-CDG-disorder.png"],
+      "content": "Abrogation of glucosidase I-mediated glycoprotein deglucosylation results in a sick phenotype in fission yeasts: Model for the human MOGS-CDG disorder.\nOriginally published in <a href='http://www.jbc.org/content/293/52/19957.long'>JBC</a>.",
+      "reference_id": "PMID:30389790",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-07-31",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
