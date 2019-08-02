@@ -473,7 +473,7 @@
       "reference_id": "PMID:31116668",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-06-02",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Shen et al., 2019",
@@ -583,6 +583,17 @@
       "reference_id": "PMID:30389790",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-07-31",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Jalan et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/assets/spotlight/2019-08-02-30667359-Jalan-template-switch.png"],
+      "content": "Factors affecting template switch recombination associated with restarted DNA replication.\nOriginally published in <a href='https://elifesciences.org/articles/41697'>eLife</a>. ",
+      "reference_id": "PMID:30667359",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-08-02",
       "show_on_front_page": true
     },
     {
