@@ -2216,7 +2216,13 @@
     "misc": {
       "feature_type": "gene",
       "display_name": "Comment",
-      "columns_to_show": ["gene", "reference", "count"],
+      "columns_to_show": ["gene", "evidence", "reference", "count"],
+      "details_only": true
+    },
+    "m_f_g": {
+      "feature_type": "gene",
+      "display_name": "Miscellaneous functional group",
+      "columns_to_show": ["gene", "evidence", "count"],
       "details_only": true
     },
     "complementation": {
