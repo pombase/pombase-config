@@ -1402,7 +1402,7 @@
       "columns_to_show": ["desc-rel", "genotype", "genotype_background",
                           "evidence", "conditions", "reference", "extension"],
       "external_db_link_keys": ["BioPortal"],
-      "residue_as_extension_part": true,
+      "residue_as_extension_part": false,
       "filters": [
         {
           "filter_name": "term",
