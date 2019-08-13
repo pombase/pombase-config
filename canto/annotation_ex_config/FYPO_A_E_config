@@ -41,7 +41,7 @@ FYPO:0003086	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0003086	is_a	assayed_using	SO:0001411-SO:0000839	assayed region		0,1	user
 FYPO:0003452	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0003578	is_a	assayed_using	ProteinID	assayed protein		0,1	user
-FYPO:0003886	is_a	assayed_using	GeneID|ProteinID	assayed gene/protein		0,1	user
+FYPO:0003886	is_a	assayed_using	ProteinID|TranscriptID	assayed protein or RNA		0,1	user
 FYPO:0004038	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1	user
 FYPO:0004083	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0004847-is_a(FYPO:0000143)	is_a	assayed_using	TranscriptID|SO:0000110	assayed transcription of		0,1	user
