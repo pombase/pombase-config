@@ -30,7 +30,7 @@ GO:0016570	is_a	occurs_at	SO:0001798|SO:0001799	occurs at		0,1	user
 GO:0030702	is_a	occurs_at	SO:0001799	occurs at		0,1	user
 GO:0006357	is_a	occurs_at	SO:0001659	occurs at		0,1	user
 GO:0031399-is_a(GO:0043666)&is_a(GO:0045859)	is_a	has_regulation_target	ProteinID	regulates modification of		0,1	user
-GO:0032069	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
+#GO:0032069	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
 GO:0033562	is_a	has_regulation_target	TranscriptID	silences		0,1	user
 GO:0033562	is_a	occurs_at	SO:0000286	occurs at		0,1	user
 GO:0006886	is_a	has_input	ProteinID	transports		0,1	user
@@ -38,6 +38,7 @@ GO:0034613-is_a(GO:0006886)	is_a	has_input	ProteinID	localizes		0,1	user
 #GO:0043087	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
 GO:0043487	is_a	has_regulation_target	TranscriptID	stabilizes		0,1	user
 #GO:0043666	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
+GO:0043393	is_a	has_regulation_target	ProteinID	regulates binding between (add TWO, i.e. both binding partners)		0,2	user
 #GO:0045859	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
 GO:0050684	is_a	has_regulation_target	TranscriptID	regulates processing of		0,1	user
 GO:0050790	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
