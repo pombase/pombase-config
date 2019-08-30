@@ -7,6 +7,20 @@
   "load_organism_taxonid": 4896,
   "helpdesk_address": "helpdesk@pombase.org",
   "base_url": "https://www.pombase.org",
+  "default_jbrowse_tracks": [
+    {
+      "pmed_id": "PMID:11859360",
+      "label": "DNA sequence"
+    },
+    {
+      "pmed_id": "PMID:11859360",
+      "label": "PomBase forward strand features"
+    },
+    {
+      "pmed_id": "PMID:11859360",
+      "label": "PomBase reverse strand features"
+    }
+  ],
   "missing_browser_images": [
     "SPNCRNA.1701",
     "SPAC110.06",
