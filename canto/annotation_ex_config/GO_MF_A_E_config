@@ -2,7 +2,7 @@ domain ID	subset relation	extension relation	range ID	Canto display text	Help te
 GO:0140313	is_a	has_substrate	ProteinID	sequesters		0,1	user
 GO:0003755	is_a	has_substrate	ProteinID	isomerizes		0,1	user
 GO:0001653	is_a	has_substrate	ProteinID	binds ligand		0,1	user
-GO:0003674	is_a	column_17	Text	column 17 (PR:nnn ID for gene product form)		*	admin
+GO:0003674	is_a	column_17	Text	PR:nnn ID for gene product form		*	admin
 GO:0003674	is_a	happens_during	GO:0022403|GO:0033554|GO:0072690	has function during		0,1	user
 GO:0003674	is_a	has_qualifier	PBHQ:002|PBHQ:004	qualifier		*	admin
 GO:0003674	is_a	part_of	GO:0009987|GO:0051641	involved in biological process		0,1	user
