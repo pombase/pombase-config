@@ -1,5 +1,7 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
 FBcv:0000347	is_a	qual	FBcv:0000685|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000565|FBcv:0000342|FBcv:0000793	Qualifier		*	user
+FBcv:0000347	is_a	interaction_qual	FBcv:0000685|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000565|FBcv:0000342|FBcv:0000793	Interaction qualifier		*	user
 FBcv:0000347-is_a(FBcv:0000349)&is_a(FBcv:0002004)&is_a(FBcv:0000386)&is_a(FBcv:0000374)&is_a(FBcv:0000364)&is_a(FBcv:0000365)&is_a(FBcv:0000375)	is_a	dv_qual	FBdv:00005259	Developmental stage qualifier		0,1	user
 FBbt:10000000	is_a	qual	FBcv:0000685|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000052|FBcv:0000014|FBcv:0000176	Qualifier		*	user
+FBbt:10000000	is_a	interaction_qual	FBcv:0000685|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000052|FBcv:0000014|FBcv:0000176	Interaction qualifier		*	user
 FBbt:10000000	is_a	dv_qual	FBdv:00005259	Developmental stage qualifier		0,1	user
