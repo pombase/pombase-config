@@ -777,7 +777,7 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-09-05-explore-JBrowse.png"],
-      "content": "The PomBase [JBrowse instance](https://www.pombase.org/jbrowse/) provides a responsive online environment in which to visualise published genomic datasets. Datasets can be accessed either using the track selector within JBrowse, or by following the link on the publication page of a hosted dataset. For more information please see our [JBrowse documentation page](https://www.pombase.org/documentation/JBrowse_quick_start). Authors are welcome to submit their published data to PomBase for hosting.",
+      "content": "The PomBase [JBrowse instance](https://www.pombase.org/jbrowse/) provides a responsive online environment in which to visualise published genomic datasets. For more information please see our [JBrowse documentation page](https://www.pombase.org/documentation/JBrowse_quick_start). Authors are welcome to submit their published data to PomBase for hosting.",
       "date_added": "2019-09-06",
       "show_on_front_page": true
     }
