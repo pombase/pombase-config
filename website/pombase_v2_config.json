@@ -498,7 +498,7 @@
       "reference_id": "PMID:30427751",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-06-03",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Tamang et al., 2019",
@@ -509,7 +509,7 @@
       "reference_id": "PMID:31149897",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-06-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yukawa et al., 2019",
@@ -520,7 +520,7 @@
       "reference_id": "PMID:30463883",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-06-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kume et al., 2019",
@@ -619,6 +619,18 @@
       "reference_id": "PMID:31285271",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-08-03"
+      "show_on_front_page": true
+    },
+    {
+      "title": "Oya et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-05-31468675-Oya-H3K14-ubiquitylation.png"],
+      "content": "H3K14 ubiquitylation promotes H3K9 methylation for heterochromatin assembly.\nOriginally published in <a href='https://www.embopress.org/doi/full/10.15252/embr.201948111'>EMBO reports</a>.",
+      "reference_id": "PMID:31468675",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-04",
+      "show_on_front_page": true
     },
     {
       "title": "Recent community curation",
