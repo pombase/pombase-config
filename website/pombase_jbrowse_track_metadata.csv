@@ -1,4 +1,4 @@
-data_type,display_in_jbrowse,show_feature_label,label,comment,assayed_gene_product,background,alleles,mutant,mating_type,conditions,growth_phase_or_response,strand,assay_type,first_author,publication_year,pmed_id,study_id,DB,sample_id,ensembl_source_name,short_description,data_file_type,source_url\
+data_type,display_in_jbrowse,show_feature_label,label,Comment,assayed_gene_product,Background,Alleles,Mutant(s),mating_type,conditions,growth_phase_or_response,strand,assay_type,first_author,publication_year,pmed_id,study_id,DB,sample_id,ensembl_source_name,short_description,data_file_type,source_url\
 Genome sequence and features,yes,yes,DNA sequence,,,,WT,not applicable,h-,,not applicable,,not specified,Wood,2002,11859360,not available,,,,,,\
 Genome sequence and features,yes,yes,PomBase forward strand features,,,,not applicable,not applicable,,,not applicable,,not specified,Wood,2002,11859360,not available,,,,,,\
 Genome sequence and features,yes,yes,PomBase reverse strand features,,,,not applicable,not applicable,,,not applicable,,not specified,Wood,2002,11859360,not available,,,,,,\
