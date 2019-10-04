@@ -10,23 +10,20 @@
       "sample_id": "Sample ID",
       "data_file_type": "Data file type",
       "assayed_gene_product": "Localized gene product",
-      "alleles": "Alleles",
       "growth_phase_or_response": "Growth phase or response",
       "label": "Track label",
       "source_url": "Source URL",
       "conditions": "Conditions",
-      "mutant": "Mutant",
-      "background": "Background",
       "mating_type": "Mating type",
     },
     "displayColumns" : [
       "data_type",
       "label",
-      "alleles",
-      "mutant",
+      "Alleles",
+      "Mutant(s)",
       "growth_phase_or_response",
       "assayed_gene_product",
-      "background",
+      "Background",
       "mating_type",
       "conditions",
       "assay_type",
@@ -35,7 +32,7 @@
       "first_author",
       "pmed_id",
       "publication_year"
-      "comment"
+      "Comment"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
