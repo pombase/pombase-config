@@ -15,16 +15,18 @@
       "label": "Track label",
       "source_url": "Source URL",
       "conditions": "Conditions",
-      "mating_type": "Mating type and ploidy",
-      "technical_strain_background": "Strain background mutations"
+      "mutant": "Mutant",
+      "background": "Background",
+      "mating_type": "Mating type",
     },
     "displayColumns" : [
       "data_type",
       "label",
       "alleles",
+      "mutant",
       "growth_phase_or_response",
       "assayed_gene_product",
-      "technical_strain_background",
+      "background",
       "mating_type",
       "conditions",
       "assay_type",
@@ -33,6 +35,7 @@
       "first_author",
       "pmed_id",
       "publication_year"
+      "comment"
     ],
     "type" : "Faceted",
     "escapeHTMLInData" : false
