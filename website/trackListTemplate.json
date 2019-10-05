@@ -14,7 +14,7 @@
       "label": "Track label",
       "source_url": "Source URL",
       "conditions": "Conditions",
-      "mating_type": "Mating type",
+      "mating_type": "Mating type"
     },
     "displayColumns" : [
       "data_type",
@@ -31,7 +31,7 @@
       "sample_id",
       "first_author",
       "pmed_id",
-      "publication_year"
+      "publication_year",
       "Comment"
     ],
     "type" : "Faceted",
