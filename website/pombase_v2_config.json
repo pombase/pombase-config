@@ -633,6 +633,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Hirano et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-06-29292846-Lem2-nuclear-envelope.png"],
+      "content": "Lem2 is retained at the nuclear envelope through its interaction with Bqt4 in fission yeast.  LEM domain directly binds to DNA.\nOriginally published in <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/gtc.12557'>Genes Cells</a>.",
+      "reference_id": "PMID:29292846",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-06",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
