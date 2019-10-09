@@ -57,6 +57,15 @@
     {
       "name": "sample_id",
       "display_name": "Sample ID"
+    },
+    {
+      "name": "comment",
+      "display_name": "Comment"
+    },
+    {
+      "name": "source_url",
+      "display_name": "",
+      "download_link": true
     }
   ],
   "missing_browser_images": [
