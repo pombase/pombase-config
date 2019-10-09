@@ -21,6 +21,44 @@
       "label": "PomBase reverse strand features"
     }
   ],
+  "reference_page_jbrowse_columns": [
+    {
+      "name": "label",
+      "display_name": "Label"
+    },
+    {
+      "name": "growth_phase_or_response",
+      "display_name": "Growth phase or response"
+    },
+    {
+      "name": "assayed_gene_product",
+      "display_name": "Localized gene product"
+    },
+    {
+      "name": "background",
+      "display_name": "Background"
+    },
+    {
+      "name": "mating_type",
+      "display_name": "Mating type"
+    },
+    {
+      "name": "conditions",
+      "display_name": "Conditions"
+    },
+    {
+      "name": "assay_type",
+      "display_name": "Assay type"
+    },
+    {
+      "name": "study_id",
+      "display_name": "Study ID"
+    },
+    {
+      "name": "sample_id",
+      "display_name": "Sample ID"
+    }
+  ],
   "missing_browser_images": [
     "SPNCRNA.1701",
     "SPAC110.06",
