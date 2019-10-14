@@ -7,9 +7,6 @@
   "load_organism_taxonid": 4896,
   "helpdesk_address": "helpdesk@pombase.org",
   "base_url": "https://www.pombase.org",
-  "site_db": {
-    "connection_string": "postgres://pombase:pombase@localhost/pombase-website"
-  },
   "default_jbrowse_tracks": [
     {
       "pmed_id": "PMID:11859360",
