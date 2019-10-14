@@ -694,6 +694,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Wilson et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-07-31515876-new-binding-site-zinc-repression.png"],
+      "content": "A new TF binding site (Loz1 response element) for zinc repression.\nOriginally published in <a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.14384'>Molecular Microbiology</a>.",
+      "reference_id": "PMID:31515876",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-15",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
