@@ -702,6 +702,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Shirasugi et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-06-31532702-kinetochore-mediated-outward-force.png"],
+      "content": "Kinetochore-mediated outward force promotes spindle pole separation.\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E19-07-0366'>Molecular Biology of the Cell</a>.",
+      "reference_id": "PMID:31532702",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-15",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
