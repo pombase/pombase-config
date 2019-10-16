@@ -600,7 +600,7 @@
       "reference_id": "PMID:30573453",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-06-29",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Liu et al., 2019",
@@ -708,6 +708,17 @@
       "head_image": ["assets/spotlight/2019-10-06-31532702-kinetochore-mediated-outward-force.png"],
       "content": "Kinetochore-mediated outward force promotes spindle pole separation.\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E19-07-0366'>Molecular Biology of the Cell</a>.",
       "reference_id": "PMID:31532702",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-15",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Billault-Chaumartin et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-14-31495586-Billault-Chaumartin-ACP-fusion-focus.png"],
+      "content": "Capping Protein Insulates Arp2/3-Assembled Actin Patches from Formins.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S0960982219310127'>Current Biology</a>.",
+      "reference_id": "PMID:31495586",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-10-15",
       "show_on_front_page": true
