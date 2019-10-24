@@ -724,6 +724,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Billault-Chaumartin et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-24-23770679-Kakui-Microtubules-and-Alp7-Alp14.png"],
+      "content": "Microtubules and Alp7-Alp14 (TACC-TOG) reposition meiotic chromosomes.\nOriginally published in <a href='https://www.nature.com/articles/ncb2782'>Nature Cell Bioliogy</a>.",
+      "reference_id": "PMID:23770679",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-24",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
