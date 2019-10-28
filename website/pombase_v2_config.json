@@ -728,10 +728,32 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-10-24-23770679-Kakui-Microtubules-and-Alp7-Alp14.png"],
-      "content": "Microtubules and Alp7-Alp14 (TACC-TOG) reposition meiotic chromosomes.\nOriginally published in <a href='https://www.nature.com/articles/ncb2782'>Nature Cell Bioliogy</a>.",
+      "content": "Microtubules and Alp7-Alp14 (TACC-TOG) reposition meiotic chromosomes.\nOriginally published in <a href='https://www.nature.com/articles/ncb2782'>Nature Cell Biology</a>.",
       "reference_id": "PMID:23770679",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-10-24",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Hercyk et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-28-31591131-Hercyk-cdc15-cdc42.png"],
+      "content": "F-BAR Cdc15 Promotes Cdc42 Activation During Cytokinesis and Cell Polarization in *Schizosaccharomyces pombe*.\nOriginally published in <a href='https://www.genetics.org/content/early/2019/10/07/genetics.119.302649.long'>Genetics</a>.",
+      "reference_id": "PMID:31591131",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-28",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Xu et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-10-28-31332096-Xu-TTT-complex-Rad3-telomeres.png"],
+      "content": "Tel2-Tti1-Tti2 complex destabilization eliminates Rad3-ATR kinase signaling in the DNA replication checkpoint and leads to telomere shortening.\nOriginally published in <a href='https://mcb.asm.org/content/39/20/e00175-19'>Molecular and Cell Biology</a>.",
+      "reference_id": "PMID:31332096",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-28",
       "show_on_front_page": true
     },
     {
