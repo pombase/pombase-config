@@ -2423,7 +2423,7 @@
       "display_name": "Protein features",
       "details_only": true,
       "no_gene_details_section": true,
-      "columns_to_show": ["gene", "count"]
+      "columns_to_show": ["gene", "count", "reference"]
     },
     "PomBase gene characterisation status": {
       "feature_type": "gene",
