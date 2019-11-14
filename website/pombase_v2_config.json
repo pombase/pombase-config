@@ -757,6 +757,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Ebina et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-11-14-31615768-Ebina-CLASP-microtubule-bundling.png"],
+      "content": "CLASP promotes microtubule bundling in metaphase spindle independently of Ase1.\nOriginally published in <a href='https://bio.biologists.org/content/8/10/bio045716'>Biology Open</a>.",
+      "reference_id": "PMID:31615768",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-11-14",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
