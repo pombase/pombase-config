@@ -768,6 +768,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Leontiou et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2019-11-15-31257143-Leontiou-Bub1-TPR-Mad3-spindle-checkpoint-arrest.png"],
+      "content": "The Bub1-TPR domain interacts directly with Mad3 to generate robust spindle checkpoint arrest.\nOriginally published in <a href='https://www.cell.com/current-biology/fulltext/S0960-9822(19)30704-3'>Current Biology</a>.",
+      "reference_id": "PMID:31257143",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-11-15",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
