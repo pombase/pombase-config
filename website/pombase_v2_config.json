@@ -2455,13 +2455,26 @@
       "feature_type": "gene",
       "display_name": "Target of",
       "misc_config": {
-        "ontologyLabels": {
-          "molecular_function": "GO",
-          "biological_process": "GO",
-          "cellular_component": "GO",
-          "fission_yeast_phenotype": "FYPO",
-          "single_allele_phenotype": "FYPO",
-          "multi_allele_phenotype": "FYPO"
+        "target_of": {
+          "ontology_labels": {
+            "molecular_function": "GO",
+            "biological_process": "GO",
+            "cellular_component": "GO",
+            "fission_yeast_phenotype": "FYPO",
+            "single_allele_phenotype": "FYPO",
+            "multi_allele_phenotype": "FYPO"
+          },
+          "relation_priority": {
+            "directly activated by": 10,
+            "directly inhibited by": 10,
+            "substrate of": 9,
+            "binds": 8,
+            "localized by": 7,
+            "regulated by": 7,
+            "activity affected by mutation in": 6,
+            "affected by mutation in": 5,
+            "transported by":0
+          }
         }
       }
     },
