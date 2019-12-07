@@ -2469,11 +2469,11 @@
             "directly inhibited by": 10,
             "substrate of": 9,
             "binds": 8,
-            "localized by": 7,
-            "regulated by": 7,
-            "activity affected by mutation in": 6,
-            "affected by mutation in": 5,
-            "transported by":0
+            "transported by": 7,
+            "localized by": 6,
+            "regulated by": 6,
+            "activity affected by mutation in": 5,
+            "affected by mutation in": 4
           }
         }
       }
