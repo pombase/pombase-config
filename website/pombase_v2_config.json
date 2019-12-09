@@ -2453,30 +2453,7 @@
     },
     "target_of": {
       "feature_type": "gene",
-      "display_name": "Target of",
-      "misc_config": {
-        "target_of": {
-          "ontology_labels": {
-            "molecular_function": "GO",
-            "biological_process": "GO",
-            "cellular_component": "GO",
-            "fission_yeast_phenotype": "FYPO",
-            "single_allele_phenotype": "FYPO",
-            "multi_allele_phenotype": "FYPO"
-          },
-          "relation_priority": {
-            "directly activated by": 10,
-            "directly inhibited by": 10,
-            "substrate of": 9,
-            "binds": 8,
-            "transported by": 7,
-            "localized by": 6,
-            "regulated by": 6,
-            "activity affected by mutation in": 5,
-            "affected by mutation in": 4
-          }
-        }
-      }
+      "display_name": "Target of"
     },
     "genetic_interactions": {
       "feature_type": "gene",
@@ -2551,6 +2528,27 @@
       "feature_type": "gene",
       "display_name": null,
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"]
+    }
+  },
+  "target_of_config": {
+    "ontology_labels": {
+      "molecular_function": "GO",
+      "biological_process": "GO",
+      "cellular_component": "GO",
+      "fission_yeast_phenotype": "FYPO",
+      "single_allele_phenotype": "FYPO",
+      "multi_allele_phenotype": "FYPO"
+    },
+    "relation_priority": {
+      "directly activated by": 10,
+      "directly inhibited by": 10,
+      "substrate of": 9,
+      "binds": 8,
+      "transported by": 7,
+      "localized by": 6,
+      "regulated by": 6,
+      "activity affected by mutation in": 5,
+      "affected by mutation in": 4
     }
   },
   "phenotype_id_prefixes": ["FYPO"],
