@@ -1329,6 +1329,36 @@
     },
     {
       "rel_name": "has_input",
+      "if_descendant_of": "GO:0001216",
+      "display_name": "activates transcripion of",
+      "reciprocal_display": "transcription activated by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0001217",
+      "display_name": "represses transcripion of",
+      "reciprocal_display": "transcription repressed by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0004842",
+      "display_name": "ubiquitinates",
+      "reciprocal_display": "ubiquitinated by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0004672",
+      "display_name": "phosphorylates",
+      "reciprocal_display": "phosphorylated by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:000472i",
+      "display_name": "dephosphorylates",
+      "reciprocal_display": "dephosphorylated by"
+    },
+    {
+      "rel_name": "has_input",
       "if_descendant_of": "GO:0003824",
       "display_name": "has substrate",
       "reciprocal_display": "substrate of"
@@ -1356,6 +1386,36 @@
       "if_descendant_of": "GO:0051179",
       "display_name": "localizes",
       "reciprocal_display": "localized by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0001216",
+      "display_name": "activates transcripion of",
+      "reciprocal_display": "transcription activated by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendant_of": "GO:0001217",
+      "display_name": "represses transcripion of",
+      "reciprocal_display": "transcription repressed by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendant_of": "GO:0004842",
+      "display_name": "ubiquitinates",
+      "reciprocal_display": "ubiquitinated by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendant_of": "GO:0004672",
+      "display_name": "phosphorylates",
+      "reciprocal_display": "phosphorylated by"
+    },
+    {
+      "rel_name": "has_direct_input",
+      "if_descendant_of": "GO:000472i",
+      "display_name": "dephosphorylates",
+      "reciprocal_display": "dephosphorylated by"
     },
     {
       "rel_name": "has_direct_input",
