@@ -794,11 +794,22 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2019-12-30-30602572-Mehta-mitochondria-microtubules-mitochondrial-fission.png"],
-      "content": "Association of mitochondria with microtubules inhibits mitochondrial fission.\nOriginally published in <a href='http://www.jbc.org/content/294/10/3385'> J. Bil. Chem.</a>.",
+      "content": "Association of mitochondria with microtubules inhibits mitochondrial fission.\nOriginally published in <a href='http://www.jbc.org/content/294/10/3385'> Journal of Biological Chemistry</a>.",
       "reference_id": "PMID:30602572",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-12-31",
       "show_on_front_page": true
+    },
+    {
+      "title": "Vještica et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-01-07-31801797-Vjestica-stable-integration-vectors.png"],
+      "content": "A highly modular toolbox to introduce heterologous sequences and includes antibiotic resistance markers, promoters, fluorescent tags, and terminators.\nOriginally published in <a href='https://jcs.biologists.org/content/early/2019/11/29/jcs.240754.long'>Journal of Cell Science</a>.",
+      "reference_id": "PMID:31801797",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-01-07",
+      "show_on_front_page": false
     },
     {
       "title": "Recent community curation",
