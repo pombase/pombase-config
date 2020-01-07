@@ -809,7 +809,7 @@
       "reference_id": "PMID:31801797",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-01-07",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "Recent community curation",
