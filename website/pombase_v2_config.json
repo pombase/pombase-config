@@ -834,6 +834,18 @@
       "show_on_front_page": true
     },
     {
+      "title": "Taglini et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-01-08-31822915-Bayne-mkt1-heterochromatin.png
+"],
+      "content": "Mkt1 is required for RNAi-mediated silencing and establishment of heterochromatin in fission yeast.\nOriginally published in <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz1157/5673137'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:31822915",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-01-08",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
