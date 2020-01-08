@@ -812,6 +812,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Vo et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-01-08-31269446-Vo-CBF-heterochromatin.png"],
+      "content": "Role for cleavage and polyadenylation factor (CPF) in RNAi-independent heterochromatin domain assembly.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S2211124719307545?via%3Dihub'>Cell Reports</a>.",
+      "reference_id": "PMID:31269446",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-01-08",
+      "show_on_front_page": true
+    },
+    {
+      "title": "González-Medina et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-01-08-31260531-Gonzalez-Medina-gcn5-MBF.png"],
+      "content": "Gcn5-mediated acetylation at MBF-regulated promoters induces the G1/S transcriptional wave.\nOriginally published in <a href='https://academic.oup.com/nar/article/47/16/8439/5526704'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:31260531",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-01-08",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2018-12-24-community_papers_curated.png"],
