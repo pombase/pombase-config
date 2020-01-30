@@ -147,7 +147,7 @@
         "annotationFeatureType": "genotype",
         "topDescription": [
           {
-            "text": "Retrieve genes based on phenotypes of mutations annotated using Fission Yeast Phenotype Ontology (FYPO) terms"
+            "text": "Retrieve genes based on mutant phenotypes annotated using Fission Yeast Phenotype Ontology (FYPO)"
           }
         ],
         "phenotypeConditionNamespace": "phenotype_condition"
