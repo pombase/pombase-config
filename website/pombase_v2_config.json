@@ -3271,7 +3271,7 @@
       "description": "Orthologs, gene trees, alignments",
       "field_name": "uniprot_identifier",
       "show_in_sections": ["orthologs"],
-      "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO|PomBase%3D<<UNIQUENAME>>|UniProtKB%3D<<IDENTIFIER>>"
+      "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO%7CPomBase%3D<<UNIQUENAME>>%7CUniProtKB%3D<<IDENTIFIER>>"
     },
 
 
