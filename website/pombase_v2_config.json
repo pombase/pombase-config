@@ -3010,8 +3010,10 @@
       "multi_allele_phenotype": "FYPO"
     },
     "relation_priority": {
-      "directly activated by": 10,
-      "directly inhibited by": 10,
+      "directly activated by": 20,
+      "directly inhibited by": 20,
+      "phosphorylated by": 15,
+      "ubiquitinated by": 15,
       "substrate of": 9,
       "binds": 8,
       "transported by": 7,
