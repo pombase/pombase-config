@@ -1717,11 +1717,11 @@
     },
     {
       "rel_name": "occurs_at",
-      "display_name": "at"
+      "display_name": "occurs at"
     },
     {
       "rel_name": "occurs_in",
-      "display_name": "in"
+      "display_name": "occurs in"
     },
     {
       "rel_name": "part_of",
