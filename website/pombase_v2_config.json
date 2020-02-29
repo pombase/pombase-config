@@ -1201,6 +1201,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Yu et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-02-29-31941401-Du-autophagy.png"],
+      "content": "Atg38-Atg8 Interaction in Fission Yeast Establishes a Positive Feedback Loop to Promote Autophagy\nOriginally published in Autophagy.",
+      "reference_id": "PMID:31941401",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-02-29",
+      "show_on_front_page": true
+},
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
