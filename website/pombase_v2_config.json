@@ -1188,6 +1188,18 @@
       "date_added": "2020-02-19",
       "show_on_front_page": true
     },
+       {
+      "title": "Jiao et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-02-29-31178220-Tam41.png"],
+      "content": "Structures of the Mitochondrial CDP-DAG Synthase Tam41 Suggest a Potential Lipid Substrate Pathway from Membrane to the Active Site.\nOriginally published in Structure.",
+      "reference_id": "PMID:31178220",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-02-29",
+      "show_on_front_page": true
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
