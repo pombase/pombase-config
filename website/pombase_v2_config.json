@@ -5,8 +5,8 @@
   "database_citation": "PMID:22039153",
   "site_description": "A comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "load_organism_taxonid": 4896,
-  "helpdesk_address": "helpdesk@pombase.org",
   "base_url": "https://www.pombase.org",
+  "helpdesk_address": "helpdesk@pombase.org",
   "default_jbrowse_tracks": [
     {
       "pmed_id": "PMID:11859360",
