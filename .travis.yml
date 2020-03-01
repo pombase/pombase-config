@@ -1,0 +1,8 @@
+language: shell
+before_install:
+  - apt install jq
+os: linux
+dist: trusty
+script: ./run_tests.sh
+
+
