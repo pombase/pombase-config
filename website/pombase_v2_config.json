@@ -1220,7 +1220,18 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-29",
       "show_on_front_page": false
-},
+    },
+    {
+      "title": "Ait-Saada et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-03-04-31575705-Ait-Saada-Chromatin-remodeler-Fft3.png"],
+      "content": "Chromatin remodeler Fft3 plays a dual role at blocked DNA replication forks.\n\nOriginally published in [Life Sci Alliance](https://www.life-science-alliance.org/content/2/5/e201900433).",
+      "reference_id": "PMID:31575705",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-03-04",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
