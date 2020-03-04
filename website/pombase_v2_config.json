@@ -7,6 +7,17 @@
   "load_organism_taxonid": 4896,
   "base_url": "https://www.pombase.org",
   "helpdesk_address": "helpdesk@pombase.org",
+  "canto_data_config": {
+    "browser_track_triage_types": [
+      "Browser datasets, to host",
+      "Browser datasets, hosted",
+      "Transposon related",
+      "Mating-type related",
+      "DNA replication related",
+      "DNA recombination related",
+      "Mitochondrial sequence related"
+    ]
+  },
   "default_jbrowse_tracks": [
     {
       "pmed_id": "PMID:11859360",
