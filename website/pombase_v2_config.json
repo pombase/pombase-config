@@ -136,7 +136,7 @@
           }
         ],
         "extraResultTableColumns": [
-          "UniProt ID"
+          "uniprot_identifier"
         ]
       },
       {
@@ -3747,471 +3747,555 @@
     "distant_synonym_boost": 0.2
   },
   "gene_results": {
-    "sortable_columns": ["Gene name", "Systematic ID", "Product description"],
-    "visualisation": {
-      "columns": [
-        {
-          "name": "deletion_viability",
-          "display_name": "Deletion viability",
-          "column_type": "attribute",
-          "attr_values": [
-            {
-              "name": "inviable",
-              "color": "#f44"
-            },
-            {
-              "name": "depends_on_conditions",
-              "color": "#44f",
-              "display_name": "variable"
-            },
-            {
-              "name": "viable",
-              "color": "#4f4"
-            },
-            {
-              "name": "unknown",
-              "color": "#fff",
-              "display_name": "no data"
-            }
-          ]
-        },
-        {
-          "name": "ortholog_taxonids:4932",
-          "display_name": "Budding yeast ortholog",
-          "column_type": "ortholog",
-          "attr_values": [
-            {
-              "name": "absent",
-              "color": "#c32"
-            },
-            {
-              "name": "present",
-              "color": "#3c2"
-            }
-          ]
-        },
-        {
-          "name": "ortholog_taxonids:9606",
-          "display_name": "Human ortholog",
-          "column_type": "ortholog",
-          "attr_values": [
-            {
-              "name": "absent",
-              "color": "#c32"
-            },
-            {
-              "name": "present",
-              "color": "#3c2"
-            }
-          ]
-        },
-        {
-          "name": "tmm",
-          "display_name": "Transmembrane domain",
-          "column_type": "attribute",
-          "attr_values": [
-            {
-              "name": "present",
-              "color": "#283048"
-            },
-            {
-              "name": "absent",
-              "color": "#f8f8f8"
-            },
-            {
-              "name": "not_applicable",
-              "display_name": "not applicable",
-              "color": "#bbf"
-            }
-          ]
-        },
-        {
-          "name": "go_process_superslim",
-          "display_name": "GO process",
-          "column_type": "ontology_term",
-          "attr_values": [
-            {
-              "name": "signaling",
-              "termid": "GO:0023052",
-              "color": "#9b9144"
-            },
-            {
-              "name": "gene expression",
-              "termid": "GO:0010467",
-              "color": "#5f1827"
-            },
-            {
-              "name": "chromatin remodeling",
-              "termid": "GO:0006338",
-              "color": "#9d7b69"
-            },
-            {
-              "name": "protein folding",
-              "termid": "GO:0006457",
-              "color": "#5544ff"
-            },
-            {
-              "name": "cellular component biogenesis",
-              "termid": "GO:0044085",
-              "color": "#da4837"
-            },
-            {
-              "name": "DNA metabolic process",
-              "termid": "GO:0006259",
-              "color": "#198744"
-            },
-            {
-              "name": "cell cycle",
-              "termid": "GO:0007049",
-              "color": "#e41532"
-            },
-            {
-              "name": "cytoskeleton organization",
-              "termid": "GO:0007010",
-              "color": "#cc64d9"
-            },
-            {
-              "name": "membrane organization",
-              "termid": "GO:0061024",
-              "color": "#efbf98"
-            },
-            {
-              "name": "organelle localization",
-              "termid": "GO:0051640",
-              "color": "#c8b35b"
-            },
-            {
-              "name": "lipid metabolic process",
-              "termid": "GO:0006629",
-              "color": "#394b2d"
-            },
-            {
-              "name": "small molecule metabolic process",
-              "termid": "GO:0044281",
-              "color": "#d998f5"
-            },
-            {
-              "name": "generation of precursor metabolites and energy",
-              "termid": "GO:0006091",
-              "color": "#e5c17c"
-            },
-            {
-              "name": "transport",
-              "termid": "GO:0006810",
-              "color": "#c2dd36"
-            },
-            {
-              "name": "cellular catabolic process",
-              "termid": "GO:0044248",
-              "color": "#bbc9b7"
-            },
-            {
-              "name": "detoxification",
-              "termid": "GO:0098754",
-              "color": "#9960d8"
-            },
-            {
-              "name": "other",
-              "color": "#a73"
-            },
-            {
-              "name": "unknown",
-              "color": "#fff"
-            }
-          ]
-        },
-        {
-          "name": "go_component",
-          "display_name": "GO component",
-          "column_type": "ontology_term",
-          "attr_values": [
-            {
-              "name": "nucleus",
-              "termid": "GO:0005634",
-              "color": "#e05"
-            },
-            {
-              "name": "endoplasmic reticulum",
-              "termid":  "GO:0005783",
-              "color": "#4f4"
-            },
-            {
-              "name": "mitochondrion",
-              "termid":  "GO:0005739",
-              "color": "#04f"
-            },
-            {
-              "name": "cytoplasm",
-              "termid":  "GO:0005737",
-              "color": "#a30"
-            },
-            {
-              "name": "other",
-              "color": "#fb0"
-            },
-            {
-              "name": "unknown",
-              "color": "#fff"
-            }
-          ]
-        },
-        {
-          "name": "go_function",
-          "display_name": "GO function",
-          "column_type": "ontology_term",
-          "attr_values": [
-            {
-              "name": "oxidoreductase activity",
-              "termid": "GO:0016491",
-              "color": "#89a6a1"
-            },
-            {
-              "name": "hydrolase activity",
-              "termid": "GO:0016787",
-              "color": "#2a394a"
-            },
-            {
-              "name": "transferase activity",
-              "termid": "GO:0016740",
-              "color": "#6d3ba4"
-            },
-            {
-              "name": "ligase activity",
-              "termid": "GO:0016874",
-              "color": "#da9d46"
-            },
-            {
-              "name": "cyclase activity",
-              "termid": "GO:0009975",
-              "color": "#d770f5"
-            },
-            {
-              "name": "lyase activity",
-              "termid": "GO:0016829",
-              "color": "#99a1c0"
-            },
-            {
-              "name": "catalytic activity",
-              "termid": "GO:0003824",
-              "color": "#dd37de",
-              "display_name": "other catalytic activity"
-            },
-            {
-              "name": "enzyme regulator activity",
-              "termid": "GO:0030234",
-              "color": "#feb62f"
-            },
-            {
-              "name": "DNA binding",
-              "termid": "GO:0003677",
-              "color": "#821fad"
-            },
-            {
-              "name": "transcription regulator activity",
-              "termid": "GO:0140110",
-              "color": "#cb3063"
-            },
-            {
-              "name": "transporter activity",
-              "termid": "GO:0005215",
-              "color": "#f498f0"
-            },
-            {
-              "name": "cytoskeletal protein binding",
-              "termid": "GO:0008092",
-              "color": "#6ba420"
-            },
-            {
-              "name": "unfolded protein binding",
-              "termid": "GO:0051082",
-              "color": "#21a18f"
-            },
-            {
-              "name": "RNA binding",
-              "termid": "GO:0003723",
-              "color": "#f6a0cd"
-            },
-            {
-              "name": "metal ion binding",
-              "termid": "GO:0046872",
-              "color": "#bc6384"
-            },
-            {
-              "name": "lipid binding",
-              "termid": "GO:0008289",
-              "color": "#22849b"
-            },
-            {
-              "name": "cell adhesion mediator activity",
-              "termid": "GO:0098631",
-              "color": "#3f6865"
-            },
-            {
-              "name": "structural molecule activity",
-              "termid": "GO:0005198",
-              "color": "#cdb4da"
-            },
-            {
-              "name": "other",
-              "color": "#a73"
-            },
-            {
-              "name": "unknown",
-              "color": "#fff"
-            }
-          ]
-        },
-        {
-          "name": "characterisation_status",
-          "display_name": "Characterisation status",
-          "column_type": "attribute",
-          "attr_values": [
-            {
-              "name": "published",
-              "color": "#2d3"
-            },
-            {
-              "name": "dubious",
-              "color": "#299"
-            },
-            {
-              "name": "Schizosaccharomyces pombe specific protein, uncharacterized",
-              "display_name": "S. pombe specific protein, uncharacterized",
-              "color": "#359"
-            },
-            {
-              "name": "Schizosaccharomyces specific protein, uncharacterized",
-              "display_name": "Schizosaccharomyces specific, uncharacterized",
-              "color": "#9af"
-            },
-            {
-              "name": "fission yeast specific family",
-              "color": "#23a"
-            },
-            {
-              "name": "biological role inferred",
-              "color": "#a26"
-            },
-            {
-              "name": "transposon",
-              "color": "#d72"
-            },
-            {
-              "name": "conserved unknown",
-              "color": "#882"
-            },
-            {
-              "name": "unknown",
-              "display_name": "not curated for this datatype",
-              "color": "#aaa"
-            }
-          ]
-        },
-        {
-          "name": "taxonomic_distribution",
-          "display_name": "Taxonomic distribution",
-          "column_type": "attribute",
-          "attr_values": [
-            {
-              "name": "fungi and prokaryotes",
-              "color": "#1c2"
-            },
-            {
-              "name": "eukaryotes only, fungi and metazoa",
-              "color": "#de3"
-            },
-            {
-              "name": "eukaryotes and prokaryotes",
-              "color": "#35b"
-            },
-            {
-              "name": "fungi only",
-              "color": "#39e"
-            },
-            {
-              "name": "S. pombe specific",
-              "color": "#23a"
-            },
-            {
-              "name": "Schizos. specific",
-              "color": "#a26"
-            },
-            {
-              "name": "dubious",
-              "color": "#f52"
-            },
-            {
-              "name": "not curated",
-              "color": "#882"
-            },
-            {
-              "name": "other",
-              "color": "#bbb"
-            }
-          ]
-        },
-        {
-          "name": "protein_length_bin",
-          "display_name": "Protein length",
-          "column_type": "value_bins",
-          "attr_values": [
-            {
-              "name": "1-100",
-              "color": "#e14e4e",
-              "bin_start": 1,
-              "bin_end": 100
-            },
-            {
-              "name": "101-200",
-              "color": "#d0804b",
-              "bin_start": 101,
-              "bin_end": 200
-            },
-            {
-              "name": "201-300",
-              "color": "#e0b030",
-              "bin_start": 201,
-              "bin_end": 300
-            },
-            {
-              "name": "301-400",
-              "color": "#3c2",
-              "bin_start": 301,
-              "bin_end": 400
-            },
-            {
-              "name": "401-500",
-              "color": "#40d3a6",
-              "bin_start": 401,
-              "bin_end": 500
-            },
-            {
-              "name": "501-600",
-              "color": "#30a0d0",
-              "bin_start": 501,
-              "bin_end": 600
-            },
-            {
-              "name": "601-700",
-              "color": "#6a5be0",
-              "bin_start": 601,
-              "bin_end": 700
-            },
-            {
-              "name": "701-",
-              "color": "#d054e3",
-              "bin_start": 701,
-              "bin_end": 999999999
-            },
-            {
-              "name": "unknown",
-              "display_name": "unknown / not applicable",
-              "color": "#777"
-            }
-          ]
-        }
-      ]
+    "sortable_columns": ["name", "uniquename", "product"],
+    "field_config": {
+      "uniquename": {
+        "display_name": "Systematic ID",
+        "column_type": "value"
+      },
+      "name": {
+        "display_name": "Gene name",
+        "column_type": "value"
+      },
+      "synonyms": {
+        "display_name": "Synonyms",
+        "column_type": "list"
+      },
+      "product": {
+        "display_name": "Product description",
+        "column_type": "value"
+      },
+      "uniprot_identifier": {
+        "display_name": "UniProt ID",
+        "column_type": "value"
+      },
+      "feature_type": {
+        "display_name": "Feature type",
+        "column_type": "value"
+      },
+      "start_pos": {
+        "display_name": "Start position",
+        "column_type": "value"
+      },
+      "end_pos": {
+        "display_name": "End position",
+        "column_type": "value"
+      },
+      "chromosome_name": {
+        "display_name": "Chromosome",
+        "column_type": "value"
+      },
+      "strand": {
+        "display_name": "Strand",
+        "column_type": "value"
+      },
+      "physical_interactors": {
+        "display_name": "Physical interactors",
+        "column_type": "gene_list"
+      },
+      "orthologs:4932": {
+        "display_name": "Budding yeast orthologs",
+        "column_type": "orthologs"
+      },
+      "orthologs:9606": {
+        "display_name": "Human orthologs",
+        "column_type": "orthologs"
+      },
+      "deletion_viability": {
+        "display_name": "Deletion viability",
+        "column_type": "attribute",
+        "attr_values": [
+          {
+            "name": "inviable",
+            "color": "#f44"
+          },
+          {
+            "name": "depends_on_conditions",
+            "color": "#44f",
+            "display_name": "variable"
+          },
+          {
+            "name": "viable",
+            "color": "#4f4"
+          },
+          {
+            "name": "unknown",
+            "color": "#fff",
+            "display_name": "no data"
+          }
+        ]
+      },
+      "ortholog_taxonids:4932": {
+        "display_name": "Budding yeast ortholog",
+        "column_type": "ortholog",
+        "attr_values": [
+          {
+            "name": "absent",
+            "color": "#c32"
+          },
+          {
+            "name": "present",
+            "color": "#3c2"
+          }
+        ]
+      },
+      "ortholog_taxonids:9606": {
+        "display_name": "Human ortholog",
+        "column_type": "ortholog",
+        "attr_values": [
+          {
+            "name": "absent",
+            "color": "#c32"
+          },
+          {
+            "name": "present",
+            "color": "#3c2"
+          }
+        ]
+      },
+      "tmm": {
+        "display_name": "Transmembrane domain",
+        "column_type": "attribute",
+        "attr_values": [
+          {
+            "name": "present",
+            "color": "#283048"
+          },
+          {
+            "name": "absent",
+            "color": "#f8f8f8"
+          },
+          {
+            "name": "not_applicable",
+            "display_name": "not applicable",
+            "color": "#bbf"
+          }
+        ]
+      },
+      "go_process_superslim": {
+        "display_name": "GO process",
+        "column_type": "ontology_term",
+        "attr_values": [
+          {
+            "name": "signaling",
+            "termid": "GO:0023052",
+            "color": "#9b9144"
+          },
+          {
+            "name": "gene expression",
+            "termid": "GO:0010467",
+            "color": "#5f1827"
+          },
+          {
+            "name": "chromatin remodeling",
+            "termid": "GO:0006338",
+            "color": "#9d7b69"
+          },
+          {
+            "name": "protein folding",
+            "termid": "GO:0006457",
+            "color": "#5544ff"
+          },
+          {
+            "name": "cellular component biogenesis",
+            "termid": "GO:0044085",
+            "color": "#da4837"
+          },
+          {
+            "name": "DNA metabolic process",
+            "termid": "GO:0006259",
+            "color": "#198744"
+          },
+          {
+            "name": "cell cycle",
+            "termid": "GO:0007049",
+            "color": "#e41532"
+          },
+          {
+            "name": "cytoskeleton organization",
+            "termid": "GO:0007010",
+            "color": "#cc64d9"
+          },
+          {
+            "name": "membrane organization",
+            "termid": "GO:0061024",
+            "color": "#efbf98"
+          },
+          {
+            "name": "organelle localization",
+            "termid": "GO:0051640",
+            "color": "#c8b35b"
+          },
+          {
+            "name": "lipid metabolic process",
+            "termid": "GO:0006629",
+            "color": "#394b2d"
+          },
+          {
+            "name": "small molecule metabolic process",
+            "termid": "GO:0044281",
+            "color": "#d998f5"
+          },
+          {
+            "name": "generation of precursor metabolites and energy",
+            "termid": "GO:0006091",
+            "color": "#e5c17c"
+          },
+          {
+            "name": "transport",
+            "termid": "GO:0006810",
+            "color": "#c2dd36"
+          },
+          {
+            "name": "cellular catabolic process",
+            "termid": "GO:0044248",
+            "color": "#bbc9b7"
+          },
+          {
+            "name": "detoxification",
+            "termid": "GO:0098754",
+            "color": "#9960d8"
+          },
+          {
+            "name": "other",
+            "color": "#a73"
+          },
+          {
+            "name": "unknown",
+            "color": "#fff"
+          }
+        ]
+      },
+      "go_component": {
+        "display_name": "GO component",
+        "column_type": "ontology_term",
+        "attr_values": [
+          {
+            "name": "nucleus",
+            "termid": "GO:0005634",
+            "color": "#e05"
+          },
+          {
+            "name": "endoplasmic reticulum",
+            "termid":  "GO:0005783",
+            "color": "#4f4"
+          },
+          {
+            "name": "mitochondrion",
+            "termid":  "GO:0005739",
+            "color": "#04f"
+          },
+          {
+            "name": "cytoplasm",
+            "termid":  "GO:0005737",
+            "color": "#a30"
+          },
+          {
+            "name": "other",
+            "color": "#fb0"
+          },
+          {
+            "name": "unknown",
+            "color": "#fff"
+          }
+        ]
+      },
+      "go_function": {
+        "display_name": "GO function",
+        "column_type": "ontology_term",
+        "attr_values": [
+          {
+            "name": "oxidoreductase activity",
+            "termid": "GO:0016491",
+            "color": "#89a6a1"
+          },
+          {
+            "name": "hydrolase activity",
+            "termid": "GO:0016787",
+            "color": "#2a394a"
+          },
+          {
+            "name": "transferase activity",
+            "termid": "GO:0016740",
+            "color": "#6d3ba4"
+          },
+          {
+            "name": "ligase activity",
+            "termid": "GO:0016874",
+            "color": "#da9d46"
+          },
+          {
+            "name": "cyclase activity",
+            "termid": "GO:0009975",
+            "color": "#d770f5"
+          },
+          {
+            "name": "lyase activity",
+            "termid": "GO:0016829",
+            "color": "#99a1c0"
+          },
+          {
+            "name": "catalytic activity",
+            "termid": "GO:0003824",
+            "color": "#dd37de",
+            "display_name": "other catalytic activity"
+          },
+          {
+            "name": "enzyme regulator activity",
+            "termid": "GO:0030234",
+            "color": "#feb62f"
+          },
+          {
+            "name": "DNA binding",
+            "termid": "GO:0003677",
+            "color": "#821fad"
+          },
+          {
+            "name": "transcription regulator activity",
+            "termid": "GO:0140110",
+            "color": "#cb3063"
+          },
+          {
+            "name": "transporter activity",
+            "termid": "GO:0005215",
+            "color": "#f498f0"
+          },
+          {
+            "name": "cytoskeletal protein binding",
+            "termid": "GO:0008092",
+            "color": "#6ba420"
+          },
+          {
+            "name": "unfolded protein binding",
+            "termid": "GO:0051082",
+            "color": "#21a18f"
+          },
+          {
+            "name": "RNA binding",
+            "termid": "GO:0003723",
+            "color": "#f6a0cd"
+          },
+          {
+            "name": "metal ion binding",
+            "termid": "GO:0046872",
+            "color": "#bc6384"
+          },
+          {
+            "name": "lipid binding",
+            "termid": "GO:0008289",
+            "color": "#22849b"
+          },
+          {
+            "name": "cell adhesion mediator activity",
+            "termid": "GO:0098631",
+            "color": "#3f6865"
+          },
+          {
+            "name": "structural molecule activity",
+            "termid": "GO:0005198",
+            "color": "#cdb4da"
+          },
+          {
+            "name": "other",
+            "color": "#a73"
+          },
+          {
+            "name": "unknown",
+            "color": "#fff"
+          }
+        ]
+      },
+      "characterisation_status": {
+        "display_name": "Characterisation status",
+        "column_type": "attribute",
+        "attr_values": [
+          {
+            "name": "published",
+            "color": "#2d3"
+          },
+          {
+            "name": "dubious",
+            "color": "#299"
+          },
+          {
+            "name": "Schizosaccharomyces pombe specific protein, uncharacterized",
+            "display_name": "S. pombe specific protein, uncharacterized",
+            "color": "#359"
+          },
+          {
+            "name": "Schizosaccharomyces specific protein, uncharacterized",
+            "display_name": "Schizosaccharomyces specific, uncharacterized",
+            "color": "#9af"
+          },
+          {
+            "name": "fission yeast specific family",
+            "color": "#23a"
+          },
+          {
+            "name": "biological role inferred",
+            "color": "#a26"
+          },
+          {
+            "name": "transposon",
+            "color": "#d72"
+          },
+          {
+            "name": "conserved unknown",
+            "color": "#882"
+          },
+          {
+            "name": "unknown",
+            "display_name": "not curated for this datatype",
+            "color": "#aaa"
+          }
+        ]
+      },
+      "taxonomic_distribution": {
+        "display_name": "Taxonomic distribution",
+        "column_type": "attribute",
+        "attr_values": [
+          {
+            "name": "fungi and prokaryotes",
+            "color": "#1c2"
+          },
+          {
+            "name": "eukaryotes only, fungi and metazoa",
+            "color": "#de3"
+          },
+          {
+            "name": "eukaryotes and prokaryotes",
+            "color": "#35b"
+          },
+          {
+            "name": "fungi only",
+            "color": "#39e"
+          },
+          {
+            "name": "S. pombe specific",
+            "color": "#23a"
+          },
+          {
+            "name": "Schizos. specific",
+            "color": "#a26"
+          },
+          {
+            "name": "dubious",
+            "color": "#f52"
+          },
+          {
+            "name": "not curated",
+            "color": "#882"
+          },
+          {
+            "name": "other",
+            "color": "#bbb"
+          }
+        ]
+      },
+      "protein_length_bin": {
+        "display_name": "Protein length",
+        "column_type": "value_bins",
+        "attr_values": [
+          {
+            "name": "1-100",
+            "color": "#e14e4e",
+            "bin_start": 1,
+            "bin_end": 100
+          },
+          {
+            "name": "101-200",
+            "color": "#d0804b",
+            "bin_start": 101,
+            "bin_end": 200
+          },
+          {
+            "name": "201-300",
+            "color": "#e0b030",
+            "bin_start": 201,
+            "bin_end": 300
+          },
+          {
+            "name": "301-400",
+            "color": "#3c2",
+            "bin_start": 301,
+            "bin_end": 400
+          },
+          {
+            "name": "401-500",
+            "color": "#40d3a6",
+            "bin_start": 401,
+            "bin_end": 500
+          },
+          {
+            "name": "501-600",
+            "color": "#30a0d0",
+            "bin_start": 501,
+            "bin_end": 600
+          },
+          {
+            "name": "601-700",
+            "color": "#6a5be0",
+            "bin_start": 601,
+            "bin_end": 700
+          },
+          {
+            "name": "701-",
+            "color": "#d054e3",
+            "bin_start": 701,
+            "bin_end": 999999999
+          },
+          {
+            "name": "unknown",
+            "display_name": "unknown / not applicable",
+            "color": "#777"
+          }
+        ]
+      }
     },
+    "gene_summary_field_names": [
+      "uniquename",
+      "name",
+      "product",
+      "uniprot_identifier",
+      "synonyms",
+      "feature_type",
+      "start_pos",
+      "end_pos",
+      "chromosome_name",
+      "strand",
+      "orthologs:4932",
+      "orthologs:9606"
+    ],
+    "gene_table_field_names": [
+      "uniquename",
+      "name",
+      "product",
+      "uniprot_identifier",
+      "synonyms",
+      "feature_type",
+      "start_pos",
+      "end_pos",
+      "chromosome_name",
+      "strand",
+      "orthologs:4932",
+      "orthologs:9606",
+      "tmm",
+      "physical_interactors",
+      "characterisation_status",
+      "taxonomic_distribution"
+    ],
+    "visualisation_field_names": [
+      "deletion_viability",
+      "ortholog_taxonids:4932",
+      "ortholog_taxonids:9606",
+      "tmm",
+      "go_process_superslim",
+      "go_component",
+      "go_function",
+      "characterisation_status",
+      "taxonomic_distribution",
+      "protein_length_bin"
+    ],
     "slim_table_slim_names": ["bp_goslim_pombe"]
   },
   "file_exports": {
