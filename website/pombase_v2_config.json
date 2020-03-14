@@ -4192,8 +4192,16 @@
           }
         ]
       },
-      "protein_length_bin": {
+      "molecular_weight": {
+        "display_name": "Protein molecular weight",
+        "column_type": "value"
+      },
+      "protein_length": {
         "display_name": "Protein length",
+        "column_type": "value"
+      },
+      "protein_length_bin": {
+        "display_name": "Protein length (bins)",
         "column_type": "value_bins",
         "attr_values": [
           {
@@ -4279,10 +4287,17 @@
       "strand",
       "orthologs:4932",
       "orthologs:9606",
-      "tmm",
       "physical_interactors",
+      "deletion_viability",
+      "tmm",
+      "go_process_superslim",
+      "go_component",
+      "go_function",
       "characterisation_status",
-      "taxonomic_distribution"
+      "taxonomic_distribution",
+      "molecular_weight",
+      "protein_length",
+      "protein_length_bin"
     ],
     "visualisation_field_names": [
       "deletion_viability",
