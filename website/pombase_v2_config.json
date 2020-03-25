@@ -1109,7 +1109,7 @@
       "reference_id": "PMID:31483748",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-12-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Mehta et al., 2019",
@@ -1120,7 +1120,7 @@
       "reference_id": "PMID:30602572",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2019-12-31",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Vještica et al., 2019",
@@ -1131,7 +1131,7 @@
       "reference_id": "PMID:31801797",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-01-07",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Vo et al., 2019",
@@ -1142,7 +1142,7 @@
       "reference_id": "PMID:31269446",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-01-08",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "González-Medina et al., 2019",
@@ -1153,7 +1153,7 @@
       "reference_id": "PMID:31260531",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-01-08",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Taglini et al., 2019",
@@ -1164,7 +1164,7 @@
       "reference_id": "PMID:31822915",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-01-08",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Fowler et al., 2018",
@@ -1175,7 +1175,7 @@
       "reference_id": "PMID:30217891",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-12",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Hercyk et al., 2019",
@@ -1186,7 +1186,7 @@
       "reference_id": "PMID:31719163",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-12",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Tay et al., 2019",
@@ -1197,7 +1197,7 @@
       "reference_id": "PMID:30726745",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
        {
       "title": "Jiao et al., 2019",
@@ -1220,7 +1220,7 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-29",
       "show_on_front_page": true
-},
+    },
     {
       "title": "Ng et al., 2020",
       "title_link": null,
