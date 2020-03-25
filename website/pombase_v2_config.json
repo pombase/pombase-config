@@ -1244,6 +1244,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Chacko et al., 2020",
+      "tnitle_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["/media/2020-03-25-31582398-Cortical-tethering-Mcp5.mp4"],
+      "content": "Cortical tethering of mitochondria by the anchor protein Mcp5 enables uniparental inheritance\nOriginally published in J Cell Biol.",
+      "reference_id": "PMID:31582398",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-03-25",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
