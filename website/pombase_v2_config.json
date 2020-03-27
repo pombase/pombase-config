@@ -1255,6 +1255,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Inoue et al., 2020",
+      "tnitle_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/2020-03-37-31131414-Inoue-CK2-Rap1-telomere.png"],
+      "content": "Casein kinase 2 regulates telomere protein complex formation through Rap1 phosphorylation.\nOriginally published in <a href='https://academic.oup.com/nar/article/47/13/6871/5498753'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:31131414",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-03-27",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
