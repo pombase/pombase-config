@@ -1245,7 +1245,7 @@
     },
     {
       "title": "Chacko et al., 2020",
-      "tnitle_link": null,
+      "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["/media/2020-03-25-31582398-Cortical-tethering-Mcp5.mp4"],
       "content": "Cortical tethering of mitochondria by the anchor protein Mcp5 enables uniparental inheritance.\nOriginally published in <a href='https://rupress.org/jcb/article-lookup/doi/10.1083/jcb.201901108'>Journal of Cell Biology</a>.",
@@ -1256,13 +1256,24 @@
     },
     {
       "title": "Inoue et al., 2020",
-      "tnitle_link": null,
+      "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-03-37-31131414-Inoue-CK2-Rap1-telomere.png"],
       "content": "Casein kinase 2 regulates telomere protein complex formation through Rap1 phosphorylation.\nOriginally published in <a href='https://academic.oup.com/nar/article/47/13/6871/5498753'>Nucleic Acids Research</a>.",
       "reference_id": "PMID:31131414",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-03-27",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Kim et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-03-30-31719112-Kim-checkpoint-regulation-nuclear-tos4-arrest.png"],
+      "content": "Checkpoint Regulation of Nuclear Tos4 Defines S Phase Arrest in Fission Yeast.\nOriginally published in <a href='https://www.g3journal.org/content/10/1/255'>G3: Genes, Genomes, Geneticsh</a>.",
+      "reference_id": "PMID:31719112",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-03-20",
       "show_on_front_page": true
     },
     {
