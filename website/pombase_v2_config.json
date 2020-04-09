@@ -1270,10 +1270,21 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-03-30-31719112-Kim-checkpoint-regulation-nuclear-tos4-arrest.png"],
-      "content": "Checkpoint Regulation of Nuclear Tos4 Defines S Phase Arrest in Fission Yeast.\nOriginally published in <a href='https://www.g3journal.org/content/10/1/255'>G3: Genes, Genomes, Geneticsh</a>.",
+      "content": "Checkpoint Regulation of Nuclear Tos4 Defines S Phase Arrest in Fission Yeast.\nOriginally published in <a href='https://www.g3journal.org/content/10/1/255'>G3: Genes, Genomes, Genetics</a>.",
       "reference_id": "PMID:31719112",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-03-20",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Noguchi et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-04-09-30992049-Noguchi-NuA4-H4-acetylation.png"],
+      "content": "The NuA4 acetyltransferase and histone H4 acetylation promote replication recovery after topoisomerase I-poisoning.\nOriginally published in <a href='https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-019-0271-z'>Epigenetics &amp; Chromatin</a>.",
+      "reference_id": "PMID:30992049",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-04-09",
       "show_on_front_page": true
     },
     {
