@@ -2394,12 +2394,14 @@
       "feature_type": "genotype",
       "display_name": "Single allele phenotype",
       "inherits_from": "fission_yeast_phenotype",
+      "single_or_multi_allele": "single",
       "help_route": "/documentation/gene-page-phenotypes"
     },
     "multi_allele_phenotype": {
       "feature_type": "genotype",
       "display_name": "Multi-allele phenotype",
       "inherits_from": "fission_yeast_phenotype",
+      "single_or_multi_allele": "multi",
       "help_route": "/documentation/gene-page-phenotypes"
     },
     "phenotype_condition": {
@@ -4391,6 +4393,62 @@
     },
     "rnacentral": {
       "export_so_ids": ["SO:0000252", "SO:0000253", "SO:0000274", "SO:0000275", "SO:0000655"]
-    }
+    },
+    "annotation_subsets": [
+      {
+        "term_ids": ["FYPO:0002683"],
+        "file_name": "increased_sensitivity_to_chemical.tsv",
+        "single_or_multi_allele": "single",
+        "columns": [
+          {
+            "name": "gene_uniquename",
+            "display_name": "Systematic ID"
+          },
+          {
+            "name": "gene_name",
+            "display_name": "Gene name"
+          },
+          {
+            "name": "allele",
+            "display_name": "Allele"
+          },
+          {
+            "name": "termid",
+            "display_name": "Term ID"
+          },
+          {
+            "name": "term_name",
+            "display_name": "Term name"
+          }
+        ]
+      },
+      {
+        "term_ids": ["FYPO:0002682"],
+        "file_name": "increased_resistance_to_chemical.tsv",
+        "single_or_multi_allele": "single",
+        "columns": [
+          {
+            "name": "gene_uniquename",
+            "display_name": "Systematic ID"
+          },
+          {
+            "name": "gene_name",
+            "display_name": "Gene name"
+          },
+          {
+            "name": "allele",
+            "display_name": "Allele"
+          },
+          {
+            "name": "termid",
+            "display_name": "Term ID"
+          },
+          {
+            "name": "term_name",
+            "display_name": "Term name"
+          }
+        ]
+      }
+    ]
   }
 }
