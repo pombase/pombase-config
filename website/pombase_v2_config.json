@@ -1288,6 +1288,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Bravo Núñez et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-04-16-32032353-bravo-nunez-meiotic-drivers.png"],
+      "content": "Dramatically diverse 'Schizosaccharomyces pombe wtf* meiotic drivers all display high gamete-killing efficiency.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008350'>PLoS Genetics</a>.",
+      "reference_id": "PMID:32032353",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-04-16",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
