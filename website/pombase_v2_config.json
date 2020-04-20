@@ -1299,6 +1299,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Anandarajan et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-04-20-32034465-Anandarajan-formaldehyde-DNA-damage.png"],
+      "content": "Genetic investigation of formaldehyde-induced DNA damage response in *Schizosaccharomyces pombe*.\nOriginally published in <a href='https://link.springer.com/article/10.1007%2Fs00294-020-01057-z'>Current Genetics</a>.",
+      "reference_id": "PMID:32034465",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-04-20",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
