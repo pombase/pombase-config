@@ -1208,7 +1208,7 @@
       "reference_id": "PMID:31178220",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-29",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yu et al., 2020",
@@ -1219,7 +1219,7 @@
       "reference_id": "PMID:31941401",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-29",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ng et al., 2020",
@@ -1230,7 +1230,7 @@
       "reference_id": "PMID:32023460",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-02-29",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ait-Saada et al., 2019",
@@ -1307,6 +1307,17 @@
       "reference_id": "PMID:32034465",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-04-20",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Shetty et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-04-21-31833215-Shetty-Maf1-tRNA-transcription-lifespan.png"],
+      "content": "Maf1‐dependent transcriptional regulation of tRNAs prevents genomic instability and is associated with extended lifespan.\nOriginally published in <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13068'>Aging Cell</a>.",
+      "reference_id": "PMID:31833215",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-04-21",
       "show_on_front_page": true
     },
     {
