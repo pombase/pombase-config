@@ -1321,6 +1321,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Argunhan et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-04-28-32204793-Argunhan-Rad51-Swi5-Sfr1.png"],
+      "content": "Cooperative interactions facilitate stimulation of Rad51 by the Swi5-Sfr1 auxiliary factor complex.\nOriginally published in <a href='https://elifesciences.org/articles/52566'>eLife</a>. Image: left panel from [eLife 2020;9:52566](https://elifesciences.org/articles/52566#fig7), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms; right panel B. Argunhan pers. comm.",
+      "reference_id": "PMID:32204793",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-04-28",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
