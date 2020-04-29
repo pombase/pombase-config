@@ -1337,11 +1337,11 @@
        "panel_type": "spotlight",
        "head_image": ["assets/spotlight/2020-04-28-Hidalgo-PAC.png"],
        "content": "Chaperone-Facilitated Aggregation of Thermo-Sensitive Proteins Shields Them from Degradation during Heat Stress.\nOriginally published in Cell Rep.",
-       "reference_id": "PMID: 32075773",
+       "reference_id": "PMID:32075773",
        "link_label": "Publication record in PomBase ...",
        "date_added": "2020-04-28",
        "show_on_front_page": true
-    },   
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
