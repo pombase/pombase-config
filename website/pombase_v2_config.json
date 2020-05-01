@@ -1336,7 +1336,7 @@
        "title_link": null,
        "panel_type": "spotlight",
        "head_image": ["assets/spotlight/32075773-Cabera-chaperone-facilitated-aggregation.png"],
-       "content": "Chaperone-Facilitated Aggregation of Thermo-Sensitive Proteins Shields Them from Degradation during Heat Stress.\nOriginally published in Cell Rep.",
+       "content": "Chaperone-Facilitated Aggregation of Thermo-Sensitive Proteins Shields Them from Degradation during Heat Stress.\nOriginally published in [Cell Rep](http://dx.doi.org/10.1016/j.celrep.2020.01.077).",
        "reference_id": "PMID:32075773",
        "link_label": "Publication record in PomBase ...",
        "date_added": "2020-04-28",
