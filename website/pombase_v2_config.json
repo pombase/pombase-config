@@ -2452,7 +2452,7 @@
       "split_by_parents": [
         {
           "config_name": "population_phenotype",
-          "termids": ["FYPO:0000003", "FYPO:0001155"],
+          "termids": ["FYPO:0000003", "FYPO:0000128", "FYPO:0001155"],
           "display_name": "Population phenotype"
         },
         {
