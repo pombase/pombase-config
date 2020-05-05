@@ -39,6 +39,7 @@ FYPO:0002934	is_a	assayed_using	TranscriptID	assayed transcript		0,1	user
 FYPO:0003038	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1	user
 FYPO:0003048	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1	user
 FYPO:0003050	is_a	assayed_using	SO:0001411-SO:0000839	assayed region		0,1	user
+FYPO:0003054	is_a	assayed_using	GeneID|SO:0001411-SO:0000839	assayed locus or region		0,1	user
 #FYPO:0003059	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1	user	should be redundant
 FYPO:0003086	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0003086	is_a	assayed_using	SO:0001411-SO:0000839	assayed region		0,1	user
@@ -62,6 +63,9 @@ FYPO:0005800	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0005807	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0005904	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0005578	is_a	assayed_using	GeneID	assayed gene	recombination assayed near or between gene(s)	0,1,2	user
+FYPO:0007355	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the RNA present in the observed Smp foci	0,1	user
+FYPO:0007356	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the RNA present in the observed Smp foci	0,1	user
+FYPO:0007357	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the RNA present in the observed Smp foci	0,1	user
 # use commented-out version if we ever move to a setup where admin overrides user for a given domain (canto #1068)
 #FYPO:0000654	is_a	assayed_substrate	TranscriptID|ProteinID|GO:0032991|SO:0000673	assayed substrate (RNA, protein or complex only)		0,1	admin
 FYPO:0000137	is_a	assayed_using	ProteinID	assayed protein		0,1	admin
