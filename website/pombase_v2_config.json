@@ -1252,7 +1252,7 @@
       "reference_id": "PMID:31582398",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-03-25",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Inoue et al., 2020",
@@ -1263,7 +1263,7 @@
       "reference_id": "PMID:31131414",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-03-27",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kim et al., 2020",
@@ -1274,7 +1274,7 @@
       "reference_id": "PMID:31719112",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-03-20",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Noguchi et al., 2019",
@@ -1355,13 +1355,24 @@
     },
     {
       "title": "Ding et al., 2020",
-      "titlee_link": null,
+      "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-05-05-31811152-chr-associated-rna-protein-meiosis.png"],
       "content": "Chromosome-associated RNA-protein complexes promote pairing of homologous chromosomes during meiosis.\nOriginally published in [Nature Communications](https://www.nature.com/articles/s41467-019-13609-0).",
       "reference_id": "PMID:31811152",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-05-05",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Kampmeyer et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-05-06-32142608-Kampmeyer-heavy-water.png"],
+      "content": "Mutations in a single signaling pathway allow cell growth in heavy water.\nImage reprinted with permission from <a href='https://pubs.acs.org/doi/full/10.1021/acssynbio.9b00376'>ACS Synthetic Biology 2020 9 (4), 733-748</a>. Copyright 2020 American Chemical Society.",
+      "reference_id": "PMID:32142608",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-05-06",
       "show_on_front_page": true
     },
     {
