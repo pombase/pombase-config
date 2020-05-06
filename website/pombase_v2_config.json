@@ -1347,11 +1347,22 @@
        "title_link": null,
        "panel_type": "spotlight",
        "head_image": ["assets/spotlight/2020-05-05-30626735-Andres-Ctp1-DNA-bridging-DSB-repair.png"],
-       "content": "Ctp1 protein–DNA filaments promote DNA bridging and DNA double-strand break repair.\nOriginally published in [Journal of Biological Chemistry](https://www.jbc.org/content/294/9/3312).",
+       "content": "Ctp1 protein-DNA filaments promote DNA bridging and DNA double-strand break repair.\nOriginally published in [Journal of Biological Chemistry](https://www.jbc.org/content/294/9/3312).",
        "reference_id": "PMID:30626735",
        "link_label": "Publication record in PomBase ...",
        "date_added": "2020-05-05",
        "show_on_front_page": true
+    },
+    {
+      "title": "Ding et al., 2020",
+      "titlee_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-05-05-31811152-chr-associated-rna-protein-meiosis.png"],
+      "content": "Chromosome-associated RNA-protein complexes promote pairing of homologous chromosomes during meiosis.\nOriginally published in [Nature Communications](https://www.nature.com/articles/s41467-019-13609-0).",
+      "reference_id": "PMID:31811152",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-05-05",
+      "show_on_front_page": true
     },
     {
       "title": "Recent community curation",
