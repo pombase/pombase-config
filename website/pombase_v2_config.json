@@ -1285,7 +1285,7 @@
       "reference_id": "PMID:30992049",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-04-09",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Bravo Núñez et al., 2020",
@@ -1296,7 +1296,7 @@
       "reference_id": "PMID:32032353",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-04-16",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Anandarajan et al., 2020",
