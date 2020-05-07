@@ -1376,6 +1376,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Kamrad et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-05-07-32319721-Kamrad-pyruvate-kinase-variant.png"],
+      "content": "Pyruvate kinase variant of fission yeast tunes carbon metabolism, cell regulation, growth and stress resistance.\nOriginally published in <a href='https://www.embopress.org/doi/full/10.15252/msb.20199270'>Molecular Systems Biology</a>.",
+      "reference_id": "PMID:32319721",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-05-07",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
