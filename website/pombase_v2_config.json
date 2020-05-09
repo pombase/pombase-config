@@ -3580,10 +3580,6 @@
         "termid": "GO:0006325"
       },
       {
-        "name": "cofactor metabolic process",
-        "termid": "GO:0051186"
-      },
-      {
         "name": "conjugation with cellular fusion",
         "termid": "GO:0000747"
       },
@@ -3602,6 +3598,10 @@
       {
         "name": "generation of precursor metabolites and energy",
         "termid": "GO:0006091"
+      },
+      {
+        "name": "iron-sulfur cluster assembly",
+        "termid": "GO:0016226"
       },
       {
         "name": "lipid metabolic process",
@@ -3626,6 +3626,10 @@
       {
         "name": "microtubule cytoskeleton organization",
         "termid": "GO:0000226"
+      },
+      {
+        "name": "meiotic drive",
+        "termid": "GO:0110134"
       },
       {
         "name": "mitochondrial gene expression",
@@ -3692,6 +3696,10 @@
         "termid": "GO:0006605"
       },
       {
+        "name": "pteridine-containing compound biosynthetic process",
+        "termid": "GO:0042559"
+      },
+      {
         "name": "regulation of mitotic cell cycle phase transition",
         "termid": "GO:1901990"
       },
@@ -3702,6 +3710,10 @@
       {
         "name": "ribosome biogenesis",
         "termid": "GO:0042254"
+      },
+      {
+        "name": "secondary metabolic process",
+        "termid": "GO:0019748"
       },
       {
         "name": "signaling",
@@ -3728,12 +3740,20 @@
         "termid": "GO:0032200"
       },
       {
+        "name": "tetrapyrrole metabolic process",
+        "termid": "GO:0033013"
+      },
+      {
         "name": "transcription, DNA-templated",
         "termid": "GO:0006351"
       },
       {
         "name": "transmembrane transport",
         "termid": "GO:0055085"
+      },
+      {
+        "name": "ubiquinone biosynthetic process",
+        "termid": "GO:0006744"
       },
       {
         "name": "vesicle-mediated transport",
