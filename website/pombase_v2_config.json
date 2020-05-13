@@ -3061,7 +3061,7 @@
       "feature_type": "gene",
       "display_name": "Disease association",
       "columns_to_show": ["desc-rel", "gene", "term-xref", "reference", "count"],
-      "external_db_link_keys": ["Disease Ontology"],
+      "external_db_link_keys": ["Monarch Disease Ontology"],
       "source_config": {
         "MalaCards": {
           "display_name_prop": "malacards_displayed_disease_name",
@@ -3520,8 +3520,8 @@
       "url": "https://reactome.org/content/query?species=Schizosaccharomyces+pombe&q=[example_id]"
     },
     {
-      "name": "Disease Ontology",
-      "url": "http://www.disease-ontology.org/?id=[example_id]"
+      "name": "Monarch Disease Ontology",
+      "url": "https://monarchinitiative.org/disease/[example_id]"
     }
   ],
   "viability_terms": {
