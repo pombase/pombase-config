@@ -100,7 +100,7 @@
     "SPMITNCRNA.01"
   ],
   "search_box_cv_names": ["molecular_function", "biological_process", "cellular_component",
-                          "fission_yeast_phenotype", "disease_ontology"],
+                          "fission_yeast_phenotype", "mondo"],
   "search_box_config": {
     "suffixes_to_trim": ["\\\\.1", "\\\\.1:pep"]
   },
@@ -262,7 +262,7 @@
         "id": "disease_associated",
         "displayName": "disease",
         "nodeType": "ontology",
-        "ontologyName": "disease_ontology",
+        "ontologyName": "mondo",
         "topDescription": [
           {
             "text": "Retrieve genes for which the curated human ortholog is associated with a disease. To find all disease gene orthologs, search for \"disease\""
@@ -1518,7 +1518,7 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "[Disease associations](/term/DOID:4) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
+      "content": "[Disease associations](/term/MONDO:0000001) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
       "date_added": "2019-01-27",
       "show_on_front_page": false
     },
@@ -1620,8 +1620,8 @@
       "name": "All disease associated genes",
       "constraints": {
         "term": {
-          "termid": "DOID:4",
-          "name": "disease_associated",
+          "termid": "MONDO:0000001",
+          "name": "disease or disorder",
           "single_or_multi_allele": null,
           "expression": null
         }
@@ -1768,7 +1768,7 @@
     },
     "cancer": {
       "name": "cancer",
-      "constraints": {"term":{"termid":"DOID:162","name":"cancer","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"MONDO:0004992","name":"cancer","single_or_multi_allele":null,"expression":null}}
     },
     "snorna_genes": {
       "name": "snoRNA genes",
@@ -3057,7 +3057,7 @@
         }
       ]
     },
-    "disease_ontology": {
+    "mondo": {
       "feature_type": "gene",
       "display_name": "Disease association",
       "columns_to_show": ["desc-rel", "gene", "term-xref", "reference", "count"],
@@ -3075,7 +3075,7 @@
           "condition": "reference=PMID:30371878"
         }
       },
-      "slim_subset_name": "disease_ontology_slim",
+      "slim_subset_name": "pombe_mondo_slim",
       "slim_description": "Disease ontology overview",
       "slim_no_category_text": "disease ontology overview category"
     },
@@ -3264,7 +3264,7 @@
     "orthologs",
     "paralogs",
     "species_dist",
-    "disease_ontology",
+    "mondo",
     "warning",
     "subunit_composition"
   ],
@@ -3528,367 +3528,516 @@
     "inviable": "FYPO:0002061"
   },
   "slims": {
-    "bp_goslim_pombe": {
-      "slim_display_name": "S. pombe high level GO biological process terms",
+    "cc_goslim_pombe": {
+      "slim_display_name": "Cellular Component slim",
+      "description": "S. pombe high level GO cellular component terms",
+      "cv_name": "cellular_component",
       "terms": [
-      {
-        "name": "DNA recombination",
-        "termid": "GO:0006310"
-      },
-      {
-        "name": "DNA repair",
-        "termid": "GO:0006281"
-      },
-      {
-        "name": "DNA replication",
-        "termid": "GO:0006260"
-      },
-      {
-        "name": "actin cytoskeleton organization",
-        "termid": "GO:0030036"
-      },
-      {
-        "name": "apoptotic process",
-        "termid": "GO:0006915"
-      },
-      {
-        "name": "ascospore formation",
-        "termid": "GO:0030437"
-      },
-      {
-        "name": "autophagy",
-        "termid": "GO:0006914"
-      },
-      {
-        "name": "carbohydrate metabolic process",
-        "termid": "GO:0005975"
-      },
-      {
-        "name": "cell adhesion",
-        "termid": "GO:0007155"
-      },
-      {
-        "name": "cell wall organization or biogenesis",
-        "termid": "GO:0071554"
-      },
-      {
-        "name": "cellular amino acid metabolic process",
-        "termid": "GO:0006520"
-      },
-      {
-        "name": "chromatin organization",
-        "termid": "GO:0006325"
-      },
-      {
-        "name": "conjugation with cellular fusion",
-        "termid": "GO:0000747"
-      },
-      {
-        "name": "cytoplasmic translation",
-        "termid": "GO:0002181"
-      },
-      {
-        "name": "detoxification",
-        "termid": "GO:0098754"
-      },
-      {
-        "name": "establishment or maintenance of cell polarity",
-        "termid": "GO:0007163"
-      },
-      {
-        "name": "generation of precursor metabolites and energy",
-        "termid": "GO:0006091"
-      },
-      {
-        "name": "iron-sulfur cluster assembly",
-        "termid": "GO:0016226"
-      },
-      {
-        "name": "lipid metabolic process",
-        "termid": "GO:0006629"
-      },
-      {
-        "name": "mRNA metabolic process",
-        "termid": "GO:0016071"
-      },
-      {
-        "name": "meiotic nuclear division",
-        "termid": "GO:0140013"
-      },
-      {
-        "name": "membrane organization",
-        "termid": "GO:0061024"
-      },
-      {
-        "name": "metal ion homeostasis",
-        "termid": "GO:0055065"
-      },
-      {
-        "name": "microtubule cytoskeleton organization",
-        "termid": "GO:0000226"
-      },
-      {
-        "name": "meiotic drive",
-        "termid": "GO:0110134"
-      },
-      {
-        "name": "mitochondrial gene expression",
-        "termid": "GO:0140053"
-      },
-      {
-        "name": "mitochondrion organization",
-        "termid": "GO:0007005"
-      },
-      {
-        "name": "mitotic cytokinesis",
-        "termid": "GO:0000281"
-      },
-      {
-        "name": "mitotic sister chromatid segregation",
-        "termid": "GO:0000070"
-      },
-      {
-        "name": "nitrogen cycle metabolic process",
-        "termid": "GO:0071941"
-      },
-      {
-        "name": "nucleobase-containing small molecule metabolic process",
-        "termid": "GO:0055086"
-      },
-      {
-        "name": "nucleocytoplasmic transport",
-        "termid": "GO:0006913"
-      },
-      {
-        "name": "organelle localization by membrane tethering",
-        "termid": "GO:0140056"
-      },
-      {
-        "name": "peroxisome organization",
-        "termid": "GO:0007031"
-      },
-      {
-        "name": "protein catabolic process",
-        "termid": "GO:0030163"
-      },
-      {
-        "name": "protein-containing complex assembly",
-        "termid": "GO:0065003"
-      },
-      {
-        "name": "protein folding",
-        "termid": "GO:0006457"
-      },
-      {
-        "name": "protein glycosylation",
-        "termid": "GO:0006486"
-      },
-      {
-        "name": "protein maturation",
-        "termid": "GO:0051604"
-      },
-      {
-        "name": "protein modification by small protein conjugation or removal",
-        "termid": "GO:0070647"
-      },
-      {
-        "name": "protein targeting",
-        "termid": "GO:0006605"
-      },
-      {
-        "name": "pteridine-containing compound biosynthetic process",
-        "termid": "GO:0042559"
-      },
-      {
-        "name": "regulation of mitotic cell cycle phase transition",
-        "termid": "GO:1901990"
-      },
-      {
-        "name": "regulation of transcription, DNA-templated",
-        "termid": "GO:0006355"
-      },
-      {
-        "name": "ribosome biogenesis",
-        "termid": "GO:0042254"
-      },
-      {
-        "name": "secondary metabolic process",
-        "termid": "GO:0019748"
-      },
-      {
-        "name": "signaling",
-        "termid": "GO:0023052"
-      },
-      {
-        "name": "snoRNA metabolic process",
-        "termid": "GO:0016074"
-      },
-      {
-        "name": "snRNA metabolic process",
-        "termid": "GO:0016073"
-      },
-      {
-        "name": "sulfur compound metabolic process",
-        "termid": "GO:0006790"
-      },
-      {
-        "name": "tRNA metabolic process",
-        "termid": "GO:0006399"
-      },
-      {
-        "name": "telomere organization",
-        "termid": "GO:0032200"
-      },
-      {
-        "name": "tetrapyrrole metabolic process",
-        "termid": "GO:0033013"
-      },
-      {
-        "name": "transcription, DNA-templated",
-        "termid": "GO:0006351"
-      },
-      {
-        "name": "transmembrane transport",
-        "termid": "GO:0055085"
-      },
-      {
-        "name": "ubiquinone biosynthetic process",
-        "termid": "GO:0006744"
-      },
-      {
-        "name": "vesicle-mediated transport",
-        "termid": "GO:0016192"
-      },
-      {
-        "name": "vitamin metabolic process",
-        "termid": "GO:0006766"
-      }
-    ]
+        {
+          "name": "cytosol",
+          "termid": "GO:0005829"
+        },
+        {
+          "name": "cytoplasmic vesicle",
+          "termid": "GO:0031410"
+        },
+        {
+          "name": "division septum",
+          "termid": "GO:0000935"
+        },
+        {
+          "name": "prospore membrane",
+          "termid": "GO:0005628"
+        },
+        {
+          "name": "extracellular region",
+          "termid": "GO:0005576"
+        },
+        {
+          "name": "cell surface",
+          "termid": "GO:0009986"
+        },
+        {
+          "name": "endoplasmic reticulum membrane",
+          "termid": "GO:0005789"
+        },
+        {
+          "name": "actin cytoskeleton",
+          "termid": "GO:0015629"
+        },
+        {
+          "name": "cytoplasmic stress granule",
+          "termid": "GO:0010494"
+        },
+        {
+          "name": "P-body",
+          "termid": "GO:0000932"
+        },
+        {
+          "name": "phagophore assembly site",
+          "termid": "GO:0000407"
+        },
+        {
+          "name": "peroxisome",
+          "termid": "GO:0005777"
+        },
+        {
+          "name": "Golgi apparatus",
+          "termid": "GO:0005794"
+        },
+        {
+          "name": "cell cortex",
+          "termid": "GO:0005938"
+        },
+        {
+          "name": "cell wall",
+          "termid": "GO:0005618"
+        },
+        {
+          "name": "cytosolic ribosome",
+          "termid": "GO:0022626"
+        },
+        {
+          "name": "actin cortical patch",
+          "termid": "GO:0030479"
+        },
+        {
+          "name": "nucleus",
+          "termid": "GO:0005634"
+        },
+        {
+          "name": "kinetochore",
+          "termid": "GO:0000776"
+        },
+        {
+          "name": "nuclear pore",
+          "termid": "GO:0005643"
+        },
+        {
+          "name": "nuclear periphery",
+          "termid": "GO:0034399"
+        },
+        {
+          "name": "nucleolus",
+          "termid": "GO:0005730"
+        },
+        {
+          "name": "nucleoplasm",
+          "termid": "GO:0005654"
+        },
+        {
+          "name": "endosome",
+          "termid": "GO:0005768"
+        },
+        {
+          "name": "vacuole",
+          "termid": "GO:0005773"
+        },
+        {
+          "name": "contractile ring",
+          "termid": "GO:0070938"
+        },
+        {
+          "name": "mitotic spindle",
+          "termid": "GO:0072686"
+        },
+        {
+          "name": "spindle pole body",
+          "termid": "GO:0005816"
+        },
+        {
+          "name": "endoplasmic reticulum",
+          "termid": "GO:0005783"
+        },
+        {
+          "name": "plasma membrane",
+          "termid": "GO:0005886"
+        },
+        {
+          "name": "mitochondrion",
+          "termid": "GO:0005739"
+        },
+        {
+          "name": "chromosome",
+          "termid": "GO:0005694"
+        },
+        {
+          "name": "preribosome",
+          "termid": "GO:0030684"
+        }
+      ]
     },
-    "disease_ontology_slim": {
-      "slim_display_name": "High level Disease Ontology terms",
+    "bp_goslim_pombe": {
+      "slim_display_name": "Biological Process slim",
+      "description": "S. pombe high level GO biological process terms",
+      "cv_name": "biological_process",
+      "external_link_config": {
+        "description": "Physical network interaction",
+        "link_text": "esyN",
+        "link_config_key": "esyn",
+        "icon_image": "esyn_icon.png"
+      },
       "terms": [
-      {
-        "name": "amino acid metabolic disorder",
-        "termid": "DOID:9252"
-      },
-      {
-        "name": "purine-pyrimidine metabolic disorder",
-        "termid": "DOID:653"
-      },
-      {
-        "name": "peroxisomal disease",
-        "termid": "DOID:906"
-      },
-      {
-        "name": "lipid metabolism disorder",
-        "termid": "DOID:3146"
-      },
-      {
-        "name": "mitochondrial metabolism disease",
-        "termid": "DOID:700"
-      },
-      {
-        "name": "lysosomal storage disease",
-        "termid": "DOID:3211"
-      },
-      {
-        "name": "carbohydrate metabolism disease",
-        "termid": "DOID:0050013"
-      },
-      {
-        "name": "neuropathy",
-        "termid": "DOID:870"
-      },
-      {
-        "name": "neurodegenerative disease",
-        "termid": "DOID:1289"
-      },
-      {
-        "name": "paraplegia",
-        "termid": "DOID:607"
-      },
-      {
-        "name": "dystonia",
-        "termid": "DOID:543"
-      },
-      {
-        "name": "epilepsy",
-        "termid": "DOID:1826"
-      },
-      {
-        "name": "cerebral degeneration",
-        "termid": "DOID:1443"
-      },
-      {
-        "name": "cognitive disorder",
-        "termid": "DOID:1561"
-      },
-      {
-        "name": "bone development disease",
-        "termid": "DOID:0080006"
-      },
-      {
-        "name": "anemia",
-        "termid": "DOID:2355"
-      },
-      {
-        "name": "nonsyndromic deafness",
-        "termid": "DOID:0050563"
-      },
-      {
-        "name": "eye disease",
-        "termid": "DOID:5614"
-      },
-      {
-        "name": "skin disease",
-        "termid": "DOID:37"
-      },
-      {
-        "name": "kidney disease",
-        "termid": "DOID:557"
-      },
-      {
-        "name": "hepatobiliary disease",
-        "termid": "DOID:3118"
-      },
-      {
-        "name": "heart disease",
-        "termid": "DOID:114"
-      },
-      {
-        "name": "myopathy",
-        "termid": "DOID:423"
-      },
-      {
-        "name": "amyloidosis",
-        "termid": "DOID:9120"
-      },
-      {
-        "name": "porphyria",
-        "termid": "DOID:13268"
-      },
-      {
-        "name": "immune system disease",
-        "termid": "DOID:2914"
-      },
-      {
-        "name": "cancer",
-        "termid": "DOID:162"
-      },
-      {
-        "name": "monogenic disease",
-        "termid": "DOID:0050177"
-      },
-      {
-        "name": "autosomal dominant disease",
-        "termid": "DOID:0050736"
-      },
-      {
-        "name": "autosomal recessive disease",
-        "termid": "DOID:0050737"
-      }
-    ]
+        {
+          "name": "DNA recombination",
+          "termid": "GO:0006310"
+        },
+        {
+          "name": "DNA repair",
+          "termid": "GO:0006281"
+        },
+        {
+          "name": "DNA replication",
+          "termid": "GO:0006260"
+        },
+        {
+          "name": "actin cytoskeleton organization",
+          "termid": "GO:0030036"
+        },
+        {
+          "name": "apoptotic process",
+          "termid": "GO:0006915"
+        },
+        {
+          "name": "ascospore formation",
+          "termid": "GO:0030437"
+        },
+        {
+          "name": "autophagy",
+          "termid": "GO:0006914"
+        },
+        {
+          "name": "carbohydrate metabolic process",
+          "termid": "GO:0005975"
+        },
+        {
+          "name": "cell adhesion",
+          "termid": "GO:0007155"
+        },
+        {
+          "name": "cell wall organization or biogenesis",
+          "termid": "GO:0071554"
+        },
+        {
+          "name": "cellular amino acid metabolic process",
+          "termid": "GO:0006520"
+        },
+        {
+          "name": "chromatin organization",
+          "termid": "GO:0006325"
+        },
+        {
+          "name": "conjugation with cellular fusion",
+          "termid": "GO:0000747"
+        },
+        {
+          "name": "cytoplasmic translation",
+          "termid": "GO:0002181"
+        },
+        {
+          "name": "detoxification",
+          "termid": "GO:0098754"
+        },
+        {
+          "name": "establishment or maintenance of cell polarity",
+          "termid": "GO:0007163"
+        },
+        {
+          "name": "generation of precursor metabolites and energy",
+          "termid": "GO:0006091"
+        },
+        {
+          "name": "iron-sulfur cluster assembly",
+          "termid": "GO:0016226"
+        },
+        {
+          "name": "lipid metabolic process",
+          "termid": "GO:0006629"
+        },
+        {
+          "name": "mRNA metabolic process",
+          "termid": "GO:0016071"
+        },
+        {
+          "name": "meiotic nuclear division",
+          "termid": "GO:0140013"
+        },
+        {
+          "name": "membrane organization",
+          "termid": "GO:0061024"
+        },
+        {
+          "name": "metal ion homeostasis",
+          "termid": "GO:0055065"
+        },
+        {
+          "name": "microtubule cytoskeleton organization",
+          "termid": "GO:0000226"
+        },
+        {
+          "name": "meiotic drive",
+          "termid": "GO:0110134"
+        },
+        {
+          "name": "mitochondrial gene expression",
+          "termid": "GO:0140053"
+        },
+        {
+          "name": "mitochondrion organization",
+          "termid": "GO:0007005"
+        },
+        {
+          "name": "mitotic cytokinesis",
+          "termid": "GO:0000281"
+        },
+        {
+          "name": "mitotic sister chromatid segregation",
+          "termid": "GO:0000070"
+        },
+        {
+          "name": "nitrogen cycle metabolic process",
+          "termid": "GO:0071941"
+        },
+        {
+          "name": "nucleobase-containing small molecule metabolic process",
+          "termid": "GO:0055086"
+        },
+        {
+          "name": "nucleocytoplasmic transport",
+          "termid": "GO:0006913"
+        },
+        {
+          "name": "organelle localization by membrane tethering",
+          "termid": "GO:0140056"
+        },
+        {
+          "name": "peroxisome organization",
+          "termid": "GO:0007031"
+        },
+        {
+          "name": "protein catabolic process",
+          "termid": "GO:0030163"
+        },
+        {
+          "name": "protein-containing complex assembly",
+          "termid": "GO:0065003"
+        },
+        {
+          "name": "protein folding",
+          "termid": "GO:0006457"
+        },
+        {
+          "name": "protein glycosylation",
+          "termid": "GO:0006486"
+        },
+        {
+          "name": "protein maturation",
+          "termid": "GO:0051604"
+        },
+        {
+          "name": "protein modification by small protein conjugation or removal",
+          "termid": "GO:0070647"
+        },
+        {
+          "name": "protein targeting",
+          "termid": "GO:0006605"
+        },
+        {
+          "name": "pteridine-containing compound biosynthetic process",
+          "termid": "GO:0042559"
+        },
+        {
+          "name": "regulation of mitotic cell cycle phase transition",
+          "termid": "GO:1901990"
+        },
+        {
+          "name": "regulation of transcription, DNA-templated",
+          "termid": "GO:0006355"
+        },
+        {
+          "name": "ribosome biogenesis",
+          "termid": "GO:0042254"
+        },
+        {
+          "name": "secondary metabolic process",
+          "termid": "GO:0019748"
+        },
+        {
+          "name": "signaling",
+          "termid": "GO:0023052"
+        },
+        {
+          "name": "snoRNA metabolic process",
+          "termid": "GO:0016074"
+        },
+        {
+          "name": "snRNA metabolic process",
+          "termid": "GO:0016073"
+        },
+        {
+          "name": "sulfur compound metabolic process",
+          "termid": "GO:0006790"
+        },
+        {
+          "name": "tRNA metabolic process",
+          "termid": "GO:0006399"
+        },
+        {
+          "name": "telomere organization",
+          "termid": "GO:0032200"
+        },
+        {
+          "name": "tetrapyrrole metabolic process",
+          "termid": "GO:0033013"
+        },
+        {
+          "name": "transcription, DNA-templated",
+          "termid": "GO:0006351"
+        },
+        {
+          "name": "transmembrane transport",
+          "termid": "GO:0055085"
+        },
+        {
+          "name": "ubiquinone biosynthetic process",
+          "termid": "GO:0006744"
+        },
+        {
+          "name": "vesicle-mediated transport",
+          "termid": "GO:0016192"
+        },
+        {
+          "name": "vitamin metabolic process",
+          "termid": "GO:0006766"
+        }
+      ]
+    },
+    "pombe_mondo_slim": {
+      "slim_display_name": "High level disease slim",
+      "description": "High level disease terms",
+      "cv_name": "mondo",
+      "terms": [
+        {
+          "name": "inherited amino acid metabolic disorder",
+          "termid": "MONDO:0004736"
+        },
+        {
+          "name": "inborn disorder of purine or pyrimidine metabolism",
+          "termid": "MONDO:0019254"
+        },
+        {
+          "name": "peroxisomal disease",
+          "termid": "MONDO:0019053"
+        },
+        {
+          "name": "inherited lipid metabolism disorder",
+          "termid": "MONDO:0002525"
+        },
+        {
+          "name": "inborn mitochondrial metabolism disorder",
+          "termid": "MONDO:0004069"
+        },
+        {
+          "name": "lysosomal storage disease",
+          "termid": "MONDO:0002561"
+        },
+        {
+          "name": "carbohydrate metabolism disease",
+          "termid": "MONDO:0037792"
+        },
+        {
+          "name": "peripheral neuropathy",
+          "termid": "MONDO:0005244"
+        },
+        {
+          "name": "neurodegenerative disease",
+          "termid": "MONDO:0005559"
+        },
+        {
+          "name": "paraplegia",
+          "termid": "MONDO:0003757"
+        },
+        {
+          "name": "dystonic disorder",
+          "termid": "MONDO:0003441"
+        },
+        {
+          "name": "epilepsy",
+          "termid": "MONDO:0005027"
+        },
+        {
+          "name": "cerebral degeneration",
+          "termid": "MONDO:0024238"
+        },
+        {
+          "name": "cognitive disorder",
+          "termid": "MONDO:0002039"
+        },
+        {
+          "name": "bone development disease",
+          "termid": "MONDO:0005497"
+        },
+        {
+          "name": "anemia (disease)",
+          "termid": "MONDO:0002280"
+        },
+        {
+          "name": "nonsyndromic genetic deafness",
+          "termid": "MONDO:0019497"
+        },
+        {
+          "name": "eye disease",
+          "termid": "MONDO:0005328"
+        },
+        {
+          "name": "skin disease",
+          "termid": "MONDO:0005093"
+        },
+        {
+          "name": "kidney disease",
+          "termid": "MONDO:0005240"
+        },
+        {
+          "name": "hepatobiliary disease",
+          "termid": "MONDO:0002515"
+        },
+        {
+          "name": "heart disease",
+          "termid": "MONDO:0005267"
+        },
+        {
+          "name": "myopathy",
+          "termid": "MONDO:0005336"
+        },
+        {
+          "name": "amyloidosis (disease)",
+          "termid": "MONDO:0019065"
+        },
+        {
+          "name": "inherited porphyria",
+          "termid": "MONDO:0019142"
+        },
+        {
+          "name": "immune system disease",
+          "termid": "MONDO:0005046"
+        },
+        {
+          "name": "cancer",
+          "termid": "MONDO:0004992"
+        },
+        {
+          "name": "monogenic disease",
+          "termid": "MONDO:0000275"
+        },
+        {
+          "name": "autosomal dominant disease",
+          "termid": "MONDO:0000426"
+        },
+        {
+          "name": "autosomal recessive disease",
+          "termid": "MONDO:0006025"
+        }
+      ]
     }
   },
   "reference_page_config": {
@@ -4492,7 +4641,7 @@
       "taxonomic_distribution",
       "protein_length_bin"
     ],
-    "slim_table_slim_names": ["bp_goslim_pombe"]
+    "slim_table_slim_names": ["bp_goslim_pombe", "pombe_mondo_slim"]
   },
   "file_exports": {
     "site_map_term_prefixes": ["GO:", "FYPO:"],
