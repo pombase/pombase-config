@@ -3077,6 +3077,7 @@
       },
       "slim_subset_name": "pombe_mondo_slim",
       "slim_description": "Disease ontology overview",
+      "slim_link": "/browse-curation/disease-slim",
       "slim_no_category_text": "disease ontology overview category"
     },
     "species_dist": {
