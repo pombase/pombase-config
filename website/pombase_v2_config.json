@@ -2544,6 +2544,10 @@
       "display_name": "GO molecular function",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal", "Reactome"],
+      "slim_subset_name": "mf_goslim_pombe",
+      "slim_description": "Molecular function overview (GO slim)",
+      "slim_link": "/browse-curation/fission-yeast-mf-go-slim-terms",
+      "slim_no_category_text": "molecular function GO Slim category",
       "split_by_parents": [
         {
           "config_name": "NOT binding",
@@ -3914,6 +3918,261 @@
         {
           "name": "vitamin metabolic process",
           "termid": "GO:0006766"
+        }
+      ]
+    },
+    "mf_goslim_pombe": {
+      "slim_display_name": "Molecular Function slim",
+      "description": "S. pombe high level GO molecular function terms",
+      "cv_name": "molecular_function",
+      "terms": [
+        {
+          "name": "1,3-beta-glucanosyltransferase activity",
+          "termid": "GO:0042124"
+        },
+        {
+          "name": "ATPase activity",
+          "termid": "GO:0016887"
+        },
+        {
+          "name": "DNA-binding transcription factor activity",
+          "termid": "GO:0003700"
+        },
+        {
+          "name": "GTPase activity",
+          "termid": "GO:0003924"
+        },
+        {
+          "name": "actin binding",
+          "termid": "GO:0003779"
+        },
+        {
+          "name": "catalytic activity, acting on DNA",
+          "termid": "GO:0140097"
+        },
+        {
+          "name": "catalytic activity, acting on RNA",
+          "termid": "GO:0140098"
+        },
+        {
+          "name": "catalytic activity, acting on a protein",
+          "termid": "GO:0140096"
+        },
+        {
+          "name": "catalytic activity, acting on a tRNA",
+          "termid": "GO:0140101"
+        },
+        {
+          "name": "cell adhesion mediator activity",
+          "termid": "GO:0098631"
+        },
+        {
+          "name": "cyclase activity",
+          "termid": "GO:0009975"
+        },
+        {
+          "name": "deacetylase activity",
+          "termid": "GO:0019213"
+        },
+        {
+          "name": "disulfide oxidoreductase activity",
+          "termid": "GO:0015036"
+        },
+        {
+          "name": "enzyme regulator activity",
+          "termid": "GO:0030234"
+        },
+        {
+          "name": "exonuclease activity",
+          "termid": "GO:0004527"
+        },
+        {
+          "name": "general transcription initiation factor activity",
+          "termid": "GO:0140223"
+        },
+        {
+          "name": "guanyl-nucleotide exchange factor activity",
+          "termid": "GO:0005085"
+        },
+        {
+          "name": "histone demethylase activity",
+          "termid": "GO:0032452"
+        },
+        {
+          "name": "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",
+          "termid": "GO:0016810"
+        },
+        {
+          "name": "hydrolase activity, acting on ester bonds",
+          "termid": "GO:0016788"
+        },
+        {
+          "name": "hydrolase activity, acting on glycosyl bonds",
+          "termid": "GO:0016798"
+        },
+        {
+          "name": "intramembrane lipid transporter activity",
+          "termid": "GO:0140303"
+        },
+        {
+          "name": "isomerase activity",
+          "termid": "GO:0016853"
+        },
+        {
+          "name": "kinase activity",
+          "termid": "GO:0016301"
+        },
+        {
+          "name": "ligase activity",
+          "termid": "GO:0016874"
+        },
+        {
+          "name": "lipid binding",
+          "termid": "GO:0008289"
+        },
+        {
+          "name": "lipid transfer activity",
+          "termid": "GO:0120013"
+        },
+        {
+          "name": "lyase activity",
+          "termid": "GO:0016829"
+        },
+        {
+          "name": "microtubule binding",
+          "termid": "GO:0008017"
+        },
+        {
+          "name": "molecular adaptor activity",
+          "termid": "GO:0060090"
+        },
+        {
+          "name": "molecular carrier activity",
+          "termid": "GO:0140104"
+        },
+        {
+          "name": "motor activity",
+          "termid": "GO:0003774"
+        },
+        {
+          "name": "nucleocytoplasmic carrier activity",
+          "termid": "GO:0140142"
+        },
+        {
+          "name": "nucleotidyltransferase activity",
+          "termid": "GO:0016779"
+        },
+        {
+          "name": "oxidoreductase activity",
+          "termid": "GO:0016491"
+        },
+        {
+          "name": "peptidase activity",
+          "termid": "GO:0008233"
+        },
+        {
+          "name": "peptide N-acetyltransferase activity",
+          "termid": "GO:0034212"
+        },
+        {
+          "name": "peroxiredoxin activity",
+          "termid": "GO:0051920"
+        },
+        {
+          "name": "pheromone activity",
+          "termid": "GO:0005186"
+        },
+        {
+          "name": "phosphoprotein phosphatase activity",
+          "termid": "GO:0004721"
+        },
+        {
+          "name": "protein deacetylase activity",
+          "termid": "GO:0033558"
+        },
+        {
+          "name": "protein kinase activity",
+          "termid": "GO:0004672"
+        },
+        {
+          "name": "protein methyltransferase activity",
+          "termid": "GO:0008276"
+        },
+        {
+          "name": "protein sequestering activity",
+          "termid": "GO:0140311"
+        },
+        {
+          "name": "protein transporter activity",
+          "termid": "GO:0140318"
+        },
+        {
+          "name": "signal sequence binding",
+          "termid": "GO:0005048"
+        },
+        {
+          "name": "signaling receptor activity",
+          "termid": "GO:0038023"
+        },
+        {
+          "name": "structural molecule activity",
+          "termid": "GO:0005198"
+        },
+        {
+          "name": "transcription coactivator activity",
+          "termid": "GO:0003713"
+        },
+        {
+          "name": "transcription coregulator activity",
+          "termid": "GO:0003712"
+        },
+        {
+          "name": "transcription elongation regulator activity",
+          "termid": "GO:0003711"
+        },
+        {
+          "name": "transferase activity, transferring acyl groups",
+          "termid": "GO:0016746"
+        },
+        {
+          "name": "transferase activity, transferring aldehyde or ketonic groups",
+          "termid": "GO:0016744"
+        },
+        {
+          "name": "transferase activity, transferring alkyl or aryl (other than methyl) groups",
+          "termid": "GO:0016765"
+        },
+        {
+          "name": "transferase activity, transferring glycosyl groups",
+          "termid": "GO:0016757"
+        },
+        {
+          "name": "transferase activity, transferring nitrogenous groups",
+          "termid": "GO:0016769"
+        },
+        {
+          "name": "transferase activity, transferring one-carbon groups",
+          "termid": "GO:0016741"
+        },
+        {
+          "name": "transferase activity, transferring sulfur-containing groups",
+          "termid": "GO:0016782"
+        },
+        {
+          "name": "translation factor activity, RNA binding",
+          "termid": "GO:0008135"
+        },
+        {
+          "name": "transmembrane transporter activity",
+          "termid": "GO:0022857"
+        },
+        {
+          "name": "ubiquitin-like protein transferase activity",
+          "termid": "GO:0019787"
+        },
+        {
+          "name": "unfolded protein binding",
+          "termid": "GO:0051082"
         }
       ]
     },
