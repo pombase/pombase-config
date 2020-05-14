@@ -4642,7 +4642,7 @@
       "taxonomic_distribution",
       "protein_length_bin"
     ],
-    "slim_table_slim_names": ["bp_goslim_pombe", "pombe_mondo_slim"]
+    "slim_table_slim_names": ["mf_goslim_pombe", "bp_goslim_pombe", "cc_goslim_pombe", "pombe_mondo_slim"]
   },
   "file_exports": {
     "site_map_term_prefixes": ["GO:", "FYPO:"],
