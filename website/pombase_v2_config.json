@@ -2754,6 +2754,10 @@
       "display_name": "GO cellular component",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
       "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
+      "slim_subset_name": "cc_goslim_pombe",
+      "slim_description": "Cellular component overview (GO slim)",
+      "slim_link": "/browse-curation/fission-yeast-cc-go-slim-terms",
+      "slim_no_category_text": "cellular component GO Slim category",
       "summary_relation_ranges_to_collect": [
         "coincident_with",
         "during",
