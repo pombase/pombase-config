@@ -3914,7 +3914,7 @@
       ]
     },
     "pombe_mondo_slim": {
-      "slim_display_name": "High level disease slim",
+      "slim_display_name": "Disease slim",
       "description": "High level disease terms",
       "cv_name": "mondo",
       "terms": [
