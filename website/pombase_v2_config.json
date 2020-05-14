@@ -4301,6 +4301,18 @@
           "name": "autosomal recessive disease",
           "termid": "MONDO:0006025"
         }
+        {
+          "name": "gamma-glutamyl cycle",
+          "termid": "MONDO:0019241"
+        }
+        {
+          "name": "digestive system disease",
+          "termid": "MONDO:0004335"
+        }
+        {
+          "name": "hematologic disease",
+          "termid": "MONDO:0005570"
+        }
       ]
     }
   },
