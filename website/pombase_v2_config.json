@@ -2543,7 +2543,7 @@
       "feature_type": "gene",
       "display_name": "GO molecular function",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal", "Reactome"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
       "slim_subset_name": "mf_goslim_pombe",
       "slim_description": "Molecular function overview (GO slim)",
       "slim_link": "/browse-curation/fission-yeast-mf-go-slim-terms",
@@ -2657,7 +2657,7 @@
       "feature_type": "gene",
       "display_name": "GO biological process",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "reference", "count", "extension"],
-      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal", "Reactome"],
+      "external_db_link_keys": ["AmiGO", "QuickGO", "BioPortal"],
       "external_link_config": [
         {
           "display_text": "View process term ancestry ...",
