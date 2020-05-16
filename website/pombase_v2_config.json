@@ -4182,6 +4182,10 @@
       "cv_name": "mondo",
       "terms": [
         {
+          "name": "diabetes mellitus (disease)",
+          "termid": "MONDO:0005015"
+        },
+        {
           "name": "inherited amino acid metabolic disorder",
           "termid": "MONDO:0004736"
         },
@@ -4218,20 +4222,12 @@
           "termid": "MONDO:0005559"
         },
         {
-          "name": "paraplegia",
-          "termid": "MONDO:0003757"
-        },
-        {
           "name": "dystonic disorder",
           "termid": "MONDO:0003441"
         },
         {
           "name": "epilepsy",
           "termid": "MONDO:0005027"
-        },
-        {
-          "name": "cerebral degeneration",
-          "termid": "MONDO:0024238"
         },
         {
           "name": "cognitive disorder",
@@ -4274,8 +4270,8 @@
           "termid": "MONDO:0005336"
         },
         {
-          "name": "amyloidosis (disease)",
-          "termid": "MONDO:0019065"
+          "name": "proteostasis deficiencies",
+          "termid": "MONDO:0021179"
         },
         {
           "name": "inherited porphyria",
