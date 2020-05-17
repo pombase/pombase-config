@@ -4103,6 +4103,10 @@
           "termid": "GO:0140311"
         },
         {
+          "name": "protein tag",
+          "termid": "GO:0031386"
+        },
+        {
           "name": "protein transporter activity",
           "termid": "GO:0140318"
         },
