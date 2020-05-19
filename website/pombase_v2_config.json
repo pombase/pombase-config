@@ -18,6 +18,9 @@
       "Mitochondrial sequence related"
     ]
   },
+  "doc_page_aliases": {
+    "/browse-curation/fission-yeast-go-slim-terms": "/browse-curation/fission-yeast-bp-go-slim-terms"
+  },
   "default_jbrowse_tracks": [
     {
       "pmed_id": "PMID:11859360",
