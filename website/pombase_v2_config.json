@@ -1917,6 +1917,18 @@
       "reciprocal_display": "regulated by"
     },
     {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0001216",
+      "display_name": "activates transcripion of",
+      "reciprocal_display": "transcription activated by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0001217",
+      "display_name": "represses transcripion of",
+      "reciprocal_display": "transcription repressed by"
+    },
+    {
       "rel_name": "in_presence_of",
       "display_name": "in presence of"
     },
