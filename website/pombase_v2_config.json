@@ -3542,7 +3542,10 @@
   "slims": {
     "cc_goslim_pombe": {
       "slim_display_name": "Cellular Component slim",
+      "doc_path": "/documentation/pombase-go-slim-documentation",
+      "full_slim_path": "/browse-curation/fission-yeast-cc-go-slim-terms",
       "description": "S. pombe high level GO cellular component terms",
+      "slim_results_description": "A \"GO slim\" is a subset of the Gene Ontology terms selected for a specific purpose in interpreting the functional annotations in an entire organism, or a gene product list derived from an experiment.",
       "cv_name": "cellular_component",
       "terms": [
         {
@@ -3681,7 +3684,10 @@
     },
     "bp_goslim_pombe": {
       "slim_display_name": "Biological Process slim",
+      "doc_path": "/documentation/pombase-go-slim-documentation",
+      "full_slim_path": "/browse-curation/fission-yeast-bp-go-slim-terms",
       "description": "S. pombe high level GO biological process terms",
+      "slim_results_description": "A \"GO slim\" is a subset of the Gene Ontology terms selected for a specific purpose in interpreting the functional annotations in an entire organism, or a gene product list derived from an experiment.  PomBase has created a GO slim to provide a simple summary of S. pombe's biological capabilities by grouping gene products using broad biological process classifiers.",
       "cv_name": "biological_process",
       "external_link_config": {
         "description": "Physical network interaction",
@@ -3926,7 +3932,10 @@
     },
     "mf_goslim_pombe": {
       "slim_display_name": "Molecular Function slim",
+      "doc_path": "/documentation/pombase-go-slim-documentation",
+      "full_slim_path": "/browse-curation/fission-yeast-mf-go-slim-terms",
       "description": "S. pombe high level GO molecular function terms",
+      "slim_results_description": "A \"GO slim\" is a subset of the Gene Ontology terms selected for a specific purpose in interpreting the functional annotations in an entire organism, or a gene product list derived from an experiment.",
       "cv_name": "molecular_function",
       "terms": [
         {
@@ -4185,7 +4194,10 @@
     },
     "pombe_mondo_slim": {
       "slim_display_name": "Disease slim",
+      "doc_path": "/browse-curation/disease-slim",
+      "full_slim_path": "/browse-curation/disease-slim",
       "description": "High level disease terms",
+      "slim_results_description": "A \"slim\" is a high-level subset of terms from an ontology, used to analyze sets of annotated genes. PomBase has created a slim from the Mondo Disease Ontology (Mondo) to provide a simple summary of S. pombe genes with human orthologs implicated in disease.",
       "cv_name": "mondo",
       "terms": [
         {
