@@ -121,7 +121,7 @@
       },
       {
         "id": "gene_list",
-        "displayName": "Gene IDs",
+        "displayName": "Gene name and IDs",
         "nodeType": "gene-list",
         "topDescription": [
           {
