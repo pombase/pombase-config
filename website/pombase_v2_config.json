@@ -4380,7 +4380,8 @@
     "solr_url": "http://localhost:8983/solr",
     "django_url": "http://localhost:8999",
     "close_synonym_boost": 0.45,
-    "distant_synonym_boost": 0.2
+    "distant_synonym_boost": 0.2,
+    "cv_name_for_terms_search": "(molecular_function OR biological_process OR cellular_component OR fission_yeast_phenotype OR mondo)"
   },
   "gene_results": {
     "sortable_columns": ["name", "uniquename", "product"],
