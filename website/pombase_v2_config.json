@@ -4213,6 +4213,10 @@
       "cv_name": "mondo",
       "terms": [
         {
+          "name": "DNA repair disease",
+          "termid": "MONDO:0021190"
+        },
+        {
           "name": "diabetes mellitus (disease)",
           "termid": "MONDO:0005015"
         },
