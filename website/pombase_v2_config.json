@@ -4238,6 +4238,10 @@
       "cv_name": "mondo",
       "terms": [
         {
+          "name": "premature aging syndrome",
+          "termid": "MONDO:0019303"
+        },
+        {
           "name": "DNA repair disease",
           "termid": "MONDO:0021190"
         },
