@@ -4356,13 +4356,8 @@
     "profile": "Prosite",
     "mobidblt": "MobiDB",
     "amigo": "GO",
-    "mobidb": "MobiDB",
-    "pfam": "Pfam",
-    "gene3d": "Gene3D",
     "cathgene3d": "Gene3D",
-    "prosite": "Prosite",
-    "scanprosite": "Prosite",
-    "prodom": "ProDom"
+    "scanprosite": "Prosite"
   },
   "misc_external_links": {
     "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
