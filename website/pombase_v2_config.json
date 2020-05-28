@@ -1913,20 +1913,45 @@
     },
     {
       "rel_name": "has_regulation_target",
-      "display_name": "regulates",
-      "reciprocal_display": "regulated by"
+      "if_descendant_of": "GO:0000976",
+      "display_name": "regulates transcription of",
+      "reciprocal_display": "transcription regulated by"
     },
     {
       "rel_name": "has_regulation_target",
       "if_descendant_of": "GO:0001216",
-      "display_name": "activates transcripion of",
+      "display_name": "activates transcription of",
       "reciprocal_display": "transcription activated by"
     },
     {
       "rel_name": "has_regulation_target",
       "if_descendant_of": "GO:0001217",
-      "display_name": "represses transcripion of",
+      "display_name": "represses transcription of",
       "reciprocal_display": "transcription repressed by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0003713",
+      "display_name": "activates transcription of",
+      "reciprocal_display": "transcription activated by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0003714",
+      "display_name": "represses transcription of",
+      "reciprocal_display": "transcription repressed by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0030234",
+      "display_name": "regulates activity of",
+      "reciprocal_display": "activity regulated by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0008150",
+      "display_name": "regulates",
+      "reciprocal_display": "regulated by"
     },
     {
       "rel_name": "in_presence_of",
@@ -1973,13 +1998,13 @@
     {
       "rel_name": "has_input",
       "if_descendant_of": "GO:0001216",
-      "display_name": "activates transcripion of",
+      "display_name": "activates transcription of",
       "reciprocal_display": "transcription activated by"
     },
     {
       "rel_name": "has_input",
       "if_descendant_of": "GO:0001217",
-      "display_name": "represses transcripion of",
+      "display_name": "represses transcription of",
       "reciprocal_display": "transcription repressed by"
     },
     {
@@ -1996,7 +2021,7 @@
     },
     {
       "rel_name": "has_input",
-      "if_descendant_of": "GO:000472i",
+      "if_descendant_of": "GO:000472",
       "display_name": "dephosphorylates",
       "reciprocal_display": "dephosphorylated by"
     },
@@ -2033,13 +2058,13 @@
     {
       "rel_name": "has_input",
       "if_descendant_of": "GO:0001216",
-      "display_name": "activates transcripion of",
+      "display_name": "activates transcription of",
       "reciprocal_display": "transcription activated by"
     },
     {
       "rel_name": "has_direct_input",
       "if_descendant_of": "GO:0001217",
-      "display_name": "represses transcripion of",
+      "display_name": "represses transcription of",
       "reciprocal_display": "transcription repressed by"
     },
     {
@@ -4212,6 +4237,10 @@
       "slim_results_description": "A \"slim\" is a high-level subset of terms from an ontology, used to analyze sets of annotated genes. PomBase has created a slim from the Mondo Disease Ontology (Mondo) to provide a simple summary of S. pombe genes with human orthologs implicated in disease.",
       "cv_name": "mondo",
       "terms": [
+        {
+          "name": "premature aging syndrome",
+          "termid": "MONDO:0019303"
+        },
         {
           "name": "DNA repair disease",
           "termid": "MONDO:0021190"
