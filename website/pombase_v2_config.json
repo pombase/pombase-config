@@ -1401,6 +1401,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Sewart and Hauf, 2017",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["2019-11-06-28366743.png"],
+      "content": "Different Functionality of Cdc20 Binding Sites within the Mitotic Checkpoint Complex. \nOriginally published in <a href='https://doi.org/10.1016/j.cub.2017.03.007'>Curr.Biol.</a>.",
+      "reference_id": "PMID:28366743",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-06-10",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
