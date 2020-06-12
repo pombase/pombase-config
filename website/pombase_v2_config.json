@@ -1310,7 +1310,7 @@
       "reference_id": "PMID:32034465",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-04-20",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Shetty et al., 2020",
@@ -1321,7 +1321,7 @@
       "reference_id": "PMID:31833215",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-04-21",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Argunhan et al., 2020",
@@ -1332,7 +1332,7 @@
       "reference_id": "PMID:32204793",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-04-28",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
        "title": "Cabrera et al., 2020",
@@ -1409,6 +1409,39 @@
       "reference_id": "PMID:28366743",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-06-10",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Kim et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-06-12-32341083-Kim-replication-checkpoint-genome-instability.png"],
+      "content": "Conserved roles of chromatin remodellers in cohesin loading onto chromatin.\nOriginally published in <a href='https://mcb.asm.org/content/early/2020/04/21/MCB.00033-20'>Molecular and Cellular Biology</a>.",
+      "reference_id": "PMID:32341083",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-06-12",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Chen et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-06-12-32366382-Chen-Spt5-phosphorylation-Rtf1.png"],
+      "content": "Spt5 phosphorylation and the Rtf1 Plus3 domain promote Rtf1 function through distinct mechanisms.\nOriginally published in <a href='https://mcb.asm.org/content/early/2020/05/01/MCB.00150-20'>Molecular and Cellular Biology</a>.",
+      "reference_id": "PMID:32366382",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-06-12",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Tanabe et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-06-12-32441227-Tanabe-pka1-glucose-limitation-mal3.png"],
+      "content": "Glucose limitation and pka1 deletion rescue aberrant mitotic spindle formation induced by Mal3 overexpression in Schizosaccharomyces pombe.\nOriginally published in <a href='https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1763157'>Bioscience, Biotechnology, and Biochemistry</a>.",
+      "reference_id": "PMID:32441227",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-06-12",
       "show_on_front_page": true
     },
     {
