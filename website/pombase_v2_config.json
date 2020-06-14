@@ -1343,7 +1343,7 @@
        "reference_id": "PMID:32075773",
        "link_label": "Publication record in PomBase ...",
        "date_added": "2020-04-28",
-       "show_on_front_page": true
+       "show_on_front_page": false
     },
     {
        "title": "Andres et al., 2019",
@@ -1354,7 +1354,7 @@
        "reference_id": "PMID:30626735",
        "link_label": "Publication record in PomBase ...",
        "date_added": "2020-05-05",
-       "show_on_front_page": true
+       "show_on_front_page": false
     },
     {
       "title": "Ding et al., 2020",
@@ -1365,7 +1365,7 @@
       "reference_id": "PMID:31811152",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-05-05",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kampmeyer et al., 2020",
@@ -1376,7 +1376,7 @@
       "reference_id": "PMID:32142608",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-05-06",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kamrad et al., 2020",
@@ -1387,7 +1387,7 @@
       "reference_id": "PMID:32319721",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-05-07",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Muñoz et al., 2020",
@@ -1398,7 +1398,7 @@
       "reference_id": "PMID:32277274",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-05-07",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Sewart and Hauf, 2017",
