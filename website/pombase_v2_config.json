@@ -1455,6 +1455,17 @@
       "date_added": "2020-06-16",
       "show_on_front_page": true
     },
+     {
+      "title": "Bhattacharjee et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/32101481-Bhattacharjee-pom1.jpg"],
+      "content": "DYRK kinase Pom1 drives F-BAR protein Cdc15 from the membrane to promote medial division.\nOriginally published in <a href='https://doi.org/10.1091/mbc.E20-01-0026'>Mol. Biol. Cell</a>.",
+      "reference_id": "PMID:32101481",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-06-17",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
