@@ -1466,6 +1466,17 @@
       "date_added": "2020-06-17",
       "show_on_front_page": true
     },
+     {
+      "title": "Yague-Sanz et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-06-24-32499400-Yague-Sanz-RNA-pol-II-elongation-rate.png"],
+      "content": "Nutrient-dependent control of RNApolymerase II elongation rate regulatesspecific gene expression programs byalternative polyadenylation.\nOriginally published in <a href='http://genesdev.cshlp.org/content/early/2020/06/03/gad.337212.120'>Genes &amp; Development</a>.",
+      "reference_id": "PMID:32499400",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-06-24",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
