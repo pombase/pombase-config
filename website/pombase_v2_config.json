@@ -3746,6 +3746,10 @@
           "termid": "GO:0000776"
         },
         {
+          "name": "microtubule cytoskeleton",
+          "termid": "GO:0015630"
+        },
+        {
           "name": "nuclear pore",
           "termid": "GO:0005643"
         },
