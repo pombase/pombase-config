@@ -4196,6 +4196,10 @@
           "termid": "GO:0140142"
         },
         {
+          "name": "nucleoside-triphosphate diphosphatase activity",
+          "termid": "GO:0047429"
+        },
+        {
           "name": "nucleotidyltransferase activity",
           "termid": "GO:0016779"
         },
@@ -4222,6 +4226,10 @@
         {
           "name": "phosphoprotein phosphatase activity",
           "termid": "GO:0004721"
+        },
+        {
+          "name": "phosphotransferase activity, for other substituted phosphate groups",
+          "termid": "GO:0016780"
         },
         {
           "name": "protein deacetylase activity",
@@ -4258,6 +4266,10 @@
         {
           "name": "structural molecule activity",
           "termid": "GO:0005198"
+        },
+        {
+          "name": "topological DNA entrapment activity",
+          "termid": "GO:0061776"
         },
         {
           "name": "transcription coactivator activity",
