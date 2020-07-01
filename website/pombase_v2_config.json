@@ -1460,7 +1460,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-06-11-32101481-Bhattacharjee-pom1.png"],
-      "content": "DYRK kinase Pom1 drives F-BAR protein Cdc15 from the membrane to promote medial division.\nOriginally published in <a href='https://doi.org/10.1091/mbc.E20-01-0026'>Mol. Biol. Cell</a>.",
+      "content": "DYRK kinase Pom1 drives F-BAR protein Cdc15 from the membrane to promote medial division.\nOriginally published in <a href='https://doi.org/10.1091/mbc.E20-01-0026'>Molecular Biology of the Cell</a>.",
       "reference_id": "PMID:32101481",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-06-17",
@@ -1471,10 +1471,21 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-06-24-32499400-Yague-Sanz-RNA-pol-II-elongation-rate.png"],
-      "content": "Nutrient-dependent control of RNApolymerase II elongation rate regulatesspecific gene expression programs byalternative polyadenylation.\nOriginally published in <a href='http://genesdev.cshlp.org/content/early/2020/06/03/gad.337212.120'>Genes &amp; Development</a>.",
+      "content": "Nutrient-dependent control of RNA polymerase II elongation rate regulatesspecific gene expression programs byalternative polyadenylation.\nOriginally published in <a href='http://genesdev.cshlp.org/content/early/2020/06/03/gad.337212.120'>Genes &amp; Development</a>.",
       "reference_id": "PMID:32499400",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-06-24",
+      "show_on_front_page": true
+    },
+     {
+      "title": "Onaka et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-07-01-32355220-Onaka-DNA-replication-chromosomal-rearrangement.png"],
+      "content": "DNA replication machinery prevents Rad52-dependent single-strand annealing that leads to gross chromosomal rearrangements at centromeres.\nOriginally published in <a href='https://www.nature.com/articles/s42003-020-0934-0'>Communications Biology</a>.",
+      "reference_id": "PMID:32355220",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-07-01",
       "show_on_front_page": true
     },
     {
