@@ -37,6 +37,3 @@ GO:0050265	is_a	has_substrate	TranscriptID	uridylylates		0,1	user
 GO:0101005	is_a	has_substrate	ProteinID	deubiquitinates		0,1	user
 GO:0140142	is_a	has_substrate	TranscriptID|ProteinID	transports (protein or RNA)		0,1	user
 GO:1904680	is_a	has_substrate	ProteinID	transports		0,1	user
-
-
-
