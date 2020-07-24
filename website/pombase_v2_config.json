@@ -1409,7 +1409,7 @@
       "reference_id": "PMID:28366743",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-06-10",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kim et al., 2020",
@@ -1508,6 +1508,17 @@
       "reference_id": "PMID:32496538",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-07-22",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Stott et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-07-23-31553675-Stott-Sds23-cell-division-symmetry.png"],
+      "content": "The phosphatase inhibitor Sds23 regulates cell division symmetry in fission yeast.\nOriginally published in <a href='https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-05-0254'>Molecular Biology of the Cell</a>.",
+      "reference_id": "PMID:31553675",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-07-23",
       "show_on_front_page": true
     },
     {
