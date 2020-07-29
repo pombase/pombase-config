@@ -2184,6 +2184,54 @@
     },
     {
       "rel_name": "has_input",
+      "if_descendant_of": "GO:0005484",
+      "display_name": "anchors",
+      "reciprocal_display": "anchored by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:8093",
+      "display_name": "anchors",
+      "reciprocal_display": "anchored by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0043495",
+      "display_name": "anchors",
+      "reciprocal_display": "anchored by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0035991",
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0140312",
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0140463",
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0140483",
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:1990756",
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
+    },
+    {
+      "rel_name": "has_input",
       "if_descendant_of": "GO:0051179",
       "display_name": "localizes",
       "reciprocal_display": "localized by"
