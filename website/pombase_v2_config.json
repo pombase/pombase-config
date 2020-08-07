@@ -1675,7 +1675,7 @@
       "head_image": ["explore/2017-11-17-unknowns.png"],
       "content": "Our \"unknowns\" analysis is now published in [Open Biology](https://royalsocietypublishing.org/doi/10.1098/rsob.180241). You can browse the [list of fission yeast unknown proteins](status/priority-unstudied-genes), and use the \"Visualise\" button to explore the data interactively in QuiLT, the new tool inspired by [Figure 4](https://royalsocietypublishing.org/doi/10.1098/rsob.180241#RSOB180241F4).",
       "date_added": "2019-02-20",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "GO slim analysis for any gene list",
@@ -1684,7 +1684,7 @@
       "head_image": ["explore/2019-03-05-slim-list.png"],
       "content": "PomBase's advanced search now allows you to retrieve [GO slim](documentation/pombase-go-slim-documentation) annotations for any set of search results. Combine with the \"Gene IDs\" query option to find GO slim annotations for your own list of genes.",
       "date_added": "2019-03-05",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "Motif search updated",
@@ -1693,7 +1693,7 @@
       "head_image": ["explore/2017-11-06-motif_search.png"],
       "content": "The PomBase [Protein Motif Search Tool](/motif_search) allows you to search for any user-defined amino acid sequence, supporting exact matches, wildcards, gaps, and ambiguity codes. This search is now fully integrated into PomBase, allowing results to be sent directly to the [advanced search](/query).",
       "date_added": "2019-03-19",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "The PomBase genome browser",
@@ -1702,7 +1702,7 @@
       "head_image": ["explore/2019-09-05-explore-JBrowse.png"],
       "content": "The PomBase [JBrowse instance](https://www.pombase.org/jbrowse/) provides a responsive online environment in which to visualise published genomic datasets. For more information please see our [JBrowse documentation page](https://www.pombase.org/documentation/JBrowse_quick_start). Authors are welcome to submit their published data to PomBase for hosting.",
       "date_added": "2019-09-06",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "PomBase community curation",
@@ -1713,6 +1713,15 @@
       "date_added": "2020-05-01",
       "show_on_front_page": true
     }
+     {
+      "title": "New disease associations",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2019-01-27-disease.png"],
+      "content": "[Disease associations](/term/MONDO:0000001) for 1239 pombe genes (up from 987 in 2019), using the MONDO disease ontology. We also provide a disease slim set https://www.pombase.org/browse-curation/disease-slim",
+      "date_added": "2020-08-07",
+      "show_on_front_page": true
+    },
   ],
   "predefined_queries": {
     "priority-unstudied-genes:unknown_genes": {
