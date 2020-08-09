@@ -1712,8 +1712,8 @@
       "content": "Authors now contribute curation to PomBase for almost all new fission yeast publications. Find out how you can benefit in our [new paper on community curation](https://academic.oup.com/database/article/doi/10.1093/database/baaa028/5827230), and visit the [*S. pombe* Canto home](https://curation.pombase.org/pombe) to participate.",
       "date_added": "2020-05-01",
       "show_on_front_page": true
-    }
-     {
+    },
+    {
       "title": "New disease associations",
       "title_link": null,
       "panel_type": "explore",
@@ -1721,7 +1721,7 @@
       "content": "[Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. We also provide a disease slim set https://www.pombase.org/browse-curation/disease-slim",
       "date_added": "2020-08-07",
       "show_on_front_page": true
-    },
+    }
   ],
   "predefined_queries": {
     "priority-unstudied-genes:unknown_genes": {
