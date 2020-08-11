@@ -1718,7 +1718,7 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "[Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. We also provide a disease slim set https://www.pombase.org/browse-curation/disease-slim",
+      "content": "[Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. We also provide a [disease slim set](https://www.pombase.org/browse-curation/disease-slim).",
       "date_added": "2020-08-07",
       "show_on_front_page": true
     }
