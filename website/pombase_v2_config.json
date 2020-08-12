@@ -1660,11 +1660,11 @@
       "show_on_front_page": false
     },
     {
-      "title": "New disease associations",
+      "title": "25% of fission yeast proteins have disease associations",
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "[Disease associations](/term/MONDO:0000001) are now provided for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
+      "content": "Access [Disease associations](/term/MONDO:0000001) are now profor 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
       "date_added": "2019-01-27",
       "show_on_front_page": false
     },
@@ -1714,11 +1714,11 @@
       "show_on_front_page": true
     },
     {
-      "title": "New disease associations",
+      "title": "25% of pombe proteins have disease associations",
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "[Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. We also provide a [disease slim set](https://www.pombase.org/browse-curation/disease-slim).",
+      "content": "Access [Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. Or browse the [disease slim set here](https://www.pombase.org/browse-curation/disease-slim).",
       "date_added": "2020-08-07",
       "show_on_front_page": true
     }
