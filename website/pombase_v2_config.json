@@ -5303,6 +5303,23 @@
           }
         ]
       }
-    ]
+    ],
+    "gpad_gpi": {
+      "extension_relation_mappings": {
+        "not_happens_during": null,
+        "not_exists_during": null,
+        "activated_by": null,
+        "exists_during": "GOREL:0000032",
+        "has_direct_input": "RO:0002233",
+        "regulates_activity_of": "RO:0002233",
+        "has_regulation_target": "RO:0002233",
+        "directly_negatively_regulates": "RO:0002233",
+        "directly_positively_regulates": "RO:0002233",
+        "regulates_expression_of": "RO:0002233",
+        "regulates_transcription_of": "RO:0002233",
+        "regulates_translation_of": "RO:0002233",
+        "occurs_at": "BFO:0000066"
+      }
+    }
   }
 }
