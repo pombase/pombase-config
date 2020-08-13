@@ -5319,6 +5319,15 @@
         "regulates_transcription_of": "RO:0002233",
         "regulates_translation_of": "RO:0002233",
         "occurs_at": "BFO:0000066"
+      },
+      "transcript_gene_so_term_map": {
+        "SO:0000234": "SO:0001217",
+        "SO:0000516": "SO:0000336",
+        "SO:0000252": "SO:0001637",
+        "SO:0000253": "SO:0001272",
+        "SO:0000274": "SO:0001268",
+        "SO:0000275": "SO:0001267",
+        "SO:0000655": "SO:0001263"
       }
     }
   }
