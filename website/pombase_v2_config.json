@@ -3549,6 +3549,10 @@
       "rel_name": "is_a"
     },
     {
+      "termid": "GO:0032991",
+      "rel_name": "part_of"
+    },
+    {
       "termid": "SO:0000839",
       "rel_name": "is_a"
     }
