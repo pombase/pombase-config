@@ -1544,6 +1544,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Zhao et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-08-02-32735772.png"],
+      "content": "A UPR-Induced Soluble ER-Phagy Receptor Acts with VAPs to Confer ER Stress Resistance.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/abs/pii/S1097276520305104?via%3Dihub'>Science Direct</a>.",
+      "reference_id": "PMID:32735772",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-08-13",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
