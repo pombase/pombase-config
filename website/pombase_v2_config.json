@@ -3516,6 +3516,7 @@
     "phenotype_condition",
     "complementation",
     "target_of",
+    "transcript_view",
     "protein_features",
     "PSI-MOD",
     "qualitative_gene_expression",
