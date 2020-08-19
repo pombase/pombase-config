@@ -40,6 +40,7 @@
     "escapeHTMLInData" : false
   },
   "trackMetadata" : {
+    "sortFacets": false,
     "sources" : [
       {
         "url" : "data/pombase_jbrowse_track_metadata.csv",
