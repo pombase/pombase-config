@@ -1526,7 +1526,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-07-27-32546830-nse4.png"],
-      "content": "A role of the Nse4 kleisin and Nse1/Nse3 KITE subunits in the ATPase cycle of SMC5/6.\nOriginally published in <a href='https://www.nature.com/articles/s41598-020-66647-w'>Scientific reports</a>.",
+      "content": "A role of the Nse4 kleisin and Nse1/Nse3 KITE subunits in the ATPase cycle of SMC5/6.\nOriginally published in <a href='https://www.nature.com/articles/s41598-020-66647-w'>Scientific Reports</a>.",
       "reference_id": "PMID:32546830",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-07-27",
@@ -1548,10 +1548,21 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-08-02-32735772.png"],
-      "content": "A UPR-Induced Soluble ER-Phagy Receptor Acts with VAPs to Confer ER Stress Resistance.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/abs/pii/S1097276520305104?via%3Dihub'>Science Direct</a>.",
+      "content": "A UPR-Induced Soluble ER-Phagy Receptor Acts with VAPs to Confer ER Stress Resistance.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/abs/pii/S1097276520305104?via%3Dihub'>Molecular Cell</a>.",
       "reference_id": "PMID:32735772",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-08-13",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Zhang et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-09-03-32692737-Zhang-CRL4Cdt2-XPF-nucleases-Pxd1-degradation.png"],
+      "content": "CRL4Cdt2 ubiquitin ligase regulates Dna2 and Rad16 (XPF) nucleases by targeting Pxd1 for degradation.\n\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008933'>PLoS Genetics</a>. ",
+      "reference_id": "PMID:32692737",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-09-03",
       "show_on_front_page": true
     },
     {
