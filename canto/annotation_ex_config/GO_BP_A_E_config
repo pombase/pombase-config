@@ -39,6 +39,7 @@ GO:0034613-is_a(GO:0006886)	is_a	has_input	ProteinID	localizes		0,1	user
 GO:0043487	is_a	has_regulation_target	TranscriptID	stabilizes		0,1	user
 #GO:0043666	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
 GO:0043393	is_a	has_regulation_target	ProteinID	regulates binding between (add TWO, i.e. both binding partners)		0,2	user
+GO:0045185	is_a	has_input	ProteinID	maintains location of		0,1	user
 #GO:0045859	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
 GO:0050684	is_a	has_regulation_target	TranscriptID	regulates processing of		0,1	user
 GO:0050790	is_a	regulates_activity_of	ProteinID	regulates activity of		0,1	user
