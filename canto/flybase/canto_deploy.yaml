@@ -1,0 +1,318 @@
+---
+# Canto config file  -*- conf -*-
+name: Fly-Canto
+long_name: FlyBase Canto curation server
+database_name: FlyBase
+
+instance_organism:
+  taxonid: 7227                                                                       
+
+flybase_mode: 1
+
+annotation_figure_field: 0
+
+Model::TrackModel:
+  connect_info:
+# filepath plus track.sqlite3
+    - dbi:SQLite:dbname=/var/pomcur/data/flybase_data/track.sqlite3
+  schema_class: Canto::TrackDB
+# filepath 
+data_directory: /var/pomcur/data/flybase_data
+
+
+Model::ChadoModel:
+  connect_info:
+    - "dbi:Pg:dbname=FB2020_03; host=localhost"
+    - kmr44
+    - kmr44
+  schema_class: Canto::ChadoDB
+
+
+chado:
+  taxon_id_lookup_strategy: dbxref
+  ignore_case_in_gene_query: 0
+
+implementation_classes:
+  gene_adaptor: Canto::Chado::GeneLookup
+  go_adaptor: Canto::Track::OntologyLookup
+  ontology_adaptor: Canto::Track::OntologyLookup
+
+# configuration of alleles
+
+
+# trying to remove fields for strain and allele expression - did not seem to work on initial test
+alleles_have_expression: 0
+strains_mode: 0
+split_genotypes_by_organism: 0
+show_genotype_management_genes_list: 0
+diploid_mode: 1
+# allow internal notes on single alleles and config:
+notes_on_single_allele_genotypes_only: 1
+allele_note_types:
+  - name: phenotype
+    display_name: Phenotype
+  - name: genetic_interaction
+    display_name: Genetic interaction
+  - name: xenogenetic_interaction
+    display_name: Xenogenetic interaction
+  - name: rescue_complementation
+    display_name: Rescue/Complementation
+  - name: internal_note
+    display_name: Internal note
+
+# display wildtype 'alleles' simply as '+'
+wildtype_name_template: '@@gene_display_name@@[+]'
+
+# configuration of allele types
+allele_type_list:
+  - name: other
+    export_type: other
+    show_description: true
+    description_required: false
+    allele_name_required: false
+    allow_expression_change: true
+    expression_required: true
+    hide_type_name: true
+    placeholder: Please provide a description
+  - name: aberration
+    export_type: aberration
+    show_description: true
+    description_required: false
+    allele_name_required: false
+    allow_expression_change: false
+    expression_required: false
+  - name: accessory
+    export_type: accessory
+    show_description: true
+    description_required: false
+    allele_name_required: false
+    allow_expression_change: true
+    expression_required: true
+    do_not_annotate: 1
+    placeholder: Please provide a description
+
+
+# the name of the organisation running this Canto - shown in various places in the user interface
+database_name: Fly-Canto
+
+database_url: www.flybase.org
+
+instance_front_subtitle: Canto for FlyBase
+
+available_annotation_type_list:
+  - name: phenotypic_class
+    category: ontology
+    namespace: phenotypic_class
+    hide_extension_relations: [qual,dv_qual]
+    very_short_display_name: 'phen-class'
+    short_display_name: 'phen-class'
+    display_name: 'phenotype class'
+    synonyms_to_display:
+      - exact
+    feature_type: 'genotype'
+    can_have_conditions: 0
+    allow_annotation_transfer: 1
+    broad_term_suggestions: >
+      lethal, sterile, visible, cell number defective, locomotor behavior defective
+    specific_term_examples: >
+      increased cell size, small body
+    help_text: >
+      Annotate abnormal phenotypes of organims or cells with this genotype.
+    more_help_text: >
+      This a basic discription of a phenotype, i.e. any observable characteristic or trait of an organism;
+      observable characteristics include morphology, development, behaviour
+    extra_help_text: >
+      Alleles may be annotated with multiple phenotype terms.
+    detailed_help_path: /docs/fypo_annotation
+  - name: anatomy
+    category: ontology
+    namespace: FlyBase_anatomy_CV
+    hide_extension_relations: [qual,dv_qual]
+    very_short_display_name: 'anatomy'
+    short_display_name: 'anatomy'
+    display_name: 'phenotype anatomy'
+    synonyms_to_display:
+      - exact
+    feature_type: 'genotype'
+    can_have_conditions: 0
+    allow_annotation_transfer: 1
+    broad_term_suggestions: >
+      embryo, wing, eye, ovary, wing disc, neuromuscular junction
+    specific_term_examples: >
+      NMJ bouton, oocyte, photoreceptor cell of the eye
+    help_text: >
+      Annotate the anatomy (organ, structure, cell or subcellular structure) where abnormal phenotype occurs in organims or cells with this genotype.
+    more_help_text: >
+      A phenotype is any observable characteristic or trait of an organism;
+      observable characteristics include morphology, development, behaviour
+    extra_help_text: >
+      Alleles may be annotated with multiple phenotype terms
+    detailed_help_path: /docs/fypo_annotation
+  - name: phenotype_interaction
+    category: interaction
+    namespace: phenotypic_class
+    term_suggestions_annotation_type: phenotypic_class
+    interaction_term_required: 1
+    allow_annotation_transfer: 1
+    hide_extension_relations: [qual,dv_qual]
+    display_name: 'phenotype class interaction'
+    very_short_display_name: 'phen-class interaction'
+    short_display_name: 'phen-class interaction'
+    feature_type: 'metagenotype'
+    help_text: 'Examples: suppressible, non-suppressible, enhanceable, non-enhanceable, non-modified.'
+    evidence_codes:
+      - suppressible
+      - "suppressible | partially"
+      - enhanceable
+      - non-suppressible
+      - non-enhanceable
+      - non-modified
+    detailed_help_path: /docs/genetic_interaction_annotation
+  - name: anatomy_interaction
+    category: interaction
+    namespace: FlyBase_anatomy_CV
+    term_suggestions_annotation_type: anatomy
+    interaction_term_required: 1
+    allow_annotation_transfer: 1
+    hide_extension_relations: [qual,dv_qual]
+    display_name: 'phenotype anatomy interaction'
+    very_short_display_name: 'anatomy interaction'
+    short_display_name: 'anatomy interaction'
+    feature_type: 'metagenotype'
+    help_text: 'Examples: suppressible, non-suppressible, enhanceable, non-enhanceable, non-modified.'
+    evidence_codes:
+      - suppressible
+      - "suppressible | partially"
+      - enhanceable
+      - non-suppressible
+      - non-enhanceable
+      - non-modified
+    detailed_help_path: /docs/genetic_interaction_annotation
+  - name: complementation
+    can_have_conditions: 0
+    single_allele_only: 1
+    interaction_same_locus: 1
+    allow_annotation_transfer: 1
+    category: interaction
+    display_name: 'complementation'
+    feature_type: 'metagenotype'
+    help_text: 'Examples: Complements, Partially complements, Fails to complement'
+    evidence_codes:
+      - Complements
+      - Partially complements
+      - Fails to complement
+  - name: rescue
+    can_have_conditions: 0
+    single_locus_only: 1
+    interaction_same_locus: 1
+    allow_annotation_transfer: 1
+    category: interaction
+    display_name: 'rescue'
+    feature_type: 'metagenotype'
+    help_text: 'Examples: Rescues, Partially Rescues, Fails to Rescue'
+    evidence_codes:
+      - Rescues
+      - Partially rescues
+      - Fails to rescue
+
+
+# restrict the list of annotation types
+enabled_annotation_type_list:
+  - phenotypic_class
+  - anatomy
+  - phenotype_interaction
+  - anatomy_interaction
+  - complementation
+  - rescue
+
+# snippet/test config to restrict interaction types depending on intial phenotype - MUST BE EXPANDED TO COMPLETION
+namespace_term_evidence_codes:
+  phenotypic_class:
+    # viable (minus partially lethal - majority live)
+    - constraint: "is_a(FBcv:0000349)-is_a(FBcv:0000350)"
+      evidence_codes: []
+    # increased mortality during development
+    - constraint: "is_a(FBcv:0002019)-is_a(FBcv:0000351)"
+      evidence_codes:
+       - suppressible
+       - "suppressible | partially"
+       - enhanceable
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # lethal
+    - constraint: "is_a(FBcv:0000351)"
+      evidence_codes:
+       - suppressible
+       - non-suppressible
+    # partially lethal
+    - constraint: "is_a(FBcv:0002015)"
+      evidence_codes:
+       - suppressible
+       - "suppressible | partially"
+       - enhanceable
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # fertile (minus semi-fertile)
+    - constraint: "is_a(FBcv:0000374)-is_a(FBcv:0000375)"
+      evidence_codes: []
+    # semi-fertile
+    - constraint: "is_a(FBcv:0000375)"
+      evidence_codes:
+       - suppressible
+       - suppressible ~ partially
+       - enhanceable
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # semi-sterile
+    - constraint: "is_a(FBcv:0000365)"
+      evidence_codes:
+       - suppressible
+       - suppressible ~ partially
+       - enhanceable
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # sterile
+    - constraint: "is_a(FBcv:0000364)"
+      evidence_codes:       
+       - suppressible
+       - non-suppressible
+
+
+ontology_namespace_config:
+  subsets_to_ignore:
+    primary_autocomplete:
+      - "is_a(Grouping_terms)"
+    primary_select:
+      - "is_a(Grouping_terms)"
+      - "is_a(qc_do_not_annotate)"
+    extension:
+# - add the ash to allow top/root terms (while still disallowing 'do not annotate' terms):
+      # - "is_a(canto_root_subset)"
+      - "is_a(qc_do_not_annotate)"
+  do_not_annotate_subsets:
+    - "is_a(canto_root_subset)"
+    - "is_a(qc_do_not_annotate)"
+
+
+
+# configuration for annotation extensions in the user interface
+# See: https://github.com/pombase/canto/wiki/AnnotationExtensionConfig
+extension_conf_files:
+#   - /data/pombase/flybase/extension_config-2020-03-04.tsv
+   - /data/pombase/flybase/extension_config-2020-05-01.tsv
+#   - /data/pombase/flybase/extension_config-2020-06-15.tsv
+
+# to show the gene list on the genotype management gene list, un-comment the next three lines - i.e. remove the #. The spaces before "taxonid:" are needed
+#show_genotype_management_genes_list: 1
+#instance_organism:
+#   taxonid: 7227
+
+cache:
+  memcached:
+    servers:
+      - 127.0.0.1:11211
+
