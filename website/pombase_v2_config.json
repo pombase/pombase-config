@@ -1566,6 +1566,17 @@
       "show_on_front_page": true
     },
     {
+       "title": "Lee et al., 2020",
+       "title_link": null,
+       "panel_type": "spotlight",
+       "head_image": ["assets/spotlight/2020-09-11-Lee-32101745-transposon-integration-heterochromatin.png"],
+       "content": "Dense Transposon Integration Reveals Essential Cleavage and Polyadenylation Factors Promote Heterochromatin Formation..\nOriginally published in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30128-5).",
+       "reference_id": "PMID:32101745",
+       "link_label": "Publication record in PomBase ...",
+       "date_added": "2020-09-11",
+       "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["assets/community/2020-02-24-community_papers_curated.png"],
