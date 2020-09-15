@@ -303,8 +303,9 @@ ontology_namespace_config:
 # See: https://github.com/pombase/canto/wiki/AnnotationExtensionConfig
 extension_conf_files:
 #   - /data/pombase/flybase/extension_config-2020-03-04.tsv
-   - /data/pombase/flybase/extension_config-2020-05-01.tsv
+#   - /data/pombase/flybase/extension_config-2020-05-01.tsv
 #   - /data/pombase/flybase/extension_config-2020-06-15.tsv
+   - /local-homes/pomcur/pombase-config/canto/flybase/extension_config.tsv
 
 # to show the gene list on the genotype management gene list, un-comment the next three lines - i.e. remove the #. The spaces before "taxonid:" are needed
 #show_genotype_management_genes_list: 1
