@@ -1579,14 +1579,14 @@
      {
       "title": "Dey et al., 2020",
       "title_link": null,
-      "panel_type": "spotlight"
+      "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-09-14-Dey-32848252-les1.png"],
       "content": "Closed mitosis requires local disassembly of the nuclear envelope.\nOriginally published in <a href='https://www.nature.com/articles/s41586-020-2648-3'>Nature</a>.",
       "reference_id": "PMID:32848252",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-17",
       "show_on_front_page": true
-    }, 
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
