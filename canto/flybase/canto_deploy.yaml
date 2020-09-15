@@ -22,7 +22,7 @@ data_directory: /var/pomcur/data/flybase_data
 
 Model::ChadoModel:
   connect_info:
-    - "dbi:Pg:dbname=FB2020_03; host=localhost"
+    - "dbi:Pg:dbname=FB2020_04; host=localhost"
     - kmr44
     - kmr44
   schema_class: Canto::ChadoDB
