@@ -3394,7 +3394,7 @@
     },
     "transcript_view": {
       "feature_type": "gene",
-      "display_name": "Transcript"
+      "display_name": "Transcript details"
     },
     "protein_features": {
       "feature_type": "gene",
