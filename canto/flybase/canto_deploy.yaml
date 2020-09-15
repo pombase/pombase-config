@@ -7,8 +7,6 @@ database_name: FlyBase
 instance_organism:
   taxonid: 7227                                                                       
 
-#test
-
 flybase_mode: 1
 
 annotation_figure_field: 0
