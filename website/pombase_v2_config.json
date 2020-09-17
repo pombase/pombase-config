@@ -298,7 +298,7 @@
         "nodeType": "int-range",
         "topDescription": [
           {
-            "text": "Retrieve genes by number of exons"
+            "text": "Retrieve genes by number of exons in the primary transcript"
           }
         ]
       },
