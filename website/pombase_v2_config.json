@@ -1608,6 +1608,29 @@
       "date_added": "2020-09-17",
       "show_on_front_page": true
     },
+     {
+      "title": "Bravo Núñez et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-09-22-32790622-Bravo-Nunez-atypical-meiosis-wtf.png"],
+      "content": "Atypical meiosis can be adaptive in outcrossed Schizosaccharomyces pombe due to wtf meiotic drivers.\nOriginally published in <a href='https://elifesciences.org/articles/57936'>eLife</a>. Image from [eLife 2020;9:e57936](https://elifesciences.org/articles/57936#fig7), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms.",
+      "reference_id": "PMID:32790622",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-09-22",
+      "show_on_front_page": true
+    },
+     {
+      "title": "Tsuyuzaki et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-09-22-32152323-Tsuyuzaki-histone-H3-spore-germination.png"],
+      "content": "Time-lapse single-cell transcriptomics reveals modulation of histone H3 for dormancy breaking in fission yeast.\nOriginally published in <a href='Nature Communications'>https://www.nature.com/articles/s41467-020-15060-y</a>.",
+      "reference_id": "PMID:32152323",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-09-22",
+      "show_on_front_page": true
+    },
+
     {
       "title": "Recent community curation",
       "panel_type": "community",
