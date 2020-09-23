@@ -225,13 +225,13 @@ enabled_annotation_type_list:
   - complementation
   - rescue
 
-# snippet/test config to restrict interaction types depending on intial phenotype - MUST BE EXPANDED TO COMPLETION
+#configure which interaction evidence codes can be used with which phenotype classes
 namespace_term_evidence_codes:
   phenotypic_class:
     # viable (minus partially lethal - majority live)
     - constraint: "is_a(FBcv:0000349)-is_a(FBcv:0000350)"
       evidence_codes: []
-    # increased mortality during development
+    # increased mortality during development (except lethal)
     - constraint: "is_a(FBcv:0002019)-is_a(FBcv:0000351)"
       evidence_codes:
        - suppressible
@@ -240,17 +240,52 @@ namespace_term_evidence_codes:
        - non-suppressible
        - non-enhanceable
        - non-modified
-    # lethal
-    - constraint: "is_a(FBcv:0000351)"
+    # lethal (but not the more specific child terms)
+    - constraint: "is_a(FBcv:0000351)-is_a(FBcv:0002000)"
       evidence_codes:
        - suppressible
        - non-suppressible
+    # lethal terms detailed with developmental stage
+    - constraint: "is_a(FBcv:0002000)"
+      evidence_codes:
+       - suppressible
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
     # partially lethal
     - constraint: "is_a(FBcv:0002015)"
       evidence_codes:
        - suppressible
        - "suppressible | partially"
        - enhanceable
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # some die during embryonic stage
+    - constraint: "is_a(FBcv:0002041)"
+      evidence_codes:
+       - suppressible
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # some die during larval stage
+    - constraint: "is_a(FBcv:0002023)"
+      evidence_codes:
+       - suppressible
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # some die during P-stage
+    - constraint: "is_a(FBcv:0002020)"
+      evidence_codes:
+       - suppressible
+       - non-suppressible
+       - non-enhanceable
+       - non-modified
+    # some die during immature adult stage
+    - constraint: "is_a(FBcv:0002051)"
+      evidence_codes:
+       - suppressible
        - non-suppressible
        - non-enhanceable
        - non-modified
@@ -261,7 +296,7 @@ namespace_term_evidence_codes:
     - constraint: "is_a(FBcv:0000375)"
       evidence_codes:
        - suppressible
-       - suppressible ~ partially
+       - "suppressible | partially"
        - enhanceable
        - non-suppressible
        - non-enhanceable
@@ -270,7 +305,7 @@ namespace_term_evidence_codes:
     - constraint: "is_a(FBcv:0000365)"
       evidence_codes:
        - suppressible
-       - suppressible ~ partially
+       - "suppressible | partially"
        - enhanceable
        - non-suppressible
        - non-enhanceable
@@ -316,3 +351,778 @@ cache:
     servers:
       - 127.0.0.1:11211
 
+??
+class_info:
+  track:
+    cv:
+      class_display_name: controlled vocabulary
+      editable: 1
+      display_field: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: definition
+          editable: 1
+        - name: "term count"
+          source:
+            sql: 'select count(*) from cvterm where cvterm.cv_id = me.cv_id'
+        - name: "load date"
+          source:
+            sql: "select value from cvprop p join cvterm pt on p.type_id = pt.cvterm_id where p.cv_id = me.cv_id and pt.name = 'cv_date'"
+    cvprop:
+      class_display_name: controlled vocabulary properties
+      display_field: value
+      field_info_list:
+        - name: type
+          source: type_id
+          referenced_class: Cvterm
+        - name: value
+          editable: 1
+    cvterm:
+      class_display_name: controlled vocabulary term
+      editable: 1
+      display_field: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: definition
+          editable: 1
+        - name: cv_id
+          editable: 1
+    db:
+      editable: 1
+      display_field: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: description
+          editable: 1
+        - name: url
+          editable: 1
+        - name: "accessions stored"
+          source:
+            sql: 'select count(*) from dbxref where dbxref.db_id = me.db_id'
+    dbxref:
+      editable: 1
+      display_field: accession
+      field_info_list:
+        - name: db_id
+          editable: 1
+        - name: accession
+          editable: 1
+        - name: description
+          editable: 1
+        - name: cvterm_id
+          editable: 1
+    organism:
+      editable: 1
+      display_field: full_name
+      order_by:
+        - scientific_name
+      field_info_list:
+        - name: scientific_name
+          editable: 1
+    organism_report:
+      extends: organism
+      '+field_info_list':
+        - name: Number of genes
+          source:
+            sql: 'select count(*) from gene where gene.organism = me.organism_id'
+    person:
+      object_title_format: 'Details for @@DISPLAY_FIELD@@'
+      editable: 1
+      display_field: name
+      order_by: name
+      search_fields:
+        - email_address
+        - name
+        - orcid
+      field_info_list:
+        - name: name
+          source: name
+          editable: 1
+        - name: orcid
+          editable: 1
+        - name: known_as
+          editable: 1
+        - name: email_address
+          editable: 1
+        - name: role
+          default_value: "'user'"
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto user types")'
+          editable: 1
+          admin_only: 1
+        - name: Sessions
+          source:
+            sql: "select count(curs) from curs_curator cc1 where cc1.curator = person_id and curs_curator_id = (select max(curs_curator_id) from curs_curator cc2 where cc2.curs = cc1.curs)"
+        - name: Approved sessions
+          source:
+            sql: "select count(curs) from curs_curator cc1 where cc1.curator = person_id and curs_curator_id = (select max(curs_curator_id) from curs_curator cc2 where cc2.curs = cc1.curs) and cc1.curs in (select curs_id from curs where curs_id in (select curs from cursprop p join cvterm t on p.type = t.cvterm_id where t.name = 'annotation_status' and p.value = 'APPROVED'))"
+        - name: password
+          editable: 1
+          admin_only: 1
+    lab:
+      editable: 1
+      display_field: name
+      order_by: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: lab_head
+          editable: 1
+        - name: people
+          is_collection: 1
+          editable: 1
+    pub:
+      object_title_format: 'Details for publication: @@$object->uniquename()@@'
+      class_display_name: publication
+      display_field: 'Publication ID'
+      search_fields:
+        - uniquename
+      editable: 1
+      # hack to order by pubmed id, or by doi number
+      order_by: "cast((case me.uniquename like 'PMID:%' WHEN 1 THEN substr(me.uniquename, 6) ELSE me.uniquename END) as integer)"
+      field_info_list:
+        - name: 'Publication ID'
+          source: uniquename
+        - name: title
+        - name: authors
+        - name: abstract
+          extra_field_class: non-important-attribute-field
+          hide_context:
+            - list
+            - inline_list
+        - name: citation
+          hide_context:
+            - list
+            - inline_list
+        - name: publication_date
+          hide_context:
+            - list
+            - inline_list
+        - name: affiliation
+          hide_context:
+            - list
+            - inline_list
+        - name: corresponding_author
+          editable: 1
+        - name: current_curator
+          referenced_class: Person
+          source:
+            sql: "select curator from curs_curator where curs_curator_id = (select max(curs_curator_id) from curs_curator cc, curs c where cc.curs = c.curs_id and c.pub = me.pub_id)"
+        - name: session_first_sent
+          source:
+            sql: "select (case when (value is null) THEN 'no' ELSE value END) from curs, cursprop p, cvterm t where me.pub_id = curs.pub and curs.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'link_sent_to_curator_date' order by value"
+          default: no
+          editable: 0
+        - name: session_last_sent
+          source:
+            sql: "select (case when (value is null) THEN 'no' ELSE value END) from curs, cursprop p, cvterm t where me.pub_id = curs.pub and curs.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'link_sent_to_curator_date' order by value DESC"
+          default: no
+          editable: 0
+        - name: session_sent_count
+          source:
+            sql: "cast((select count(value) from curs, cursprop p, cvterm t where me.pub_id = curs.pub and curs.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'link_sent_to_curator_date') as int)"
+        # - name: type
+        #   source: type_id
+        #   values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto publication type")'
+        #   referenced_class: Cvterm
+        #   editable: 1
+        - name: session_status
+          source:
+            sql: "select value from curs, cursprop p, cvterm t where me.pub_id = curs.pub and curs.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'annotation_status'"
+          editable: 0
+        - name: approver_name
+          source:
+            sql: "select value from curs, cursprop p, cvterm t where me.pub_id = curs.pub and curs.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'approver_name'"
+          editable: 0
+        - name: load_type
+          source: load_type_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto publication load types")'
+          referenced_class: Cvterm
+          editable: 1
+          hide_context:
+            - list
+            - inline_list
+        - name: triage_status
+          source: triage_status_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto publication triage status")'
+          referenced_class: Cvterm
+          editable: 1
+          hide_context:
+            - inline_list
+        - name: curation_priority
+          source: curation_priority_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto curation priorities")'
+          referenced_class: Cvterm
+          editable: 1
+    pub_curation_status:
+      class_display_name: publication curation status
+      display_field: status_id
+      editable: 1
+      field_info_list:
+        - name: publication
+          source: pub_id
+          editable: 1
+        - name: annotation_type
+          editable: 1
+        - name: status
+          source: status_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto publication curation status")'
+          referenced_class: Cvterm
+          editable: 1
+    pubprop:
+      class_display_name: publication properties
+      display_field: value
+      editable: 1
+      field_info_list:
+        - name: publication
+          source: pub_id
+          editable: 1
+        - name: type_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto publication experiment types")'
+          referenced_class: Cvterm
+          editable: 1
+        - name: value
+          editable: 1
+    curs:
+      class_display_name: curation session
+      display_field: curs_key
+      editable: 0
+      field_info_list:
+        - name: curs_key
+          editable: 0
+        - name: publication
+          editable: 0
+          source: pub
+        - name: creation_date
+          editable: 0
+        - name: current_curator
+          referenced_class: Person
+          source:
+            sql: "select curator from curs_curator where curs_curator_id = (select max(curs_curator_id) from curs_curator where curs = me.curs_id)"
+        - name: accepted
+          source:
+            sql: "select (case when (accepted_date is null) THEN 'no' ELSE accepted_date END) from curs_curator where curs_curator_id = (select max(curs_curator_id) from curs_curator where curs = me.curs_id)"
+        - name: last_assigned
+          source:
+            sql: "select creation_date from curs_curator where curs_curator_id = (select max(curs_curator_id) from curs_curator where curs = me.curs_id)"
+        - name: last_sent_date
+          source:
+            sql: "select value from cursprop p, cvterm t where me.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'link_sent_to_curator_date' order by value DESC"
+        - name: session_sent_count
+          source:
+            sql: "cast((select count(value) from cursprop p, cvterm t where me.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'link_sent_to_curator_date') as int)"
+        - name: status
+          source:
+            sql: "select value from cursprop p, cvterm t where me.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'annotation_status'"
+        - name: approver_name
+          source:
+            sql: "select value from cursprop p, cvterm t where me.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'approver_name'"
+        - name: genes_added
+          source:
+            sql: "cast((select value from cursprop p, cvterm t where me.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'session_genes_count') as int)"
+        - name: term_suggestions
+          source:
+            sql: "cast((select value from cursprop p, cvterm t where me.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'session_term_suggestions_count') as int)"
+# if the hook dies the creation fails
+      pre_create_hook: 'Canto::Track::create_curs_db_hook'
+    cursprop:
+      class_display_name: Session properties
+      editable: 1
+      field_info_list:
+        - name: type
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "Canto cursprop types")'
+          referenced_class: Cvterm
+          editable: 1
+        - name: value
+          editable: 1
+        - name: curs
+          editable: 1
+    curs_curator:
+      class_display_name: Session curator
+      editable: 1
+      field_info_list:
+        - name: curs
+          editable: 1
+        - name: curator
+          editable: 1
+    gene:
+      editable: 1
+      display_field: primary_identifier
+      search_fields:
+        - primary_identifier
+        - primary_name
+        - product
+      field_info_list:
+        - name: primary_identifier
+          editable: 1
+        - name: primary_name
+          editable: 1
+        - name: product
+          editable: 1
+        - name: genesynonyms
+          editable: 1
+          is_collection: 1
+        - name: organism
+          editable: 1
+    genesynonym:
+      editable: 1
+      display_field: identifier
+      field_info_list:
+        - name: identifier
+          editable: 1
+        - name: gene
+          editable: 1
+    named_genes:
+      extends: gene
+      constraint: "primary_name is not null"
+
+    all_publications:
+      extends: pub
+    curated_publications:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'NEEDS_APPROVAL' or p.value = 'APPROVAL_IN_PROGRESS' or p.value ='APPROVED')))"
+    high_priority_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY')"
+    high_priority_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY')"
+    high_priority_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY')"
+    high_priority_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    high_priority_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY')"
+    high_priority_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY')"
+    high_priority_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'HIGH_PRIORITY')"
+    disease_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE')"
+    disease_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE')"
+    disease_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE')"
+    disease_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    disease_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE')"
+    disease_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE')"
+    disease_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'DISEASE')"
+    pheno_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO')"
+    pheno_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO')"
+    pheno_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO')"
+    pheno_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    pheno_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO')"
+    pheno_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO')"
+    pheno_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO')"
+    pheno_anat_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT')"
+    pheno_anat_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT')"
+    pheno_anat_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT')"
+    pheno_anat_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    pheno_anat_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT')"
+    pheno_anat_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT')"
+    pheno_anat_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_ANAT')"
+    pheno_chem_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM')"
+    pheno_chem_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM')"
+    pheno_chem_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM')"
+    pheno_chem_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    pheno_chem_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM')"
+    pheno_chem_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM')"
+    pheno_chem_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_CHEM')"
+    pheno_dataset_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET')"
+    pheno_dataset_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET')"
+    pheno_dataset_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET')"
+    pheno_dataset_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    pheno_dataset_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET')"
+    pheno_dataset_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET')"
+    pheno_dataset_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'PHENO_DATASET')"
+    low_priority_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY')"
+    low_priority_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY')"
+    low_priority_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY')"
+    low_priority_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    low_priority_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY')"
+    low_priority_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY')"
+    low_priority_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'LOW_PRIORITY')"
+    training_publications:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING')"
+    training_publications_with_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING')"
+    training_publications_with_approved_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')) and triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING')"
+    training_publications_with_multiple_sessions:
+      extends: pub
+      constraint: "triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING') and exists (select * from curs c1, curs c2 where c1.pub = me.pub_id and c2.pub = me.pub_id and c1.curs_id <> c2.curs_id)"
+    training_publications_without_sessions:
+      extends: pub
+      constraint: "pub_id not in (select pub from curs) and triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING')"
+    training_publications_with_new_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'SESSION_CREATED')) and triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING')"
+    training_publications_with_active_sessions:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'SESSION_ACCEPTED' or p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED'))) and triage_status_id in (select cvterm_id from cvterm where name = 'TRAINING')"
+
+    publications_with_session_needing_approval:
+      extends: pub
+      '+field_info_list':
+        - name: last_status_change
+          source:
+            sql: "select value from curs, cursprop p, cvterm t where me.pub_id = curs.pub and curs.curs_id = p.curs and t.cvterm_id = p.type and t.name = 'annotation_status_datestamp'"
+          editable: 0
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'NEEDS_APPROVAL' or p.value = 'APPROVAL_IN_PROGRESS')))"
+    publications_with_approved_session:
+      extends: pub
+      constraint: "pub_id in (select pub from curs where curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED'))"
+    sessions_needing_approval:
+      extends: curs
+      constraint: "me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'NEEDS_APPROVAL' or p.value = 'APPROVAL_IN_PROGRESS'))"
+    sessions_without_a_curator:
+      extends: curs
+      constraint: "me.curs_id not in (select curs from curs_curator)"
+    exported_sessions:
+      extends: curs
+      constraint: "me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'EXPORTED')"
+    sessions_with_term_requests:
+      extends: curs
+      constraint: "me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'CURATION_IN_PROGRESS' or p.value = 'CURATION_PAUSED' or p.value = 'NEEDS_APPROVAL' or p.value = 'APPROVAL_IN_PROGRESS')) and me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'session_term_suggestions_count' and value > 0)"
+    reactivated_sessions:
+      extends: curs
+      constraint: "me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and (p.value = 'CURATION_IN_PROGRESS')) and me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'session_reactivated_timestamp')"
+    approved_sessions:
+      extends: curs
+      constraint: "me.curs_id in (select curs from cursprop p, cvterm t where t.cvterm_id = p.type and t.name = 'annotation_status' and p.value = 'APPROVED')"
+    all_sessions:
+      extends: curs
+
+  chado:
+    chadoprop:
+      class_display_name: chado properties
+      editable: 0
+      display_field: value
+      field_info_list:
+        - name: type
+          source: type_id
+          referenced_class: Cvterm
+        - name: value
+          editable: 0
+    cv:
+      class_display_name: controlled vocabulary
+      editable: 1
+      display_field: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: definition
+          editable: 1
+        - name: "terms in this CV"
+          source:
+            sql: 'select count(*) from cvterm where cvterm.cv_id = me.cv_id'
+        - name: "terms used"
+          source:
+            sql: 'select count(*) from cvterm c where c.cv_id = me.cv_id and c.cvterm_id in (select cvterm_id from feature_cvterm)'
+        - name: "annotation count"
+          source:
+            sql: 'select count(*) from feature_cvterm fc, cvterm c where fc.cvterm_id = c.cvterm_id and c.cv_id = me.cv_id'
+    cvterm:
+      class_display_name: controlled vocabulary term
+      editable: 1
+      display_field: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: definition
+          editable: 1
+        - name: cv
+          source: cv_id
+          editable: 1
+        - name: dbxref_id
+          editable: 1
+        - name: "features annotated with this term"
+          source:
+            sql: 'select count(*) from feature_cvterm fc where fc.cvterm_id = me.cvterm_id'
+    organism:
+      editable: 1
+      display_field: full_name
+      order_by:
+        - genus
+        - species
+      field_info_list:
+        - name: genus
+          editable: 1
+        - name: species
+          editable: 1
+    pub:
+      object_title_format: 'Details for publication ID: @@$object->uniquename()@@'
+      class_display_name: publication
+      display_field: title
+      editable: 1
+      field_info_list:
+        - name: title
+          editable: 1
+        - name: uniquename
+          editable: 1
+        - name: type
+          source: type_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "genedb_literature")'
+          referenced_class: Cvterm
+          editable: 1
+    feature:
+      editable: 1
+      display_field: uniquename
+      search_fields:namespace
+        - uniquename
+        - name
+      field_info_list:
+        - name: uniquename
+          editable: 1
+        - name: name
+          editable: 1
+        - name: type
+          source: type_id
+          values_constraint: 'where me.cv_id = (SELECT cv_id FROM cv where cv.name = "sequence")'
+          referenced_class: Cvterm
+          editable: 1
+        - name: featureprops
+          is_collection: 1
+          editable: 1
+    featureprop:
+      editable: 1
+      display_field: value
+      field_info_list:
+        - name: type
+          source: type_id
+          referenced_class: Cvterm
+        - name: value
+          editable: 1
+    db:
+      editable: 1
+      display_field: name
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: description
+          editable: 1
+        - name: url
+          editable: 1
+        - name: "accessions stored"
+          source:
+            sql: 'select count(*) from dbxref where dbxref.db_id = me.db_id'
+    dbxref:
+      editable: 1
+      display_field: accession
+      field_info_list:
+        - name: db_id
+          editable: 1
+        - name: accession
+          editable: 1
+        - name: description
+          editable: 1
+    genes:
+      extends: feature
+      constraint: "type_id = (select cvterm_id from cvterm, cv where cvterm.name = 'gene' and cvterm.cv_id = cv.cv_id and cv.name = 'sequence')"
+    pombe_genes:
+      class_display_name: S. pombe genes
+      extends: feature
+      constraint: "type_id = (select cvterm_id from cvterm, cv where cvterm.name = 'gene' and cvterm.cv_id = cv.cv_id and cv.name = 'sequence') and organism_id = (select organism_id from organism where genus = 'Schizosaccharomyces' and species = 'pombe')"
+    protein_and_domain_terms:
+      class_display_name: PomBase family or domain terms
+      extends: cvterm
+      constraint: "cv_id = (select cv_id from cv where cv.name = 'PomBase family or domain')"
+    types_and_counts:
+      class_display_name: SO DNA feature types and counts
+      constraint: "(select count(*) from feature where type_id = me.cvterm_id) > 0"
+      display_field: name
+      extends: cvterm
+      field_info_list:
+        - name: name
+          editable: 1
+        - name: cv
+          source: cv_id
+          editable: 1
+        - name: "features of this type"
+          as: count
+          source:
+            sql: 'select count(*) from feature where type_id = me.cvterm_id'
+
+reports:
+  track:
+    - report: all_publications
+      children:
+        - report: high_priority_publications
+          children:
+            - report: high_priority_publications_with_sessions
+              children:
+               - report: high_priority_publications_with_new_sessions
+               - report: high_priority_publications_with_active_sessions
+               - report: high_priority_publications_with_approved_sessions
+               - report: high_priority_publications_with_multiple_sessions
+            - report: high_priority_publications_without_sessions
+        - report: disease_publications
+          children:
+            - report: disease_publications_with_sessions
+              children:
+               - report: disease_publications_with_new_sessions
+               - report: disease_publications_with_active_sessions
+               - report: disease_publications_with_approved_sessions
+               - report: disease_publications_with_multiple_sessions
+            - report: disease_publications_without_sessions
+        - report: pheno_publications
+          children:
+            - report: pheno_publications_with_sessions
+              children:
+               - report: pheno_publications_with_new_sessions
+               - report: pheno_publications_with_active_sessions
+               - report: pheno_publications_with_approved_sessions
+               - report: pheno_publications_with_multiple_sessions
+            - report: pheno_publications_without_sessions
+        - report: pheno_anat_publications
+          children:
+            - report: pheno_anat_publications_with_sessions
+              children:
+               - report: pheno_anat_publications_with_new_sessions
+               - report: pheno_anat_publications_with_active_sessions
+               - report: pheno_anat_publications_with_approved_sessions
+               - report: pheno_anat_publications_with_multiple_sessions
+            - report: pheno_anat_publications_without_sessions
+        - report: pheno_chem_publications
+          children:
+            - report: pheno_chem_publications_with_sessions
+              children:
+               - report: pheno_chem_publications_with_new_sessions
+               - report: pheno_chem_publications_with_active_sessions
+               - report: pheno_chem_publications_with_approved_sessions
+               - report: pheno_chem_publications_with_multiple_sessions
+            - report: pheno_chem_publications_without_sessions
+        - report: pheno_dataset_publications
+          children:
+            - report: pheno_dataset_publications_with_sessions
+              children:
+               - report: pheno_dataset_publications_with_new_sessions
+               - report: pheno_dataset_publications_with_active_sessions
+               - report: pheno_dataset_publications_with_approved_sessions
+               - report: pheno_dataset_publications_with_multiple_sessions
+            - report: pheno_dataset_publications_without_sessions
+        - report: low_priority_publications
+          children:
+            - report: low_priority_publications_with_sessions
+              children:
+               - report: low_priority_publications_with_new_sessions
+               - report: low_priority_publications_with_active_sessions
+               - report: low_priority_publications_with_approved_sessions
+               - report: low_priority_publications_with_multiple_sessions
+            - report: low_priority_publications_without_sessions
+        - report: training_publications
+          children:
+            - report: training_publications_with_sessions
+              children:
+               - report: training_publications_with_new_sessions
+               - report: training_publications_with_active_sessions
+               - report: training_publications_with_approved_sessions
+               - report: training_publications_with_multiple_sessions
+            - report: training_publications_without_sessions
+    - report: all_sessions
+      children:
+        - report: approved_sessions
+        - report: exported_sessions
+        - report: sessions_needing_approval
+        - report: reactivated_sessions
+        - report: sessions_without_a_curator
+
+
+curs_config:
+  # Possible reasons for a paper to have no phenotype annotation in the case
+  # where genes are mentioned.
+  no_annotation_reasons:
+    - No phenotypic data
+    - Only pheno_chem data
+    - Other
