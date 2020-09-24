@@ -4711,6 +4711,37 @@
   "interpro": {
     "dbnames_to_filter": []
   },
+  "protein_features": {
+    "track_config": {
+      "CATHGENE3D": {
+        "colour": "#228b22"
+      },
+      "PFAM": {
+        "colour": "#545454"
+      },
+      "PROSITE": {
+        "colour": "#ffa500"
+      },
+      "PROFILE": {
+        "colour": "#368ec9"
+      },
+      "PANTHER": {
+        "colour": "#a020f0"
+      },
+      "SMART": {
+        "colour": "#66cd00"
+      },
+      "SSF": {
+        "colour": "#0000ff"
+      },
+      "TIGRFAMs": {
+        "colour": "#f00"
+      },
+      "CDD": {
+        "colour": "#926b22"
+      }
+    }
+  },
   "server": {
     "subsets": {
       "prefixes_to_remove": [
