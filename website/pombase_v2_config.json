@@ -1630,6 +1630,18 @@
       "date_added": "2020-09-22",
       "show_on_front_page": true
     },
+    
+     {
+      "title": "Nakazawa et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-09-24-yanagida-condensin-PMID-31615333.png"],
+      "content": "Condensin locates at transcriptional termination sites in mitosis, possibly releasing mitotic transcripts.\nOriginally published in <a href='https://royalsocietypublishing.org/doi/10.1098/rsob.190125'>Open Biology</a>.",
+      "reference_id": "PMID:31615333",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-09-23",
+      "show_on_front_page": true
+    },
 
     {
       "title": "Recent community curation",
