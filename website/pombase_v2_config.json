@@ -1551,7 +1551,7 @@
       "reference_id": "PMID:32320462",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-08-05",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Zhao et al., 2020",
@@ -1562,7 +1562,7 @@
       "reference_id": "PMID:32735772",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-08-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Zhang et al., 2020",
@@ -1651,6 +1651,17 @@
       "reference_id": "PMID:32909946",
       "link_label": "Publication record in PomBase ...",
       "date_added": "20-09-28",
+      "show_on_front_page": true
+    },
+     {
+      "title": "Marayati et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-10-01-32295063-Marayati-Lsd1-Lsd2-heterochromatin.png"],
+      "content": "The Catalytic-Dependent and -Independent Roles of Lsd1 and Lsd2 Lysine Demethylases in Heterochromatin Formation in *Schizosaccharomyces pombe*.\nOriginally published in <a href='https://www.mdpi.com/2073-4409/9/4/955'>Cells</a>.",
+      "reference_id": "PMID:32295063",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-10-01",
       "show_on_front_page": true
     },
     {
