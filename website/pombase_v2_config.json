@@ -1663,6 +1663,21 @@
       "date_added": "2020-10-01",
       "show_on_front_page": true
     },
+    
+      {
+      "title": "Grallert et al., 2013",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-10-03-23333317-Grallert.png"],
+      "content": "Removal of centrosomal PP1 by NIMA kinase unlocks the MPF feedback loop to promote mitotic commitment in S. pombe.\nOriginally published in <a href='https://www.cell.com/current-biology/fulltext/S0960-9822(12)01512-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982212015126%3Fshowall%3Dtrue'>Current Biology</a>.",
+      "reference_id": "PMID:23333317",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-10-02",
+      "show_on_front_page": true
+    },
+    
+    
+    
     {
       "title": "Recent community curation",
       "panel_type": "community",
