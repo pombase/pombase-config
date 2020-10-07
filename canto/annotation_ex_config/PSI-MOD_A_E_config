@@ -9,4 +9,4 @@ MOD:00000	is_a	absent_during	GO:0022403|GO:0033554|GO:0072690	absent during		0,1
 MOD:00000	is_a	occupancy	%	proportion of proteins with modification		0,1	user
 MOD:00000	is_a	level_fluctuates_during	GO:0022403|GO:0033554|GO:0072690	cellular amount of modification fluctuates during		0,1	user
 MOD:00000	is_a	required_for	GO:0003674	required for activity		0,1	user
-MOD:00000	is_a	required_for	GO:0022403|GO:0033554|GO:0072690	required for process		0,1	user
+MOD:00000	is_a	required_for	GO:0009987	required for process		0,1	user
