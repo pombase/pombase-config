@@ -1675,9 +1675,17 @@
       "date_added": "2020-10-02",
       "show_on_front_page": true
     },
-    
-    
-    
+     {
+      "title": "Stonyte et al., 2020”,
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-10-07par1_PMID_32361273_LopezAviles.png"],
+      "content": "Requirement of PP2A-B56 Par1 for the Stabilization of the CDK Inhibitor Rum1 and Activation of APC/C Ste9 during Pre-Start G1 in S. pombe..\nOriginally published in <a href='https://www.cell.com/iscience/fulltext/S2589-0042(20)30248-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004220302480%3Fshowall%3Dtrue'>iScience</a>.",
+      "reference_id": "PMID:32361273",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-10-07",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
