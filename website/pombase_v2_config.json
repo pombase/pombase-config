@@ -1573,7 +1573,7 @@
       "reference_id": "PMID:32692737",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-03",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
        "title": "Lee et al., 2020",
@@ -1683,6 +1683,17 @@
       "reference_id": "PMID:32361273",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-07",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Sjölander et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-10-09-31932483-Sjolander-Wis1-redox-sensitive-thiol.png"],
+      "content": "A Redox-Sensitive Thiol in Wis1 Modulates the Fission Yeast Mitogen-Activated Protein Kinase Response to H2O2 and Is the Target of a Small Molecule.\nOriginally published in <a href='https://mcb.asm.org/content/40/7/e00346-19.long'>Molecular and Cell Biology</a>.",
+      "reference_id": "PMID:31932483",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-10-09",
       "show_on_front_page": true
     },
     {
