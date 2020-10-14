@@ -959,7 +959,7 @@ class_info:
     feature:
       editable: 1
       display_field: uniquename
-      search_fields:namespace
+      search_fields:
         - uniquename
         - name
       field_info_list:
