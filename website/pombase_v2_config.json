@@ -2493,6 +2493,12 @@
       "reciprocal_display": "negatively regulated by"
     },
     {
+      "rel_name": "has_direct_input",
+      "if_descendant_of": "GO:0140313",
+      "display_name": "sequesters",
+      "reciprocal_display": "sequestered by"
+    },
+    {
       "rel_name": "assayed_using",
       "if_descendant_of": "FYPO:0001985",
       "display_name": "affecting",
