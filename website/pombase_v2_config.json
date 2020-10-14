@@ -2280,11 +2280,11 @@
     },
     {
       "rel_name": "occurs_at",
-      "display_name": "occurs at"
+      "display_name": "at"
     },
     {
       "rel_name": "occurs_in",
-      "display_name": "occurs in"
+      "display_name": "in"
     },
     {
       "rel_name": "part_of",
