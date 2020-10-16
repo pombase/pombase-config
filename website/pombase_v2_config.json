@@ -1584,7 +1584,7 @@
        "reference_id": "PMID:32101745",
        "link_label": "Publication record in PomBase ...",
        "date_added": "2020-09-11",
-       "show_on_front_page": true
+       "show_on_front_page": false
     },
      {
       "title": "Dey et al., 2020",
@@ -1689,13 +1689,25 @@
       "title": "Sjölander et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["assets/spotlight/2020-10-09-31932483-Sjolander-Wis1-redox-sensitive-thiol.png"],
-      "content": "A Redox-Sensitive Thiol in Wis1 Modulates the Fission Yeast Mitogen-Activated Protein Kinase Response to H2O2 and Is the Target of a Small Molecule.\nOriginally published in <a href='https://mcb.asm.org/content/40/7/e00346-19.long'>Molecular and Cell Biology</a>.",
-      "reference_id": "PMID:31932483",
+      "head_image": ["assets/spotlight/2020-10-15-31911490_rnc1_cansado.png"],
+      "content": "RNA-Binding Protein Rnc1 Regulates Cell Length at Division and Acute Stress Response in Fission Yeast through Negative Feedback Modulation of the Stress-Activated Mitogen-Activated Protein Kinase Pathway.\nOriginally published in <a href='https://mbio.asm.org/content/11/1/e02815-19'>mBio</a>.",
+      "reference_id": "PMID:31911490",
       "link_label": "Publication record in PomBase ...",
-      "date_added": "2020-10-09",
+      "date_added": "2020-10-15",
       "show_on_front_page": true
     },
+    
+       {
+      "title": "Prieto-Ruiz et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/.png"],
+      "content": "Lem2 is retained at the nuclear envelope through its interaction with Bqt4 in fission yeast.  LEM domain directly binds to DNA.\nOriginally published in <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/gtc.12557'>Genes Cells</a>.",
+      "reference_id": "PMID:29292846",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2019-10-06",
+      "show_on_front_page": true
+    }, 
     {
       "title": "Recent community curation",
       "panel_type": "community",
