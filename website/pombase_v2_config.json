@@ -4271,8 +4271,8 @@
           "termid": "GO:0042559"
         },
         {
-          "name": "regulation of mitotic cell cycle phase transition",
-          "termid": "GO:1901990"
+          "name": "mitotic cell cycle phase transition",
+          "termid": "GO:0044772"
         },
         {
           "name": "regulation of transcription, DNA-templated",
