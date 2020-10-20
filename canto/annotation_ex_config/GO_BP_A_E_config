@@ -13,7 +13,7 @@ GO:0006511	is_a	has_input	ProteinID	involved in degradation of		0,1	user
 GO:0006605	is_a	has_input	ProteinID	targets		0,1	user
 GO:0006897	is_a	occurs_in	GO:0032153|GO:0051286	occurs at		0,1	user
 GO:0007015	is_a	occurs_in	GO:0005826|GO:0051286	occurs at		0,1	user
-GO:0008150	is_a	happens_during	GO:0022403|GO:0033554|GO:0072690	happens during (e.g. cell cycle phase or stress response)		0,1	user
+GO:0008150	is_a	happens_during	GO:0022403|GO:0033554|GO:0072690|GO:0044770	happens during (e.g. cell cycle phase or stress response)		0,1	user
 ## commented out old during phase/process config - see curation ticket 2060
 #GO:0006325	is_a	happens_during	GO:0022403|GO:0033554|GO:0072690	happens during (e.g. cell cycle phase or stress response)		0,1	user
 #GO:0007165	is_a	happens_during	GO:0033554	happens during (e.g. stress response)		0,1	user
