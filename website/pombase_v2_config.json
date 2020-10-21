@@ -1595,7 +1595,7 @@
       "reference_id": "PMID:32848252",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-14",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Antoine et al., 2020",
@@ -1606,7 +1606,7 @@
       "reference_id": "PMID:31927482",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-17",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Bravo Núñez et al., 2020",
@@ -1690,13 +1690,13 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["assets/spotlight/2020-10-09-31932483-Sjolander-Wis1-redox-sensitive-thiol.png"],
-      "content": "A Redox-Sensitive Thiol in Wis1 Modulates the Fission Yeast Mitogen-Activated Protein Kinase Response to H2O2 and Is the Target of a Small Molecule.\nOriginally published in <a href='https://mcb.asm.org/content/40/7/e00346-19'>Mol. Cell. Biol</a>.",
+      "content": "A Redox-Sensitive Thiol in Wis1 Modulates the Fission Yeast Mitogen-Activated Protein Kinase Response to H2O2 and Is the Target of a Small Molecule.\nOriginally published in <a href='https://mcb.asm.org/content/40/7/e00346-19'>Molecular and Cellular Biology</a>.",
       "reference_id": "PMID:31932483",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-09",
       "show_on_front_page": true
     },
-       {
+    {
       "title": "Prieto-Ruiz et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1704,9 +1704,20 @@
       "content": "RNA-Binding Protein Rnc1 Regulates Cell Length at Division and Acute Stress Response in Fission Yeast through Negative Feedback Modulation of the Stress-Activated Mitogen-Activated Protein Kinase Pathway.\nOriginally published in <a href='https://mbio.asm.org/content/11/1/e02815-19'>mBio</a>.",
       "reference_id": "PMID:31911490",
       "link_label": "Publication record in PomBase ...",
-      "date_added": "2019-10-15",
+      "date_added": "2020-10-15",
       "show_on_front_page": true
     }, 
+    {
+      "title": "Ohashi et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-10-21-32918581-Ohashi-Vps74-glycosyltransferase-Golgi.png"],
+      "content": "Golgi localization of glycosyltransferases requires Gpp74p in Schizosaccharomyces pombe.\nOriginally published in <a href='https://link.springer.com/article/10.1007/s00253-020-10881-9'>Applied Microbiology and Biotechnology</a>.",
+      "reference_id": "PMID:32918581",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-10-20",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
