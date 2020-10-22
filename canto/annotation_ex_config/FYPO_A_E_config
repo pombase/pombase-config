@@ -20,12 +20,13 @@ FYPO:0000702	is_a	assayed_using	ProteinID	affected proteins (add TWO, i.e. both 
 FYPO:0000824	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript	For a general transcript type, such as 'rRNA', 'tRNA', 'centromere outer repeat transcript' type text in the text box. For a specific gene, select the 'Gene' radio button and then choose a gene from the pulldown menu. or 	0,1	user
 FYPO:0000834	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0000840	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1	user
-FYPO:0001092-is_a(FYPO:0000702)	is_a	assayed_using	ProteinID	assayed protein		0,1	user
+FYPO:0001092-is_a(FYPO:0000702)&is_a(FYPO:0002131)	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0001945	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0001985-is_a(FYPO:0005446)&is_a(FYPO:0005448)	is_a|has_part	has_severity	FYPO_EXT:1000001	severity		0,1	user
 #FYPO:0001985	is_a	has_severity	FYPO_EXT:0000001|FYPO_EXT:0000002|FYPO_EXT:0000003|FYPO_EXT:0000005	severity	severity of the phenotype	0,1	user
 FYPO:0002114	is_a	assayed_using	ProteinID	assayed protein		0,1	user
-FYPO:0002131	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1	user
+FYPO:0002131	is_a	assayed_using	ProteinID	assayed protein		0,1,2	user
+FYPO:0002131	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1,2	user
 FYPO:0002274	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0002333	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0002494	is_a	residue	Text	position of affected modification, e.g. K23		0,1	user
