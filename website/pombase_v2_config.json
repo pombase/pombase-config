@@ -1617,7 +1617,7 @@
       "reference_id": "PMID:32790622",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-22",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Tsuyuzaki et al., 2020",
@@ -1628,7 +1628,7 @@
       "reference_id": "PMID:32152323",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-22",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Nakazawa et al., 2020",
@@ -1639,7 +1639,7 @@
       "reference_id": "PMID:31615333",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-23",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Pan et al., 2020",
@@ -1650,7 +1650,7 @@
       "reference_id": "PMID:32909946",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-09-28",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Marayati et al., 2020",
@@ -1718,6 +1718,23 @@
       "date_added": "2020-10-20",
       "show_on_front_page": true
     },
+    
+     {
+      "title": "Gómez-Gil et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020_10_26-32913139-for3-Cansando.png"],
+      "content": "Stress-activated MAPK signalling controls fission yeast actomyosin ring integrity by modulating formin For3 levels.\nOriginally published in <a href='https://elifesciences.org/articles/57951'>Elife</a>.",
+      "reference_id": "PMID:32915139",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-10-26",
+      "show_on_front_page": true
+    },
+    
+    
+    
+    
+    
     {
       "title": "Recent community curation",
       "panel_type": "community",
