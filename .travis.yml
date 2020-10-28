@@ -4,6 +4,6 @@ before_install:
   - sudo apt-get -y install jq
 os: linux
 dist: trusty
-script: ./run_tests.sh
+script: ./etc/run_tests.sh
 
 
