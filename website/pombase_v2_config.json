@@ -1718,23 +1718,17 @@
       "date_added": "2020-10-20",
       "show_on_front_page": true
     },
-    
      {
       "title": "Gómez-Gil et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["assets/spotlight/2020_10_26-32913139-for3-Cansando.png"],
+      "head_image": ["assets/spotlight/2020-10-26-32913139-for3-Cansando.png"],
       "content": "Stress-activated MAPK signalling controls fission yeast actomyosin ring integrity by modulating formin For3 levels.\nOriginally published in <a href='https://elifesciences.org/articles/57951'>Elife</a>.",
       "reference_id": "PMID:32915139",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-26",
       "show_on_front_page": true
     },
-    
-    
-    
-    
-    
     {
       "title": "Recent community curation",
       "panel_type": "community",
