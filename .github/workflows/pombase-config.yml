@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install dependencies
-        run: apt install libjson-xs-perl libtext-csv-xs-perl
+        run: sudo apt install libjson-xs-perl libtext-csv-xs-perl
       - name: Wait in case website isn't checked in yet
         run: sleep 120
       - name: Get website
