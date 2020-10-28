@@ -15,7 +15,7 @@ jobs:
       - name: Install dependencies
         run: sudo apt install libjson-xs-perl libtext-csv-perl libjson-perl
       - name: Wait in case website isn't checked in yet
-        run: sleep 2
+        run: sleep 120
       - name: Get website
         run: git clone --depth 1 https://github.com/pombase/website.git pombase-website
       - name: Run test script
