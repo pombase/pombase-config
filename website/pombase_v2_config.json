@@ -2567,6 +2567,7 @@
   ],
   "extension_relation_order": {
     "relation_order": [
+      "modified residue",
       "directly_positively_regulates",
       "directly_negatively_regulates",
       "has_direct_input",
