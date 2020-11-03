@@ -111,7 +111,7 @@ available_annotation_type_list:
       - exact
     feature_type: 'genotype'
     can_have_conditions: 0
-    allow_annotation_transfer: 1
+    allow_annotation_transfer: true
     broad_term_suggestions: >
       lethal, sterile, visible, cell number defective, locomotor behavior defective
     specific_term_examples: >
@@ -135,7 +135,7 @@ available_annotation_type_list:
       - exact
     feature_type: 'genotype'
     can_have_conditions: 0
-    allow_annotation_transfer: 1
+    allow_annotation_transfer: true
     broad_term_suggestions: >
       embryo, wing, eye, ovary, wing disc, neuromuscular junction
     specific_term_examples: >
@@ -153,7 +153,7 @@ available_annotation_type_list:
     namespace: phenotypic_class
     term_suggestions_annotation_type: phenotypic_class
     interaction_term_required: 1
-    allow_annotation_transfer: 1
+    allow_annotation_transfer: true
     hide_extension_relations: [qual,dv_qual]
     display_name: 'phenotype class interaction'
     very_short_display_name: 'phen-class interaction'
@@ -173,7 +173,7 @@ available_annotation_type_list:
     namespace: FlyBase_anatomy_CV
     term_suggestions_annotation_type: anatomy
     interaction_term_required: 1
-    allow_annotation_transfer: 1
+    allow_annotation_transfer: true
     hide_extension_relations: [qual,dv_qual]
     display_name: 'phenotype anatomy interaction'
     very_short_display_name: 'anatomy interaction'
@@ -190,9 +190,9 @@ available_annotation_type_list:
     detailed_help_path: /docs/genetic_interaction_annotation
   - name: complementation
     can_have_conditions: 0
-    single_allele_only: 1
-    interaction_same_locus: 1
-    allow_annotation_transfer: 1
+    single_allele_only: true
+    interaction_same_locus: false
+    allow_annotation_transfer: true
     category: interaction
     display_name: 'complementation'
     feature_type: 'metagenotype'
@@ -203,9 +203,9 @@ available_annotation_type_list:
       - Fails to complement
   - name: rescue
     can_have_conditions: 0
-    single_locus_only: 1
-    interaction_same_locus: 1
-    allow_annotation_transfer: 1
+    single_locus_only: true
+    interaction_same_locus: true
+    allow_annotation_transfer: true
     category: interaction
     display_name: 'rescue'
     feature_type: 'metagenotype'
