@@ -4181,10 +4181,6 @@
           "termid": "GO:0030036"
         },
         {
-          "name": "apoptotic process",
-          "termid": "GO:0006915"
-        },
-        {
           "name": "ascospore formation",
           "termid": "GO:0030437"
         },
