@@ -11,6 +11,9 @@ flybase_mode: 1
 
 annotation_figure_field: 0
 
+# disable deletion buttons on genotype management page
+show_quick_deletion_buttons: 0
+
 Model::TrackModel:
   connect_info:
 # filepath plus track.sqlite3
