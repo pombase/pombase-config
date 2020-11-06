@@ -47,7 +47,7 @@ implementation_classes:
 alleles_have_expression: 0
 strains_mode: 0
 split_genotypes_by_organism: 0
-show_genotype_management_genes_list: 0
+show_genotype_management_genes_list: 1
 diploid_mode: 1
 # allow internal notes on single alleles and config:
 notes_on_single_allele_genotypes_only: 1
