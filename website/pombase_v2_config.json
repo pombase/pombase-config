@@ -3017,7 +3017,6 @@
         }
       ],
       "summary_relations_to_hide": [
-        "active_form"
       ],
       "summary_relation_ranges_to_collect": [
         "directly_activates",
