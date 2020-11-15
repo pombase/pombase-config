@@ -27,7 +27,7 @@ FYPO:0001985-is_a(FYPO:0005446)&is_a(FYPO:0005448)	is_a|has_part	has_severity	FY
 FYPO:0002114	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0002131	is_a	assayed_using	ProteinID	assayed protein		0,1,2	user
 FYPO:0002131	is_a	assayed_using	TranscriptID|SO:0000673	assayed transcript		0,1,2	user
-FYPO:0002274	is_a	assayed_using	ProteinID	assayed protein		0,1	user
+FYPO:0002274-is_a(FYPO:0000661)	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0002333	is_a	assayed_using	ProteinID	assayed protein		0,1	user
 FYPO:0002494	is_a	residue	Text	position of affected modification, e.g. K23		0,1	user
 FYPO:0002495	is_a	residue	Text	position of affected modification, e.g. K23		0,1	user
