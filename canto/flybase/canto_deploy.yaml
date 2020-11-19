@@ -64,7 +64,7 @@ allele_note_types:
     display_name: Internal note
 
 # The heading above the external_notes section on the front page (if any)
-external_notes_label: Comments
+external_notes_label: Internal notes
 
 # display wildtype 'alleles' simply as '+'
 wildtype_name_template: '@@gene_display_name@@[+]'
