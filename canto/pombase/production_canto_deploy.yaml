@@ -6,11 +6,6 @@ database_url: 'http://www.pombase.org'
 #instance_front_subtitle: Curate a paper for PomBase
 
 
-oauth:
-  type: 'service_account'
-  client_id: 'APP-B8FWUEV3UCI79K76'
-  client_secret: 'd6b62383-1b35-49de-858a-59d83fe50ab4'
-  scope: '/authenticate'
 
 Model::ChadoModel:
   connect_info:
