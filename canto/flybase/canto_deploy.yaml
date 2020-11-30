@@ -39,9 +39,10 @@ implementation_classes:
   gene_adaptor: Canto::Chado::GeneLookup
   go_adaptor: Canto::Track::OntologyLookup
   ontology_adaptor: Canto::Track::OntologyLookup
+  organism_adaptor: Canto::Chado::FlyBaseOrganismLookup
+
 
 # configuration of alleles
-
 
 # trying to remove fields for strain and allele expression - did not seem to work on initial test
 alleles_have_expression: 0
