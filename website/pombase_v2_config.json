@@ -1662,7 +1662,7 @@
       "reference_id": "PMID:32295063",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-01",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },    
      {
       "title": "Grallert et al., 2013",
@@ -1673,7 +1673,7 @@
       "reference_id": "PMID:23333317",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-02",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Stonyte et al., 2020",
@@ -1684,7 +1684,7 @@
       "reference_id": "PMID:32361273",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-07",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Sjölander et al., 2020",
@@ -1761,6 +1761,39 @@
       "reference_id": "PMID:33153481",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-11-18",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Kecman et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-01-30282034-Kecman-elongation-termination-factor-exchange.png"],
+      "content": "Elongation/Termination Factor Exchange Mediated by PP1 Phosphatase Orchestrates Transcription Termination.\nOriginally published in <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(18)31422-0'>Cell Reports</a>.",
+      "reference_id": "PMID:30282034",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-01",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Morita et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-01-32892625-Morita-alpha-actinin-Ain1-actin-binding-mechanism.png"],
+      "content": "Molecular Mechanism for the Actin-Binding Domain of α-Actinin Ain1 Elucidated by Molecular Dynamics Simulations and Mutagenesis Experiments.\nOriginally published in <a href='https://pubs.acs.org/doi/full/10.1021/acs.jpcb.0c04623'>The Journal of Physical Chemistry</a>.",
+      "reference_id": "PMID:32892625",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-01",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Kramarz et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-01-33159083-Kramarz-SUMO-replication-fork-NPC.png"],
+      "content": "The nuclear pore primes recombination-dependent DNA synthesis at arrested forks by promoting SUMO removal..\nOriginally published in <a href='https://www.nature.com/articles/s41467-020-19516-z'>Nature Communications</a>.",
+      "reference_id": "PMID:33159083",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-01",
       "show_on_front_page": true
     },
     {
