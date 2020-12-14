@@ -1695,7 +1695,7 @@
       "reference_id": "PMID:31932483",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-09",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Prieto-Ruiz et al., 2020",
@@ -1706,7 +1706,7 @@
       "reference_id": "PMID:31911490",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-15",
-      "show_on_front_page": true
+      "show_on_front_page": false
     }, 
     {
       "title": "Ohashi et al., 2020",
@@ -1717,7 +1717,7 @@
       "reference_id": "PMID:32918581",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-20",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
      {
       "title": "Gómez-Gil et al., 2020",
@@ -1728,7 +1728,7 @@
       "reference_id": "PMID:32915139",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-26",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Birot et al., 2020",
@@ -1796,6 +1796,17 @@
       "date_added": "2020-12-01",
       "show_on_front_page": true
     },
+     {
+      "title": "Expósito-Serrano et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2020-12-12-Exposit0-Serrano-NPC.png"],
+      "content": "Selective Nuclear Pore Complex Removal Drives Nuclear Envelope Division in Fission Yeast.\nOriginally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S0960982220307533'>Curr. Biol.</a>.",
+      "reference_id": "PMID:32502403",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-02",
+      "show_on_front_page": true
+    },    
     {
       "title": "Recent community curation",
       "panel_type": "community",
