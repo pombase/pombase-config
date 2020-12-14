@@ -1772,7 +1772,7 @@
       "reference_id": "PMID:30282034",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-01",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Morita et al., 2020",
@@ -1800,13 +1800,35 @@
       "title": "Expósito-Serrano et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["assets/spotlight/2020-12-12-Exposit0-Serrano-NPC.png"],
-      "content": "Selective Nuclear Pore Complex Removal Drives Nuclear Envelope Division in Fission Yeast.\nOriginally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S0960982220307533'>Curr. Biol.</a>.",
+      "head_image": ["assets/spotlight/2020-12-12-32502403-Exposito-Serrano-NPC.png"],
+      "content": "Selective Nuclear Pore Complex Removal Drives Nuclear Envelope Division in Fission Yeast.\nOriginally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S0960982220307533'>Current Biology</a>.",
       "reference_id": "PMID:32502403",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-02",
       "show_on_front_page": true
-    },    
+    },
+    {
+      "title": "Zahedi et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-14-33260998-Zahedi-HTP-flow-cytometry-cell-quiescence.png"],
+      "content": "High-Throughput Flow Cytometry Combined with Genetic Analysis Brings New Insights into the Understanding of Chromatin Regulation of Cellular Quiescence.\nOriginally published in <a href='https://www.mdpi.com/1422-0067/21/23/9022/htm'>International Journal of Molecular Sciences</a>.",
+      "reference_id": "PMID:33260998",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-14",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Malecki et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-14-32896087-Malecki-mitochondrial-respiration.png"],
+      "content": "Mitochondrial respiration is required to provide amino acids during fermentative proliferation of fission yeast.\nOriginally published in <a href='https://www.embopress.org/doi/full/10.15252/embr.202050845'>EMBO Reports</a>.",
+      "reference_id": "PMID:32896087",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-14",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
