@@ -1830,6 +1830,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Lee et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-15-33223513-Lee-Tif302-terbinafine.png"],
+      "content": "Systematic Target Screening Revealed That Tif302 Could Be an Off-Target of the Antifungal Terbinafine in Fission Yeast.\nOriginally published in <a href='http://www.biomolther.org/journal/view.html?uid=1272&vmd=Full'>Biomolecules & Therapeutics</a>.",
+      "reference_id": "PMID:33223513",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-16",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
