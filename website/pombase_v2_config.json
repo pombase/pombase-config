@@ -1841,6 +1841,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Kanou et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-12-18-32313168-Kanou-serine-catabolism-ROS.png"],
+      "content": "Serine catabolism produces ROS, sensitizes cells to actin dysfunction, and suppresses cell growth in fission yeast.\nOriginally published in <a href='The Journal of Antibiotics'>https://www.nature.com/articles/s41429-020-0305-6</a>.",
+      "reference_id": "PMID:32313168",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-12-18",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
