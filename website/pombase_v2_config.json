@@ -2722,10 +2722,6 @@
     ]
   },
   "term_page_extensions_cv_names": [
-    "molecular_function",
-    "cellular_component",
-    "biological_process",
-    "fission_yeast_phenotype"
   ],
   "evidence_types": {
     "IMP": {
