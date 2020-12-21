@@ -66,12 +66,12 @@
       "display_name": "Assay type"
     },
     {
-      "name": "study_id",
-      "display_name": "Study ID"
+      "name": "data_type",
+      "display_name": "Data type"
     },
     {
-      "name": "sample_id",
-      "display_name": "Sample ID"
+      "name": "alleles",
+      "display_name": "WT or mutant"
     },
     {
       "name": "comment",
