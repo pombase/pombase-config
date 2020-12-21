@@ -4975,9 +4975,9 @@
     },
     "solr_url": "http://localhost:8983/solr",
     "django_url": "http://localhost:8999",
-    "close_synonym_boost": 0.45,
-    "distant_synonym_boost": 0.2,
-    "term_definition_boost": 0.1,
+    "close_synonym_boost": 0.3,
+    "distant_synonym_boost": 0.1,
+    "term_definition_boost": 0.05,
     "cv_name_for_terms_search": "(molecular_function OR biological_process OR cellular_component OR fission_yeast_phenotype OR mondo)",
     "gene_uniquename_re": "^SP([ABCN][CTP]|RR|SN|MIT|MT)[\\d\\w]*\\.\\d\\d\\d?\\d?c?$"
   },
