@@ -2710,7 +2710,12 @@
       "exists_during"
     ]
   },
-  "show_extensions_on_term_pages": false,
+  "term_page_extensions_cv_names": [
+    "molecular_function",
+    "cellular_component",
+    "biological_process",
+    "fission_yeast_phenotype"
+  ],
   "evidence_types": {
     "IMP": {
       "long": "Inferred from Mutant Phenotype",
