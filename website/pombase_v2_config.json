@@ -1878,6 +1878,21 @@
       "date_added": "2021-01-09",
       "show_on_front_page": true
     },
+     {
+      "title": "Fukuda et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["assets/spotlight/2021-01-09_PMID_33138913_atg43.png"],
+      "content": "Atg43 tethers isolation membranes to mitochondria to promote starvation-induced mitophagy in fission yeast..\nOriginally published in <a href='https://elifesciences.org/articles/61245'>Life.</a>.",
+      "reference_id": "PMID:33138913",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-13",
+      "show_on_front_page": false
+    },
+
+    
+    
+    
     {
       "title": "Recent community curation",
       "panel_type": "community",
