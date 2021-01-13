@@ -1351,26 +1351,28 @@
       "show_on_front_page": false
     },
     {
-       "title": "Cabrera et al., 2020",
-       "title_link": null,
-       "panel_type": "spotlight",
-       "head_image": ["spotlight/2020-04-28-32075773-Cabera-chaperone-facilitated-aggregation.png"],
-       "content": "Chaperone-Facilitated Aggregation of Thermo-Sensitive Proteins Shields Them from Degradation during Heat Stress.\nOriginally published in [Cell Reports](http://dx.doi.org/10.1016/j.celrep.2020.01.077).",
-       "reference_id": "PMID:32075773",
-       "link_label": "Publication record in PomBase ...",
-       "date_added": "2020-04-28",
-       "show_on_front_page": false
+      "title": "Cabrera et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2020-04-28-32075773-Cabera-chaperone-facilitated-aggregation.png"],
+      "content": "Chaperone-Facilitated Aggregation of Thermo-Sensitive Proteins Shields Them from Degradation during Heat Stress.\nOriginally published in [Cell Reports](http://dx.doi.org/10.1016/j.celrep.2020.01.077).",
+      "reference_id": "PMID:32075773",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-04-28",
+      "show_on_front_page": false
     },
     {
-       "title": "Andres et al., 2019",
-       "title_link": null,
-       "panel_type": "spotlight",
-       "head_image": ["spotlight/2020-05-05-30626735-Andres-Ctp1-DNA-bridging-DSB-repair.png"],
-       "content": "Ctp1 protein-DNA filaments promote DNA bridging and DNA double-strand break repair.\nOriginally published in [Journal of Biological Chemistry](https://www.jbc.org/content/294/9/3312).",
-       "reference_id": "PMID:30626735",
-       "link_label": "Publication record in PomBase ...",
-       "date_added": "2020-05-05",
-       "show_on_front_page": false
+      "title": "Andres et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": [
+        "spotlight/2020-05-05-30626735-Andres-Ctp1-DNA-bridging-DSB-repair.png"
+      ],
+      "content": "Ctp1 protein-DNA filaments promote DNA bridging and DNA double-strand break repair.\nOriginally published in [Journal of Biological Chemistry](https://www.jbc.org/content/294/9/3312).",
+      "reference_id": "PMID:30626735",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-05-05",
+      "show_on_front_page": false
     },
     {
       "title": "Ding et al., 2020",
@@ -1471,7 +1473,7 @@
       "date_added": "2020-06-16",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Bhattacharjee et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1482,7 +1484,7 @@
       "date_added": "2020-06-17",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Yague-Sanz et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1493,7 +1495,7 @@
       "date_added": "2020-06-24",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Onaka et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1537,7 +1539,7 @@
       "date_added": "2020-07-23",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Vondrova et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1582,17 +1584,19 @@
       "show_on_front_page": false
     },
     {
-       "title": "Lee et al., 2020",
-       "title_link": null,
-       "panel_type": "spotlight",
-       "head_image": ["spotlight/2020-09-11-32101745-Lee-transposon-integration-heterochromatin.png"],
-       "content": "Dense Transposon Integration Reveals Essential Cleavage and Polyadenylation Factors Promote Heterochromatin Formation.\nOriginally published in [Cell Reports](http://dx.doi.org/10.1016/j.celrep.2020.01.094).",
-       "reference_id": "PMID:32101745",
-       "link_label": "Publication record in PomBase ...",
-       "date_added": "2020-09-11",
-       "show_on_front_page": false
+      "title": "Lee et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": [
+        "spotlight/2020-09-11-32101745-Lee-transposon-integration-heterochromatin.png"
+      ],
+      "content": "Dense Transposon Integration Reveals Essential Cleavage and Polyadenylation Factors Promote Heterochromatin Formation.\nOriginally published in [Cell Reports](http://dx.doi.org/10.1016/j.celrep.2020.01.094).",
+      "reference_id": "PMID:32101745",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2020-09-11",
+      "show_on_front_page": false
     },
-     {
+    {
       "title": "Dey et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1603,7 +1607,7 @@
       "date_added": "2020-09-14",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Antoine et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1614,7 +1618,7 @@
       "date_added": "2020-09-17",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Bravo Núñez et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1625,7 +1629,7 @@
       "date_added": "2020-09-22",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Tsuyuzaki et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1636,7 +1640,7 @@
       "date_added": "2020-09-22",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Nakazawa et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1647,7 +1651,7 @@
       "date_added": "2020-09-23",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Pan et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1658,7 +1662,7 @@
       "date_added": "2020-09-28",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Marayati et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1668,8 +1672,8 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-01",
       "show_on_front_page": false
-    },    
-     {
+    },
+    {
       "title": "Grallert et al., 2013",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1680,7 +1684,7 @@
       "date_added": "2020-10-02",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Stonyte et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1712,7 +1716,7 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-10-15",
       "show_on_front_page": false
-    }, 
+    },
     {
       "title": "Ohashi et al., 2020",
       "title_link": null,
@@ -1724,7 +1728,7 @@
       "date_added": "2020-10-20",
       "show_on_front_page": false
     },
-     {
+    {
       "title": "Gómez-Gil et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1801,7 +1805,7 @@
       "date_added": "2020-12-01",
       "show_on_front_page": true
     },
-     {
+    {
       "title": "Expósito-Serrano et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1856,7 +1860,7 @@
       "date_added": "2020-12-18",
       "show_on_front_page": true
     },
-     {
+    {
       "title": "Wu et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -1878,7 +1882,7 @@
       "date_added": "2021-01-09",
       "show_on_front_page": true
     },
-     {
+    {
       "title": "Fukuda et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
@@ -2759,8 +2763,7 @@
       "exists_during"
     ]
   },
-  "term_page_extensions_cv_names": [
-  ],
+  "term_page_extensions_cv_names": [],
   "evidence_types": {
     "IMP": {
       "long": "Inferred from Mutant Phenotype",
@@ -3162,8 +3165,7 @@
           "display_name": "Binds"
         }
       ],
-      "summary_relations_to_hide": [
-      ],
+      "summary_relations_to_hide": [],
       "summary_relation_ranges_to_collect": [
         "directly_activates",
         "directly_inhibits",
