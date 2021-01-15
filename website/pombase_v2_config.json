@@ -2755,6 +2755,9 @@
       "removed_by",
       "removed_during",
       "absent_during",
+      "assayed_using",
+      "assayed_enzyme",
+      "assayed_substrate",
       "has_severity",
       "has_penetrance"
     ],
