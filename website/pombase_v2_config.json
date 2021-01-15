@@ -1894,6 +1894,17 @@
       "show_on_front_page": false
     },
     {
+      "title": "Chesnel et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-15-33137104-Chesnel-prefoldin-stabilizes-VHL.png"],
+      "content": "The prefoldin complex stabilizes the von Hippel-Lindau protein against aggregation and degradation..\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009183'>PLoS Genetics</a>.",
+      "reference_id": "PMID:33137104",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-15",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
