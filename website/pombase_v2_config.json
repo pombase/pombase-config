@@ -38,6 +38,12 @@
       "label": "PomBase reverse strand features"
     }
   ],
+  "reference_page_extra_links": {
+    "PMID:31364709": {
+      "link": "https://www.pombase.org/jbrowse/?loc=mitochondrial%3A1..19433",
+      "text": "View the mitochondrial chromosome sequence in the PomBase genome browser"
+    }
+  },
   "reference_page_jbrowse_columns": [
     {
       "name": "label",
