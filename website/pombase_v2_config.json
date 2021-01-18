@@ -1754,7 +1754,7 @@
       "reference_id": "PMID:31895039",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-11-02",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ohtsuka et al., 2020",
@@ -1765,7 +1765,7 @@
       "reference_id": "PMID:33064911",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-11-02",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kakui et al., 2020",
@@ -1776,7 +1776,7 @@
       "reference_id": "PMID:33153481",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-11-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kecman et al., 2018",
@@ -1798,7 +1798,7 @@
       "reference_id": "PMID:32892625",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-01",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kramarz et al., 2020",
@@ -1809,7 +1809,7 @@
       "reference_id": "PMID:33159083",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-01",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Expósito-Serrano et al., 2020",
@@ -1820,7 +1820,7 @@
       "reference_id": "PMID:32502403",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-02",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Zahedi et al., 2020",
@@ -1842,7 +1842,7 @@
       "reference_id": "PMID:32896087",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-14",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Lee et al., 2020",
@@ -1853,7 +1853,7 @@
       "reference_id": "PMID:33223513",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-16",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kanou et al., 2020",
@@ -1864,7 +1864,7 @@
       "reference_id": "PMID:32313168",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Wu et al., 2020",
@@ -1897,7 +1897,7 @@
       "reference_id": "PMID:33138913",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-13",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "Chesnel et al., 2020",
