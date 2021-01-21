@@ -24,6 +24,9 @@
   "doc_page_aliases": {
     "/browse-curation/fission-yeast-go-slim-terms": "/browse-curation/fission-yeast-bp-go-slim-terms"
   },
+  "sequence_feature_page": {
+    "so_types_to_show": ["regional_centromere"]
+  },
   "default_jbrowse_tracks": [
     {
       "pmed_id": "PMID:11859360",
