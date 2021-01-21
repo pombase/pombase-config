@@ -1834,7 +1834,7 @@
       "reference_id": "PMID:33260998",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-12-14",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Malecki et al., 2020",
@@ -1907,10 +1907,32 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-01-15-33137104-Chesnel-prefoldin-stabilizes-VHL.png"],
-      "content": "The prefoldin complex stabilizes the von Hippel-Lindau protein against aggregation and degradation..\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009183'>PLoS Genetics</a>.",
+      "content": "The prefoldin complex stabilizes the von Hippel-Lindau protein against aggregation and degradation.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009183'>PLoS Genetics</a>.",
       "reference_id": "PMID:33137104",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-15",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Zhang et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-21-33202882-Zhang-meu5-outer-prospore-membrane-breakdown.png"],
+      "content": "The Fission Yeast RNA-Binding Protein Meu5 Is Involved in Outer Forespore Membrane Breakdown during Spore Formation.\nOriginally published in <a href='https://www.mdpi.com/2309-608X/6/4/284'>Journal of Fungi</a>.",
+      "reference_id": "PMID:33202882",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-21",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Hazra et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-21-31974447-Hazra-Erh1-homodimer-meiosis.png"],
+      "content": "Formation of S. pombe Erh1 homodimer mediates gametogenic gene silencing and meiosis progression.\nOriginally published in <a href='https://www.nature.com/articles/s41598-020-57872-4'>Scientific Reports</a>.",
+      "reference_id": "PMID:31974447",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-21",
       "show_on_front_page": true
     },
     {
