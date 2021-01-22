@@ -25,7 +25,7 @@
     "/browse-curation/fission-yeast-go-slim-terms": "/browse-curation/fission-yeast-bp-go-slim-terms"
   },
   "sequence_feature_page": {
-    "so_types_to_show": ["regional_centromere"]
+    "so_types_to_show": ["regional_centromere", "regional_centromere_central_core"]
   },
   "default_jbrowse_tracks": [
     {
