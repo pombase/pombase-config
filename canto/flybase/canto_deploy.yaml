@@ -1135,4 +1135,5 @@ curs_config:
   no_annotation_reasons:
     - No phenotypic data
     - Only pheno_chem data
+    - Only CV annotation data
     - Other
