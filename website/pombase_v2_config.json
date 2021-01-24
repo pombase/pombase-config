@@ -5782,5 +5782,9 @@
         "SO:0000655": "SO:0001263"
       }
     }
+  },
+  "term_display_names": {
+    "regional_centromere": "centromere",
+    "regional_centromere_central_core": "centromere central core"
   }
 }
