@@ -3534,13 +3534,15 @@
     "qualitative_gene_expression": {
       "feature_type": "gene",
       "display_name": "Qualitative gene expression",
+      "columns_to_show": ["desc-rel", "gene",
+                          "evidence", "reference", "count", "extension"],
       "filters": [
         {
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
           "detailed_view_only": true,
-          "extension_rel_type_name": "exists_during",
+          "extension_rel_type_name": "during",
           "extension_categories": [
             {
               "display_name": "interphase",
