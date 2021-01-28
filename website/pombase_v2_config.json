@@ -1947,6 +1947,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Boronat et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-28-33225241-Boronat-Mas5-protein-quality-control-Pyp1.png"],
+      "content": "The Hsp40 Mas5 Connects Protein Quality Control and the General Stress Response through the Thermo-sensitive Pyp1.\nOriginally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(20)30922-6'>iScience</a>.",
+      "reference_id": "PMID:33225241",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-28",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
