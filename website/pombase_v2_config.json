@@ -1962,8 +1962,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-01-29-pin1-ssu72-wang.png"],
-      "content": "The fission yeast Pin1 peptidyl-prolyl isomerase promotes dissociation of Sty1 MAPK from RNA polymerase II and recruits Ssu72 phosphatase to facilitate oxidative stress induced transcription.
-.\nOriginally published in <a href='https://academic.oup.com/nar/article/49/2/805/6067400'>Nucleic Acids Res.</a>.",
+      "content": "The fission yeast Pin1 peptidyl-prolyl isomerase promotes dissociation of Sty1 MAPK from RNA polymerase II and recruits Ssu72 phosphatase to facilitate oxidative stress induced transcription.\nOriginally published in <a href='https://academic.oup.com/nar/article/49/2/805/6067400'>Nucleic Acids Res.</a>.",
       "reference_id": "PMID:33410907",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-28",
