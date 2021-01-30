@@ -1958,6 +1958,29 @@
       "show_on_front_page": true
     },
     {
+      "title": "Wang et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-29-pin1-ssu72-wang.png"],
+      "content": "The fission yeast Pin1 peptidyl-prolyl isomerase promotes dissociation of Sty1 MAPK from RNA polymerase II and recruits Ssu72 phosphatase to facilitate oxidative stress induced transcription.
+.\nOriginally published in <a href='https://academic.oup.com/nar/article/49/2/805/6067400'>Nucleic Acids Res.</a>.",
+      "reference_id": "PMID:33410907",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-28",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Paulo et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-30-proreomix-profiling-paulo-gygi.png"],
+      "content": "Multiplexed proteome profiling of carbon source perturbations in two yeast species with SL-SP3-TMT..\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S1874391919303033?via%3Dihub'>J Proteomics</a>.",
+      "reference_id": "PMID:31626996",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-01-28",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
