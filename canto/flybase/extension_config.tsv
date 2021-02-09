@@ -2,9 +2,9 @@ domain ID	subset relation	extension relation	range ID	Canto display text	Help te
 FBcv:0000347	is_a	qual	FBcv:0000685|FBcv:0000797|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000565|FBcv:0000342|FBcv:0000343|FBcv:0000344|FBcv:0000345|FBcv:0000346|FBcv:0000793	Qualifier		*	user
 FBcv:0000347-is_a(FBcv:0000349)&is_a(FBcv:0002019)&is_a(FBcv:0000385)&is_a(FBcv:0000386)&is_a(FBcv:0000374)&is_a(FBcv:0000364)&is_a(FBcv:0000365)&is_a(FBcv:0000375)	is_a	dv_qual	FBdv:00005259	Developmental stage qualifier		0,1	user
 FBbt:10000000	is_a	qual	FBcv:0000685|FBcv:0000797|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000052|FBcv:0000014	Qualifier		*	user
-FBbt:10000000	is_a	dv_qual	FBdv:00007008	Developmental stage qualifier		0,1	user
+FBbt:10000000	is_a	dv_qual	FBdv:00005259	Developmental stage qualifier		0,1	user
 GO:0005575	is_a	qual	FBcv:0000685|FBcv:0000797|FBcv:0000309|FBcv:0000332|FBcv:0000812|FBcv:0000052|FBcv:0000014	Qualifier		*	user
-GO:0005575	is_a	dv_qual	FBdv:00007008	Developmental stage qualifier		0,1	user
+GO:0005575	is_a	dv_qual	FBdv:00005259	Developmental stage qualifier		0,1	user
 FBcv:0000347	is_a	int_qual	FBcv:0000685|FBcv:0000797|FBcv:0000332|FBcv:0000812	Interaction qualifier - ONLY USE FOR INTERACTIONS		*	user
 FBbt:10000000	is_a	int_qual	FBcv:0000685|FBcv:0000797|FBcv:0000332|FBcv:0000812	Interaction qualifier - ONLY USE FOR INTERACTIONS		*	user
 GO:0005575	is_a	int_qual	FBcv:0000685|FBcv:0000797|FBcv:0000332|FBcv:0000812	Interaction qualifier - ONLY USE FOR INTERACTIONS		*	user
