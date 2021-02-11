@@ -1980,6 +1980,29 @@
       "show_on_front_page": true
     },
     {
+      "title": "Gerguri et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021_02_11_Gerguri_condensin_extrusion.png"],
+      "content": "Comparison of loop extrusion and diffusion capture as mitotic chromosome formation pathways in fission yeast.\nOriginally published in <a href='http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf'>Nucleic Acids Res/a>.",
+      "reference_id": "PMID:33434270",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-2-11",
+      "show_on_front_page": true
+    },
+{
+      "title": "Yukawa et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-11_Yukawa__escape_from_catastrophe.png"],
+      "content": "Escape from mitotic catastrophe by actin-dependent nuclear displacement in fission yeast..\nOriginally published in <a href='https://www.cell.com/iscience/fulltext/S2589-0042(20)31228-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004220312281%3Fshowall%3Dtrue'>iScience</a>.",
+      "reference_id": "PMID:33506191",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-2-11",
+      "show_on_front_page": true
+    },
+
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
