@@ -1,4 +1,5 @@
 {
+  "plugins": ["GCContent"],
   "trackSelector" : {
     "renameFacets" : {
       "pmed_id": "PubMed ID",
