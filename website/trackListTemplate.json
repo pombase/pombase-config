@@ -112,14 +112,6 @@
       "label" : "GCContentXY",
       "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
       "bicolor_pivot": 0.5
-    },
-    {
-      "key" : "Reference sequence",
-      "storeClass" : "JBrowse/Store/Sequence/StaticChunked",
-      "chunkSize" : 20000,
-      "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
-      "label" : "refseqs",
-      "type" : "SequenceTrack"
     }
   ],
   "formatVersion" : 1
