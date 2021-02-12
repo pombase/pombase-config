@@ -113,7 +113,7 @@
       "label" : "GCContentXY",
       "gcMode": "skew",
       "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
-      "bicolor_pivot": 0.5
+      "bicolor_pivot": 0.36
     }
   ],
   "formatVersion" : 1
