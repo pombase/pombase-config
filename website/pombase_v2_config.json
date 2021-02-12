@@ -1878,7 +1878,7 @@
       "reference_id": "PMID:32062975",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-09",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Snider et al., 2020",
@@ -1889,7 +1889,7 @@
       "reference_id": "PMID:33357436",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-09",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Fukuda et al., 2020",
@@ -1900,7 +1900,7 @@
       "reference_id": "PMID:33138913",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Chesnel et al., 2020",
@@ -1961,8 +1961,8 @@
       "title": "Wang et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-01-29-pin1-ssu72-wang.png"],
-      "content": "The fission yeast Pin1 peptidyl-prolyl isomerase promotes dissociation of Sty1 MAPK from RNA polymerase II and recruits Ssu72 phosphatase to facilitate oxidative stress induced transcription.\nOriginally published in <a href='https://academic.oup.com/nar/article/49/2/805/6067400'>Nucleic Acids Res.</a>.",
+      "head_image": ["spotlight/2021-01-29-33410907-Wang-pin1-ssu72.png"],
+      "content": "The fission yeast Pin1 peptidyl-prolyl isomerase promotes dissociation of Sty1 MAPK from RNA polymerase II and recruits Ssu72 phosphatase to facilitate oxidative stress induced transcription.\nOriginally published in <a href='https://academic.oup.com/nar/article/49/2/805/6067400'>Nucleic Acids Research</a>.",
       "reference_id": "PMID:33410907",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-28",
@@ -1972,11 +1972,44 @@
       "title": "Paulo et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-01-30-proreomix-profiling-paulo-gygi.png"],
-      "content": "Multiplexed proteome profiling of carbon source perturbations in two yeast species with SL-SP3-TMT..\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S1874391919303033?via%3Dihub'>J Proteomics</a>.",
+      "head_image": ["spotlight/2021-01-30-31626996-Paulo-carbon-source-proteomic-profiling.png"],
+      "content": "Multiplexed proteome profiling of carbon source perturbations in two yeast species with SL-SP3-TMT..\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S1874391919303033'>Journal of Proteomics</a>.",
       "reference_id": "PMID:31626996",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-28",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Gerguri et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-02-11-33434270-Gerguri-condensin-extrusion.png"],
+      "content": "Comparison of loop extrusion and diffusion capture as mitotic chromosome formation pathways in fission yeast.\nOriginally published in <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1270/6090303'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:33434270",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-2-11",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Yukawa et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-01-11-33506191-Yukawa-escape-from-catastrophe.png"],
+      "content": "Escape from mitotic catastrophe by actin-dependent nuclear displacement in fission yeast..\nOriginally published in <a href='https://www.cell.com/iscience/fulltext/S2589-0042(20)31228-1'>iScience</a>.",
+      "reference_id": "PMID:33506191",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-2-11",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Roche et al., 2016",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-02-11-27738016-Roche-RNAi-quiescence.png"],
+      "content": "RNA interference is essential for cellular quiescence.\nOriginally published in <a href='https://science.sciencemag.org/content/354/6313/aah5651.long'>Science</a>.",
+      "reference_id": "PMID:27738016",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-02-11",
       "show_on_front_page": true
     },
     {
