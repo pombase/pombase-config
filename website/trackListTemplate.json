@@ -111,6 +111,7 @@
       "storeClass" : "JBrowse/Store/SeqFeature/SequenceChunks",
       "type": "GCContent/View/Track/GCContentXY",
       "label" : "GCContentXY",
+      "gcMode": "skew",
       "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
       "bicolor_pivot": 0.5
     }
