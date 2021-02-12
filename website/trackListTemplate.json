@@ -104,6 +104,22 @@
       "compress" : 0,
       "storeClass" : "JBrowse/Store/SeqFeature/NCList",
       "fmtDetailValue_Name" : "function(name, feature) {if(feature.get('type')=='gene') {return '<a target=\"_parent\" href=\"http://www.pombase.org/gene/'+feature.get('Id')+'\">'+name+'</a>';} else { return name;}}"
+    },
+    {
+      "key": "GCContent",
+      "storeClass" : "JBrowse/Store/SeqFeature/SequenceChunks",
+      "type": "GCContent/View/Track/GCContentXY",
+      "label" : "GCContentXY",
+      "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
+      "bicolor_pivot": 0.5
+    },
+    {
+      "key" : "Reference sequence",
+      "storeClass" : "JBrowse/Store/Sequence/StaticChunked",
+      "chunkSize" : 20000,
+      "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
+      "label" : "refseqs",
+      "type" : "SequenceTrack"
     }
   ],
   "formatVersion" : 1
