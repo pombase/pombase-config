@@ -22,7 +22,7 @@
     },
     "displayColumns" : [
       "data_type",
-      "label",
+      "key",
       "alleles",
       "mutant(s)",
       "growth_phase_or_response",
