@@ -107,13 +107,13 @@
       "fmtDetailValue_Name" : "function(name, feature) {if(feature.get('type')=='gene') {return '<a target=\"_parent\" href=\"http://www.pombase.org/gene/'+feature.get('Id')+'\">'+name+'</a>';} else { return name;}}"
     },
     {
-      "key": "GCContent",
+      "key": "GC content",
       "storeClass" : "JBrowse/Store/SeqFeature/SequenceChunks",
       "type": "GCContent/View/Track/GCContentXY",
-      "label" : "GCContentXY",
-      "gcMode": "skew",
+      "label" : "GC content",
+      "gcMode": "content",
       "urlTemplate" : "seq/{refseq_dirpath}/{refseq}-",
-      "bicolor_pivot": 0.36
+      "bicolor_pivot": 0
     }
   ],
   "formatVersion" : 1
