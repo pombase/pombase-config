@@ -1911,7 +1911,7 @@
       "reference_id": "PMID:33137104",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-15",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Zhang et al., 2020",
@@ -2010,6 +2010,28 @@
       "reference_id": "PMID:27738016",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-11",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Charlton et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-02-19-32817556-Charlton-heterochromatin-boundary.png"],
+      "content": "Integrity of a heterochromatic domain ensured by its boundary elements..\nOriginally published in <a href='https://www.pnas.org/content/117/35/21504'>PNAS</a>.",
+      "reference_id": "PMID:32817556",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-02-19",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Rubio et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-02-19-33313903-Rubio-ribosome-stalling-trp-codons.png"],
+      "content": "Ribosome profiling reveals ribosome stalling on tryptophan codons and ribosome queuing upon oxidative stress in fission yeast..\nOriginally published in <a href='https://academic.oup.com/nar/article/49/1/383/6031432'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:33313903",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-02-19",
       "show_on_front_page": true
     },
     {
