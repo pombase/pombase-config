@@ -1752,7 +1752,7 @@
       "title": "Birot et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2020-11-02-3185039-pef1-mis4-javerzat.png"],
+      "head_image": ["spotlight/2020-11-02-31895039-pef1-mis4-javerzat.png"],
       "content": "The CDK Pef1 and PP4 (Ppe2) oppose each other for regulating cohesin binding to chromosomes.\nOriginally published in <a href='https://elifesciences.org/articles/50556'>eLife</a>. Image from [eLife 2020;9:e50556](https://elifesciences.org/articles/50556#fig8), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms.",
       "reference_id": "PMID:31895039",
       "link_label": "Publication record in PomBase ...",
@@ -1922,7 +1922,7 @@
       "reference_id": "PMID:33202882",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-21",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Hazra et al., 2020",
@@ -1933,7 +1933,7 @@
       "reference_id": "PMID:31974447",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-01-21",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "De Zoysa et al., 2020",
@@ -2032,6 +2032,28 @@
       "reference_id": "PMID:33313903",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-19",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Dong et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-02-24-32269268-Dong-Abo1-heterochromatin.png"],
+      "content": "Abo1 is required for the H3K9me2 to H3K9me3 transition in heterochromatin.\nOriginally published in <a href='https://www.nature.com/articles/s41598-020-63209-y'>Scientific Reports</a>.",
+      "reference_id": "PMID:32269268",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-02-24",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Misova et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-02-24-33511417-Misova-homologous-recombination-HIRA.png"],
+      "content": ".\nOriginally published in <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab027/6123375>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:33511417",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-02-24",
       "show_on_front_page": true
     },
     {
