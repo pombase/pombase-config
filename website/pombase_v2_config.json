@@ -10,6 +10,7 @@
   "helpdesk_address": "helpdesk@pombase.org",
   "gene_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?$",
   "transcript_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?.\\d+$",
+  "details_popup_delay": 500,
   "canto_data_config": {
     "browser_track_triage_types": [
       "Browser datasets, to host",
