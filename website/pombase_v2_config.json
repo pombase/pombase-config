@@ -2051,7 +2051,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-02-24-33511417-Misova-homologous-recombination-HIRA.png"],
-      "content": ".\nOriginally published in <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab027/6123375'>Nucleic Acids Research</a>.",
+      "content": "Repression of a large number of genes requires interplay between homologous recombination and HIRA.\nOriginally published in <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab027/6123375'>Nucleic Acids Research</a>.",
       "reference_id": "PMID:33511417",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-24",
@@ -2066,6 +2066,17 @@
       "reference_id": "PMID:32084401",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-26",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Naiman et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/33568651-Naiman-ecombination-dependent-replication-fork-dynamics."],
+      "content": "Replication dynamics of recombination-dependent replication forks .\nOriginally published in <a href='https://www.nature.com/articles/s41467-021-21198-0'>Nature Communications</a>.",
+      "reference_id": "PMID:33568651",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-16",
       "show_on_front_page": true
     },
     {
