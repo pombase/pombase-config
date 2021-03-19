@@ -2648,6 +2648,18 @@
     },
     {
       "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0008047",
+      "display_name": "activates",
+      "reciprocal_display": "activated by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0004857",
+      "display_name": "inhibits",
+      "reciprocal_display": "inhibited by"
+    },
+    {
+      "rel_name": "has_regulation_target",
       "if_descendant_of": "GO:0008150",
       "display_name": "regulates",
       "reciprocal_display": "regulated by"
