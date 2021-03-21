@@ -2073,10 +2073,21 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-03-06-33568651-Naiman-recombination-dependent-replication-fork-dynamics.png"],
-      "content": "Replication dynamics of recombination-dependent replication forks .\nOriginally published in <a href='https://www.nature.com/articles/s41467-021-21198-0'>Nature Communications</a>.",
+      "content": "Replication dynamics of recombination-dependent replication forks.\nOriginally published in <a href='https://www.nature.com/articles/s41467-021-21198-0'>Nature Communications</a>.",
       "reference_id": "PMID:33568651",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-16",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Weigt et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-03-19-33468217-Weigt-Rbm10-heterochromatin.png"],
+      "content": "Rbm10 facilitates heterochromatin assembly via the Clr6 HDAC complex.\nOriginally published in <a href='https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00382-y'>Epigenetics & Chromatin</a>.",
+      "reference_id": "PMID:33468217",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-19",
       "show_on_front_page": true
     },
     {
@@ -2634,6 +2645,18 @@
       "if_descendant_of": "GO:0030234",
       "display_name": "regulates activity of",
       "reciprocal_display": "activity regulated by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0008047",
+      "display_name": "activates",
+      "reciprocal_display": "activated by"
+    },
+    {
+      "rel_name": "has_regulation_target",
+      "if_descendant_of": "GO:0004857",
+      "display_name": "inhibits",
+      "reciprocal_display": "inhibited by"
     },
     {
       "rel_name": "has_regulation_target",
