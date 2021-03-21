@@ -4107,6 +4107,14 @@
   ],
   "external_gene_references": [
     {
+      "ref_type": "Sequence Resources",
+      "feature_types": ["rRNA gene", "tRNA gene", "snRNA gene", "snoRNA gene", "ncRNA gene"],
+      "name": "RNAcentral",
+      "description": "Non-coding RNA sequence database",
+      "field_name": "rnacentral_urs_identifier",
+      "url": "https://rnacentral.org/rna/<<IDENTIFIER>>/<<TAXONID>>"
+    },
+    {
       "ref_type": "Strain and reagents",
       "feature_types": ["ALL"],
       "name": "National BioResource Project (NBRP)",
