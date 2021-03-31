@@ -1569,7 +1569,7 @@
       "reference_id": "PMID:32320462",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2020-08-05",
-      "show_on_front_page": false
+      "show_on_front_page": true
     },
     {
       "title": "Zhao et al., 2020",
@@ -1989,7 +1989,7 @@
       "reference_id": "PMID:33434270",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-2-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yukawa et al., 2021",
@@ -2000,7 +2000,7 @@
       "reference_id": "PMID:33506191",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-2-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Roche et al., 2016",
@@ -2011,7 +2011,7 @@
       "reference_id": "PMID:27738016",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Charlton et al., 2020",
@@ -2088,6 +2088,39 @@
       "reference_id": "PMID:33468217",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-19",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Gallo Castro et al., 2018",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-03-31-30279276-Gallo-Castro-Cdc42-GAPs.png"],
+      "content": "Differential GAP requirement for Cdc42-GTP polarization during proliferation and sexual reproduction..\nOriginally published in <a href='https://rupress.org/jcb/article/217/12/4215/120308/Differential-GAP-requirement-for-Cdc42-GTP'>Journal of Cell Biology</a>.",
+      "reference_id": "PMID:30279276",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-31",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Sun et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-03-31-32059768-Sun-gene-expression-scaling-cell-size.png"],
+      "content": "Size-Dependent Increase in RNA Polymerase II Initiation Rates Mediates Gene Expression Scaling with Cell Size.\nOriginally published in <a href='https://www.cell.com/current-biology/fulltext/S0960-9822(20)30097-X'>Current Biology</a>.",
+      "reference_id": "PMID:32059768",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-31",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Li et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-03-31-33723569-Li-Mst1-DSB-resection-repair.png"],
+      "content": "Schizosaccharomyces pombe KAT5 contributes to resection and repair of a DNA double strand break..\nOriginally published in <a href='https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyab042/6173406'>Genetics</a>.",
+      "reference_id": "PMID:33723569",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-31",
       "show_on_front_page": true
     },
     {
