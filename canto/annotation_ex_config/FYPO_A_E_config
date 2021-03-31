@@ -69,6 +69,7 @@ FYPO:0007353	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the R
 FYPO:0007355	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the RNA present in the observed Smp foci	0,1	user
 FYPO:0007356	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the RNA present in the observed Smp foci	0,1	user
 FYPO:0007357	is_a	assayed_using	TranscriptID	assayed Smp focus type	choose the RNA present in the observed Smp foci	0,1	user
+FYPO:0007690	is_a	assayed_enzyme	ProteinID	assayed enzyme		0,1	user
 # use commented-out version if we ever move to a setup where admin overrides user for a given domain (canto #1068)
 #FYPO:0000654	is_a	assayed_substrate	TranscriptID|ProteinID|GO:0032991|SO:0000673	assayed substrate (RNA, protein or complex only)		0,1	admin
 FYPO:0000137	is_a	assayed_using	ProteinID	assayed protein		0,1	admin
