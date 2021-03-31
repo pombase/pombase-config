@@ -2122,6 +2122,17 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-31",
       "show_on_front_page": true
+    },  
+    {
+      "title": "Wei et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-03-18-33574613-spotlight-Wei-TO-MTREC.png"],
+      "content": "TOR targets an RNA processing network to regulate facultative heterochromatin, developmental gene expression and cell proliferation.\nOriginally published in <a href='https://www.nature.com/articles/s41556-021-00631-y'>Nat Cell Biol</a>.",
+      "reference_id": "PMID:33574613",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-18",
+      "show_on_front_page": true
     },
     {
       "title": "Recent community curation",
