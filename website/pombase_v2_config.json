@@ -5258,7 +5258,7 @@
         "colour": "#228b22"
       },
       "PFAM": {
-        "colour": "#545454"
+        "colour": "#884"
       },
       "PROSITE": {
         "colour": "#ffa500"
@@ -5267,7 +5267,7 @@
         "colour": "#368ec9"
       },
       "PANTHER": {
-        "colour": "#a020f0"
+        "colour": "#a2d"
       },
       "SMART": {
         "colour": "#66cd00"
