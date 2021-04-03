@@ -5280,6 +5280,15 @@
       },
       "CDD": {
         "colour": "#926b22"
+      },
+      "Pfam-disordered": {
+        "colour": "#b54"
+      },
+      "Pfam-low-complexity": {
+        "colour": "#25a"
+      },
+      "ncoils": {
+        "colour": "#492"
       }
     }
   },
