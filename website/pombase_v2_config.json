@@ -2018,11 +2018,11 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-02-19-32817556-Charlton-heterochromatin-boundary.png"],
-      "content": "Integrity of a heterochromatic domain ensured by its boundary elements..\nOriginally published in <a href='https://www.pnas.org/content/117/35/21504'>PNAS</a>.",
+      "content": "Integrity of a heterochromatic domain ensured by its boundary elements.\nOriginally published in <a href='https://www.pnas.org/content/117/35/21504'>PNAS</a>.",
       "reference_id": "PMID:32817556",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Rubio et al., 2020",
@@ -2033,7 +2033,7 @@
       "reference_id": "PMID:33313903",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Dong et al., 2020",
@@ -2080,6 +2080,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Wei et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-03-18-33574613-spotlight-Wei-TO-MTREC.png"],
+      "content": "TOR targets an RNA processing network to regulate facultative heterochromatin, developmental gene expression and cell proliferation.\nOriginally published in <a href='https://www.nature.com/articles/s41556-021-00631-y'>Nature Cell Biology</a>.",
+      "reference_id": "PMID:33574613",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-03-18",
+      "show_on_front_page": true
+    },
+    {
       "title": "Weigt et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
@@ -2117,23 +2128,34 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-03-31-33723569-Li-Mst1-DSB-resection-repair.png"],
-      "content": "Schizosaccharomyces pombe KAT5 contributes to resection and repair of a DNA double strand break..\nOriginally published in <a href='https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyab042/6173406'>Genetics</a>.",
+      "content": "Schizosaccharomyces pombe KAT5 contributes to resection and repair of a DNA double strand break.\nOriginally published in <a href='https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyab042/6173406'>Genetics</a>.",
       "reference_id": "PMID:33723569",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-31",
       "show_on_front_page": true
-    },  
+    },
     {
-      "title": "Wei et al., 2021",
+      "title": "Torres-Garcia et al., 2020",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-03-18-33574613-spotlight-Wei-TO-MTREC.png"],
-      "content": "TOR targets an RNA processing network to regulate facultative heterochromatin, developmental gene expression and cell proliferation.\nOriginally published in <a href='https://www.nature.com/articles/s41556-021-00631-y'>Nat Cell Biol</a>.",
-      "reference_id": "PMID:33574613",
+      "head_image": ["spotlight/2021-04-13-32908306-Torres-Garcia-epigenetic-silencing.png"],
+      "content": "Epigenetic gene silencing by heterochromatin primes fungal resistance.\nOriginally published in <a href='https://www.nature.com/articles/s41586-020-2706-x'>Nature</a>.",
+      "reference_id": "PMID:32908306",
       "link_label": "Publication record in PomBase ...",
-      "date_added": "2021-03-18",
+      "date_added": "2021-04-13",
       "show_on_front_page": true
     },
+    {
+      "title": "Veepaschit, Viswanathan et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-04-13-33754639-Veepaschit-SMN-complex.png"],
+      "content": "Identification and structural analysis of the Schizosaccharomyces pombe SMN complex.\nOriginally published in <a href='https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab158/6179931'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:33754639",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-04-13",
+      "show_on_front_page": true
+    },  
     {
       "title": "Recent community curation",
       "panel_type": "community",
