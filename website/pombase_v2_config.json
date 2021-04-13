@@ -4269,6 +4269,14 @@
     },
     {
       "ref_type": "Expression",
+      "feature_types": ["rRNA gene", "tRNA gene", "snRNA gene", "snoRNA gene", "ncRNA gene"],
+      "name": "pombeNcTV",
+      "description": "Illumina RNA sequencing profiles",
+      "field_name": "uniquename",
+      "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/nctv/nctv?genename=<<IDENTIFIER>>&action=Display"
+    },
+    {
+      "ref_type": "Expression",
       "feature_types": ["ALL"],
       "name": "Bähler Expression viewer",
       "description": "RNA expression during the cell cycle",
