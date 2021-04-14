@@ -2155,7 +2155,18 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-13",
       "show_on_front_page": true
-    },  
+    },
+    {
+      "title": "Dong et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-04-14-33670267-Dong-Hrp3-nucleosome-remodeling.png"],
+      "content": "The Role of Non-Catalytic Domains of Hrp3 in Nucleosome Remodeling.\nOriginally published in <a href='https://www.mdpi.com/1422-0067/22/4/1793'>International Journal of Molecular Sciences</a>.",
+      "reference_id": "PMID:33670267",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-04-14",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
