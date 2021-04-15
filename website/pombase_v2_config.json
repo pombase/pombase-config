@@ -4273,7 +4273,7 @@
     {
       "ref_type": "Expression",
       "feature_types": ["ALL"],
-      "name": "pombeTV",
+      "name": "pombeTV (v1)",
       "description": "Tiling array & Illumina sequencing profiles",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/pombetv/pombetv?condition=13&action=display&genename=<<IDENTIFIER>>"
@@ -4281,7 +4281,7 @@
     {
       "ref_type": "Expression",
       "feature_types": ["ALL"],
-      "name": "pombeNcTV",
+      "name": "pombeNcTV (pombeTV v2)",
       "description": "Illumina RNA sequencing profiles",
       "field_name": "uniquename",
       "url": "http://bahlerweb.cs.ucl.ac.uk/cgi-bin/nctv/nctv?genename=<<IDENTIFIER>>&action=Display"
