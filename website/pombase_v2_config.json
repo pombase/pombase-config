@@ -2383,7 +2383,7 @@
             "term": {
               "termid": "PBO:0011070",
               "name": "conserved in vertebrates",
-              "single_or_multi_allele": null,
+              "single_or_multi_locus": null,
               "expression": null
             }
           },
@@ -2401,7 +2401,7 @@
         "term": {
           "termid": "MONDO:0000001",
           "name": "disease or disorder",
-          "single_or_multi_allele": null,
+          "single_or_multi_locus": null,
           "expression": null
         }
       }
@@ -2460,7 +2460,7 @@
         "term": {
           "termid": "FYPO:0002682",
           "name": "increased resistance to chemical",
-          "single_or_multi_allele": "single",
+          "single_or_multi_locus": "single",
           "expression": "any"
         }
       }
@@ -2471,31 +2471,31 @@
         "term": {
           "termid": "FYPO:0002683",
           "name": "increased sensitivity to chemical",
-          "single_or_multi_allele": "single",
+          "single_or_multi_locus": "single",
           "expression": "any"
         }
       }
     },
     "null_inviable": {
-      "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}
+      "constraints": {"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_locus":"single","expression":"null"}}
     },
     "null_viable": {
-      "constraints": {"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}
+      "constraints": {"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_locus":"single","expression":"null"}}
     },
     "null_viable_and_inviable": {
-      "constraints": {"and":[{"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_allele":"single","expression":"null"}},{"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_allele":"single","expression":"null"}}]}
+      "constraints": {"and":[{"term":{"termid":"FYPO:0002061","name":"inviable vegetative cell population","single_or_multi_locus":"single","expression":"null"}},{"term":{"termid":"FYPO:0002060","name":"viable vegetative cell population","single_or_multi_locus":"single","expression":"null"}}]}
     },
     "conserved_in_vertebrates": {
       "name": "conserved in vertebrates",
-      "constraints": {"term":{"termid":"PBO:0011070","name":"conserved in vertebrates","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"PBO:0011070","name":"conserved in vertebrates","single_or_multi_locus":null,"expression":null}}
     },
     "GO_976_or_GO_3700": {
       "name": "GO:0000976 or GO:0003700",
-      "constraints": {"or":[{"term":{"termid":"GO:0003700","name":"DNA binding transcription factor activity","single_or_multi_allele":null,"expression":null}},{"term":{"termid":"GO:0000976","name":"transcription regulatory region sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}}]}
+      "constraints": {"or":[{"term":{"termid":"GO:0003700","name":"DNA binding transcription factor activity","single_or_multi_locus":null,"expression":null}},{"term":{"termid":"GO:0000976","name":"transcription regulatory region sequence-specific DNA binding","single_or_multi_locus":null,"expression":null}}]}
     },
     "GO_978_and_published": {
       "name": "GO:0000978 and published",
-      "constraints": {"and":[{"term":{"termid":"GO:0000978","name":"RNA polymerase II proximal promoter sequence-specific DNA binding","single_or_multi_allele":null,"expression":null}},{"subset":{"subset_name":"characterisation_status_published"}}]}
+      "constraints": {"and":[{"term":{"termid":"GO:0000978","name":"RNA polymerase II proximal promoter sequence-specific DNA binding","single_or_multi_locus":null,"expression":null}},{"subset":{"subset_name":"characterisation_status_published"}}]}
     },
     "transposons": {
       "name": "Transposons",
@@ -2515,15 +2515,15 @@
     },
     "MOD_696": {
       "name": "phosphorylated residue",
-      "constraints": {"term":{"termid":"MOD:00696","name":"phosphorylated residue","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"MOD:00696","name":"phosphorylated residue","single_or_multi_locus":null,"expression":null}}
     },
     "SO_1528": {
       "name": "nuclear localization signal",
-      "constraints": {"term":{"termid":"SO:0001528","name":"nuclear_localization_signal","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"SO:0001528","name":"nuclear_localization_signal","single_or_multi_locus":null,"expression":null}}
     },
     "FYPO_17_all": {
       "name": "elongated cell",
-      "constraints": {"term":{"termid":"FYPO:0000017","name":"elongated cell","single_or_multi_allele":"single","expression":"any"}}
+      "constraints": {"term":{"termid":"FYPO:0000017","name":"elongated cell","single_or_multi_locus":"single","expression":"any"}}
     },
     "Pfam_PF00004": {
       "name": "ATPase, AAA-type, core",
@@ -2531,11 +2531,11 @@
     },
     "GO_4721": {
       "name": "phosphoprotein phosphatase activity",
-      "constraints": {"term":{"termid":"GO:0004721","name":"phosphoprotein phosphatase activity","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"GO:0004721","name":"phosphoprotein phosphatase activity","single_or_multi_locus":null,"expression":null}}
     },
     "GO_5634": {
       "name": "nucleus",
-      "constraints": {"term":{"termid":"GO:0005634","name":"nucleus","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"GO:0005634","name":"nucleus","single_or_multi_locus":null,"expression":null}}
     },
     "7TM": {
       "name": "proteins with 7 transmembrane domains",
@@ -2547,7 +2547,7 @@
     },
     "cancer": {
       "name": "cancer",
-      "constraints": {"term":{"termid":"MONDO:0004992","name":"cancer","single_or_multi_allele":null,"expression":null}}
+      "constraints": {"term":{"termid":"MONDO:0004992","name":"cancer","single_or_multi_locus":null,"expression":null}}
     },
     "snorna_genes": {
       "name": "snoRNA genes",
@@ -2555,15 +2555,15 @@
     },
     "FYPO_78_or_GO_45333": {
       "name": "FYPO:0000078 or GO:0045333",
-      "constraints": {"or":[{"term":{"termid":"FYPO:0000078","name":"abnormal cellular respiration","single_or_multi_allele":"single","expression":"any"}},{"term":{"termid":"GO:0045333","name":"cellular respiration","single_or_multi_allele":null,"expression":null}}]}
+      "constraints": {"or":[{"term":{"termid":"FYPO:0000078","name":"abnormal cellular respiration","single_or_multi_locus":"single","expression":"any"}},{"term":{"termid":"GO:0045333","name":"cellular respiration","single_or_multi_locus":null,"expression":null}}]}
     },
     "canned_query:viable_deletions": {
       "name": "Viable deletions and disruptions",
-      "constraints": { "term": { "termid": "FYPO:0002060", "name": "viable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
+      "constraints": { "term": { "termid": "FYPO:0002060", "name": "viable vegetative cell population", "single_or_multi_locus": "single", "expression": "null" } }
     },
     "canned_query:inviable_deletions": {
       "name": "Inviable deletions and disruptions",
-      "constraints": { "term": { "termid": "FYPO:0002061", "name": "inviable vegetative cell population", "single_or_multi_allele": "single", "expression": "null" } }
+      "constraints": { "term": { "termid": "FYPO:0002061", "name": "inviable vegetative cell population", "single_or_multi_locus": "single", "expression": "null" } }
     },
     "canned_query:conserved_in_S_cerevisiae": {
       "name": "Proteins conserved in <i>S. cerevisiae</i>",
@@ -2573,7 +2573,7 @@
             "term": {
               "termid": "PBO:0011064",
               "name": "conserved in fungi",
-              "single_or_multi_allele": null,
+              "single_or_multi_locus": null,
               "expression": null
             }
           },
@@ -2583,7 +2583,7 @@
                 "term": {
                   "termid": "PBO:0000055",
                   "name": "no apparent S. cerevisiae ortholog",
-                  "single_or_multi_allele": null,
+                  "single_or_multi_locus": null,
                   "expression": null
                 }
               },
@@ -2591,7 +2591,7 @@
                 "term": {
                   "termid": "PBO:0000110",
                   "name": "orthologs cannot be distinguished",
-                  "single_or_multi_allele": null,
+                  "single_or_multi_locus": null,
                   "expression": null
                 }
               }
@@ -2606,7 +2606,7 @@
         "term": {
           "termid": "PBO:0011070",
           "name": "conserved in vertebrates",
-          "single_or_multi_allele": null,
+          "single_or_multi_locus": null,
           "expression": null
         }
       }
@@ -3416,18 +3416,18 @@
         "assayed_using"
       ]
     },
-    "single_allele_phenotype": {
+    "single_locus_phenotype": {
       "feature_type": "genotype",
-      "display_name": "Single allele phenotype",
+      "display_name": "Single locus phenotype",
       "inherits_from": "fission_yeast_phenotype",
-      "single_or_multi_allele": "single",
+      "single_or_multi_locus": "single",
       "help_route": "/documentation/gene-page-phenotypes"
     },
-    "multi_allele_phenotype": {
+    "multi_locus_phenotype": {
       "feature_type": "genotype",
-      "display_name": "Multi-allele phenotype",
+      "display_name": "Multi-locus phenotype",
       "inherits_from": "fission_yeast_phenotype",
-      "single_or_multi_allele": "multi",
+      "single_or_multi_locus": "multi",
       "help_route": "/documentation/gene-page-phenotypes"
     },
     "phenotype_condition": {
@@ -4130,8 +4130,8 @@
       "biological_process": "GO",
       "cellular_component": "GO",
       "fission_yeast_phenotype": "FYPO",
-      "single_allele_phenotype": "FYPO",
-      "multi_allele_phenotype": "FYPO"
+      "single_locus_phenotype": "FYPO",
+      "multi_locus_phenotype": "FYPO"
     },
     "relation_priority": {
       "directly activated by": 20,
@@ -4158,8 +4158,8 @@
     "molecular_function",
     "biological_process",
     "cellular_component",
-    "single_allele_phenotype",
-    "multi_allele_phenotype",
+    "single_locus_phenotype",
+    "multi_locus_phenotype",
     "phenotype_condition",
     "complementation",
     "target_of",
@@ -5280,7 +5280,6 @@
   "extra_database_aliases": {
     "tigrfams": "JCVI_TIGRFAMS",
     "ssf": "SUPERFAMILY",
-    "profile": "Prosite",
     "mobidblt": "MobiDB",
     "amigo": "GO",
     "cathgene3d": "Gene3D",
@@ -5969,7 +5968,7 @@
       {
         "term_ids": ["FYPO:0002683"],
         "file_name": "increased_sensitivity_to_chemical.tsv",
-        "single_or_multi_allele": "single",
+        "single_or_multi_locus": "single",
         "columns": [
           {
             "name": "gene_uniquename",
@@ -5996,7 +5995,7 @@
       {
         "term_ids": ["FYPO:0002682"],
         "file_name": "increased_resistance_to_chemical.tsv",
-        "single_or_multi_allele": "single",
+        "single_or_multi_locus": "single",
         "columns": [
           {
             "name": "gene_uniquename",
