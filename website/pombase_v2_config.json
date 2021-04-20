@@ -2044,7 +2044,7 @@
       "reference_id": "PMID:32269268",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Misova et al., 2021",
@@ -2055,7 +2055,7 @@
       "reference_id": "PMID:33511417",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Basu et al., 2021",
@@ -2066,7 +2066,7 @@
       "reference_id": "PMID:32084401",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-26",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Naiman et al., 2021",
@@ -2165,6 +2165,17 @@
       "reference_id": "PMID:33670267",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-14",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Yanguas et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-04-20-33788833-Yanguas-Stx8-retromer-sorting-motif.png"],
+      "content": "Analysis of the SNARE Stx8 recycling reveals that the retromer-sorting motif has undergone evolutionary divergence.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009463'>PLoS Genetics</a>.",
+      "reference_id": "PMID:33788833",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-04-20",
       "show_on_front_page": true
     },
     {
