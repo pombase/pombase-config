@@ -6058,5 +6058,72 @@
   "term_display_names": {
     "regional_centromere": "centromere",
     "regional_centromere_central_core": "centromere central core"
+  },
+  "gene_expresion": {
+    "violin_plots": [
+      {
+        "display_name": "Carpy protein\nG1 phase",
+        "first_author": "Carpy",
+        "pubmed_id": "PMID:24763107",
+        "level_type": "protein level",
+        "during": "mitotic G1 phase"
+      },
+      {
+        "display_name": "Carpy protein\nG2 phase",
+        "first_author": "Carpy",
+        "pubmed_id": "PMID:24763107",
+        "level_type": "protein level",
+        "during": "mitotic G2 phase"
+      },
+      {
+        "display_name": "Carpy protein\nM phase",
+        "first_author": "Carpy",
+        "pubmed_id": "PMID:24763107",
+        "level_type": "protein level",
+        "during": "mitotic M phase"
+      },
+      {
+        "display_name": "Carpy protein\nS phase",
+        "first_author": "Carpy",
+        "pubmed_id": "PMID:24763107",
+        "level_type": "protein level",
+        "during": "mitotic S phase"
+      },
+      {
+        "display_name": "Carpy protein\nveg. growth",
+        "first_author": "Carpy",
+        "pubmed_id": "PMID:24763107",
+        "level_type": "protein level",
+        "during": "single-celled organism vegetative growth phase"
+      },
+      {
+        "display_name": "Marguerat protein\nG1 quiescence",
+        "first_author": "marguerat",
+        "pubmed_id": "PMID:23101633",
+        "level_type": "protein level",
+        "during": "cell quiescence following G1 arrest due to nitrogen limitation"
+      },
+      {
+        "display_name": "Marguerat protein\nveg. growth",
+        "first_author": "marguerat",
+        "pubmed_id": "PMID:23101633",
+        "level_type": "protein level",
+        "during": "single-celled organism vegetative growth phase"
+      },
+      {
+        "display_name": "Marguerat RNA\nG1 quiescence",
+        "first_author": "marguerat",
+        "pubmed_id": "PMID:23101633",
+        "level_type": "RNA level",
+        "during": "cell quiescence following G1 arrest due to nitrogen limitation"
+      },
+      {
+        "display_name": "Marguerat RNA\nveg. growth",
+        "first_author": "marguerat",
+        "pubmed_id": "PMID:23101633",
+        "level_type": "RNA level",
+        "during": "single-celled organism vegetative growth phase"
+      }
+    ]
   }
 }
