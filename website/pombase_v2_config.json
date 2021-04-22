@@ -2044,7 +2044,7 @@
       "reference_id": "PMID:32269268",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Misova et al., 2021",
@@ -2055,7 +2055,7 @@
       "reference_id": "PMID:33511417",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Basu et al., 2021",
@@ -2066,7 +2066,7 @@
       "reference_id": "PMID:32084401",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-02-26",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Naiman et al., 2021",
@@ -2077,7 +2077,7 @@
       "reference_id": "PMID:33568651",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-16",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Wei et al., 2021",
@@ -2088,7 +2088,7 @@
       "reference_id": "PMID:33574613",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Weigt et al., 2021",
@@ -2099,7 +2099,7 @@
       "reference_id": "PMID:33468217",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Gallo Castro et al., 2018",
@@ -2167,6 +2167,39 @@
       "date_added": "2021-04-14",
       "show_on_front_page": true
     },
+    {
+      "title": "Yanguas et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-04-20-33788833-Yanguas-Stx8-retromer-sorting-motif.png"],
+      "content": "Analysis of the SNARE Stx8 recycling reveals that the retromer-sorting motif has undergone evolutionary divergence.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009463'>PLoS Genetics</a>.",
+      "reference_id": "PMID:33788833",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-04-20",
+      "show_on_front_page": true
+    },
+    { 
+      "title": "Pataki et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-04-21-33137119-Pataki-TOR.png"],
+      "content": "TOR Complex 2- independent mutations in the regulatory PIF pocket of Gad8AKT1/SGK1 define separate branches of the stress response mechanisms in fission yeast.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009196'>PLoS Genet</a>.",
+      "reference_id": "PMID:33137119",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-04-15",
+      "show_on_front_page": true
+    },    
+    {
+      "title": "Rasul et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-04-21-33483504-Rasul.png"],
+      "content": "Emr1 regulates the number of foci of the endoplasmic reticulum-mitochondria encounter structure complex.\nOriginally published in <a href='https://www.nature.com/articles/s41467-020-20866-x'>Nat Commun</a>.",
+      "reference_id": "PMID:XXXXXXX",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-04-13",
+      "show_on_front_page": true
+    },   
     {
       "title": "Recent community curation",
       "panel_type": "community",
