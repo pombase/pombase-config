@@ -3210,6 +3210,12 @@
       "external_db_link_keys": ["BioPortal"],
       "filters": [
         {
+          "filter_name": "ploidiness",
+          "display_name": "Haploid/Diploid",
+          "scope": ["gene", "term", "reference"],
+          "detailed_view_only": true
+        },
+        {
           "filter_name": "term",
           "display_name": "Term",
           "scope": ["gene", "genotype", "reference"],
