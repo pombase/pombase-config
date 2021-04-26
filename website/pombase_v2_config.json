@@ -3213,7 +3213,7 @@
           "filter_name": "ploidiness",
           "display_name": "Haploid/Diploid",
           "scope": ["gene", "term", "reference"],
-          "detailed_view_only": false
+          "detailed_view_only": true
         },
         {
           "filter_name": "term",
