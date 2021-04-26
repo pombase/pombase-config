@@ -6105,63 +6105,72 @@
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
-        "during": "mitotic G1 phase"
+        "during": "mitotic G1 phase",
+        "during_termid": "GO:0000080"
       },
       {
         "plot_display_name": "G2 phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
-        "during": "mitotic G2 phase"
+        "during": "mitotic G2 phase",
+        "during_termid": "GO:0000085"
       },
       {
         "plot_display_name": "M phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
-        "during": "mitotic M phase"
+        "during": "mitotic M phase",
+        "during_termid": "GO:0000087"
       },
       {
         "plot_display_name": "S phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
-        "during": "mitotic S phase"
+        "during": "mitotic S phase",
+        "during_termid": "GO:0000084"
       },
       {
         "plot_display_name": "veg. growth\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
-        "during": "single-celled organism vegetative growth phase"
+        "during": "single-celled organism vegetative growth phase",
+        "during_termid": "GO:0072690"
       },
       {
         "plot_display_name": "G1 quiescence\n(Marguerat)",
         "first_author": "marguerat",
         "pubmed_id": "PMID:23101633",
         "level_type": "protein level",
-        "during": "cell quiescence following G1 arrest due to nitrogen limitation"
+        "during": "cell quiescence following G1 arrest due to nitrogen limitation",
+        "during_termid": "PBQ:0000003"
       },
       {
         "plot_display_name": "veg. growth\n(Marguerat)",
         "first_author": "Marguerat",
         "pubmed_id": "PMID:23101633",
         "level_type": "protein level",
-        "during": "single-celled organism vegetative growth phase"
+        "during": "single-celled organism vegetative growth phase",
+        "during_termid": "GO:0072690"
       },
       {
         "plot_display_name": "G1 quiescence\n(Marguerat)",
         "first_author": "Marguerat",
         "pubmed_id": "PMID:23101633",
         "level_type": "RNA level",
-        "during": "cell quiescence following G1 arrest due to nitrogen limitation"
+        "during": "cell quiescence following G1 arrest due to nitrogen limitation",
+        "during_termid": "PBQ:0000003"
       },
       {
         "plot_display_name": "veg. growth\n(Marguerat)",
         "first_author": "Marguerat",
         "pubmed_id": "PMID:23101633",
         "level_type": "RNA level",
-        "during": "single-celled organism vegetative growth phase"
+        "during": "single-celled organism vegetative growth phase",
+        "during_termid": "GO:0072690"
       }
     ]
   }
