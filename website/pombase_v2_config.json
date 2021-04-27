@@ -457,7 +457,8 @@
       "species": "sapiens",
       "alternative_names": [],
       "common_name": "human",
-      "example_gene_identifiers": ["CDK1", "HGNC:1722"]
+      "example_gene_identifiers": ["CDK1", "HGNC:1722"],
+      "database_id_prefix": "HGNC"
     },
     {
       "taxonid": 4932,
@@ -465,7 +466,8 @@
       "species": "cerevisiae",
       "alternative_names": ["brewer's yeast", "baker's yeast", "budding yeast"],
       "common_name": "S. cerevisiae",
-      "example_gene_identifiers": ["CDC28", "YBR160W"]
+      "example_gene_identifiers": ["CDC28", "YBR160W"],
+      "database_id_prefix": "SGD"
     }
   ],
   "ortholog_taxonids": [4932, 9606],
