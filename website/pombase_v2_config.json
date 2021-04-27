@@ -6101,6 +6101,7 @@
   "gene_expression": {
     "datasets": [
       {
+        "name": "G1 phase (Carpy)",
         "plot_display_name": "G1 phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
@@ -6109,6 +6110,7 @@
         "during_termid": "GO:0000080"
       },
       {
+        "name": "G2 phase (Carpy)",
         "plot_display_name": "G2 phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
@@ -6117,6 +6119,7 @@
         "during_termid": "GO:0000085"
       },
       {
+        "name": "M phase (Carpy)",
         "plot_display_name": "M phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
@@ -6125,6 +6128,7 @@
         "during_termid": "GO:0000087"
       },
       {
+        "name": "S phase (Carpy)",
         "plot_display_name": "S phase\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
@@ -6133,6 +6137,7 @@
         "during_termid": "GO:0000084"
       },
       {
+        "name": "veg. growth (Carpy)",
         "plot_display_name": "veg. growth\n(Carpy)",
         "first_author": "Carpy",
         "pubmed_id": "PMID:24763107",
@@ -6141,6 +6146,7 @@
         "during_termid": "GO:0072690"
       },
       {
+        "name": "G1 quiescence (Marguerat)",
         "plot_display_name": "G1 quiescence\n(Marguerat)",
         "first_author": "marguerat",
         "pubmed_id": "PMID:23101633",
@@ -6149,6 +6155,7 @@
         "during_termid": "PBQ:0000003"
       },
       {
+        "name": "veg. growth (Marguerat)",
         "plot_display_name": "veg. growth\n(Marguerat)",
         "first_author": "Marguerat",
         "pubmed_id": "PMID:23101633",
@@ -6157,6 +6164,7 @@
         "during_termid": "GO:0072690"
       },
       {
+        "name": "G1 quiescence (Marguerat)",
         "plot_display_name": "G1 quiescence\n(Marguerat)",
         "first_author": "Marguerat",
         "pubmed_id": "PMID:23101633",
@@ -6165,6 +6173,7 @@
         "during_termid": "PBQ:0000003"
       },
       {
+        "name": "veg. growth (Marguerat)",
         "plot_display_name": "veg. growth\n(Marguerat)",
         "first_author": "Marguerat",
         "pubmed_id": "PMID:23101633",
