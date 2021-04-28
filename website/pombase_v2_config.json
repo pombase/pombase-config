@@ -6109,6 +6109,7 @@
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "single_cell",
         "during": "mitotic G1 phase",
         "during_termid": "GO:0000080"
       },
@@ -6119,6 +6120,7 @@
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "single_cell",
         "during": "mitotic G2 phase",
         "during_termid": "GO:0000085"
       },
@@ -6129,6 +6131,7 @@
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "single_cell",
         "during": "mitotic M phase",
         "during_termid": "GO:0000087"
       },
@@ -6139,6 +6142,7 @@
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "single_cell",
         "during": "mitotic S phase",
         "during_termid": "GO:0000084"
       },
@@ -6149,6 +6153,7 @@
         "pubmed_id": "PMID:24763107",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "single_cell",
         "during": "single-celled organism vegetative growth phase",
         "during_termid": "GO:0072690"
       },
@@ -6159,6 +6164,7 @@
         "pubmed_id": "PMID:23101633",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "population_wide",
         "during": "cell quiescence following G1 arrest due to nitrogen limitation",
         "during_termid": "PBQ:0000003"
       },
@@ -6169,6 +6175,7 @@
         "pubmed_id": "PMID:23101633",
         "level_type": "protein level",
         "level_type_termid": "PBO:0006310",
+        "scale": "population_wide",
         "during": "single-celled organism vegetative growth phase",
         "during_termid": "GO:0072690"
       },
@@ -6179,6 +6186,7 @@
         "pubmed_id": "PMID:23101633",
         "level_type": "RNA level",
         "level_type_termid": "PBO:0011963",
+        "scale": "population_wide",
         "during": "cell quiescence following G1 arrest due to nitrogen limitation",
         "during_termid": "PBQ:0000003"
       },
@@ -6189,6 +6197,7 @@
         "pubmed_id": "PMID:23101633",
         "level_type": "RNA level",
         "level_type_termid": "PBO:0011963",
+        "scale": "population_wide",
         "during": "single-celled organism vegetative growth phase",
         "during_termid": "GO:0072690"
       }
