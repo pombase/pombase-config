@@ -44,7 +44,7 @@
     "sortFacets": false,
     "sources" : [
       {
-        "url" : "data/pombase_jbrowse_track_metadata.csv",
+        "url" : "data/jbrowse_track_metadata.csv",
         "type" : "csv"
       }
     ],
