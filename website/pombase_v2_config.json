@@ -2116,7 +2116,7 @@
       "reference_id": "PMID:30279276",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-31",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Sun et al., 2020",
@@ -2127,7 +2127,7 @@
       "reference_id": "PMID:32059768",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-31",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Li et al., 2021",
@@ -2138,7 +2138,7 @@
       "reference_id": "PMID:33723569",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-03-31",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Torres-Garcia et al., 2020",
@@ -2226,6 +2226,16 @@
       "reference_id": "PMID:33176152",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-27",
+      "show_on_front_page": true
+    },
+      "title": "Rivosecchi et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-02-33771877-Rivosecchi-Vanoosthuyse.png"],
+      "content": "RNA polymerase backtracking results in the accumulation of fission yeast condensin at active genes.\nOriginally published in <a href='https://www.life-science-alliance.org/content/4/6/e202101046'>Life Sci Alliance</a>.",
+      "reference_id": "PMID:33771877",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-02",
       "show_on_front_page": true
     },
     {
