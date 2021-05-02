@@ -10,7 +10,7 @@ use JSON;
 
 my $csv = Text::CSV->new({ blank_is_undef => 1, binary => 1, auto_diag => 1  });
 
-my $metadata_filename = 'website/pombase_jbrowse_track_metadata.csv';
+my $metadata_filename = 'website/jbrowse_track_metadata.csv';
 
 open my $metadata_fh, '<', $metadata_filename
   or die "can't open metadata file $!";
