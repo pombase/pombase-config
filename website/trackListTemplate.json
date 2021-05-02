@@ -57,13 +57,13 @@
       "study_id"
     ]
   },
-  "defaultTracks": "PomBase forward strand features,DNA sequence,PomBase reverse strand features",
+  "defaultTracks": "Forward strand features,DNA sequence,Reverse strand features",
   "trackLabels": "no-block",
   "tracks" : [
     {
       "trackType" : "CanvasFeatures",
-      "key" : "PomBase forward strand features",
-      "label" : "PomBase forward strand features",
+      "key" : "Forward strand features",
+      "label" : "Forward strand features",
       "type" : "CanvasFeatures",
       "data_type": "PomBase track",
       "alleles": "WT",
@@ -72,7 +72,7 @@
       "growth_phase_or_response": "multiple (combined data)",
       "pmed_id": 22039153,
       "study_ID": "not specified",
-      "urlTemplate" : "tracks/PomBase forward strand features/{refseq}/trackData.json",
+      "urlTemplate" : "tracks/Forward strand features/{refseq}/trackData.json",
       "style" : {
         "className" : "feature",
         "color" : "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return 'goldenrod'; } else { return '#ff4444' } } else { return '#ccc' } }"
@@ -86,8 +86,8 @@
     },
     {
       "trackType" : "CanvasFeatures",
-      "key" : "PomBase reverse strand features",
-      "label" : "PomBase reverse strand features",
+      "key" : "Reverse strand features",
+      "label" : "Reverse strand features",
       "type" : "CanvasFeatures",
       "data_type": "PomBase track",
       "alleles": "WT",
@@ -96,7 +96,7 @@
       "growth_phase_or_response": "multiple (combined data)",
       "pmed_id": 22039153,
       "study_ID": "not specified",
-      "urlTemplate" : "tracks/PomBase reverse strand features/{refseq}/trackData.json",
+      "urlTemplate" : "tracks/Reverse strand features/{refseq}/trackData.json",
       "style" : {
         "className" : "feature",
         "color" : "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return 'goldenrod'; } else { return '#ff4444' } } else { return '#ccc' } }"

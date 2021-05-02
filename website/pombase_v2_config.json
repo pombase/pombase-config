@@ -39,11 +39,11 @@
     },
     {
       "pmed_id": "PMID:11859360",
-      "label": "PomBase forward strand features"
+      "label": "Forward strand features"
     },
     {
       "pmed_id": "PMID:11859360",
-      "label": "PomBase reverse strand features"
+      "label": "Reverse strand features"
     }
   ],
   "reference_page_extra_links": {

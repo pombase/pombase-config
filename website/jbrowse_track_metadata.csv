@@ -1,7 +1,7 @@
 data_type,display_in_jbrowse,show_feature_label,label,comment,assayed_gene_product,background,alleles,mutant(s),conditions,growth_phase_or_response,strand,assay_type,first_author,publication_year,pmed_id,DB,study_id,sample_id,short_description,data_file_type,source_url
 Genome sequence and features,yes,yes,refseqs,,,h-,WT,not applicable,,not applicable,,not specified,Wood,2002,11859360,,not available,,,,
-Genome sequence and features,yes,yes,PomBase forward strand features,,,,not applicable,not applicable,,not applicable,,not specified,Wood,2002,11859360,,not available,,,,
-Genome sequence and features,yes,yes,PomBase reverse strand features,,,,not applicable,not applicable,,not applicable,,not specified,Wood,2002,11859360,,not available,,,,
+Genome sequence and features,yes,yes,Forward strand features,,,,not applicable,not applicable,,not applicable,,not specified,Wood,2002,11859360,,not available,,,,
+Genome sequence and features,yes,yes,Reverse strand features,,,,not applicable,not applicable,,not applicable,,not specified,Wood,2002,11859360,,not available,,,,
 Base composition,yes,yes,GC content,,,,WT,not applicable,,not applicable,,not specified,Wood,2002,11859360,,not available,,,,
 Chromatin binding,yes,yes,Arb1 chromatin binding sites in clr4delta during vegetative growth; repeat 1 - Woolcock et al. (2011),,arb1,,mutant,clr4delta,,vegetative growth,,DamID,Woolcock,2011,21151114,GEO,GSE24360,GSM600395,,bigWig,https://www.pombase.org/external_datasets/GSE24360/GSE24360_expr_M_CorV2_22.bw
 Chromatin binding,yes,yes,Arb1 chromatin binding sites in clr4delta during vegetative growth; repeat 2 - Woolcock et al. (2011),,arb1,,mutant,clr4delta,,vegetative growth,,DamID,Woolcock,2011,21151114,GEO,GSE24360,GSM600397,,bigWig,https://www.pombase.org/external_datasets/GSE24360/GSE24360_expr_M_CorV2_24.bw
