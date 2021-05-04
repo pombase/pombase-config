@@ -9,6 +9,7 @@
   "header_background_file_name": "header-background.jpg",
   "funder": "Wellcome Trust",
   "site_description": "A comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
+  "welcome_message": "PomBase is a comprehensive database for the fission yeast <i>Schizosaccharomyces pombe</i>, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "load_organism_taxonid": 4896,
   "base_url": "https://www.pombase.org",
   "helpdesk_address": "helpdesk@pombase.org",
@@ -22,6 +23,7 @@
   },
   "social_media": true,
   "has_disease_annotation": true,
+  "news_on_front_page": true,
   "canto_data_config": {
     "browser_track_triage_types": [
       "Browser datasets, to host",
