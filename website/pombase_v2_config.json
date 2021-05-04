@@ -20,6 +20,8 @@
     "term": "GO:0000070",
     "reference": "PMID:25908789"
   },
+  "social_media": true,
+  "has_disease_annotation": true,
   "canto_data_config": {
     "browser_track_triage_types": [
       "Browser datasets, to host",
