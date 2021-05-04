@@ -15,6 +15,11 @@
   "gene_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?$",
   "transcript_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?.\\d+$",
   "details_popup_delay": 500,
+  "example_pages": {
+    "gene": "SPCC18B5.03",
+    "term": "GO:0000070",
+    "reference": "PMID:25908789"
+  },
   "canto_data_config": {
     "browser_track_triage_types": [
       "Browser datasets, to host",
