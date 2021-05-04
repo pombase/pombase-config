@@ -2242,11 +2242,22 @@
       "title": "Rivosecchi et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-05-02-33771877-Rivosecchi-Vanoosthuyse.png"],
-      "content": "RNA polymerase backtracking results in the accumulation of fission yeast condensin at active genes.\nOriginally published in <a href='https://www.life-science-alliance.org/content/4/6/e202101046'>Life Sci Alliance</a>.",
+      "head_image": ["spotlight/2021-05-02-33771877-Rivosecchi-RNA-polymerase-condensin.png"],
+      "content": "RNA polymerase backtracking results in the accumulation of fission yeast condensin at active genes.\nOriginally published in <a href='https://www.life-science-alliance.org/content/4/6/e202101046'>Life Science Alliance</a>.",
       "reference_id": "PMID:33771877",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-02",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Nuckolls et al., 2020",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-04-33108274-Nuckolls-wtf4-protein-aggregation.png"],
+      "content": "The wtf4 meiotic driver utilizes controlled protein aggregation to generate selective cell death.\nOriginally published in <a href='https://elifesciences.org/articles/55694'>eLife</a>. Image from [eLife 2020;9:e55694](https://elifesciences.org/articles/55694#fig6), used under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license terms.",
+      "reference_id": "PMID:33108274",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-04",
       "show_on_front_page": true
     },
     {
