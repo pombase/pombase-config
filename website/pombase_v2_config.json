@@ -1,7 +1,7 @@
 {
   "site_name": "PomBase",
   "database_name": "PomBase",
-  "database_long_name": "PomBase, the Schizosaccharomyces pombe genome database",
+  "database_long_name": "The Schizosaccharomyces pombe genome database",
   "database_citation": "PMID:22039153",
   "logo_file_name": "pombase-logo.png",
   "small_logo_file_name": "pombase-logo-small.png",
