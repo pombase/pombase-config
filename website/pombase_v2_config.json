@@ -2250,6 +2250,28 @@
       "date_added": "2021-05-02",
       "show_on_front_page": true
     },
+   {
+      "title": "Ma et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-09-Ma-Watanabe-cohesion_protection.png"],
+      "content": "Meikin synergizes with shugoshin to protect cohesin Rec8 during meiosis I..\nOriginally published in <a href='http://genesdev.cshlp.org/content/35/9-10/692'>Genes & Development</a>.",
+      "reference_id": "PMID:33888556",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-09",
+      "show_on_front_page": false
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "title": "Nuckolls et al., 2020",
       "title_link": null,
