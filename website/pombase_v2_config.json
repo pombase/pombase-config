@@ -3140,6 +3140,7 @@
       "assayed_using",
       "assayed_enzyme",
       "assayed_substrate",
+      "assayed_region",
       "has_severity",
       "has_penetrance"
     ],
