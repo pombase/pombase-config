@@ -2250,6 +2250,17 @@
       "date_added": "2021-05-02",
       "show_on_front_page": true
     },
+   {
+      "title": "Ma et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-09-Ma-Watanabe-cohesion_protection.png"],
+      "content": "Meikin synergizes with shugoshin to protect cohesin Rec8 during meiosis I..\nOriginally published in <a href='http://genesdev.cshlp.org/content/35/9-10/692'>Genes & Development</a>.",
+      "reference_id": "PMID:33888556",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-09",
+      "show_on_front_page": false
+    },   
     {
       "title": "Nuckolls et al., 2020",
       "title_link": null,
@@ -2259,6 +2270,17 @@
       "reference_id": "PMID:33108274",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-04",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Rallis et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-11-28281664-Rallis-gsk3.png"],
+      "content": "Genetic interactions and functional analyses of the fission yeast gsk3 and amk2 single and double mutants defective in TORC1-dependent processes.\nOriginally published in <a href='https://www.nature.com/articles/srep44257'>Scientific Reports</a>.",
+      "reference_id": "PMID:28281664",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-11",
       "show_on_front_page": true
     },
     {
