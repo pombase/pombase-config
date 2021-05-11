@@ -2273,6 +2273,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Rallis et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-11-28281664-Rallis-gsk3.png"],
+      "content": "Genetic interactions and functional analyses of the fission yeast gsk3 and amk2 single and double mutants defective in TORC1-dependent processes.\nOriginally published in <a href='https://www.nature.com/articles/srep44257'>Scientific Reports</a>.",
+      "reference_id": "PMID:28281664",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-11",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
