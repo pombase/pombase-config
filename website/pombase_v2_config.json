@@ -3131,6 +3131,39 @@
       "display_name": "affecting"
     },
     {
+      "rel_name": "assayed_protein",
+      "if_descendant_of": "FYPO:0001985",
+      "display_name": "affecting",
+      "reciprocal_display": "affected by mutation in"
+    },
+    {
+      "rel_name": "assayed_protein",
+      "if_descendant_of": "FYPO:0000257",
+      "display_name": "affecting"
+    },
+    {
+      "rel_name": "assayed_transcript",
+      "if_descendant_of": "FYPO:0001985",
+      "display_name": "affecting",
+      "reciprocal_display": "affected by mutation in"
+    },
+    {
+      "rel_name": "assayed_transcript",
+      "if_descendant_of": "FYPO:0000257",
+      "display_name": "affecting"
+    },
+    {
+      "rel_name": "assayed_region",
+      "if_descendant_of": "FYPO:0001985",
+      "display_name": "affecting",
+      "reciprocal_display": "affected by mutation in"
+    },
+    {
+      "rel_name": "assayed_region",
+      "if_descendant_of": "FYPO:0000257",
+      "display_name": "affecting"
+    },
+    {
       "rel_name": "modified residue",
       "if_descendant_of": "GO:0005515",
       "display_name": "binding site"
@@ -3162,6 +3195,8 @@
       "assayed_using",
       "assayed_enzyme",
       "assayed_substrate",
+      "assayed_protein",
+      "assayed_transcript",
       "assayed_region",
       "has_severity",
       "has_penetrance"
