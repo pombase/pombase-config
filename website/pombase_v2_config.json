@@ -2254,7 +2254,7 @@
       "title": "Ma et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-05-09-Ma-Watanabe-cohesion_protection.png"],
+      "head_image": ["spotlight/2021-05-09-33888556-Ma-cohesion_protection.png"],
       "content": "Meikin synergizes with shugoshin to protect cohesin Rec8 during meiosis I..\nOriginally published in <a href='http://genesdev.cshlp.org/content/35/9-10/692'>Genes & Development</a>.",
       "reference_id": "PMID:33888556",
       "link_label": "Publication record in PomBase ...",
@@ -2273,7 +2273,7 @@
       "show_on_front_page": true
     },
     {
-      "title": "Rallis et al., 2021",
+      "title": "Rallis et al., 2017",
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-05-11-28281664-Rallis-gsk3.png"],
@@ -2281,6 +2281,17 @@
       "reference_id": "PMID:28281664",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-11",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Ban et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-12-33693625-Ban-Dri1-heterochromatin-assembly.png"],
+      "content": "Dri1 mediates heterochromatin assembly via RNAi and histone deacetylation.\nOriginally published in <a href='https://doi.org/10.1093/genetics/iyab032'>Genetics</a>.",
+      "reference_id": "PMID:33693625",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-12",
       "show_on_front_page": true
     },
     {
