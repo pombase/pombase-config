@@ -16,6 +16,14 @@
   "gene_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?$",
   "transcript_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?.\\d+$",
   "details_popup_delay": 500,
+  "data_sources": {
+    "interactions": [
+      {
+        "name": "BioGRID",
+        "url": "https://thebiogrid.org/"
+      }
+    ]
+  },
   "example_pages": {
     "gene": "SPCC18B5.03",
     "term": "GO:0000070",
