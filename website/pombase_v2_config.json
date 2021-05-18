@@ -2169,7 +2169,7 @@
       "reference_id": "PMID:32908306",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Veepaschit, Viswanathan et al., 2021",
@@ -2180,7 +2180,7 @@
       "reference_id": "PMID:33754639",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Dong et al., 2021",
@@ -2191,7 +2191,7 @@
       "reference_id": "PMID:33670267",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-14",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yanguas et al., 2021",
@@ -2301,6 +2301,28 @@
       "reference_id": "PMID:33693625",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-12",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Bhardwaj et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-18-33775921-Bhardwaj-Rpb9-deletion-phenotypes.png"],
+      "content": "Deletion of the non-essential Rpb9 subunit of RNA polymerase II results in pleiotropic phenotypes in Schizosaccharomyces pombe.\nOriginally published in <a href='Biochimica et Biophysica Acta'>https://www.sciencedirect.com/science/article/pii/S1570963921000601</a>.",
+      "reference_id": "PMID:33775921",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-18",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Fukunaga et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-18-33909078-Fukunaga-Gmh1-Otg1-galactosyltransferase-specificity.png"],
+      "content": "Substrate specificities of α1,2- and α1,3-galactosyltransferases and characterization of Gmh1p and Otg1p in Schizosaccharomyces pombe.\nOriginally published in <a href='https://doi.org/10.1093/glycob/cwab028'>Glycobiology</a>.",
+      "reference_id": "PMID:33909078",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-18",
       "show_on_front_page": true
     },
     {
