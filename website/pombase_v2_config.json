@@ -2326,6 +2326,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Zach et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-19-33796794-Zach-pol-delta-overexpression-replication.png"],
+      "content": "Increased expression of Polδ does not alter the canonical replication program in vivo.\nOriginally published in <a href='https://wellcomeopenresearch.org/articles/6-44/v2'>Wellcome Open Research</a>.",
+      "reference_id": "PMID:33796794",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-19",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
