@@ -2787,44 +2787,50 @@
     "inviable_deletions", "conserved_in_S_cerevisiae", "conserved_in_vertebrates"
   ],
   "api_seq_chunk_sizes": [10000, 200000],
-  "chromosomes": {
-    "chromosome_1": {
+  "chromosomes": [
+    {
+      "name": "chromosome_1",
       "export_id": "I",
       "export_file_id": "chromosome_I",
       "short_display_name": "I",
       "long_display_name": "Chromosome I"
     },
-    "chromosome_2": {
+    {
+      "name": "chromosome_2",
       "export_id": "II",
       "export_file_id": "chromosome_II",
       "short_display_name": "II",
       "long_display_name": "Chromosome II"
     },
-    "chromosome_3": {
+    {
+      "name": "chromosome_3",
       "export_id": "III",
       "export_file_id": "chromosome_III",
       "short_display_name": "III",
       "long_display_name": "Chromosome III"
     },
-    "mitochondrial": {
+    {
+      "name": "mitochondrial",
       "export_id": "mitochondrial",
       "export_file_id": "mitochondrial_chromosome",
       "short_display_name": "Mitochondrial",
       "long_display_name": "Mitochondrial chromosome"
     },
-    "mating_type_region": {
+    {
+      "name": "mating_type_region",
       "export_id": "mating_type_region",
       "export_file_id": "mating_type_region",
       "short_display_name": "Mating type region",
       "long_display_name": "Mating type region"
     },
-    "chr_II_telomeric_gap": {
+    {
+      "name": "chr_II_telomeric_gap",
       "export_id": "chr_II_telomeric_gap",
       "export_file_id": "chr_II_telomeric_gap",
       "short_display_name": "Chromosome II telomeric gap",
       "long_display_name": "Chromosome II telomeric gap"
     }
-  },
+  ],
   "extension_display_names": [
     {
       "rel_name": "activated_by",
