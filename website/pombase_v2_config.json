@@ -2202,7 +2202,7 @@
       "reference_id": "PMID:33788833",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-20",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Pataki et al., 2021",
@@ -2213,7 +2213,7 @@
       "reference_id": "PMID:33137119",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-15",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Rasul et al., 2021",
@@ -2224,7 +2224,7 @@
       "reference_id": "PMID:33483504",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-13",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Uehara et al., 2021",
@@ -2264,7 +2264,7 @@
       "title_link": null,
       "panel_type": "spotlight",
       "head_image": ["spotlight/2021-05-09-33888556-Ma-cohesion_protection.png"],
-      "content": "Meikin synergizes with shugoshin to protect cohesin Rec8 during meiosis I..\nOriginally published in <a href='http://genesdev.cshlp.org/content/35/9-10/692'>Genes & Development</a>.",
+      "content": "Meikin synergizes with shugoshin to protect cohesin Rec8 during meiosis I.\nOriginally published in <a href='http://genesdev.cshlp.org/content/35/9-10/692'>Genes & Development</a>.",
       "reference_id": "PMID:33888556",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-09",
@@ -2334,6 +2334,17 @@
       "reference_id": "PMID:33796794",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-19",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Minagawa et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-05-21-33925026-Minagawa-benzimidazole-resistant-beta-tubulin.png"],
+      "content": "Dual Impact of a Benzimidazole Resistant β-Tubulin on Microtubule Behavior in Fission Yeast.\nOriginally published in <a href='https://www.mdpi.com/2073-4409/10/5/1042/htm'>Cells</a>.",
+      "reference_id": "PMID:33925026",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-05-21",
       "show_on_front_page": true
     },
     {
