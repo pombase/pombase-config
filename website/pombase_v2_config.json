@@ -5583,11 +5583,11 @@
     "field_config": {
       "uniquename": {
         "display_name": "Systematic ID",
-        "column_type": "value"
+        "column_type": "string"
       },
       "name": {
         "display_name": "Gene name",
-        "column_type": "value"
+        "column_type": "string"
       },
       "synonyms": {
         "display_name": "Synonyms",
@@ -5595,31 +5595,31 @@
       },
       "product": {
         "display_name": "Product description",
-        "column_type": "value"
+        "column_type": "string"
       },
       "uniprot_identifier": {
         "display_name": "UniProt ID",
-        "column_type": "value"
+        "column_type": "string"
       },
       "feature_type": {
         "display_name": "Feature type",
-        "column_type": "value"
+        "column_type": "string"
       },
       "start_pos": {
         "display_name": "Start position",
-        "column_type": "value"
+        "column_type": "number"
       },
       "end_pos": {
         "display_name": "End position",
-        "column_type": "value"
+        "column_type": "number"
       },
       "chromosome_name": {
         "display_name": "Chromosome",
-        "column_type": "value"
+        "column_type": "string"
       },
       "strand": {
         "display_name": "Strand",
-        "column_type": "value"
+        "column_type": "string"
       },
       "physical_interactors": {
         "display_name": "Physical interactors",
@@ -6026,15 +6026,15 @@
       },
       "molecular_weight": {
         "display_name": "Protein molecular weight",
-        "column_type": "value"
+        "column_type": "number"
       },
       "protein_length": {
         "display_name": "Protein length",
-        "column_type": "value"
+        "column_type": "number"
       },
       "protein_length_bin": {
         "display_name": "Protein length (bins)",
-        "column_type": "value_bins",
+        "column_type": "bins",
         "attr_values": [
           {
             "name": "1-100",
