@@ -3225,13 +3225,13 @@
     {
       "rel_name": "assayed_region",
       "if_descendant_of": "FYPO:0001985",
-      "display_name": "affecting",
+      "display_name": "affected region",
       "reciprocal_display": "affected by mutation in"
     },
     {
       "rel_name": "assayed_region",
       "if_descendant_of": "FYPO:0000257",
-      "display_name": "affecting"
+      "display_name": "affected region"
     },
     {
       "rel_name": "modified residue",
