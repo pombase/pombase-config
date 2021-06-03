@@ -3238,6 +3238,21 @@
       "if_descendant_of": "GO:0005515",
       "display_name": "binding site"
     }
+    {
+      "rel_name": "active_form",
+      "if_descendant_of": "GO:0003674",
+      "display_name": "active form"
+    }
+    {
+      "rel_name": "active_form",
+      "if_descendant_of": "GO:0008150",
+      "display_name": "active form"
+    }
+    {
+      "rel_name": "active_form",
+      "if_descendant_of": "GO:0005575",
+      "display_name": "localized form"
+    }
   ],
   "extension_relation_order": {
     "relation_order": [
