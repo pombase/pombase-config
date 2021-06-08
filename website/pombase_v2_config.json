@@ -5594,7 +5594,6 @@
     "gene_uniquename_re": "^SP([ABCN][CTP]|RR|SN|MIT|MT)[\\d\\w]*\\.\\d\\d\\d?\\d?c?$"
   },
   "gene_results": {
-    "sortable_columns": ["name", "uniquename", "product"],
     "field_config": {
       "uniquename": {
         "display_name": "Systematic ID",
