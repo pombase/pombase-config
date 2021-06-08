@@ -4939,6 +4939,10 @@
           "termid": "GO:0006629"
         },
         {
+          "name": "lipoprotein biosynthetic process",
+          "termid": "GO:0042158"
+        },
+        {
           "name": "mRNA metabolic process",
           "termid": "GO:0016071"
         },
@@ -5489,10 +5493,6 @@
         {
           "name": "cancer",
           "termid": "MONDO:0004992"
-        },
-        {
-          "name": "monogenic disease",
-          "termid": "MONDO:0000275"
         },
         {
           "name": "autosomal dominant disease",
