@@ -2529,6 +2529,15 @@
       "content": "Access [Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. Or browse the [disease slim set here](https://www.pombase.org/browse-curation/disease-slim).",
       "date_added": "2020-08-07",
       "show_on_front_page": true
+    },
+    {
+      "title": "Fission yeast microPublications",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2021-06-08-pombe-micropublications.png"],
+      "content": "[*S. pombe* microPublications](https://www.micropublication.org/journals/biology/species/s-pombe/) describe brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. Find microPublications in the PomBase simple search, or [submit your own](https://www.micropublication.org/submit-new-article/).",
+      "date_added": "2021-06-08",
+      "show_on_front_page": true
     }
   ],
   "predefined_queries": {
