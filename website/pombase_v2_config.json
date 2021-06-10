@@ -2352,6 +2352,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Shan et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-10-34010645-Shan-H3K9M-H3K14ub-Clr4-heterochromatin.png"],
+      "content": "The histone H3K9M mutation synergizes with H3K14 ubiquitylation to selectively sequester histone H3K9 methyltransferase Clr4 at heterochromatin.\nOriginally published in <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00476-9'>Cell Reports</a>.",
+      "reference_id": "PMID:34010645",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-10",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
