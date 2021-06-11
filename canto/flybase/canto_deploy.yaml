@@ -5,7 +5,7 @@ long_name: FlyBase Canto curation server
 database_name: FlyBase
 
 instance_organism:
-  taxonid: 7227                                                                       
+  taxonid: 7227
 
 flybase_mode: 1
 
@@ -52,6 +52,14 @@ show_genotype_management_genes_list: 1
 diploid_mode: 1
 # allow internal notes on single alleles and config:
 notes_on_single_allele_genotypes_only: 1
+
+# header for the message to curators section on the front page (if enabled)
+message_to_curators_label: Internal notes
+
+# if 1, show the internal notes on the front page
+show_message_for_curators_on_front_page: 1
+
+
 allele_note_types:
   - name: phenotype
     display_name: Phenotype
