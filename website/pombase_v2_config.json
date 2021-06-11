@@ -2352,6 +2352,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Shan et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-10-34010645-Shan-H3K9M-H3K14ub-Clr4-heterochromatin.png"],
+      "content": "The histone H3K9M mutation synergizes with H3K14 ubiquitylation to selectively sequester histone H3K9 methyltransferase Clr4 at heterochromatin.\nOriginally published in <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00476-9'>Cell Reports</a>.",
+      "reference_id": "PMID:34010645",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-10",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
@@ -2456,7 +2467,7 @@
       "head_image": ["explore/2018-05-21-pombase-book-chapter.png"],
       "content": "A guide to getting the most from PomBase, and to its curation philosophy and data organization. [Free download](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4) thanks to the [Wellcome Trust](https://wellcome.ac.uk/).\n\n[View chapter ...](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)",
       "date_added": "2018-05-21",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Browse our inventory of conserved proteins with no known biological role",
@@ -2483,7 +2494,7 @@
       "head_image": ["explore/2017-11-17-unknowns.png"],
       "content": "Our \"unknowns\" analysis is now published in [Open Biology](https://royalsocietypublishing.org/doi/10.1098/rsob.180241). You can browse the [list of fission yeast unknown proteins](status/priority-unstudied-genes), and use the \"Visualise\" button to explore the data interactively in QuiLT, the new tool inspired by [Figure 4](https://royalsocietypublishing.org/doi/10.1098/rsob.180241#RSOB180241F4).",
       "date_added": "2019-02-20",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "GO slim analysis for any gene list",
@@ -2492,7 +2503,7 @@
       "head_image": ["explore/2019-03-05-slim-list.png"],
       "content": "PomBase's advanced search now allows you to retrieve [GO slim](documentation/pombase-go-slim-documentation) annotations for any set of search results. Combine with the \"Gene IDs\" query option to find GO slim annotations for your own list of genes.",
       "date_added": "2019-03-05",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Motif search updated",
@@ -2501,7 +2512,7 @@
       "head_image": ["explore/2017-11-06-motif_search.png"],
       "content": "The PomBase [Protein Motif Search Tool](/motif_search) allows you to search for any user-defined amino acid sequence, supporting exact matches, wildcards, gaps, and ambiguity codes. This search is now fully integrated into PomBase, allowing results to be sent directly to the [advanced search](/query).",
       "date_added": "2019-03-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "The PomBase genome browser",
@@ -2510,7 +2521,7 @@
       "head_image": ["explore/2019-09-05-explore-JBrowse.png"],
       "content": "The PomBase [JBrowse instance](https://www.pombase.org/jbrowse/) provides a responsive online environment in which to visualise published genomic datasets. For more information please see our [JBrowse documentation page](https://www.pombase.org/documentation/JBrowse_quick_start). Authors are welcome to submit their published data to PomBase for hosting.",
       "date_added": "2019-09-06",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "PomBase community curation",
@@ -2519,7 +2530,7 @@
       "head_image": ["explore/2020-05-01-community_curation.png"],
       "content": "Authors now contribute curation to PomBase for almost all new fission yeast publications. Find out how you can benefit in our [new paper on community curation](https://academic.oup.com/database/article/doi/10.1093/database/baaa028/5827230), and visit the [*S. pombe* Canto home](https://curation.pombase.org/pombe) to participate.",
       "date_added": "2020-05-01",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "25% of pombe proteins have disease associations",
@@ -2528,7 +2539,7 @@
       "head_image": ["explore/2019-01-27-disease.png"],
       "content": "Access [Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. Or browse the [disease slim set here](https://www.pombase.org/browse-curation/disease-slim).",
       "date_added": "2020-08-07",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Fission yeast microPublications",
