@@ -2362,6 +2362,48 @@
       "date_added": "2021-06-10",
       "show_on_front_page": true
     },
+    
+    {
+      "title": "Ohtsuka et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-11-33970532_Ohtsuka-Aiba-ecl1.png"],
+      "content": "Magnesium depletion extends fission yeast lifespan via general amino acid control activation..\nOriginally published in <a href='https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1176'>XMicrobiologyOpen</a>.",
+      "reference_id": "PMID:33970532",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-11",
+      "show_on_front_page": true
+    },{
+      "title": "Yukawa et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-11-33946513-toda-dri1.png"],
+      "content": "The Putative RNA-Binding Protein Dri1 Promotes the Loading of Kinesin-14/Klp2 to the Mitotic Spindle and Is Sequestered into Heat-Induced Protein Aggregates in Fission Yeast..\nOriginally published in <a href='https://www.mdpi.com/1422-0067/22/9/4795'> Int J Mol Sci </a>.",
+      "reference_id": "PMID:33946513",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-11",
+      "show_on_front_page": true
+    },{
+      "title": "Ohtsuka et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-11-33970532_Ohtsuka-Aiba-ecl1.png"],
+      "content": "Magnesium depletion extends fission yeast lifespan via general amino acid control activation..\nOriginally published in <a href='https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1176'>XMicrobiologyOpen</a>.",
+      "reference_id": "PMID:33970532",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-11",
+      "show_on_front_page": true
+    },{
+      "title": "Yukawa et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-11-33946513-toda-dri1.png"],
+      "content": "The Putative RNA-Binding Protein Dri1 Promotes the Loading of Kinesin-14/Klp2 to the Mitotic Spindle and Is Sequestered into Heat-Induced Protein Aggregates in Fission Yeast..\nOriginally published in <a href='https://www.mdpi.com/1422-0067/22/9/4795'> Int J Mol Sci </a>.",
+      "reference_id": "PMID:33946513",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-11",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
