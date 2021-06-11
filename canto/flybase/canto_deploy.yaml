@@ -54,7 +54,7 @@ diploid_mode: 1
 notes_on_single_allele_genotypes_only: 1
 
 # header for the message to curators section on the front page (if enabled)
-message_to_curators_label: Internal notes
+message_to_curators_label: Internal notes from session
 
 # if 1, show the internal notes on the front page
 show_message_for_curators_on_front_page: 1
@@ -73,7 +73,7 @@ allele_note_types:
     display_name: Internal note
 
 # The heading above the external_notes section on the front page (if any)
-external_notes_label: Internal notes
+external_notes_label: Internal notes from JSON
 
 # if there are no notes we show "[none]" instead of hiding the section
 always_show_external_notes_section: 1
