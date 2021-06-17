@@ -2396,12 +2396,12 @@
       "show_on_front_page": true
     },
     {
-      "title": "Inamura et al., 2021",
+      "title": "Kurauchi et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-06-17-34086083-Inamura-rst2-mug14-expression.png"],
-      "content": "Expression of Mug14 is regulated by the transcription factor Rst2 through the cAMP-dependent protein kinase pathway in Schizosaccharomyces pombe.\nOriginally published in <a href='https://link.springer.com/article/10.1007%2Fs00294-021-01194-z'>Current Genetics</a>.",
-      "reference_id": "PMID:34086083",
+      "head_image": ["spotlight/2021-06-17-34114004-Kurauchi-sur2-lifespan.png"],
+      "content": "Identification of sur2 mutation affecting the lifespan of fission yeast.\nOriginally published in <a href='https://doi.org/10.1093/femsle/fnab070'>FEMS Microbiology Letters</a>.",
+      "reference_id": "PMID:34114004",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-17",
       "show_on_front_page": true
