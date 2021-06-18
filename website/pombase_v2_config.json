@@ -2407,6 +2407,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Zdravković et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-18-33836577-Zdravkovic-Ctp1-Mre11.png"],
+      "content": "A conserved Ctp1/CtIP C-terminal peptide stimulates Mre11 endonuclease activity.\nOriginally published in <a href='https://www.pnas.org/content/118/11/e2016287118'>PNAS</a>.",
+      "reference_id": "PMID:33836577",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-18",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
