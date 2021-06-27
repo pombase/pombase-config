@@ -4291,7 +4291,7 @@
       "source_config": {
         "MalaCards": {
           "display_name_prop": "malacards_displayed_disease_name",
-          "id_prop": "malacards_disease_slug",
+          "id_source": "prop_name:malacards_disease_slug",
           "condition": "reference=PMID:27899610"
         },
         "PomBase": {
@@ -4305,6 +4305,18 @@
       "slim_description": "Disease ontology overview",
       "slim_link": "/browse-curation/disease-slim",
       "slim_no_category_text": "disease ontology overview category"
+    },
+    "kegg_pombe_pathway": {
+      "feature_type": "gene",
+      "display_name": "Molecular pathway",
+      "columns_to_show": ["gene", "term", "term-xref", "reference"],
+      "details_only": true,
+      "source_config": {
+        "KEGG": {
+          "id_source": "ACCESSION",
+          "condition": "reference=PMID:10592173"
+        }
+      }
     },
     "species_dist": {
       "feature_type": "gene",
@@ -4485,6 +4497,7 @@
     "phenotype_condition",
     "complementation",
     "target_of",
+    "kegg_pombe_pathway",
     "transcript_view",
     "protein_features",
     "PSI-MOD",
@@ -5609,7 +5622,8 @@
   },
   "misc_external_links": {
     "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
-    "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>"
+    "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>",
+    "KEGG": "https://www.genome.jp/kegg-bin/show_pathway?<<IDENTIFIER>>+<<GENE_UNIQUENAME>>"
   },
   "interpro": {
     "dbnames_to_filter": []
