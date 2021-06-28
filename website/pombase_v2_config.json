@@ -4324,6 +4324,7 @@
       "details_only": true,
       "hide_term_id_prefix": true,
       "is_a_fake_ontology": true,
+      "external_db_link_keys": ["KEGG Pathway"],
       "source_config": {
         "KEGG": {
           "id_source": "ACCESSION",
@@ -4804,6 +4805,10 @@
     {
       "name": "Monarch Disease Ontology",
       "url": "https://monarchinitiative.org/disease/[example_id]"
+    },
+    {
+      "name": "KEGG Pathway",
+      "url": "https://www.genome.jp/kegg-bin/show_pathway?[example_id]"
     }
   ],
   "viability_terms": {
