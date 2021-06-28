@@ -4323,6 +4323,7 @@
       "columns_to_show": ["gene", "term", "term-xref", "reference"],
       "details_only": true,
       "hide_term_id_prefix": true,
+      "is_a_fake_ontology": true,
       "source_config": {
         "KEGG": {
           "id_source": "ACCESSION",
