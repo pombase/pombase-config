@@ -2429,6 +2429,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Liu et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-30-34108240-Liu-S-phase-checkpoint-stalled-replisomes.png"],
+      "content": "The intra-S phase checkpoint directly regulates replication elongation to preserve the integrity of stalled replisomes.\nOriginally published in <a href='https://www.pnas.org/content/118/24/e2019183118'>PNAS</a>.",
+      "reference_id": "PMID:34108240",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-30",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
