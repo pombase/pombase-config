@@ -2338,7 +2338,7 @@
       "reference_id": "PMID:33796794",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-19",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Minagawa et al., 2021",
@@ -2439,6 +2439,18 @@
       "date_added": "2021-06-30",
       "show_on_front_page": true
     },
+     {
+      "title": "Toyoda et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-06-28-34028542-Toyodas-aly3.png"],
+      "content": "TORC2 inhibition of α-arrestin Aly3 mediates cell surface persistence of S. pombe Ght5 glucose transporter in low glucose.\nOriginally published in <a href='https://journals.biologists.com/jcs/article-abstract/134/10/jcs257485/268339/TORC2-inhibition-of-arrestin-Aly3-mediates-cell?redirectedFrom=fulltext'>J Cell Sci</a>.",
+      "reference_id": "PMID:34028542",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-06-28",
+      "show_on_front_page": true
+    },
+
     {
       "title": "Recent community curation",
       "panel_type": "community",
