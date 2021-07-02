@@ -59,6 +59,9 @@ message_to_curators_label: Internal notes from session
 # if 1, show the internal notes on the front page
 show_message_for_curators_on_front_page: 1
 
+# put the genotype lists in the same order as the allele_type_list
+sort_genotype_management_page_by_allele_type: 1
+
 
 allele_note_types:
   - name: phenotype
