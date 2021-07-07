@@ -2462,6 +2462,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Boronat et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-07-33386485-Boronat-misfolded-protein-sequestration.png"],
+      "content": "Spatial sequestration of misfolded proteins as an active chaperone-mediated process during heat stress.\nOriginally published in <a href='https://link.springer.com/article/10.1007%2Fs00294-020-01135-2'>Current Genetics</a>.",
+      "reference_id": "PMID:33386485",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-07",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Sawada et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-07-34147496-Sawada-polyphosphate-vacuolar-proteolysis.png"],
+      "content": "Regulation of inorganic polyphosphate is required for proper vacuolar proteolysis in fission yeast.\nOriginally published in <a href='https://www.jbc.org/article/S0021-9258(21)00691-8/fulltext'>Journal of Biological Chemistry</a>.",
+      "reference_id": "PMID:34147496",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-07",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
