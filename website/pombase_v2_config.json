@@ -2484,6 +2484,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Fukuda et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-09-PMID-33534698-Fukuda-TOR.png"],
+      "content": "Tripartite suppression of fission yeast TORC1 signaling by the GATOR1-Sea3 complex, the TSC complex, and Gcn2 kinase.\nOriginally published in <a href='https://elifesciences.org/articles/60969'>eLife</a>.",
+      "reference_id": "PMID:33534698",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-09",
+      "show_on_front_page": true
+    }, 
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
