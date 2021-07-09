@@ -177,6 +177,7 @@ available_annotation_type_list:
     term_suggestions_annotation_type: phenotypic_class
     interaction_term_required: 1
     allow_annotation_transfer: true
+    annotation_table_columns_to_hide: [term_ontid]
     hide_extension_relations: [qual,dv_qual]
     display_name: 'phenotype class interaction'
     very_short_display_name: 'phen-class interaction'
@@ -197,6 +198,7 @@ available_annotation_type_list:
     term_suggestions_annotation_type: anatomy
     interaction_term_required: 1
     allow_annotation_transfer: true
+    annotation_table_columns_to_hide: [term_ontid]
     hide_extension_relations: [qual,dv_qual]
     display_name: 'phenotype anatomy interaction'
     very_short_display_name: 'anatomy interaction'
@@ -216,6 +218,7 @@ available_annotation_type_list:
     single_allele_only: true
     interaction_same_locus: false
     allow_annotation_transfer: true
+    annotation_table_columns_to_hide: [term_ontid]
     category: interaction
     display_name: 'complementation'
     feature_type: 'metagenotype'
@@ -229,6 +232,7 @@ available_annotation_type_list:
     single_locus_only: true
     interaction_same_locus: true
     allow_annotation_transfer: true
+    annotation_table_columns_to_hide: [term_ontid]
     category: interaction
     display_name: 'rescue'
     feature_type: 'metagenotype'
