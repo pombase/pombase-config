@@ -133,6 +133,7 @@ available_annotation_type_list:
     feature_type: 'genotype'
     can_have_conditions: 0
     allow_annotation_transfer: true
+    annotation_table_columns_to_hide: [term_ontid]
     broad_term_suggestions: >
       lethal, sterile, visible, cell number defective, locomotor behavior defective
     specific_term_examples: >
@@ -157,6 +158,7 @@ available_annotation_type_list:
     feature_type: 'genotype'
     can_have_conditions: 0
     allow_annotation_transfer: true
+    annotation_table_columns_to_hide: [term_ontid]
     broad_term_suggestions: >
       embryo, wing, eye, ovary, wing disc, neuromuscular junction
     specific_term_examples: >
