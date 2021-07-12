@@ -37,6 +37,7 @@
   "social_media": true,
   "has_disease_annotation": true,
   "news_on_front_page": true,
+  "has_admin_curation": true,
   "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
   "canto_url": "https://curation.pombase.org/pombe/",
   "canto_data_config": {
