@@ -6440,7 +6440,7 @@
         "not_happens_during": null,
         "not_exists_during": null,
         "activated_by": null,
-        "exists_during": "GOREL:0000032",
+        "exists_during": "RO:0002490",
         "has_direct_input": "RO:0002233",
         "regulates_activity_of": "RO:0002233",
         "has_regulation_target": "RO:0002233",
