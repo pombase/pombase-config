@@ -2444,7 +2444,7 @@
       "title": "Toyoda et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-06-28-34028542-Toyodas-aly3.png"],
+      "head_image": ["spotlight/2021-06-28-34028542-Toyoda-aly3.png"],
       "content": "TORC2 inhibition of α-arrestin Aly3 mediates cell surface persistence of S. pombe Ght5 glucose transporter in low glucose.\nOriginally published in <a href='https://journals.biologists.com/jcs/article-abstract/134/10/jcs257485/268339/TORC2-inhibition-of-arrestin-Aly3-mediates-cell?redirectedFrom=fulltext'>Journal of Cell Science</a>.",
       "reference_id": "PMID:34028542",
       "link_label": "Publication record in PomBase ...",
@@ -2482,19 +2482,30 @@
       "reference_id": "PMID:34147496",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-07-07",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Fukuda et al., 2021",
       "title_link": null,
       "panel_type": "spotlight",
-      "head_image": ["spotlight/2021-07-09-PMID-33534698-Fukuda-TOR.png"],
+      "head_image": ["spotlight/2021-07-09-33534698-Fukuda-TOR.png"],
       "content": "Tripartite suppression of fission yeast TORC1 signaling by the GATOR1-Sea3 complex, the TSC complex, and Gcn2 kinase.\nOriginally published in <a href='https://elifesciences.org/articles/60969'>eLife</a>.",
       "reference_id": "PMID:33534698",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-07-09",
       "show_on_front_page": true
-    }, 
+    },
+    {
+      "title": "Sevcovicova et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-15-34208949-Sevcovicova-Swi5-Sfr1-phosphorylation.png"],
+      "content": "Mapping and Analysis of Swi5 and Sfr1 Phosphorylation Sites.\nOriginally published in <a href='https://www.mdpi.com/2073-4425/12/7/1014/htm'>Genes</a>.",
+      "reference_id": "PMID:34208949",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-15",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
