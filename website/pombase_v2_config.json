@@ -3194,20 +3194,20 @@
     {
       "rel_name": "has_input",
       "if_descendant_of": "GO:0005484",
-      "display_name": "anchors",
-      "reciprocal_display": "anchored by"
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
     },
     {
       "rel_name": "has_input",
-      "if_descendant_of": "GO:8093",
+      "if_descendant_of": "GO:0008093",
       "display_name": "anchors",
       "reciprocal_display": "anchored by"
     },
     {
       "rel_name": "has_input",
       "if_descendant_of": "GO:0043495",
-      "display_name": "anchors",
-      "reciprocal_display": "anchored by"
+      "display_name": "recruits",
+      "reciprocal_display": "recruited by"
     },
     {
       "rel_name": "has_input",
@@ -4569,6 +4569,7 @@
       "binds": 10,
       "transported by": 9,
       "localized by": 8,
+      "recruited by": 8,
       "anchored by": 8,
       "sequestered by": 8,
       "transcription activated by": 7,
