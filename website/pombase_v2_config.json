@@ -4779,6 +4779,14 @@
       "url": "https://swissmodel.expasy.org/repository/uniprot/<<IDENTIFIER>>"
     },
     {
+      "ref_type": "Structure",
+      "feature_types": ["mRNA gene"],
+      "name": "AlphaFold",
+      "description": "AlphaFold structure predictions",
+      "field_name": "uniprot_identifier",
+      "url": "https://alphafold.ebi.ac.uk/entry/<<IDENTIFIER>>"
+    },
+    {
       "ref_type": "Pathways",
       "feature_types": ["mRNA gene", "pseudogene"],
       "name": "Reactome",
