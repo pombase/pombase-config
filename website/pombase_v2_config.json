@@ -2361,7 +2361,7 @@
       "reference_id": "PMID:34010645",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-10",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ohtsuka et al., 2021",
@@ -2372,7 +2372,7 @@
       "reference_id": "PMID:33970532",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yukawa et al., 2021",
@@ -2383,7 +2383,7 @@
       "reference_id": "PMID:33946513",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ding et al., 2021",
@@ -2394,7 +2394,7 @@
       "reference_id": "PMID:33825974",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-15",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kurauchi et al., 2021",
@@ -2405,7 +2405,7 @@
       "reference_id": "PMID:34114004",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-17",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Zdravković et al., 2021",
@@ -2416,7 +2416,7 @@
       "reference_id": "PMID:33836577",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Inamura et al., 2021",
@@ -2427,7 +2427,7 @@
       "reference_id": "PMID:34086083",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Liu et al., 2021",
@@ -2517,6 +2517,17 @@
       "date_added": "2021-07-27",
       "show_on_front_page": true
     },
+    {
+      "title": "Bellingham-Johnstun et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-27-33496728-la-plante.png"],
+      "content": "Molecular organization of cytokinesis node predicts the constriction rate of the contractile ring..\nOriginally published in <a href='https://rupress.org/jcb/article-abstract/220/3/e202008032/211718/Molecular-organization-of-cytokinesis-node?redirectedFrom=fulltext'>J Cell Biol</a>.",
+      "reference_id": "PMID:33496728",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-27",
+      "show_on_front_page": true
+    },    
     {
       "title": "Recent community curation",
       "panel_type": "community",
