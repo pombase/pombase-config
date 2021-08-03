@@ -2388,7 +2388,7 @@
       "reference_id": "PMID:34010645",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-10",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ohtsuka et al., 2021",
@@ -2399,7 +2399,7 @@
       "reference_id": "PMID:33970532",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yukawa et al., 2021",
@@ -2410,7 +2410,7 @@
       "reference_id": "PMID:33946513",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-11",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Ding et al., 2021",
@@ -2421,7 +2421,7 @@
       "reference_id": "PMID:33825974",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-15",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Kurauchi et al., 2021",
@@ -2432,7 +2432,7 @@
       "reference_id": "PMID:34114004",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-17",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Zdravković et al., 2021",
@@ -2443,7 +2443,7 @@
       "reference_id": "PMID:33836577",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-18",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Inamura et al., 2021",
@@ -2454,7 +2454,7 @@
       "reference_id": "PMID:34086083",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-06-24",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Liu et al., 2021",
@@ -2531,6 +2531,39 @@
       "reference_id": "PMID:34208949",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-07-15",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Wang et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-27-34169534-Wang-Nbr1-cargo-selection.png"],
+      "content": "Molecular and structural mechanisms of ZZ domain-mediated cargo selection by Nbr1.\nOriginally published in <a href='https://doi.org/10.15252/embj.2020107497'>The EMBO Journal</a>.",
+      "reference_id": "PMID:34169534",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-27",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Bellingham-Johnstun et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-27-33496728-la-plante.png"],
+      "content": "Molecular organization of cytokinesis node predicts the constriction rate of the contractile ring..\nOriginally published in <a href='https://rupress.org/jcb/article-abstract/220/3/e202008032/211718/Molecular-organization-of-cytokinesis-node?redirectedFrom=fulltext'>J Cell Biol</a>.",
+      "reference_id": "PMID:33496728",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-27",
+      "show_on_front_page": true
+    },    
+    {
+      "title": "Willet et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-07-28-34279633-willet-imp2.png"],
+      "content": "Phosphorylation in the intrinsically disordered region of F-BAR protein Imp2 regulates its contractile ring recruitment.\nOriginally published in <a href='https://journals.biologists.com/jcs/article-abstract/doi/10.1242/jcs.258645/270972/Phosphorylation-in-the-intrinsically-disordered?redirectedFrom=fulltext'>J Cell Sci</a>.",
+      "reference_id": "PMID:34279633",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-07-28",
       "show_on_front_page": true
     },
     {
