@@ -12,7 +12,34 @@
   "welcome_message": "PomBase is a comprehensive database for the fission yeast <i>Schizosaccharomyces pombe</i>, providing structural and functional annotation, literature curation and access to large-scale data sets",
   "footer": {
     "funders": "PomBase is funded by the <a href=\"http://www.wellcome.ac.uk/\">Wellcome Trust</a>, run by a consortium comprising the <a href=\"http://www.cam.ac.uk/\">University of Cambridge</a>, <a href=\"http://www.ucl.ac.uk/\">University College London</a>, and hosted by the <a href=\"http://www.babraham.ac.uk\">Babraham Institute</a>.",
-    "is_elixir_node": true
+    "is_elixir_node": true,
+    "logos": [
+      {
+        "url": "https://wellcome.ac.uk/",
+        "image": "wellcome-logo.svg",
+        "alt_text": "Wellcome Trust"
+      },
+      {
+        "url": "https://www.sysbiol.cam.ac.uk/",
+        "image": "sysbiol_logo-64px.png",
+        "alt_text": "Cambridge Systems Biology Centre"
+      },
+      {
+        "url": "https://www.cam.ac.uk/",
+        "image": "cambridge-logo-64px.png",
+        "alt_text": "University of Cambridge"
+      },
+      {
+        "url": "https://www.ucl.ac.uk/",
+        "image": "ucl_logo-64px.png",
+        "alt_text": "University College London",
+      },
+      {
+        "url": "https://elixir-europe.org/",
+        "image": "elixir-logo-64px.png",
+        "alt_text": "ELIXIR"
+      }
+    ]
   },
   "load_organism_taxonid": 4896,
   "base_url": "https://www.pombase.org",
