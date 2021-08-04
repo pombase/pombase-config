@@ -5770,6 +5770,10 @@
         {
           "name": "hematologic disease",
           "termid": "MONDO:0005570"
+        },
+        {
+          "name": "infertility disorder",
+          "termid": "MONDO:0005047"
         }
       ]
     }
