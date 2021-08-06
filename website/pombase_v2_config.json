@@ -2720,7 +2720,7 @@
       "title_link": null,
       "panel_type": "explore",
       "head_image": ["explore/2019-01-27-disease.png"],
-      "content": "Access [Disease associations](/term/MONDO:0000001) are now profor 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
+      "content": "Access [Disease associations](/term/MONDO:0000001) for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
       "date_added": "2019-01-27",
       "show_on_front_page": false
     },
@@ -2785,6 +2785,15 @@
       "head_image": ["explore/2021-06-08-pombe-micropublications.png"],
       "content": "[*S. pombe* microPublications](https://www.micropublication.org/journals/biology/species/s-pombe/) describe brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. Find microPublications in the PomBase simple search, or [submit your own](https://www.micropublication.org/submit-new-article/).",
       "date_added": "2021-06-08",
+      "show_on_front_page": true
+    }.
+    {
+      "title": "Disease associations for fission yeast proteins",
+      "title_link": null,
+      "panel_type": "explore",
+      "head_image": ["explore/2019-01-27-disease.png"],
+      "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1401 (up from 907 in 2019 and 1239 in 2020) of the 3560 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
+      "date_added": "2021-08-06",
       "show_on_front_page": true
     }
   ],
