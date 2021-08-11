@@ -2601,6 +2601,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Su et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-08-11-34292936-Su-Rad8-PCNA.png"],
+      "content": "Fission yeast Rad8/HLTF facilitates Rad52-dependent chromosomal rearrangements through PCNA lysine 107 ubiquitination.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009671'>PLoS Genetics</a>.",
+      "reference_id": "PMID:34292936",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-08-11",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
