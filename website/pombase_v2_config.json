@@ -68,6 +68,7 @@
   "has_admin_curation": true,
   "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
   "canto_url": "https://curation.pombase.org/pombe",
+  "community_mailing_list": "https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist",
   "canto_data_config": {
     "browser_track_triage_types": [
       "Browser datasets, to host",
