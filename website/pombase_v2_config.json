@@ -384,6 +384,17 @@
         ]
       },
       {
+        "id": "has_ortholog",
+        "displayName": "Genes with orthologs",
+        "nodeType": "has-ortholog",
+        "topDescription": [
+          {
+            "text": "Retrieve genes that have an ortholog in"
+          }
+        ],
+        "development_mode_only": true
+      },
+      {
         "id": "taxonomic_conservation",
         "displayName": "taxonomic conservation",
         "nodeType": "small-ontology",
