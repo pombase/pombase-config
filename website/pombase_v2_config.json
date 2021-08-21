@@ -385,11 +385,11 @@
       },
       {
         "id": "has_ortholog",
-        "displayName": "Genes with orthologs",
+        "displayName": "Proteins with orthologs",
         "nodeType": "has-ortholog",
         "topDescription": [
           {
-            "text": "Retrieve genes that have an ortholog in"
+            "text": "Retrieve proteins that have an ortholog in"
           }
         ],
         "development_mode_only": true
