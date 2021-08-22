@@ -4922,7 +4922,7 @@
       "name": "AlphaFold",
       "description": "AlphaFold structure predictions",
       "field_name": "uniprot_identifier",
-      "url": "https://alphafold.ebi.ac.uk/entry/<<IDENTIFIER>>"
+      "go_xrf_abbrev": "AlphaFold"
     },
     {
       "ref_type": "Pathways",
