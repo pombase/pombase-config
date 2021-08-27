@@ -6077,8 +6077,8 @@
             "color": "#5f1827"
           },
           {
-            "name": "chromatin remodeling",
-            "termid": "GO:0006338",
+            "name": "heterochromatin assembly",
+            "termid": "GO:0031507",
             "color": "#9d7b69"
           },
           {
