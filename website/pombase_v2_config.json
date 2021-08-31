@@ -521,15 +521,6 @@
       "example_gene_identifiers": ["cdc11", "SPCC18B5.03"]
     },
     {
-      "taxonid": 9606,
-      "genus": "Homo",
-      "species": "sapiens",
-      "alternative_names": [],
-      "common_name": "human",
-      "example_gene_identifiers": ["CDK1", "HGNC:1722"],
-      "database_id_prefix": "HGNC"
-    },
-    {
       "taxonid": 4932,
       "genus": "Saccharomyces",
       "species": "cerevisiae",
@@ -537,9 +528,27 @@
       "common_name": "S. cerevisiae",
       "example_gene_identifiers": ["CDC28", "YBR160W"],
       "database_id_prefix": "SGD"
+    },
+    {
+      "taxonid": 4897,
+      "genus": "Schizosaccharomyces",
+      "species": "japonicus",
+      "alternative_names": [],
+      "common_name": "S. japonicus",
+      "example_gene_identifiers": [" mid1", "SJAG_01143"],
+      "database_id_prefix": "JaponicusDB"
+    },
+    {
+      "taxonid": 9606,
+      "genus": "Homo",
+      "species": "sapiens",
+      "alternative_names": [],
+      "common_name": "human",
+      "example_gene_identifiers": ["CDK1", "HGNC:1722"],
+      "database_id_prefix": "HGNC"
     }
   ],
-  "ortholog_taxonids": [4932, 9606],
+  "ortholog_taxonids": [4932, 4897, 9606],
   "front_page_panels": [
     {
       "title": "McDonald et al., 2017",
@@ -5987,6 +5996,10 @@
         "display_name": "Budding yeast orthologs",
         "column_type": "orthologs"
       },
+      "orthologs:4897": {
+        "display_name": "S. japonicus orthologs",
+        "column_type": "orthologs"
+      },
       "orthologs:9606": {
         "display_name": "Human orthologs",
         "column_type": "orthologs"
@@ -6017,6 +6030,20 @@
       },
       "ortholog_taxonids:4932": {
         "display_name": "Budding yeast ortholog",
+        "column_type": "ortholog",
+        "attr_values": [
+          {
+            "name": "absent",
+            "color": "#c32"
+          },
+          {
+            "name": "present",
+            "color": "#3c2"
+          }
+        ]
+      },
+      "ortholog_taxonids:4897": {
+        "display_name": "S. japonicus ortholog",
         "column_type": "ortholog",
         "attr_values": [
           {
@@ -6462,6 +6489,7 @@
       "chromosome_name",
       "strand",
       "orthologs:4932",
+      "orthologs:4897",
       "orthologs:9606"
     ],
     "gene_table_field_names": [
@@ -6476,6 +6504,7 @@
       "chromosome_name",
       "strand",
       "orthologs:4932",
+      "orthologs:4897",
       "orthologs:9606",
       "physical_interactors",
       "deletion_viability",
@@ -6489,6 +6518,7 @@
     "visualisation_field_names": [
       "deletion_viability",
       "ortholog_taxonids:4932",
+      "ortholog_taxonids:4897",
       "ortholog_taxonids:9606",
       "tmm",
       "go_process_superslim",
