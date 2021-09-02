@@ -61,14 +61,23 @@
     "term": "GO:0000070",
     "reference": "PMID:25908789"
   },
-  "social_media": true,
-  "twitter_account": "PomBase",
+  "social_media": {
+    "twitter": "PomBase",
+    "github": "pombase",
+    "slack": "https://spombe.slack.com/",
+    "facebook": "pombase",
+    "linkedin": "https://www.linkedin.com/groups/5122686"
+  },
   "has_disease_annotation": true,
   "news_on_front_page": true,
   "has_admin_curation": true,
   "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
   "canto_url": "https://curation.pombase.org/pombe",
-  "community_mailing_list": "https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist",
+  "community_mailing_list": {
+    "url": "https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist",
+    "icon": "pombe_email_icon.png",
+    "title": "S. pombe community mailing list"
+  },
   "canto_data_config": {
     "browser_track_triage_types": [
       "Browser datasets, to host",
