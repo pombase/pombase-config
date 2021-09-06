@@ -5482,6 +5482,10 @@
           "termid": "GO:0003779"
         },
         {
+          "name": "cargo receptor activity",
+          "termid": "GO:0038024"
+        },
+        {
           "name": "catalytic activity, acting on DNA",
           "termid": "GO:0140097"
         },
@@ -5586,6 +5590,10 @@
           "termid": "GO:0140104"
         },
         {
+          "name": "molecular sequestering activity",
+          "termid": "GO:0140313"
+        },
+        {
           "name": "motor activity",
           "termid": "GO:0003774"
         },
@@ -5662,6 +5670,10 @@
           "termid": "GO:0038023"
         },
         {
+          "name": "small molecule sensor activity",
+          "termid": "GO:0140299"
+        },
+        {
           "name": "structural molecule activity",
           "termid": "GO:0005198"
         },
@@ -5710,8 +5722,8 @@
           "termid": "GO:0016782"
         },
         {
-          "name": "translation factor activity, RNA binding",
-          "termid": "GO:0008135"
+          "name": "translation regulator activity",
+          "termid": "GO:0045182"
         },
         {
           "name": "transmembrane transporter activity",
