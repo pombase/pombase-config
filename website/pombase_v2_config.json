@@ -6148,11 +6148,6 @@
             "color": "#efbf98"
           },
           {
-            "name": "organelle localization",
-            "termid": "GO:0051640",
-            "color": "#c8b35b"
-          },
-          {
             "name": "lipid metabolic process",
             "termid": "GO:0006629",
             "color": "#394b2d"
