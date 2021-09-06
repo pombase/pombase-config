@@ -6267,6 +6267,11 @@
             "display_name": "other catalytic activity"
           },
           {
+            "name": "molecular adaptor activity",
+            "termid": "GO:0060090",
+            "color": "#3e9"
+          },
+          {
             "name": "enzyme regulator activity",
             "termid": "GO:0030234",
             "color": "#feb62f"
