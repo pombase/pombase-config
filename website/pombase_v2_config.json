@@ -2363,7 +2363,7 @@
       "reference_id": "PMID:33823662",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-27",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Gallardo et al., 2020",
@@ -2374,7 +2374,7 @@
       "reference_id": "PMID:33176152",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-04-27",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Rivosecchi et al., 2021",
@@ -2385,7 +2385,7 @@
       "reference_id": "PMID:33771877",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-02",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
    {
       "title": "Ma et al., 2021",
@@ -2704,6 +2704,17 @@
       "reference_id": "PMID:34292936",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-08-11",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Soriano et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-09-14-34228709-Soriano-DNA-polymerase-epsilon.png"],
+      "content": "Expression of the cancer-associated DNA polymerase ε P286R in fission yeast leads to translesion synthesis polymerase dependent hypermutation and defective DNA replication.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009526'>PLoS Genetics</a>.",
+      "reference_id": "PMID:34228709",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-09-14",
       "show_on_front_page": true
     },
     {
@@ -3345,6 +3356,11 @@
     {
       "rel_name": "part_of",
       "if_descendant_of": "GO:0003824",
+      "display_name": "involved in"
+    },
+    {
+      "rel_name": "part_of",
+      "if_descendant_of": "GO:0098772",
       "display_name": "involved in"
     },
     {
