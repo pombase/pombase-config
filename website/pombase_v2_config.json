@@ -6627,6 +6627,10 @@
       "protein_length",
       "protein_length_bin"
     ],
+    "visualisation_extra_column_cv_names": [
+      "molecular_function", "biological_process", "cellular_component",
+      "fission_yeast_phenotype", "mondo"
+    ],
     "visualisation_field_names": [
       "deletion_viability",
       "ortholog_taxonids:4932",
