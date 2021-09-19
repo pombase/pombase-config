@@ -6122,16 +6122,16 @@
         "attr_values": [
           {
             "name": "inviable",
-            "color": "#f44"
+            "color": "#c32"
           },
           {
             "name": "depends_on_conditions",
-            "color": "#44f",
+            "color": "#66f",
             "display_name": "variable"
           },
           {
             "name": "viable",
-            "color": "#4f4"
+            "color": "#3d3"
           },
           {
             "name": "unknown",
@@ -6164,7 +6164,7 @@
           },
           {
             "name": "present",
-            "color": "#3c2"
+            "color": "#3d3"
           }
         ]
       },
@@ -6178,7 +6178,7 @@
           },
           {
             "name": "present",
-            "color": "#3c2"
+            "color": "#3d3"
           }
         ]
       },
@@ -6297,7 +6297,7 @@
           {
             "name": "nucleus",
             "termid": "GO:0005634",
-            "color": "#e05"
+            "color": "#c32"
           },
           {
             "name": "endoplasmic reticulum",
@@ -6312,11 +6312,11 @@
           {
             "name": "cytoplasm",
             "termid":  "GO:0005737",
-            "color": "#a30"
+            "color": "#ca3"
           },
           {
             "name": "other",
-            "color": "#fb0"
+            "color": "#aaa"
           },
           {
             "name": "unknown",
@@ -6462,7 +6462,7 @@
           },
           {
             "name": "biological role inferred",
-            "color": "#a26"
+            "color": "#c22"
           },
           {
             "name": "transposon",
@@ -6470,7 +6470,7 @@
           },
           {
             "name": "conserved unknown",
-            "color": "#882"
+            "color": "#36f"
           },
           {
             "name": "unknown",
