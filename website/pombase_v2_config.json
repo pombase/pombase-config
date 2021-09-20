@@ -6629,7 +6629,7 @@
     ],
     "visualisation_extra_column_cv_names": [
       "molecular_function", "biological_process", "cellular_component",
-      "fission_yeast_phenotype", "mondo"
+      "mondo"
     ],
     "visualisation_field_names": [
       "deletion_viability",
