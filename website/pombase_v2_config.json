@@ -72,6 +72,7 @@
   "has_characterisation_status": true,
   "news_on_front_page": true,
   "has_admin_curation": true,
+  "no_gene_name_route": "/submit-data/gene-names",
   "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
   "canto_url": "https://curation.pombase.org/pombe",
   "community_mailing_list": {
