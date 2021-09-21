@@ -450,6 +450,16 @@
         ]
       },
       {
+        "id": "has_ortholog",
+        "displayName": "Protein with orthologs",
+        "nodeType": "has-ortholog",
+        "topDescription": [
+          {
+            "text": "Retrieve proteins that have an ortholog in"
+          }
+        ]
+      },
+      {
         "id": "transcript_count",
         "displayName": "Number of transcripts",
         "nodeType": "int-range",
