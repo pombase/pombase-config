@@ -2730,6 +2730,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Matsui et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-09-22-34534388-Matsui-ksg1-chronological-lifespan.png"],
+      "content": "Identification of ksg1 mutation showing long-lived phenotype in fission yeast.\nOriginally published in <a href='Genes to Cells'>https://onlinelibrary.wiley.com/doi/epdf/10.1111/gtc.12897</a>.",
+      "reference_id": "PMID:34534388",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-09-22",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
