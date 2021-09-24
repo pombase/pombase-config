@@ -2719,6 +2719,40 @@
       "show_on_front_page": true
     },
     {
+      "title": "Matsui et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-09-22-34534388-Matsui-ksg1-chronological-lifespan.png"],
+      "content": "Identification of ksg1 mutation showing long-lived phenotype in fission yeast.\nOriginally published in <a href='Genes to Cells'>https://onlinelibrary.wiley.com/doi/epdf/10.1111/gtc.12897</a>.",
+      "reference_id": "PMID:34534388",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-09-22",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Morozumi et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-09-23-34499159-Morozumi-TOS.png"],
+      "content": "Fission yeast TOR complex 1 phosphorylates Psk1 through evolutionarily conserved interaction mediated by the TOS motif.\nOriginally published in <a href='https://journals.biologists.com/jcs/article/doi/10.1242/jcs.258865/272125/Fission-yeast-TOR-complex-1-phosphorylates-Psk1'>
+J Cell Sci</a>.",
+      "reference_id": "PMID:34499159",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-09-23",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Pineda-Santaella et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-09-23-34346498-Pineda-Santaella-kinesin8.png"],
+      "content": "Loss of kinesin-8 improves the robustness of the self-assembled spindle.\nOriginally published in <a href='https://journals.biologists.com/jcs/article/134/16/jcs253799/271911/Loss-of-kinesin-8-improves-the-robustness-of-the'>J Cell Sci 2021</a>.",
+      "reference_id": "PMID:34346498",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-09-23",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
