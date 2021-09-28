@@ -156,6 +156,69 @@
             "url": "/reference_list/admin"
           }
         ]
+      },
+      {
+        "header": "Downloads",
+        "entries": [
+          {
+            "title": "Datasets",
+            "url": "/datasets"
+          },
+          {
+            "title": "Documents",
+            "url": "/documents"
+          },
+          {
+            "title": "Chado database dumps",
+            "url": "/downloads/chado-database-dumps"
+          }
+        ]
+      },
+      {
+        "header": "Community",
+        "entries": [
+          {
+            "title": "Mailing list",
+            "url": "https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist"
+          },
+          {
+            "title": "Community curation project",
+            "url": "/community/fission-yeast-community-curation-project"
+          },
+          {
+            "title": "News archive",
+            "url": "/news"
+          },
+          {
+            "title": "Fission yeast community",
+            "url": "/community"
+          },
+          {
+            "title": "External resources",
+            "url": "/community/internet-resources"
+          }
+        ]
+      },
+      {
+        "header": "About",
+        "entries": [
+          {
+            "title": "About PomBase",
+            "url": "/about"
+          },
+          {
+            "title": "PomBase publications",
+            "url": "/about/published-by-pombase"
+          },
+          {
+            "title": "Citing PomBase",
+            "url": "/about/citing-pombase"
+          },
+          {
+            "title": "Resource metrics",
+            "url": "/about/resource-metrics"
+          }
+        ]
       }
     ]
   },
