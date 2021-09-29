@@ -5051,6 +5051,14 @@
       "url": "https://string-db.org/cgi/network.pl?species=4896&identifier=<<IDENTIFIER>>"
     },
     {
+      "ref_type": "Interactions",
+      "feature_types": ["mRNA gene"],
+      "name": "IntAct",
+      "description": "IntAct Interaction Network",
+      "field_name": "uniprot_identifier",
+      "go_xrf_abbrev": "IntactInteractionNetwork"
+    },
+    {
       "ref_type": "Modifications",
       "feature_types": ["mRNA gene"],
       "name": "iPTMnet",
