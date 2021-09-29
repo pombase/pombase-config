@@ -3406,13 +3406,13 @@
     },
     {
       "rel_name": "has_regulation_target",
-      "if_descendant_of": "GO:0008047",
+      "if_descendant_of": "GO:0140677",
       "display_name": "activates",
       "reciprocal_display": "activated by"
     },
     {
       "rel_name": "has_regulation_target",
-      "if_descendant_of": "GO:0004857",
+      "if_descendant_of": "GO:0140678",
       "display_name": "inhibits",
       "reciprocal_display": "inhibited by"
     },
@@ -3588,6 +3588,24 @@
       "if_descendant_of": "GO:0001216",
       "display_name": "activates transcription of",
       "reciprocal_display": "transcription activated by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0140677",
+      "display_name": "activates",
+      "reciprocal_display": "activated by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0140678",
+      "display_name": "inhibits",
+      "reciprocal_display": "inhibited by"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0098772",
+      "display_name": "regulates",
+      "reciprocal_display": "regulated by"
     },
     {
       "rel_name": "has_direct_input",
