@@ -429,45 +429,121 @@
         ]
       },
       {
-        "id": "all_domains",
-        "displayName": "protein domain",
-        "nodeType": "subset-input",
+        "id": "domains_and_features",
+        "displayName": "protein domain, features and motifs",
+        "nodeType": "sub-nodes",
+        "topDescription": [
+          {
+            "text": "Retrieve protein domains, features and motifs"
+          }
+        ],
+        "subNodes": [
+          {
+            "id": "all_domains",
+            "displayName": "Domain ID",
+            "nodeType": "subset-input",
+            "subsetPrefix": null,
+            "placeholder": "eg. PF02373 or IPR001138",
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by specific domains present in the products. To retrieve all domain-containing proteins, search for \"IPR*\" or \"PF*\""
+              }
+            ]
+          },
+          {
+            "id": "SO_protein",
+            "displayName": "protein motifs",
+            "nodeType": "ontology",
+            "ontologyName": "SO-protein",
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes based on features annotated using the protein sequence feature branch of the Sequence Ontology (SO)"
+              }
+            ],
+            "extraDescription": "Examples: short motifs such as NLS or KEN box, signal sequence, cleaved region, helix"
+          },
+          {
+            "id": "tm_domain_count",
+            "displayName": "TM domains",
+            "nodeType": "int-range",
+            "range_minimum": 0,
+            "range_any_and_none": true,
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by number of predicted transmembrane domains in the product"
+              }
+            ]
+          },
+          {
+            "id": "coiled_coils_count",
+            "displayName": "coiled-coils",
+            "nodeType": "int-range",
+            "range_minimum": 0,
+            "range_any_and_none": true,
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by number of predicted coiled-coil domains in the product"
+              }
+            ]
+          },
+          {
+            "id": "disordered_regions_count",
+            "displayName": "disordered regions",
+            "nodeType": "int-range",
+            "range_minimum": 0,
+            "range_any_and_none": true,
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by number of disordered regions in the product"
+              }
+            ]
+          },
+          {
+            "id": "low_complexity_regions_count",
+            "displayName": "low complexity regions",
+            "nodeType": "int-range",
+            "range_minimum": 0,
+            "range_any_and_none": true,
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by number of low complexity regions in the product"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "protein_properties",
+        "displayName": "protein properties",
+        "nodeType": "sub-nodes",
         "subsetPrefix": null,
-        "placeholder": "eg. PF02373 or IPR001138",
         "topDescription": [
           {
-            "text": "Retrieve protein-coding genes by specific domains present in the products. To retrieve all domain-containing proteins, search for \"IPR*\" or \"PF*\""
+            "text": "Retrieve protein properties"
           }
-        ]
-      },
-      {
-        "id": "SO_protein",
-        "displayName": "protein feature",
-        "nodeType": "ontology",
-        "ontologyName": "SO-protein",
-        "topDescription": [
+        ],
+        "subNodes": [
           {
-            "text": "Retrieve protein-coding genes based on features annotated using the protein sequence feature branch of the Sequence Ontology (SO)"
-          }
-        ]
-      },
-      {
-        "id": "protein_length",
-        "displayName": "protein length",
-        "nodeType": "int-range",
-        "topDescription": [
+            "id": "protein_length",
+            "displayName": "protein length",
+            "nodeType": "int-range",
+            "range_minimum": 1,
+            "range_any_and_none": false,
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by product length (in amino acids)"
+              }
+            ]
+          },
           {
-            "text": "Retrieve protein-coding genes by product length (in amino acids)"
-          }
-        ]
-      },
-      {
-        "id": "protein_mol_weight",
-        "displayName": "protein mol. weight",
-        "nodeType": "float-range",
-        "topDescription": [
-          {
-            "text": "Retrieve protein-coding genes by product molecular weight in kDa"
+            "id": "protein_mol_weight",
+            "displayName": "protein mol. weight",
+            "nodeType": "float-range",
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes by product molecular weight in kDa"
+              }
+            ]
           }
         ]
       },
@@ -483,16 +559,6 @@
         ]
       },
       {
-        "id": "tm_domain_count",
-        "displayName": "Number of TM domains",
-        "nodeType": "int-range",
-        "topDescription": [
-          {
-            "text": "Retrieve protein-coding genes by number of predicted transmembrane domains in the product"
-          }
-        ]
-      },
-      {
         "id": "genome_range",
         "displayName": "Genome location",
         "nodeType": "genome-range",
@@ -503,9 +569,101 @@
         ]
       },
       {
+        "id": "orthologs-and-conservation",
+        "nodeType": "sub-nodes",
+        "displayName": "Orthologs and conservation",
+        "topDescription": [
+          {
+            "text": "Orthologs and conservation"
+          }
+        ],
+        "subNodes": [
+          {
+            "id": "taxonomic_conservation",
+            "displayName": "taxonomic conservation",
+            "nodeType": "small-ontology",
+            "terms": [
+              {
+                "name": "Schizosaccharomyces pombe specific",
+                "termid": "PBO:0016878"
+              },
+              {
+                "name": "Schizosaccharomyces specific",
+                "termid": "PBO:0016885"
+              },
+              {
+                "name": "conserved in archaea",
+                "termid": "PBO:0011072"
+              },
+              {
+                "name": "conserved in bacteria",
+                "termid": "PBO:0011067"
+              },
+              {
+                "name": "conserved in eukaryotes",
+                "termid": "PBO:0011065"
+              },
+              {
+                "name": "conserved in eukaryotes only",
+                "termid": "PBO:0011071"
+              },
+              {
+                "name": "conserved in fungi",
+                "termid": "PBO:0011064"
+              },
+              {
+                "name": "conserved in fungi only",
+                "termid": "PBO:0011063"
+              },
+              {
+                "name": "conserved in metazoa",
+                "termid": "PBO:0011069"
+              },
+              {
+                "name": "conserved in vertebrates",
+                "termid": "PBO:0011070"
+              },
+              {
+                "name": "faster evolving duplicate",
+                "termid": "PBO:0009798"
+              },
+              {
+                "name": "no apparent S. cerevisiae ortholog",
+                "termid": "PBO:0000055"
+              },
+              {
+                "name": "orthologs cannot be distinguished",
+                "termid": "PBO:0000110"
+              },
+              {
+                "name": "predominantly single copy (one to one)",
+                "termid": "PBO:0006222"
+              }
+            ],
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes based on broad categories of taxonomic conservation"
+              }
+            ]
+          },
+          {
+            "id": "has_ortholog",
+            "displayName": "protein with orthologs",
+            "nodeType": "has-ortholog",
+            "topDescription": [
+              {
+                "text": "Retrieve proteins that have an ortholog in"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "exon_count",
-        "displayName": "Number of exons",
+        "displayName": "number of exons",
         "nodeType": "int-range",
+        "range_minimum": 1,
+        "range_any_and_none": false,
         "topDescription": [
           {
             "text": "Retrieve genes by number of exons in the primary transcript"
@@ -513,94 +671,18 @@
         ]
       },
       {
-        "id": "has_ortholog",
-        "displayName": "Protein with orthologs",
-        "nodeType": "has-ortholog",
-        "topDescription": [
-          {
-            "text": "Retrieve proteins that have an ortholog in"
-          }
-        ]
-      },
-      {
         "id": "transcript_count",
         "displayName": "Number of transcripts",
         "nodeType": "int-range",
+        "range_minimum": 1,
+        "range_any_and_none": false,
         "topDescription": [
           {
             "text": "Retrieve genes by number of annotated transcripts"
           }
         ]
       },
-      {
-        "id": "taxonomic_conservation",
-        "displayName": "taxonomic conservation",
-        "nodeType": "small-ontology",
-        "terms": [
-          {
-            "name": "Schizosaccharomyces pombe specific",
-            "termid": "PBO:0016878"
-          },
-          {
-            "name": "Schizosaccharomyces specific",
-            "termid": "PBO:0016885"
-          },
-          {
-            "name": "conserved in archaea",
-            "termid": "PBO:0011072"
-          },
-          {
-            "name": "conserved in bacteria",
-            "termid": "PBO:0011067"
-          },
-          {
-            "name": "conserved in eukaryotes",
-            "termid": "PBO:0011065"
-          },
-          {
-            "name": "conserved in eukaryotes only",
-            "termid": "PBO:0011071"
-          },
-          {
-            "name": "conserved in fungi",
-            "termid": "PBO:0011064"
-          },
-          {
-            "name": "conserved in fungi only",
-            "termid": "PBO:0011063"
-          },
-          {
-            "name": "conserved in metazoa",
-            "termid": "PBO:0011069"
-          },
-          {
-            "name": "conserved in vertebrates",
-            "termid": "PBO:0011070"
-          },
-          {
-            "name": "faster evolving duplicate",
-            "termid": "PBO:0009798"
-          },
-          {
-            "name": "no apparent S. cerevisiae ortholog",
-            "termid": "PBO:0000055"
-          },
-          {
-            "name": "orthologs cannot be distinguished",
-            "termid": "PBO:0000110"
-          },
-          {
-            "name": "predominantly single copy (one to one)",
-            "termid": "PBO:0006222"
-          }
-        ],
-        "topDescription": [
-          {
-            "text": "Retrieve protein-coding genes based on broad categories of taxonomic conservation"
-          }
-        ]
-      },
-      {
+     {
         "id": "characterisation_status",
         "displayName": "characterisation status",
         "nodeType": "subset-select",
@@ -2461,7 +2543,7 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-05-09",
       "show_on_front_page": false
-    },   
+    },
     {
       "title": "Nuckolls et al., 2020",
       "title_link": null,
