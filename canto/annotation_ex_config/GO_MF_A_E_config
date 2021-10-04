@@ -28,7 +28,7 @@ GO:0016530	is_a	has_substrate	ProteinID	chaperone for		0,1	user
 GO:0019706	is_a	has_substrate	ProteinID	palmitoylates		0,1	user
 GO:0019787	is_a	has_substrate	ProteinID	modifies		0,1	user
 GO:0030234	is_a	has_regulation_target	ProteinID	regulates activity of		0,1	user
-#GO:0030674-is_a(GO:0008093)&is_a(GO:0008173)&is_a(GO:0035591)&is_a(GO:0043495)&is_a(GO:0140312)&is_a(GO:0140463)&is_a(GO:0140483)&is_a(GO:1990756)	is_a	has_input	ProteinID	has_input	interacts with protein or RNA	0,1	user
+#GO:0030674-is_a(GO:0001010)&is_a(GO:0005484)&is_a(GO:0008093)&is_a(GO:0035591)&is_a(GO:0043495)&is_a(GO:0140312)&is_a(GO:0140463)&is_a(GO:0140483)&is_a(GO:1990756)	is_a	has_input	ProteinID	has_input	interacts with protein or RNA	0,1	user
 GO:0030674-is_a(GO:0008093)	is_a	has_input	ProteinID	recruits		0,1	user
 GO:0032542	is_a	has_substrate	SPBC32F12.03c|SPBC1773.02c|SPCC330.06c|SPCC576.03c|SPAC27D7.12c|SPBC17D11.03c|SPBC17D11.03c	acts on		0,1	user
 GO:0033558	is_a	has_substrate	ProteinID	deacetylates		0,1	user
