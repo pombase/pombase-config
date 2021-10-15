@@ -330,401 +330,432 @@
         ]
       },
       {
-        "id": "gene_list",
-        "displayName": "Gene name and IDs",
-        "nodeType": "gene-list",
-        "topDescription": [
-          {
-            "text": "Enter or upload a list of systematic gene IDs or gene names"
-          }
-        ]
-      },
-      {
-        "id": "uniprot_id_list",
-        "displayName": "UniProt accessions",
-        "nodeType": "gene-list",
-        "topDescription": [
-          {
-            "text": "UniProt accession mapping has moved"
-          }
-        ],
-        "extraResultTableColumns": [
-          "uniprot_identifier"
-        ]
-      },
-      {
-        "id": "GO",
-        "displayName": "GO",
-        "nodeType": "ontology",
-        "ontologyName": "GO",
-        "topDescription": [
-          {
-            "text": "Retrieve genes via annotated Gene Ontology terms that describe the activity, process, or location of their products (protein or ncRNA)"
-          }
-        ]
-      },
-      {
-        "id": "FYPO",
-        "displayName": "phenotype",
-        "nodeType": "ontology",
-        "ontologyName": "FYPO",
-        "annotationFeatureType": "genotype",
-        "topDescription": [
-          {
-            "text": "Retrieve genes based on mutant phenotypes annotated using Fission Yeast Phenotype Ontology (FYPO)"
-          }
-        ],
-        "phenotypeConditionNamespace": "phenotype_condition"
-      },
-      {
-        "id": "product_type",
-        "displayName": "product type",
-        "nodeType": "subset-select",
-        "subsets": [
-          {
-            "name": "feature_type_pseudogene",
-            "displayName": "feature_type:pseudogene"
-          },
-          {
-            "name": "feature_type_mRNA_gene",
-            "displayName": "feature_type:protein"
-          },
-          {
-            "name": "feature_type_tRNA_gene",
-            "displayName": "feature_type:tRNA"
-          },
-          {
-            "name": "feature_type_ncRNA_gene",
-            "displayName": "feature_type:ncRNA"
-          },
-          {
-            "name": "feature_type_snoRNA_gene",
-            "displayName": "feature_type:snoRNA"
-          },
-          {
-            "name": "feature_type_snRNA_gene",
-            "displayName": "feature_type:snRNA"
-          },
-          {
-            "name": "feature_type_rRNA_gene",
-            "displayName": "feature_type:rRNA"
-          }
-        ],
-        "topDescription": [
-          {
-            "text": "Retrieve genes based on product type. Note that \"protein\" includes dubious and transposon protein-coding genes; there is a prepared query that excludes both in the list of commonly used queries"
-          }
-        ]
-      },
-      {
-        "id": "PSI-MOD",
-        "displayName": "protein modification",
-        "nodeType": "ontology",
-        "ontologyName": "PSI-MOD",
-        "placeholder": "e.g phosphorylated residue (MOD:00696)",
-        "topDescription": [
-          {
-            "text": "Retrieve protein-coding genes based on modifications annotated using PSI-MOD ontology terms"
-          }
-        ]
-      },
-      {
-        "id": "domains_and_features",
-        "displayName": "protein domain, features and motifs",
-        "nodeType": "sub-nodes",
-        "topDescription": [
-          {
-            "text": "Retrieve protein domains, features and motifs"
-          }
-        ],
+        "id": "gene_list_queries",
+        "displayName": "Gene list queries",
+        "nodeType": "heading",
+        "topDescription": [],
         "subNodes": [
           {
-            "id": "all_domains",
-            "displayName": "Domain ID",
-            "nodeType": "subset-input",
-            "subsetPrefix": null,
-            "placeholder": "eg. PF02373 or IPR001138",
+            "id": "gene_list",
+            "displayName": "Gene name and IDs",
+            "nodeType": "gene-list",
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes by specific domains present in the products. To retrieve all domain-containing proteins, search for \"IPR*\" or \"PF*\""
+                "text": "Enter or upload a list of systematic gene IDs or gene names"
               }
             ]
           },
           {
-            "id": "SO_protein",
-            "displayName": "protein motifs",
-            "nodeType": "ontology",
-            "ontologyName": "SO-protein",
+            "id": "uniprot_id_list",
+            "displayName": "UniProt accessions",
+            "nodeType": "gene-list",
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes based on features annotated using the protein sequence feature branch of the Sequence Ontology (SO)"
+                "text": "UniProt accession mapping has moved"
               }
             ],
-            "extraDescription": "Examples: short motifs such as NLS or KEN box, signal sequence, cleaved region, helix"
-          },
+            "extraResultTableColumns": [
+              "uniprot_identifier"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ontology_queries",
+        "displayName": "Ontology queries",
+        "nodeType": "heading",
+        "topDescription": [],
+        "subNodes": [
           {
-            "id": "tm_domain_count",
-            "displayName": "TM domains",
-            "nodeType": "int-range",
-            "range_minimum": 0,
-            "range_any_and_none": true,
+            "id": "GO",
+            "displayName": "GO",
+            "nodeType": "ontology",
+            "ontologyName": "GO",
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes by number of predicted transmembrane domains in the product"
+                "text": "Retrieve genes via annotated Gene Ontology terms that describe the activity, process, or location of their products (protein or ncRNA)"
               }
             ]
           },
           {
-            "id": "coiled_coils_count",
-            "displayName": "coiled-coils",
-            "nodeType": "int-range",
-            "range_minimum": 0,
-            "range_any_and_none": true,
+            "id": "FYPO",
+            "displayName": "phenotype",
+            "nodeType": "ontology",
+            "ontologyName": "FYPO",
+            "annotationFeatureType": "genotype",
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes by number of predicted coiled-coil domains in the product"
+                "text": "Retrieve genes based on mutant phenotypes annotated using Fission Yeast Phenotype Ontology (FYPO)"
               }
-            ]
+            ],
+            "phenotypeConditionNamespace": "phenotype_condition"
           },
           {
-            "id": "disordered_regions_count",
-            "displayName": "disordered regions",
-            "nodeType": "int-range",
-            "range_minimum": 0,
-            "range_any_and_none": true,
+            "id": "disease_associated",
+            "displayName": "disease",
+            "nodeType": "ontology",
+            "ontologyName": "mondo",
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes by number of disordered regions in the product"
-              }
-            ]
-          },
-          {
-            "id": "low_complexity_regions_count",
-            "displayName": "low complexity regions",
-            "nodeType": "int-range",
-            "range_minimum": 0,
-            "range_any_and_none": true,
-            "topDescription": [
-              {
-                "text": "Retrieve protein-coding genes by number of low complexity regions in the product"
+                "text": "Retrieve genes for which the curated human ortholog is associated with a disease. To find all disease gene orthologs, search for \"disease\""
               }
             ]
           }
         ]
       },
       {
-        "id": "protein_properties",
-        "displayName": "protein properties",
-        "nodeType": "sub-nodes",
-        "subsetPrefix": null,
-        "topDescription": [
-          {
-            "text": "Retrieve protein properties"
-          }
-        ],
+        "id": "gene_product_queries",
+        "displayName": "Gene product queries",
+        "nodeType": "heading",
+        "topDescription": [],
         "subNodes": [
           {
-            "id": "protein_length",
-            "displayName": "protein length",
+            "id": "product_type",
+            "displayName": "product type",
+            "nodeType": "subset-select",
+            "subsets": [
+              {
+                "name": "feature_type_pseudogene",
+                "displayName": "feature_type:pseudogene"
+              },
+              {
+                "name": "feature_type_mRNA_gene",
+                "displayName": "feature_type:protein"
+              },
+              {
+                "name": "feature_type_tRNA_gene",
+                "displayName": "feature_type:tRNA"
+              },
+              {
+                "name": "feature_type_ncRNA_gene",
+                "displayName": "feature_type:ncRNA"
+              },
+              {
+                "name": "feature_type_snoRNA_gene",
+                "displayName": "feature_type:snoRNA"
+              },
+              {
+                "name": "feature_type_snRNA_gene",
+                "displayName": "feature_type:snRNA"
+              },
+              {
+                "name": "feature_type_rRNA_gene",
+                "displayName": "feature_type:rRNA"
+              }
+            ],
+            "topDescription": [
+              {
+                "text": "Retrieve genes based on product type. Note that \"protein\" includes dubious and transposon protein-coding genes; there is a prepared query that excludes both in the list of commonly used queries"
+              }
+            ]
+          },
+          {
+            "id": "PSI-MOD",
+            "displayName": "protein modification",
+            "nodeType": "ontology",
+            "ontologyName": "PSI-MOD",
+            "placeholder": "e.g phosphorylated residue (MOD:00696)",
+            "topDescription": [
+              {
+                "text": "Retrieve protein-coding genes based on modifications annotated using PSI-MOD ontology terms"
+              }
+            ]
+          },
+          {
+            "id": "domains_and_features",
+            "displayName": "domain, features and motifs",
+            "nodeType": "sub-nodes",
+            "topDescription": [
+              {
+                "text": "Retrieve protein domains, features and motifs"
+              }
+            ],
+            "subNodes": [
+              {
+                "id": "all_domains",
+                "displayName": "Domain ID",
+                "nodeType": "subset-input",
+                "subsetPrefix": null,
+                "placeholder": "eg. PF02373 or IPR001138",
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by specific domains present in the products. To retrieve all domain-containing proteins, search for \"IPR*\" or \"PF*\""
+                  }
+                ]
+              },
+              {
+                "id": "SO_protein",
+                "displayName": "protein motifs",
+                "nodeType": "ontology",
+                "ontologyName": "SO-protein",
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes based on features annotated using the protein sequence feature branch of the Sequence Ontology (SO)"
+                  }
+                ],
+                "extraDescription": "Examples: short motifs such as NLS or KEN box, signal sequence, cleaved region, helix"
+              },
+              {
+                "id": "tm_domain_count",
+                "displayName": "TM domains",
+                "nodeType": "int-range",
+                "range_minimum": 0,
+                "range_any_and_none": true,
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by number of predicted transmembrane domains in the product"
+                  }
+                ]
+              },
+              {
+                "id": "coiled_coils_count",
+                "displayName": "coiled-coils",
+                "nodeType": "int-range",
+                "range_minimum": 0,
+                "range_any_and_none": true,
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by number of predicted coiled-coil domains in the product"
+                  }
+                ]
+              },
+              {
+                "id": "disordered_regions_count",
+                "displayName": "disordered regions",
+                "nodeType": "int-range",
+                "range_minimum": 0,
+                "range_any_and_none": true,
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by number of disordered regions in the product"
+                  }
+                ]
+              },
+              {
+                "id": "low_complexity_regions_count",
+                "displayName": "low complexity regions",
+                "nodeType": "int-range",
+                "range_minimum": 0,
+                "range_any_and_none": true,
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by number of low complexity regions in the product"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "protein_properties",
+            "displayName": "protein properties",
+            "nodeType": "sub-nodes",
+            "subsetPrefix": null,
+            "topDescription": [
+              {
+                "text": "Retrieve protein properties"
+              }
+            ],
+            "subNodes": [
+              {
+                "id": "protein_length",
+                "displayName": "protein length",
+                "nodeType": "int-range",
+                "range_minimum": 1,
+                "range_any_and_none": false,
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by product length (in amino acids)"
+                  }
+                ]
+              },
+              {
+                "id": "protein_mol_weight",
+                "displayName": "protein mol. weight",
+                "nodeType": "float-range",
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes by product molecular weight in kDa"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "exon_count",
+            "displayName": "number of exons",
             "nodeType": "int-range",
             "range_minimum": 1,
             "range_any_and_none": false,
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes by product length (in amino acids)"
+                "text": "Retrieve genes by number of exons in the primary transcript"
               }
             ]
           },
           {
-            "id": "protein_mol_weight",
-            "displayName": "protein mol. weight",
-            "nodeType": "float-range",
+            "id": "transcript_count",
+            "displayName": "Number of transcripts",
+            "nodeType": "int-range",
+            "range_minimum": 1,
+            "range_any_and_none": false,
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes by product molecular weight in kDa"
+                "text": "Retrieve genes by number of annotated transcripts"
               }
             ]
           }
         ]
       },
       {
-        "id": "disease_associated",
-        "displayName": "disease",
-        "nodeType": "ontology",
-        "ontologyName": "mondo",
-        "topDescription": [
-          {
-            "text": "Retrieve genes for which the curated human ortholog is associated with a disease. To find all disease gene orthologs, search for \"disease\""
-          }
-        ]
-      },
-      {
-        "id": "genome_range",
-        "displayName": "Genome location",
-        "nodeType": "genome-range",
-        "topDescription": [
-          {
-            "text": "Retrieve genes in a specified region of a chromosome"
-          }
-        ]
-      },
-      {
-        "id": "orthologs-and-conservation",
-        "nodeType": "sub-nodes",
-        "displayName": "Orthologs and conservation",
-        "topDescription": [
-          {
-            "text": "Orthologs and conservation"
-          }
-        ],
+        "id": "genome_overview_queries",
+        "displayName": "Genome overview queries",
+        "nodeType": "heading",
         "subNodes": [
           {
-            "id": "taxonomic_conservation",
-            "displayName": "taxonomic conservation",
-            "nodeType": "small-ontology",
-            "terms": [
+            "id": "genome_range",
+            "displayName": "Genome location",
+            "nodeType": "genome-range",
+            "topDescription": [
               {
-                "name": "Schizosaccharomyces pombe specific",
-                "termid": "PBO:0016878"
+                "text": "Retrieve genes in a specified region of a chromosome"
+              }
+            ]
+          },
+          {
+            "id": "orthologs-and-conservation",
+            "nodeType": "sub-nodes",
+            "displayName": "Orthologs and conservation",
+            "topDescription": [
+              {
+                "text": "Orthologs and conservation"
+              }
+            ],
+            "subNodes": [
+              {
+                "id": "taxonomic_conservation",
+                "displayName": "taxonomic conservation",
+                "nodeType": "small-ontology",
+                "terms": [
+                  {
+                    "name": "Schizosaccharomyces pombe specific",
+                    "termid": "PBO:0016878"
+                  },
+                  {
+                    "name": "Schizosaccharomyces specific",
+                    "termid": "PBO:0016885"
+                  },
+                  {
+                    "name": "conserved in archaea",
+                    "termid": "PBO:0011072"
+                  },
+                  {
+                    "name": "conserved in bacteria",
+                    "termid": "PBO:0011067"
+                  },
+                  {
+                    "name": "conserved in eukaryotes",
+                    "termid": "PBO:0011065"
+                  },
+                  {
+                    "name": "conserved in eukaryotes only",
+                    "termid": "PBO:0011071"
+                  },
+                  {
+                    "name": "conserved in fungi",
+                    "termid": "PBO:0011064"
+                  },
+                  {
+                    "name": "conserved in fungi only",
+                    "termid": "PBO:0011063"
+                  },
+                  {
+                    "name": "conserved in metazoa",
+                    "termid": "PBO:0011069"
+                  },
+                  {
+                    "name": "conserved in vertebrates",
+                    "termid": "PBO:0011070"
+                  },
+                  {
+                    "name": "faster evolving duplicate",
+                    "termid": "PBO:0009798"
+                  },
+                  {
+                    "name": "no apparent S. cerevisiae ortholog",
+                    "termid": "PBO:0000055"
+                  },
+                  {
+                    "name": "orthologs cannot be distinguished",
+                    "termid": "PBO:0000110"
+                  },
+                  {
+                    "name": "predominantly single copy (one to one)",
+                    "termid": "PBO:0006222"
+                  }
+                ],
+                "topDescription": [
+                  {
+                    "text": "Retrieve protein-coding genes based on broad categories of taxonomic conservation"
+                  }
+                ]
               },
               {
-                "name": "Schizosaccharomyces specific",
-                "termid": "PBO:0016885"
+                "id": "has_ortholog",
+                "displayName": "protein with orthologs",
+                "nodeType": "has-ortholog",
+                "topDescription": [
+                  {
+                    "text": "Retrieve proteins that have an ortholog in"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "characterisation_status",
+            "displayName": "characterisation status",
+            "nodeType": "subset-select",
+            "subsets": [
+              {
+                "name": "characterisation_status_published",
+                "displayName": "characterisation_status:published"
               },
               {
-                "name": "conserved in archaea",
-                "termid": "PBO:0011072"
+                "name": "characterisation_status_transposon",
+                "displayName": "characterisation_status:transposon"
               },
               {
-                "name": "conserved in bacteria",
-                "termid": "PBO:0011067"
+                "name": "characterisation_status_dubious",
+                "displayName": "characterisation_status:dubious"
               },
               {
-                "name": "conserved in eukaryotes",
-                "termid": "PBO:0011065"
+                "name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized",
+                "displayName": "characterisation_status:Schizo. specific protein, uncharacterized"
               },
               {
-                "name": "conserved in eukaryotes only",
-                "termid": "PBO:0011071"
+                "name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized",
+                "displayName": "characterisation_status:S. pombe specific protein, uncharacterized"
               },
               {
-                "name": "conserved in fungi",
-                "termid": "PBO:0011064"
+                "name": "characterisation_status_biological_role_inferred",
+                "displayName": "characterisation_status:biological role inferred"
               },
               {
-                "name": "conserved in fungi only",
-                "termid": "PBO:0011063"
-              },
-              {
-                "name": "conserved in metazoa",
-                "termid": "PBO:0011069"
-              },
-              {
-                "name": "conserved in vertebrates",
-                "termid": "PBO:0011070"
-              },
-              {
-                "name": "faster evolving duplicate",
-                "termid": "PBO:0009798"
-              },
-              {
-                "name": "no apparent S. cerevisiae ortholog",
-                "termid": "PBO:0000055"
-              },
-              {
-                "name": "orthologs cannot be distinguished",
-                "termid": "PBO:0000110"
-              },
-              {
-                "name": "predominantly single copy (one to one)",
-                "termid": "PBO:0006222"
+                "name": "characterisation_status_conserved_unknown",
+                "displayName": "characterisation_status:conserved unknown"
               }
             ],
             "topDescription": [
               {
-                "text": "Retrieve protein-coding genes based on broad categories of taxonomic conservation"
-              }
-            ]
-          },
-          {
-            "id": "has_ortholog",
-            "displayName": "protein with orthologs",
-            "nodeType": "has-ortholog",
-            "topDescription": [
+                "text": "Retrieve protein-coding genes based on "
+              },
               {
-                "text": "Retrieve proteins that have an ortholog in"
+                "link": {
+                  "link_text": "characterisation status",
+                  "route": "/status/gene-characterisation"
+                }
               }
             ]
-          }
-        ]
-      },
-      {
-        "id": "exon_count",
-        "displayName": "number of exons",
-        "nodeType": "int-range",
-        "range_minimum": 1,
-        "range_any_and_none": false,
-        "topDescription": [
-          {
-            "text": "Retrieve genes by number of exons in the primary transcript"
-          }
-        ]
-      },
-      {
-        "id": "transcript_count",
-        "displayName": "Number of transcripts",
-        "nodeType": "int-range",
-        "range_minimum": 1,
-        "range_any_and_none": false,
-        "topDescription": [
-          {
-            "text": "Retrieve genes by number of annotated transcripts"
-          }
-        ]
-      },
-     {
-        "id": "characterisation_status",
-        "displayName": "characterisation status",
-        "nodeType": "subset-select",
-        "subsets": [
-          {
-            "name": "characterisation_status_published",
-            "displayName": "characterisation_status:published"
-          },
-          {
-            "name": "characterisation_status_transposon",
-            "displayName": "characterisation_status:transposon"
-          },
-          {
-            "name": "characterisation_status_dubious",
-            "displayName": "characterisation_status:dubious"
-          },
-          {
-            "name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized",
-            "displayName": "characterisation_status:Schizo. specific protein, uncharacterized"
-          },
-          {
-            "name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized",
-            "displayName": "characterisation_status:S. pombe specific protein, uncharacterized"
-          },
-          {
-            "name": "characterisation_status_biological_role_inferred",
-            "displayName": "characterisation_status:biological role inferred"
-          },
-          {
-            "name": "characterisation_status_conserved_unknown",
-            "displayName": "characterisation_status:conserved unknown"
-          }
-        ],
-        "topDescription": [
-          {
-            "text": "Retrieve protein-coding genes based on "
-          },
-          {
-            "link": {
-              "link_text": "characterisation status",
-              "route": "/status/gene-characterisation"
-            }
           }
         ]
       }
