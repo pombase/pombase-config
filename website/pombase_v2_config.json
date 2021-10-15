@@ -509,7 +509,7 @@
               },
               {
                 "id": "coiled_coils_count",
-                "displayName": "coiled-coils",
+                "displayName": "coiled-coil regions",
                 "nodeType": "int-range",
                 "range_minimum": 0,
                 "range_any_and_none": true,
