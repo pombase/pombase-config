@@ -2930,6 +2930,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Yu et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-10-25-34499173-Yu-Pul1-co-tethering-assay.png"],
+      "content": "Visual detection of binary, ternary and quaternary protein interactions in fission yeast using a Pil1 co-tethering assay.\nOriginally published in <a href='https://journals.biologists.com/jcs/article-abstract/134/19/jcs258774/272452/Visual-detection-of-binary-ternary-and-quaternary'>Journal of Cell Science</a>.",
+      "reference_id": "PMID:34499173",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-10-25",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
