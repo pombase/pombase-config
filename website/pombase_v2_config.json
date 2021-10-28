@@ -130,8 +130,8 @@
             "url": "/status/sequencing-updates"
           },
           {
-            "title": "Genome feature overview",
-            "url": "/status/statistics"
+            "title": "Genome overview",
+            "url": "/status/genome-overview"
           },
           {
             "title": "Gene coordinate changes",
