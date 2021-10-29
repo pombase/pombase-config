@@ -75,7 +75,7 @@
   "no_gene_name_route": "/submit-data/gene-names",
   "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
   "jackhmmer_search_url": "https://www.ebi.ac.uk/Tools/hmmer/search/jackhmmer",
-  "fasta_search_url": "https://www.ebi.ac.uk/Tools/sss/fasta/",
+  "ebi_tools_url": "https://www.ebi.ac.uk/Tools/services/web/toolform.ebi",
   "canto_url": "https://curation.pombase.org/pombe",
   "community_mailing_list": {
     "url": "https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist",
