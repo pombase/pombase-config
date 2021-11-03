@@ -1,4 +1,5 @@
 Domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
+GO:0008150	is_a	transcript_isoform_id	Text	transcript isoform ID		0,1	admin
 GO:0008150	is_a	has_qualifier	PBHQ:002	qualifier		*	admin
 GO:0008150	is_a	column_17	Text	PR:nnn ID for gene product form		*	admin
 GO:0000770	is_a	has_input	SPAPB8E5.05|SPAC513.03|SPCC1795.06|SPBPJ4664.03	exports		0,1	user
