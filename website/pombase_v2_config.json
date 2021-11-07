@@ -2941,6 +2941,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Mak et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-11-08-34296454-TOR-Mak.png"],
+      "content": "The TOR-dependent phosphoproteome and regulation of cellular protein synthesis..\nOriginally published in <a href='https://www.embopress.org/doi/full/10.15252/embj.2021107911'>EMBO J</a>.",
+      "reference_id": "PMID:34296454",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-11-08",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Yague-Sanz et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-11-08-34352089-bachand.png"],
+      "content": "Co-transcriptional RNA cleavage by Drosha homolog Pac1 triggers transcription termination in fission yeast.\nOriginally published in Nucleic Acids Res. <a href='https://academic.oup.com/nar/article/49/15/8610/6342457'></a>.",
+      "reference_id": "PMID:34352089",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-11-08",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
