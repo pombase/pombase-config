@@ -2963,6 +2963,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Stirpe et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-11-08-34524082-Clr4-Stirpe.png"],
+      "content": "SUV39 SET domains mediate crosstalk of heterochromatic histone marks.\nOriginally published in <a href='https://elifesciences.org/articles/62682'>Life</a>.",
+      "reference_id": "PMID:34524082",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-11-08",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
