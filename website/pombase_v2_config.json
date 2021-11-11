@@ -4381,7 +4381,6 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "detailed_view_only": true,
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
@@ -4481,7 +4480,6 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "detailed_view_only": true,
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
@@ -4577,7 +4575,6 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "detailed_view_only": true,
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
@@ -4697,7 +4694,6 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "detailed_view_only": true,
           "extension_rel_type_name": "during",
           "extension_categories": [
             {
