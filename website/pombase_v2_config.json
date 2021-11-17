@@ -2978,6 +2978,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Hu et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-11-17-33378677-Hu-telomerase-RNA-folding.png"],
+      "content": "Quality-Control Mechanism for Telomerase RNA Folding in the Cell.\nOriginally published in <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31557-6'>Cell Reports</a>.",
+      "reference_id": "PMID:33378677",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-11-17",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
