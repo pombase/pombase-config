@@ -63,7 +63,7 @@
       "urlTemplate" : "tracks/PomBase features/{refseq}/trackData.json",
       "style" : {
         "className" : "feature",
-        "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#cccccc'; } else { return '#ff4444' } } }"
+        "color" : "function( featureObject, variableName, glyphObject, trackObject ) { var ftType = featureObject.get('type'); if (ftType == 'mRNA' || ftType == 'CDS') { return 'goldenrod'; } else { if (ftType.indexOf('RNA') == -1) { return '#7c3d10'; } else { return '#ccc' } } }"
       },
       "compress" : 0,
       "storeClass" : "JBrowse/Store/SeqFeature/NCList",
