@@ -76,7 +76,7 @@
       "style" : {
         "className" : "feature",
         "height": "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return '12'; } else { return '8' } } else { return '10' } }",
-        "color" : "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return 'goldenrod'; } else { return '#ccc' } } else { return '#e28855' } }"
+        "color" : "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return 'goldenrod'; } else { return '#ccc' } } else { return '#4fc2e7' } }"
       },
       "labelTranscripts": false,
       "compress" : 0,
@@ -99,7 +99,7 @@
       "style" : {
         "className" : "feature",
         "height": "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return '12'; } else { return '8' } } else { return '10' } }",
-        "color" : "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return 'goldenrod'; } else { return '#ccc' } } else { return '#e28855' } }"
+        "color" : "function(featureObject) { var parent = featureObject.parent(); if (parent) { var parType = parent.get('type'); if (parType == 'mRNA' || parType.indexOf('RNA') == -1) { return 'goldenrod'; } else { return '#ccc' } } else { return '#4fc2e7' } }"
       },
       "labelTranscripts": false,
       "compress" : 0,
