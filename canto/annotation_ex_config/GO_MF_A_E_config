@@ -30,15 +30,16 @@ GO:0019706	is_a	has_substrate	ProteinID	palmitoylates		0,1	user
 GO:0019787	is_a	has_substrate	ProteinID	modifies		0,1	user
 GO:0030234	is_a	has_regulation_target	ProteinID	regulates activity of		0,1	user
 #GO:0030674-is_a(GO:0001010)&is_a(GO:0005484)&is_a(GO:0008093)&is_a(GO:0035591)&is_a(GO:0043495)&is_a(GO:0140312)&is_a(GO:0140463)&is_a(GO:0140483)&is_a(GO:1990756)	is_a	has_input	ProteinID	has_input	interacts with protein or RNA	0,1	user
-GO:0030674-is_a(GO:0008093)	is_a	has_input	ProteinID	recruits		0,1	user
+GO:0030674-is_a(GO:0008093)&(GO:0140566)	is_a	has_input	ProteinID	recruits		0,1	user
 GO:0032542	is_a	has_substrate	SPBC32F12.03c|SPBC1773.02c|SPCC330.06c|SPCC576.03c|SPAC27D7.12c|SPBC17D11.03c|SPBC17D11.03c	acts on		0,1	user
 GO:0033558	is_a	has_substrate	ProteinID	deacetylates		0,1	user
 GO:0038187	is_a	has_input	ProteinID|CHEBI:24431	has ligand (protein or chemical substance)		0,1	user
 GO:0050265	is_a	has_substrate	TranscriptID	uridylylates		0,1	user
 GO:0101005	is_a	has_substrate	ProteinID	deubiquitinates		0,1	user
-GO:0140597	is_a	has_substrate	TranscriptID|ProteinID	transports (protein or RNA)		0,1	user
+GO:0140597	is_a	has_substrate	TranscriptID|ProteinID	chaperones (protein or RNA)		0,1	user
 GO:0140313	is_a	has_substrate	ProteinID	sequesters		0,1	user
 GO:1904680	is_a	has_substrate	ProteinID	transports		0,1	user
 GO:0003674	is_a	column_17	Text	PR:nnn ID for gene product form		*	admin
-GO:0003674	is_a	has_qualifier	PBHQ:002|PBHQ:004	qualifier		*	admin
+GO:0003674	is_a	has_qualifier	PBHQ:002|PBHQ:004	qualifier		*	user
 GO:0005515	is_a	has_substrate	Text	binds (PR:nnn ID for bound protein form)		0,1	admin
+GO:0140566	is_a	has_substrate	Text	reads		0,1	user
