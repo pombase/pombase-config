@@ -3838,8 +3838,8 @@
     {
       "rel_name": "has_direct_input",
       "if_descendant_of": "GO:0140597",
-      "display_name": "carries",
-      "reciprocal_display": "carried by"
+      "display_name": "chaperones",
+      "reciprocal_display": "chaperoned by"
     },
     {
       "rel_name": "assayed_using",
