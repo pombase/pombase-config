@@ -3711,6 +3711,12 @@
     },
     {
       "rel_name": "has_input",
+      "if_descendant_of": "GO:0140566",
+      "display_name": "reads",
+      "reciprocal_display": "read by"
+    },
+    {
+      "rel_name": "has_input",
       "if_descendant_of": "GO:0030674",
       "display_name": "recruits",
       "reciprocal_display": "recruited by"
