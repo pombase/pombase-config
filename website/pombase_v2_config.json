@@ -394,7 +394,7 @@
                 "text": "Retrieve genes based on mutant phenotypes annotated using Fission Yeast Phenotype Ontology (FYPO)"
               }
             ],
-            "phenotypeConditionNamespace": "phenotype_condition"
+            "phenotypeConditionNamespace": "fission_yeast_phenotype_condition"
           },
           {
             "id": "disease_associated",
@@ -4357,7 +4357,7 @@
       "single_or_multi_locus": "multi",
       "help_route": "/documentation/gene-page-phenotypes"
     },
-    "phenotype_condition": {
+    "fission_yeast_phenotype_condition": {
       "feature_type": "genotype",
       "display_name": "Phenotype condition",
       "columns_to_show": ["desc-rel", "genotype", "evidence", "qualifiers", "reference", "count", "extension"]
@@ -5099,7 +5099,7 @@
     "cellular_component",
     "single_locus_phenotype",
     "multi_locus_phenotype",
-    "phenotype_condition",
+    "fission_yeast_phenotype_condition",
     "complementation",
     "target_of",
     "kegg_pombe_pathway",
