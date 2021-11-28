@@ -2833,7 +2833,7 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-07-27",
       "show_on_front_page": false
-    },    
+    },
     {
       "title": "Willet et al., 2021",
       "title_link": null,
@@ -2855,7 +2855,7 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-07-30",
       "show_on_front_page": false
-    },  
+    },
     {
       "title": "Shan et al., 2021",
       "title_link": null,
@@ -4401,52 +4401,80 @@
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
-              "display_name": "interphase",
-              "ancestors": ["GO:0051325"]
+              "display_name": "mitotic interphase",
+              "ancestors": ["GO:0051329"]
             },
             {
-              "display_name": "G1 phase",
-              "ancestors": ["GO:0051318"]
+              "display_name": "mitotic G1 phase",
+              "ancestors": ["GO:0000080"]
             },
             {
-              "display_name": "S phase",
-              "ancestors": ["GO:0051320"]
+              "display_name": "mitotic S phase",
+              "ancestors": ["GO:0000084"]
             },
             {
-              "display_name": "G2 phase",
-              "ancestors": ["GO:0051319"]
+              "display_name": "mitotic G2 phase",
+              "ancestors": ["GO:0000085"]
             },
             {
-              "display_name": "M phase",
-              "ancestors": ["GO:0000279"]
+              "display_name": "mitotic M phase",
+              "ancestors": ["GO:0000087"]
             },
             {
-              "display_name": "mitotic prometaphase",
-              "ancestors": ["GO:0000236"]
+              "display_name": "mitotic prophase",
+              "ancestors": ["GO:0000088"]
             },
             {
-              "display_name": "prophase",
-              "ancestors": ["GO:0051324"]
+              "display_name": "mitotic metaphase",
+              "ancestors": ["GO:0000089"]
             },
             {
-              "display_name": "metaphase",
-              "ancestors": ["GO:0051323"]
+              "display_name": "mitotic anaphase",
+              "ancestors": ["GO:0000090"]
             },
             {
-              "display_name": "anaphase",
-              "ancestors": ["GO:0051322"]
+              "display_name": "mitotic telophase",
+              "ancestors": ["GO:0000093"]
             },
             {
-              "display_name": "telophase",
-              "ancestors": ["GO:0051326"]
+              "display_name": "meiotic S phase",
+              "ancestors": ["GO:0051332"]
             },
             {
-              "display_name": "G1 to G0 transition",
-              "ancestors": ["GO:0070314"]
+              "display_name": "meiotic M phase",
+              "ancestors": ["GO:0051327"]
             },
             {
-              "display_name": "cell quiescence",
-              "ancestors": ["GO:0044838"]
+              "display_name": "meiotic interphase",
+              "ancestors": ["GO:0051328"]
+            },
+            {
+              "display_name": "meiotic prophase I",
+              "ancestors": ["GO:0007128"]
+            },
+            {
+              "display_name": "meiotic metaphase I",
+              "ancestors": ["GO:0007132"]
+            },
+            {
+              "display_name": "meiotic anaphase I",
+              "ancestors": ["GO:0007133"]
+            },
+            {
+              "display_name": "meiotic telophase I",
+              "ancestors": ["GO:0007134"]
+            },
+            {
+              "display_name": "meiotic metaphase II",
+              "ancestors": ["GO:0007137"]
+            },
+            {
+              "display_name": "meiotic anaphase II",
+              "ancestors": ["GO:0007138"]
+            },
+            {
+              "display_name": "meiotic telophase II",
+              "ancestors": ["GO:0007139"]
             }
           ]
         },
@@ -4500,52 +4528,80 @@
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
-              "display_name": "interphase",
-              "ancestors": ["GO:0051325"]
+              "display_name": "mitotic interphase",
+              "ancestors": ["GO:0051329"]
             },
             {
-              "display_name": "G1 phase",
-              "ancestors": ["GO:0051318"]
+              "display_name": "mitotic G1 phase",
+              "ancestors": ["GO:0000080"]
             },
             {
-              "display_name": "S phase",
-              "ancestors": ["GO:0051320"]
+              "display_name": "mitotic S phase",
+              "ancestors": ["GO:0000084"]
             },
             {
-              "display_name": "G2 phase",
-              "ancestors": ["GO:0051319"]
+              "display_name": "mitotic G2 phase",
+              "ancestors": ["GO:0000085"]
             },
             {
-              "display_name": "M phase",
-              "ancestors": ["GO:0000279"]
+              "display_name": "mitotic M phase",
+              "ancestors": ["GO:0000087"]
             },
             {
-              "display_name": "mitotic prometaphase",
-              "ancestors": ["GO:0000236"]
+              "display_name": "mitotic prophase",
+              "ancestors": ["GO:0000088"]
             },
             {
-              "display_name": "prophase",
-              "ancestors": ["GO:0051324"]
+              "display_name": "mitotic metaphase",
+              "ancestors": ["GO:0000089"]
             },
             {
-              "display_name": "metaphase",
-              "ancestors": ["GO:0051323"]
+              "display_name": "mitotic anaphase",
+              "ancestors": ["GO:0000090"]
             },
             {
-              "display_name": "anaphase",
-              "ancestors": ["GO:0051322"]
+              "display_name": "mitotic telophase",
+              "ancestors": ["GO:0000093"]
             },
             {
-              "display_name": "telophase",
-              "ancestors": ["GO:0051326"]
+              "display_name": "meiotic S phase",
+              "ancestors": ["GO:0051332"]
             },
             {
-              "display_name": "G1 to G0 transition",
-              "ancestors": ["GO:0070314"]
+              "display_name": "meiotic M phase",
+              "ancestors": ["GO:0051327"]
             },
             {
-              "display_name": "cell quiescence",
-              "ancestors": ["GO:0044838"]
+              "display_name": "meiotic interphase",
+              "ancestors": ["GO:0051328"]
+            },
+            {
+              "display_name": "meiotic prophase I",
+              "ancestors": ["GO:0007128"]
+            },
+            {
+              "display_name": "meiotic metaphase I",
+              "ancestors": ["GO:0007132"]
+            },
+            {
+              "display_name": "meiotic anaphase I",
+              "ancestors": ["GO:0007133"]
+            },
+            {
+              "display_name": "meiotic telophase I",
+              "ancestors": ["GO:0007134"]
+            },
+            {
+              "display_name": "meiotic metaphase II",
+              "ancestors": ["GO:0007137"]
+            },
+            {
+              "display_name": "meiotic anaphase II",
+              "ancestors": ["GO:0007138"]
+            },
+            {
+              "display_name": "meiotic telophase II",
+              "ancestors": ["GO:0007139"]
             }
           ]
         },
@@ -4595,52 +4651,80 @@
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
-              "display_name": "interphase",
-              "ancestors": ["GO:0051325"]
+              "display_name": "mitotic interphase",
+              "ancestors": ["GO:0051329"]
             },
             {
-              "display_name": "G1 phase",
-              "ancestors": ["GO:0051318"]
+              "display_name": "mitotic G1 phase",
+              "ancestors": ["GO:0000080"]
             },
             {
-              "display_name": "S phase",
-              "ancestors": ["GO:0051320"]
+              "display_name": "mitotic S phase",
+              "ancestors": ["GO:0000084"]
             },
             {
-              "display_name": "G2 phase",
-              "ancestors": ["GO:0051319"]
+              "display_name": "mitotic G2 phase",
+              "ancestors": ["GO:0000085"]
             },
             {
-              "display_name": "M phase",
-              "ancestors": ["GO:0000279"]
+              "display_name": "mitotic M phase",
+              "ancestors": ["GO:0000087"]
             },
             {
-              "display_name": "mitotic prometaphase",
-              "ancestors": ["GO:0000236"]
+              "display_name": "mitotic prophase",
+              "ancestors": ["GO:0000088"]
             },
             {
-              "display_name": "prophase",
-              "ancestors": ["GO:0051324"]
+              "display_name": "mitotic metaphase",
+              "ancestors": ["GO:0000089"]
             },
             {
-              "display_name": "metaphase",
-              "ancestors": ["GO:0051323"]
+              "display_name": "mitotic anaphase",
+              "ancestors": ["GO:0000090"]
             },
             {
-              "display_name": "anaphase",
-              "ancestors": ["GO:0051322"]
+              "display_name": "mitotic telophase",
+              "ancestors": ["GO:0000093"]
             },
             {
-              "display_name": "telophase",
-              "ancestors": ["GO:0051326"]
+              "display_name": "meiotic S phase",
+              "ancestors": ["GO:0051332"]
             },
             {
-              "display_name": "G1 to G0 transition",
-              "ancestors": ["GO:0070314"]
+              "display_name": "meiotic M phase",
+              "ancestors": ["GO:0051327"]
             },
             {
-              "display_name": "cell quiescence",
-              "ancestors": ["GO:0044838"]
+              "display_name": "meiotic interphase",
+              "ancestors": ["GO:0051328"]
+            },
+            {
+              "display_name": "meiotic prophase I",
+              "ancestors": ["GO:0007128"]
+            },
+            {
+              "display_name": "meiotic metaphase I",
+              "ancestors": ["GO:0007132"]
+            },
+            {
+              "display_name": "meiotic anaphase I",
+              "ancestors": ["GO:0007133"]
+            },
+            {
+              "display_name": "meiotic telophase I",
+              "ancestors": ["GO:0007134"]
+            },
+            {
+              "display_name": "meiotic metaphase II",
+              "ancestors": ["GO:0007137"]
+            },
+            {
+              "display_name": "meiotic anaphase II",
+              "ancestors": ["GO:0007138"]
+            },
+            {
+              "display_name": "meiotic telophase II",
+              "ancestors": ["GO:0007139"]
             }
           ]
         },
@@ -4714,60 +4798,80 @@
           "extension_rel_type_name": "during",
           "extension_categories": [
             {
-              "display_name": "interphase",
-              "ancestors": ["GO:0051325"]
+              "display_name": "mitotic interphase",
+              "ancestors": ["GO:0051329"]
             },
             {
-              "display_name": "G1 phase",
-              "ancestors": ["GO:0051318"]
+              "display_name": "mitotic G1 phase",
+              "ancestors": ["GO:0000080"]
             },
             {
-              "display_name": "S phase",
-              "ancestors": ["GO:0051320"]
+              "display_name": "mitotic S phase",
+              "ancestors": ["GO:0000084"]
             },
             {
-              "display_name": "G2 phase",
-              "ancestors": ["GO:0051319"]
+              "display_name": "mitotic G2 phase",
+              "ancestors": ["GO:0000085"]
             },
             {
-              "display_name": "M phase",
-              "ancestors": ["GO:0000279"]
+              "display_name": "mitotic M phase",
+              "ancestors": ["GO:0000087"]
             },
             {
-              "display_name": "mitotic prometaphase",
-              "ancestors": ["GO:0000236"]
+              "display_name": "mitotic prophase",
+              "ancestors": ["GO:0000088"]
             },
             {
-              "display_name": "prophase",
-              "ancestors": ["GO:0051324"]
+              "display_name": "mitotic metaphase",
+              "ancestors": ["GO:0000089"]
             },
             {
-              "display_name": "metaphase",
-              "ancestors": ["GO:0051323"]
+              "display_name": "mitotic anaphase",
+              "ancestors": ["GO:0000090"]
             },
             {
-              "display_name": "anaphase",
-              "ancestors": ["GO:0051322"]
+              "display_name": "mitotic telophase",
+              "ancestors": ["GO:0000093"]
             },
             {
-              "display_name": "telophase",
-              "ancestors": ["GO:0051326"]
+              "display_name": "meiotic S phase",
+              "ancestors": ["GO:0051332"]
             },
             {
-              "display_name": "G1 to G0 transition",
-              "ancestors": ["GO:0070314"]
+              "display_name": "meiotic M phase",
+              "ancestors": ["GO:0051327"]
             },
             {
-              "display_name": "cell quiescence",
-              "ancestors": ["GO:0044838", "PBQ:0000001"]
+              "display_name": "meiotic interphase",
+              "ancestors": ["GO:0051328"]
             },
             {
-              "display_name": "mitotic cell cycle",
-              "ancestors": ["GO:0000278"]
+              "display_name": "meiotic prophase I",
+              "ancestors": ["GO:0007128"]
             },
             {
-              "display_name": "single-celled organism vegetative growth phase",
-              "ancestors": ["GO:0072690"]
+              "display_name": "meiotic metaphase I",
+              "ancestors": ["GO:0007132"]
+            },
+            {
+              "display_name": "meiotic anaphase I",
+              "ancestors": ["GO:0007133"]
+            },
+            {
+              "display_name": "meiotic telophase I",
+              "ancestors": ["GO:0007134"]
+            },
+            {
+              "display_name": "meiotic metaphase II",
+              "ancestors": ["GO:0007137"]
+            },
+            {
+              "display_name": "meiotic anaphase II",
+              "ancestors": ["GO:0007138"]
+            },
+            {
+              "display_name": "meiotic telophase II",
+              "ancestors": ["GO:0007139"]
             }
           ]
         },
@@ -4805,60 +4909,80 @@
           "extension_rel_type_name": "exists_during",
           "extension_categories": [
             {
-              "display_name": "interphase",
-              "ancestors": ["GO:0051325"]
+              "display_name": "mitotic interphase",
+              "ancestors": ["GO:0051329"]
             },
             {
-              "display_name": "G1 phase",
-              "ancestors": ["GO:0051318"]
+              "display_name": "mitotic G1 phase",
+              "ancestors": ["GO:0000080"]
             },
             {
-              "display_name": "S phase",
-              "ancestors": ["GO:0051320"]
+              "display_name": "mitotic S phase",
+              "ancestors": ["GO:0000084"]
             },
             {
-              "display_name": "G2 phase",
-              "ancestors": ["GO:0051319"]
+              "display_name": "mitotic G2 phase",
+              "ancestors": ["GO:0000085"]
             },
             {
-              "display_name": "M phase",
-              "ancestors": ["GO:0000279"]
+              "display_name": "mitotic M phase",
+              "ancestors": ["GO:0000087"]
             },
             {
-              "display_name": "mitotic prometaphase",
-              "ancestors": ["GO:0000236"]
+              "display_name": "mitotic prophase",
+              "ancestors": ["GO:0000088"]
             },
             {
-              "display_name": "prophase",
-              "ancestors": ["GO:0051324"]
+              "display_name": "mitotic metaphase",
+              "ancestors": ["GO:0000089"]
             },
             {
-              "display_name": "metaphase",
-              "ancestors": ["GO:0051323"]
+              "display_name": "mitotic anaphase",
+              "ancestors": ["GO:0000090"]
             },
             {
-              "display_name": "anaphase",
-              "ancestors": ["GO:0051322"]
+              "display_name": "mitotic telophase",
+              "ancestors": ["GO:0000093"]
             },
             {
-              "display_name": "telophase",
-              "ancestors": ["GO:0051326"]
+              "display_name": "meiotic S phase",
+              "ancestors": ["GO:0051332"]
             },
             {
-              "display_name": "G1 to G0 transition",
-              "ancestors": ["GO:0070314"]
+              "display_name": "meiotic M phase",
+              "ancestors": ["GO:0051327"]
             },
             {
-              "display_name": "cell quiescence",
-              "ancestors": ["GO:0044838", "PBQ:0000001"]
+              "display_name": "meiotic interphase",
+              "ancestors": ["GO:0051328"]
             },
             {
-              "display_name": "mitotic cell cycle",
-              "ancestors": ["GO:0000278"]
+              "display_name": "meiotic prophase I",
+              "ancestors": ["GO:0007128"]
             },
             {
-              "display_name": "single-celled organism vegetative growth phase",
-              "ancestors": ["GO:0072690"]
+              "display_name": "meiotic metaphase I",
+              "ancestors": ["GO:0007132"]
+            },
+            {
+              "display_name": "meiotic anaphase I",
+              "ancestors": ["GO:0007133"]
+            },
+            {
+              "display_name": "meiotic telophase I",
+              "ancestors": ["GO:0007134"]
+            },
+            {
+              "display_name": "meiotic metaphase II",
+              "ancestors": ["GO:0007137"]
+            },
+            {
+              "display_name": "meiotic anaphase II",
+              "ancestors": ["GO:0007138"]
+            },
+            {
+              "display_name": "meiotic telophase II",
+              "ancestors": ["GO:0007139"]
             }
           ]
         },
