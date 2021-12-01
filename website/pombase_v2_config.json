@@ -4398,7 +4398,7 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "extension_rel_type_name": "exists_during",
+          "extension_rel_type_names": ["during", "happens_during", "exists_during"],
           "extension_categories": [
             {
               "display_name": "mitotic interphase",
@@ -4525,7 +4525,7 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "extension_rel_type_name": "exists_during",
+          "extension_rel_type_names": ["during", "happens_during", "exists_during"],
           "extension_categories": [
             {
               "display_name": "mitotic interphase",
@@ -4648,7 +4648,7 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "extension_rel_type_name": "exists_during",
+          "extension_rel_type_names": ["during", "happens_during", "exists_during"],
           "extension_categories": [
             {
               "display_name": "mitotic interphase",
@@ -4795,7 +4795,7 @@
           "filter_name": "extension",
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
-          "extension_rel_type_name": "during",
+          "extension_rel_type_names": ["during", "happens_during", "exists_during"],
           "extension_categories": [
             {
               "display_name": "mitotic interphase",
@@ -4906,7 +4906,7 @@
           "display_name": "During",
           "scope": ["gene", "term", "genotype", "reference"],
           "detailed_view_only": true,
-          "extension_rel_type_name": "exists_during",
+          "extension_rel_type_names": ["during", "happens_during", "exists_during"],
           "extension_categories": [
             {
               "display_name": "mitotic interphase",
