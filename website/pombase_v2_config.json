@@ -2989,6 +2989,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Malla et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2121-11-30-34613787-Malla-Chen.png"],
+      "content": "Counting actin in contractile rings reveals novel contributions of cofilin and type II myosins to fission yeast cytokinesis..\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E21-08-0376'>Mol Biol Cell</a>.",
+      "reference_id": "PMID:34613787",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-11-30",
+      "show_on_front_page": false
+    },
+    {
+      "title": "Murawska  et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2121-11-30-34731638-Murawska-Braun-FACT.png"],
+      "content": "The histone chaperone FACT facilitates heterochromatin spreading by regulating histone turnover and H3K9 methylation states.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S2211124721014170'>Cell Rep</a>.",
+      "reference_id": "PMID:34731638",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-11-30",
+      "show_on_front_page": false
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
