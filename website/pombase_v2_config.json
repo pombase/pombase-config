@@ -3015,6 +3015,17 @@
       "show_on_front_page": false
     },
     {
+      "title": "Finet et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-12-08-34798057-Finet-mRNA-dihydrouridylation.png"],
+      "content": "Transcription-wide mapping of dihydrouridine reveals that mRNA dihydrouridylation is required for meiotic chromosome segregation.\nOriginally published in <a href='https://www.sciencedirect.com/science/article/pii/S1097276521009539?via%3Dihub'>Mol Cell.</a>.",
+      "reference_id": "PMID:34798057",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-12-08",
+      "show_on_front_page": true
+    },    
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
