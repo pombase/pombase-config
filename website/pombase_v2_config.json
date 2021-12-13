@@ -2924,7 +2924,7 @@
       "reference_id": "PMID:34499159",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-09-23",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Pineda-Santaella et al., 2021",
@@ -2935,7 +2935,7 @@
       "reference_id": "PMID:34346498",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-09-23",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Yu et al., 2021",
@@ -3024,7 +3024,18 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-12-08",
       "show_on_front_page": true
-    },    
+    },  
+    }
+         "title": "Wintrebert et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2021-12-10-Smith-33526714-rec-NLS.png"],
+      "content": "Activation of meiotic recombination by nuclear import of the DNA break hotspot-determining complex.\nOriginally published in <a href='https://journals.biologists.com/jcs/article/134/4/jcs253518/237380/Activation-of-meiotic-recombination-by-nuclear'>J Cell Sci</a>.",
+      "reference_id": "PMID:33526714",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2021-12-10",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
