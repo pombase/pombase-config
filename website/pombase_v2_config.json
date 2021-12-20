@@ -6128,6 +6128,10 @@
           "termid": "GO:0140104"
         },
         {
+          "name": "molecular function regulator",
+          "termid": "GO:0098772"
+        },
+        {
           "name": "molecular sequestering activity",
           "termid": "GO:0140313"
         },
