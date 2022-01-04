@@ -610,7 +610,7 @@
             "range_any_and_none": false,
             "topDescription": [
               {
-                "text": "Retrieve genes by number of annotated transcripts"
+                "text": "Retrieve genes by number of transcript isoforms"
               }
             ]
           }
