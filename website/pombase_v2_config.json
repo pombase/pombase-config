@@ -5220,8 +5220,8 @@
       "feature_type": "gene",
       "display_name": "Protein sequence feature",
       "columns_to_show": ["desc-rel", "gene", "evidence", "qualifiers", "residue", "reference", "count", "extension"],
-      "details_only": true,
-      "external_db_link_keys": ["MISO"]
+      "external_db_link_keys": ["MISO"],
+      "no_gene_details_section": true
     },
     "warning": {
       "feature_type": "gene",
@@ -5288,6 +5288,7 @@
     "m_f_g",
     "genome_org",
     "ex_tools",
+    "sequence",
     "physical_interactions",
     "genetic_interactions",
     "orthologs",
