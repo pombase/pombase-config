@@ -3059,6 +3059,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Calvo et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-01-18-34805795-motamedi-flcn.png"],
+      "content": "The fission yeast FLCN/FNIP complex augments TORC1 repression or activation in response to amino acid (AA) availability.\nOriginally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S2589004221013079'>iScience</a>.",
+      "reference_id": "PMID:34805795",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-01-19",
+      "show_on_front_page": true
+   },
+   {
+      "title": "Flor-Parra et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-01-18-35008733-lucena-lac1.png"],
+      "content": "The Ceramide Synthase Subunit Lac1 Regulates Cell Growth and Size in Fission Yeast.\nOriginally published in <a href='https://www.mdpi.com/1422-0067/23/1/303'>Int J Mol Sci</a>.",
+      "reference_id": "PMID:35008733",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-01-19",
+      "show_on_front_page": true
+   },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
