@@ -3037,6 +3037,28 @@
       "show_on_front_page": true
     },
     {
+      "title": "Schwer et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-01-18-Schwer-34389684-seb1.png.png"],
+      "content": "Genetic screen for suppression of transcriptional interference identifies a gain-of-function mutation in Pol2 termination factor Seb1.\nOriginally published in <a href='https://www.pnas.org/content/118/33/e2108105118'>PNAS</a>.",
+      "reference_id": "PMID:34389684",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-01-18",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Gargantuas et al., 2019",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-01-18-Garg-2022-01-18-pho7.png"],
+      "content": "Structure of Fission Yeast Transcription Factor Pho7 Bound to pho1 Promoter DNA and Effect of Pho7 Mutations on DNA Binding and Phosphate Homeostasis.\nOriginally published in <a href='https://journals.asm.org/doi/10.1128/MCB.00132-19'>Mol. Cell. Biol.</a>.",
+      "reference_id": "PMID:31010807",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-01-18",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
