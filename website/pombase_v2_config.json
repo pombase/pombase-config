@@ -3079,7 +3079,18 @@
       "link_label": "Publication record in PomBase ...",
       "date_added": "2022-01-19",
       "show_on_front_page": true
-   },
+    },
+    {
+      "title": "Ellis et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-01-29-34464389-ellis-bahler-D-loop.png"],
+      "content": "R-loops and regulatory changes in chronologically ageing fission yeast cells drive non-random patterns of genome rearrangements.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009784'>PLoS Genet</a>.",
+      "reference_id": "PMID:34464389",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-01-29",
+      "show_on_front_page": true
+    },
     {
       "title": "Recent community curation",
       "panel_type": "community",
