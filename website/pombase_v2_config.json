@@ -3616,6 +3616,12 @@
   ],
   "extension_display_names": [
     {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0004722",
+      "display_name": "dephosphorylates",
+      "reciprocal_display": "dephosphorylated by"
+    },
+    {
       "rel_name": "activated_by",
       "display_name": "activated by"
     },
@@ -5299,6 +5305,7 @@
       "multi_locus_phenotype": "FYPO"
     },
     "relation_priority": {
+      "dephosphorylated by": 25,
       "directly activated by": 20,
       "directly inhibited by": 20,
       "phosphorylated by": 15,
