@@ -4588,6 +4588,13 @@
           ]
         },
         {
+          "filter_name": "term",
+          "display_name": "Slim term",
+          "scope": ["gene", "reference"],
+          "detailed_view_only": false,
+          "slim_name": "mf_goslim_pombe"
+        },
+        {
           "filter_name": "throughput",
           "display_name": "Throughput",
           "scope": ["gene", "term", "genotype", "reference"],
@@ -4715,6 +4722,13 @@
           ]
         },
         {
+          "filter_name": "term",
+          "display_name": "Slim term",
+          "scope": ["gene", "reference"],
+          "detailed_view_only": false,
+          "slim_name": "bp_goslim_pombe"
+        },
+        {
           "filter_name": "throughput",
           "display_name": "Throughput",
           "scope": ["gene", "term", "genotype", "reference"],
@@ -4836,6 +4850,13 @@
               "ancestors": ["GO:0007139"]
             }
           ]
+        },
+        {
+          "filter_name": "term",
+          "display_name": "Slim term",
+          "scope": ["gene", "reference"],
+          "detailed_view_only": false,
+          "slim_name": "cc_goslim_pombe"
         },
         {
           "filter_name": "throughput",
