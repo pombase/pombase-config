@@ -5159,7 +5159,16 @@
       "slim_subset_name": "pombe_mondo_slim",
       "slim_description": "Disease ontology overview",
       "slim_link": "/browse-curation/disease-slim",
-      "slim_no_category_text": "disease ontology overview category"
+      "slim_no_category_text": "disease ontology overview category",
+      "filters": [
+        {
+          "filter_name": "term",
+          "display_name": "Slim term",
+          "scope": ["gene", "reference"],
+          "detailed_view_only": false,
+          "slim_name": "pombe_mondo_slim"
+        }
+      ]
     },
     "kegg_pombe_pathway": {
       "feature_type": "gene",
