@@ -78,7 +78,7 @@
   "ebi_tools_url": "https://www.ebi.ac.uk/Tools/services/web/toolform.ebi",
   "canto_url": "https://curation.pombase.org/pombe",
   "community_mailing_list": {
-    "url": "https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist",
+    "url": "https://lists.cam.ac.uk/sympa/info/ucam-pombelist",
     "icon": "pombe_email_icon.png",
     "title": "S. pombe community mailing list"
   },
