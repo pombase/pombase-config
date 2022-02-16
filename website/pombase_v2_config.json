@@ -6374,6 +6374,191 @@
         }
       ]
     },
+    "fypo_slim": {
+      "slim_display_name": "FYPO slim",
+      "full_slim_path": "/browse-curation/fypo-slim",
+      "description": "High level fission yeast phenotype terms",
+      "slim_results_description": "A \"slim\" is a high-level subset of terms from an ontology, used to analyze sets of annotated genes. PomBase has created a slim from the Fission Yeast Phenotype Ontology (FYPO) to provide a summary of fission yeast phenotypes.",
+      "cv_name": "fission_yeast_phenotype",
+      "terms": [
+        {
+          "name": "abnormal cell morphology",
+          "termid": "FYPO:0000005"
+        },
+        {
+          "name": "abnormal cytokinesis",
+          "termid": "FYPO:0000032"
+        },
+        {
+          "name": "abnormal microtubule cytoskeleton organization",
+          "termid": "FYPO:0000054"
+        },
+        {
+          "name": "abnormal DNA recombination",
+          "termid": "FYPO:0000063"
+        },
+        {
+          "name": "abnormal spindle",
+          "termid": "FYPO:0000120"
+        },
+        {
+          "name": "abnormal sporulation",
+          "termid": "FYPO:0000121"
+        },
+        {
+          "name": "mitotic cell cycle checkpoint phenotype",
+          "termid": "FYPO:0000137"
+        },
+        {
+          "name": "localization phenotype",
+          "termid": "FYPO:0000138"
+        },
+        {
+          "name": "cell population growth phenotype",
+          "termid": "FYPO:0000139"
+        },
+        {
+          "name": "cellular metabolism phenotype",
+          "termid": "FYPO:0000140"
+        },
+        {
+          "name": "transcription regulation phenotype",
+          "termid": "FYPO:0000143"
+        },
+        {
+          "name": "abnormal DNA replication",
+          "termid": "FYPO:0000217"
+        },
+        {
+          "name": "translation regulation phenotype",
+          "termid": "FYPO:0000289"
+        },
+        {
+          "name": "DNA metabolism phenotype",
+          "termid": "FYPO:0000293"
+        },
+        {
+          "name": "RNA metabolism phenotype",
+          "termid": "FYPO:0000294"
+        },
+        {
+          "name": "cellular response phenotype",
+          "termid": "FYPO:0000298"
+        },
+        {
+          "name": "mating phenotype",
+          "termid": "FYPO:0000301"
+        },
+        {
+          "name": "abnormal mitosis",
+          "termid": "FYPO:0000337"
+        },
+        {
+          "name": "cell cycle phenotype",
+          "termid": "FYPO:0000631"
+        },
+        {
+          "name": "abnormal chromosome organization",
+          "termid": "FYPO:0000641"
+        },
+        {
+          "name": "DNA binding phenotype",
+          "termid": "FYPO:0000653"
+        },
+        {
+          "name": "catalytic activity phenotype",
+          "termid": "FYPO:0000654"
+        },
+        {
+          "name": "protein-protein interaction phenotype",
+          "termid": "FYPO:0000702"
+        },
+        {
+          "name": "cell cycle arrest phenotype",
+          "termid": "FYPO:0001024"
+        },
+        {
+          "name": "vegetative cell phenotype",
+          "termid": "FYPO:0001320"
+        },
+        {
+          "name": "cell population viability",
+          "termid": "FYPO:0002057"
+        },
+        {
+          "name": "viable cell population",
+          "termid": "FYPO:0002058"
+        },
+        {
+          "name": "inviable cell population",
+          "termid": "FYPO:0002059"
+        },
+        {
+          "name": "transporter activity phenotype",
+          "termid": "FYPO:0002114"
+        },
+        {
+          "name": "protein-RNA interaction phenotype",
+          "termid": "FYPO:0002131"
+        },
+        {
+          "name": "abnormal protein metabolic process",
+          "termid": "FYPO:0002274"
+        },
+        {
+          "name": "protein localization phenotype",
+          "termid": "FYPO:0002333"
+        },
+        {
+          "name": "abnormal microtubule cytoskeleton",
+          "termid": "FYPO:0002399"
+        },
+        {
+          "name": "abnormal nucleus",
+          "termid": "FYPO:0002403"
+        },
+        {
+          "name": "abnormal protein modification",
+          "termid": "FYPO:0002494"
+        },
+        {
+          "name": "increased resistance to chemical",
+          "termid": "FYPO:0002682"
+        },
+        {
+          "name": "increased sensitivity to chemical",
+          "termid": "FYPO:0002683"
+        },
+        {
+          "name": "abnormal cell wall",
+          "termid": "FYPO:0002946"
+        },
+        {
+          "name": "abnormal actin cytoskeleton organization",
+          "termid": "FYPO:0004803"
+        },
+        {
+          "name": "abnormal cell wall organization",
+          "termid": "FYPO:0004805"
+        },
+        {
+          "name": "abnormal cell polarity",
+          "termid": "FYPO:0005568"
+        },
+        {
+          "name": "abnormal actin cytoskeleton",
+          "termid": "FYPO:0005665"
+        },
+        {
+          "name": "abnormal DNA repair",
+          "termid": "FYPO:0006567"
+        },
+        {
+          "name": "catalytic activity regulator phenotype",
+          "termid": "FYPO:0007690"
+        }
+      ]
+    },
     "pombe_mondo_slim": {
       "slim_display_name": "Disease slim",
       "doc_path": "/browse-curation/disease-slim",
