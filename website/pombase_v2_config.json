@@ -3092,6 +3092,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Keifenheim et al., 2017",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-28479325-Keifenheim-cdc25.png"],
+      "content": "Size-Dependent Expression of the Mitotic Activator Cdc25 Suggests a Mechanism of Size Control in Fission Yeast.\nOriginally published in <a href='https://linkinghub.elsevier.com/retrieve/pii/S0960982217304256'>Curr. Biol.</a>.",
+      "reference_id": "PMID:28479325",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-02-15",
+      "show_on_front_page": true
+    }
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
