@@ -114,6 +114,10 @@
             "url": "/browse-curation/fission-yeast-cc-go-slim-terms"
           },
           {
+            "title": "Fission yeast phenotype overview",
+            "url": "/browse-curation/fypo-slim"
+          },
+          {
             "title": "Disease association overview",
             "url": "/browse-curation/disease-slim"
           },
@@ -4216,6 +4220,10 @@
       "columns_to_show": ["desc-rel", "genotype", "genotype_background",
                           "evidence", "conditions", "reference", "extension"],
       "external_db_link_keys": ["BioPortal"],
+      "slim_subset_name": "fypo_slim",
+      "slim_description": "Fission yeast phenotype overview",
+      "slim_link": "/browse-curation/fypo-slim",
+      "slim_no_category_text": "fission yeast phenotype overview category",
       "filters": [
         {
           "filter_name": "ploidiness",
@@ -6401,12 +6409,12 @@
           "termid": "FYPO:0000032"
         },
         {
-          "name": "abnormal microtubule cytoskeleton organization",
-          "termid": "FYPO:0000054"
+          "name": "abnormal gene expression",
+          "termid": "FYPO:0006551"
         },
         {
-          "name": "abnormal DNA recombination",
-          "termid": "FYPO:0000063"
+          "name": "abnormal microtubule cytoskeleton organization",
+          "termid": "FYPO:0000054"
         },
         {
           "name": "abnormal spindle",
@@ -6417,32 +6425,12 @@
           "termid": "FYPO:0000121"
         },
         {
-          "name": "mitotic cell cycle checkpoint phenotype",
-          "termid": "FYPO:0000137"
-        },
-        {
           "name": "localization phenotype",
           "termid": "FYPO:0000138"
         },
         {
           "name": "cell population growth phenotype",
           "termid": "FYPO:0000139"
-        },
-        {
-          "name": "cellular metabolism phenotype",
-          "termid": "FYPO:0000140"
-        },
-        {
-          "name": "transcription regulation phenotype",
-          "termid": "FYPO:0000143"
-        },
-        {
-          "name": "abnormal DNA replication",
-          "termid": "FYPO:0000217"
-        },
-        {
-          "name": "translation regulation phenotype",
-          "termid": "FYPO:0000289"
         },
         {
           "name": "DNA metabolism phenotype",
@@ -6485,16 +6473,8 @@
           "termid": "FYPO:0000702"
         },
         {
-          "name": "cell cycle arrest phenotype",
-          "termid": "FYPO:0001024"
-        },
-        {
           "name": "vegetative cell phenotype",
           "termid": "FYPO:0001320"
-        },
-        {
-          "name": "cell population viability",
-          "termid": "FYPO:0002057"
         },
         {
           "name": "viable cell population",
@@ -6515,10 +6495,6 @@
         {
           "name": "abnormal protein metabolic process",
           "termid": "FYPO:0002274"
-        },
-        {
-          "name": "protein localization phenotype",
-          "termid": "FYPO:0002333"
         },
         {
           "name": "abnormal microtubule cytoskeleton",
@@ -6555,18 +6531,6 @@
         {
           "name": "abnormal cell polarity",
           "termid": "FYPO:0005568"
-        },
-        {
-          "name": "abnormal actin cytoskeleton",
-          "termid": "FYPO:0005665"
-        },
-        {
-          "name": "abnormal DNA repair",
-          "termid": "FYPO:0006567"
-        },
-        {
-          "name": "catalytic activity regulator phenotype",
-          "termid": "FYPO:0007690"
         }
       ]
     },
@@ -7384,7 +7348,7 @@
       "taxonomic_distribution",
       "protein_length_bin"
     ],
-    "slim_table_slim_names": ["mf_goslim_pombe", "bp_goslim_pombe", "cc_goslim_pombe", "pombe_mondo_slim"]
+    "slim_table_slim_names": ["mf_goslim_pombe", "bp_goslim_pombe", "cc_goslim_pombe", "fypo_slim", "pombe_mondo_slim"]
   },
   "file_exports": {
     "site_map_term_prefixes": ["GO:", "FYPO:"],
