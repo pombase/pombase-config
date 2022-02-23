@@ -14,3 +14,4 @@ MOD:00000	is_a	required_for	GO:0003674	required for activity		0,1	user
 MOD:00000	is_a	required_for	GO:0009987	required for process		0,1	user
 MOD:00000	is_a	increased_in_presence_of	CHEBI:24431	increased in presence of	use when the modification is observed at a higher level in the presence of an extraneous substance	0,1	user
 MOD:00000	is_a	decreased_in_presence_of	CHEBI:24431	decreased in presence of	use when the modification is observed at a lower level in the presence of an extraneous substance	0,1	user
+MOD:00000	is_a	in_absence_of	FeatureID	in absence of		0,1	user
