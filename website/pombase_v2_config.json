@@ -4220,10 +4220,6 @@
       "columns_to_show": ["desc-rel", "genotype", "genotype_background",
                           "evidence", "conditions", "reference", "extension"],
       "external_db_link_keys": ["BioPortal"],
-      "slim_subset_name": "fypo_slim",
-      "slim_description": "Fission yeast phenotype overview",
-      "slim_link": "/browse-curation/fypo-slim",
-      "slim_no_category_text": "fission yeast phenotype overview category",
       "filters": [
         {
           "filter_name": "ploidiness",
@@ -4476,6 +4472,10 @@
       "display_name": "Single locus phenotype",
       "inherits_from": "fission_yeast_phenotype",
       "single_or_multi_locus": "single",
+      "slim_subset_name": "fypo_slim",
+      "slim_description": "Fission yeast phenotype overview",
+      "slim_link": "/browse-curation/fypo-slim",
+      "slim_no_category_text": "fission yeast phenotype overview category",
       "help_route": "/documentation/gene-page-phenotypes"
     },
     "multi_locus_phenotype": {
@@ -6398,7 +6398,7 @@
       "full_slim_path": "/browse-curation/fypo-slim",
       "description": "High level fission yeast phenotype terms",
       "slim_results_description": "A \"slim\" is a high-level subset of terms from an ontology, used to analyze sets of annotated genes. PomBase has created a slim from the Fission Yeast Phenotype Ontology (FYPO) to provide a summary of fission yeast phenotypes.",
-      "cv_name": "fission_yeast_phenotype",
+      "cv_name": "single_locus_phenotype_phenotype",
       "terms": [
         {
           "name": "abnormal cell morphology",
