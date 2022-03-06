@@ -3334,6 +3334,7 @@
       }
     },
     "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates": {
+      "name": "Conserved unknowns",
       "constraints": {
         "and": [
           {
