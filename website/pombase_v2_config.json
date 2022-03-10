@@ -3005,7 +3005,7 @@
       "reference_id": "PMID:34613787",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-11-30",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Murawska  et al., 2021",
@@ -3016,7 +3016,7 @@
       "reference_id": "PMID:34731638",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-11-30",
-      "show_on_front_page":true
+      "show_on_front_page" false
     },
     {
       "title": "Finet et al., 2021",
@@ -3027,7 +3027,7 @@
       "reference_id": "PMID:34798057",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-12-08",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },  
     {
       "title": "Wintrebert et al., 2021",
@@ -3038,7 +3038,7 @@
       "reference_id": "PMID:33526714",
       "link_label": "Publication record in PomBase ...",
       "date_added": "2021-12-10",
-      "show_on_front_page": true
+      "show_on_front_page": false
     },
     {
       "title": "Schwer et al., 2021",
