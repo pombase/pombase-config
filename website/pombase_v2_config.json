@@ -3107,6 +3107,39 @@
       "show_on_front_page": true
     },
     {
+      "title": "Halova et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-03-10-33823663-Halova-Petersen-TOR-phosphosites.png"],
+      "content": "A TOR (target of rapamycin) and nutritional phosphoproteome of fission yeast reveals novel targets in networks conserved in humans.\nOriginally published in <a href='https://royalsocietypublishing.org/doi/10.1098/rsob.200405'>Open Biol</a>.",
+      "reference_id": "PMID:33823663",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-03-10",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Cohen et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-03-10-35157728-Cohen-Weisman-TOR-gcn5.png"],
+      "content": "TOR complex 2 contributes to regulation of gene expression via inhibiting Gcn5 recruitment to subtelomeric and DNA replication stress genes.\nOriginally published in <a href='https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010061'>PLoS Genet</a>.",
+      "reference_id": "PMID:35157728",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-03-10",
+      "show_on_front_page": true
+    },
+    {
+      "title": "Gutbrod et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-03-10-35194019-Gutbrod_Martienssen.png"],
+      "content": "Dicer promotes genome stability via the bromodomain transcriptional co-activator BRD4.\nOriginally published in <a href='https://www.nature.com/articles/s41467-022-28554-8'>Nat Commun</a>.",
+      "reference_id": "PMID:35194019",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-03-10",
+      "show_on_front_page": true
+    },    
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
