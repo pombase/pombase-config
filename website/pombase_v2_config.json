@@ -5517,6 +5517,14 @@
     {
       "ref_type": "GO annotation",
       "feature_types": ["mRNA gene"],
+      "name": "QuickGO",
+      "field_name": "uniprot_identifier",
+      "description": "QuickGO Gene Ontology annotation viewer",
+      "url": "https://www.ebi.ac.uk/QuickGO/annotations?geneProductId=<<IDENTIFIER>>"
+    },
+    {
+      "ref_type": "GO annotation",
+      "feature_types": ["mRNA gene"],
       "name": "AmiGO",
       "field_name": "uniquename",
       "description": "GO Consortium browser",
