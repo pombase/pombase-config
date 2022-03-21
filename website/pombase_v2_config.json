@@ -3140,6 +3140,17 @@
       "show_on_front_page": true
     },    
     {
+      "title": "Longo et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-03-15-PMID-34910579-Longo-smi1.png"],
+      "content": "Involvement of Smi1 in cell wall integrity and glucan synthase Bgs4 localization during fission yeast cytokinesis..\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E21-04-0214'>Mol Biol Cell </a>.",
+      "reference_id": "PMID:34910579",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-03-15",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
