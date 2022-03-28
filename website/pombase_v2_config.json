@@ -3151,6 +3151,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Yang et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/.png"],
+      "content": "Canavanine resistance mutation can1-1 in Schizosaccharomyces pombe is a missense mutation in the ubiquitin ligase adaptor gene any1.\nOriginally published in <a href='https://www.micropublication.org/journals/biology/micropub-biology-000538'>MicroPubl Biol </a>.",
+      "reference_id": "PMID:35300005",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-02-25",
+      "show_on_front_page": true
+    },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
