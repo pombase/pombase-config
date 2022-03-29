@@ -39,7 +39,7 @@ GO:0101005	is_a	has_substrate	ProteinID	deubiquitinates		0,1	user
 GO:0140597	is_a	has_substrate	TranscriptID|ProteinID	chaperones (protein or RNA)		0,1	user
 GO:0140313	is_a	has_substrate	ProteinID	sequesters		0,1	user
 GO:1904680	is_a	has_substrate	ProteinID	transports		0,1	user
-GO:0003674	is_a	column_17	Text	PR:nnnID for modified protein form		*	admin
+GO:0003674	is_a	modified_form	Text	PR:nnnID for modified protein form		*	admin
 GO:0003674	is_a	has_qualifier	PBHQ:002|PBHQ:004	qualifier		*	user
 GO:0005515	is_a	has_substrate	Text	binds (PR:nnn ID for bound protein form)		0,1	admin
 GO:0140566	is_a	has_substrate	Text	reads		0,1	user

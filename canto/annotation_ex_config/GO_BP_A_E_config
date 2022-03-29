@@ -1,7 +1,7 @@
 Domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
 GO:0008150	is_a	transcript_isoform_id	Text	transcript isoform ID		0,1	admin
 GO:0008150	is_a	has_qualifier	PBHQ:002	qualifier		*	admin
-GO:0008150	is_a	column_17	Text	PR:nnnID for modified protein form		*	admin
+GO:0008150	is_a	modified_form	Text	PR:nnnID for modified protein form		*	admin
 GO:0000770	is_a	has_input	SPAPB8E5.05|SPAC513.03|SPCC1795.06|SPBPJ4664.03	exports		0,1	user
 GO:0006351	is_a	occurs_at	SO:0001865|SO:0001795	occurs at		0,1	user
 GO:0006355-is_a(GO:0051090)	is_a	has_regulation_target	TranscriptID	regulates transcription of		0,1	user
