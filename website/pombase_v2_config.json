@@ -250,14 +250,18 @@
     }
   ],
   "reference_page_extra_links": {
-    "PMID:31364709": {
-      "link": "https://www.pombase.org/jbrowse/?loc=mitochondrial%3A1..19433",
-      "text": "View the mitochondrial chromosome sequence in the PomBase genome browser ..."
-    },
-    "PMID:34296454": {
-      "link": "https://tmak.shinyapps.io/TM_App-Table_EV3/",
-      "text": "Time-dependent changes can be viewed using the accompanying application"
-    }
+    "PMID:31364709": [
+      {
+        "link": "https://www.pombase.org/jbrowse/?loc=mitochondrial%3A1..19433",
+        "text": "View the mitochondrial chromosome sequence in the PomBase genome browser ..."
+      }
+    ],
+    "PMID:34296454": [
+      {
+        "link": "https://tmak.shinyapps.io/TM_App-Table_EV3/",
+        "text": "Time-dependent changes can be viewed using the accompanying application"
+      }
+    ]
   },
   "reference_page_jbrowse_columns": [
     {
@@ -306,6 +310,18 @@
       "download_link": true
     }
   ],
+  "gene_page_extra_links": {
+    "SPAC664.01c": [
+      {
+        "link": "/jbrowse/?loc=I%3A1693241..1713103&tracks=Forward+strand+features%2CReverse+strand+features%2CSwi6+chromatin+binding+sites+during+vegetative+growth%3B+%28control+channel%3Aclr4delta%29+repeat+1+-+Woolcock+et+al.+%282011%29%2CSwi6+chromatin+binding+sites+during+vegetative+growth%3B+%28control+channel%3A+dam+only%29+repeat+3+-+Woolcock+et+al.+%282011%29%2CSwi6+chromatin+binding+sites+during+vegetative+growth%3B+%28control+channel%3A+dam+only%29+repeat+2+-+Woolcock+et+al.+%282011%29%2CSwi6+chromatin+binding+sites+during+vegetative+growth%3B+%28control+channel%3A+dam+only%29+repeat+1+-+Woolcock+et+al.+%282011%29%2CSwi6+chromatin+binding+sites+during+vegetative+growth%3B+%28control+channel%3A+clr4delta%29+repeat+3+-+Woolcock+et+al.+%282011%29%2CSwi6+chromatin+binding+sites+during+vegetative+growth%3B+%28control+channel%3A+clr4delta%29+repeat+2+-+Woolcock+et+al.+%282011%29&highlight=",
+        "text": "Browser tracks: swi6 chromatin binding during vegetative growth"
+      },
+      {
+        "link": "/jbrowse/?loc=I%3A1693241..1713103&tracks=Forward+strand+features%2CReverse+strand+features%2CSwi6+chromatin+binding+sites+in+clr4delta+during+vegetative+growth%3B+repeat+1+-+Woolcock+et+al.+(2011)%2CSwi6+chromatin+binding+sites+in+clr4delta+during+vegetative+growth%3B+repeat+2+-+Woolcock+et+al.+(2011)%2CSwi6+chromatin+binding+sites+in+clr4delta+during+vegetative+growth%3B+repeat+3+-+Woolcock+et+al.+(2011)%2CSwi6+chromatin+binding+sites+in+dcr1delta+during+vegetative+growth%3B+repeat+1+-+Woolcock+et+al.+(2011)%2CSwi6+chromatin+binding+sites+in+dcr1delta+during+vegetative+growth%3B+repeat+2+-+Woolcock+et+al.+(2011)&highlight=",
+        "text": "Browser tracks: Swi6 chromatin binding sites in clr4delta during vegetative growth"
+      }
+    ]
+  },
   "missing_browser_images": [
     "SPNCRNA.1701",
     "SPAC110.06",
