@@ -6485,7 +6485,7 @@
       ]
     },
     "fypo_slim": {
-      "slim_display_name": "FYPO slim",
+      "slim_display_name": "Phenotype slim",
       "full_slim_path": "/browse-curation/fypo-slim",
       "description": "High level fission yeast phenotype terms",
       "slim_results_description": "A \"slim\" is a high-level subset of terms from an ontology, used to analyze sets of annotated genes. PomBase has created a slim from the Fission Yeast Phenotype Ontology (FYPO) to provide a summary of fission yeast phenotypes.",
