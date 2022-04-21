@@ -3416,7 +3416,7 @@
       }
     },
     "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates": {
-      "name": "Conserved unknowns",
+      "name": "Priority unstudied genes (conserved unknowns)",
       "constraints": {
         "and": [
           {
@@ -3665,7 +3665,7 @@
     "all_diseases", "all_protein_coding_ex_dubious_and_transposon",
     "protein_coding_genes_unknown_process", "all_genes", "viable_deletions",
     "inviable_deletions", "conserved_in_S_cerevisiae", "conserved_in_vertebrates",
-    "conserved_in_S_japonicus"
+    "conserved_in_S_japonicus", "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates"
   ],
   "api_seq_chunk_sizes": [10000, 200000],
   "chromosomes": [
