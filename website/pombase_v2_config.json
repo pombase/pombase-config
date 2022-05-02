@@ -5801,6 +5801,7 @@
       "url": "https://www.genome.jp/kegg-bin/show_pathway?[example_id]"
     }
   ],
+  "external_term_link_prefixes": ["CHEBI", "CL"],
   "viability_terms": {
     "viable": "FYPO:0002060",
     "inviable": "FYPO:0002061"
