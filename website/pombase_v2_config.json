@@ -3195,6 +3195,17 @@
       "show_on_front_page": true
     },
     {
+      "title": "Sakuno et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-35333350-Sakuno-rec8.png"],
+      "content": "Rec8 Cohesin-mediated Axis-loop chromatin architecture is required for meiotic recombination.\nOriginally published in <a href='https://academic.oup.com/nar/article/50/7/3799/6554166'>Nucleic Acids Research</a>.",
+      "reference_id": "PMID:35333350",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-05-08",
+      "show_on_front_page": true
+     },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
