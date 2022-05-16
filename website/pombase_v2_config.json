@@ -332,6 +332,7 @@
       }
     ]
   },
+  "jbrowse_track_picker_base_url": "/jbrowse/?loc=I%3A1..5579133&tracks=",
   "missing_browser_images": [
     "SPNCRNA.1701",
     "SPAC110.06",
