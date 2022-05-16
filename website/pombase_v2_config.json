@@ -301,6 +301,10 @@
       "display_name": "WT or mutant"
     },
     {
+      "name": "mutant",
+      "display_name": "Mutant(s)"
+    },
+    {
       "name": "comment",
       "display_name": "Comment"
     },
