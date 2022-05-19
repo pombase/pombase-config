@@ -3195,6 +3195,28 @@
       "show_on_front_page": true
      },
     {
+      "title": "Lera-Ramirez et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-05-18-PMID-35293864-Ramirez.png"],
+      "content": "Microtubule rescue at midzone edges promotes overlap stability and prevents spindle collapse during anaphase B.\nOriginally published in <a href='https://elifesciences.org/articles/72630'>Elife</a>.",
+      "reference_id": "PMID:35293864",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-05-17",
+      "show_on_front_page": true
+     },
+    {
+      "title": "Harris et al., 2021",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/22-03-30-PMID-35100366-GEN-MOD-pombase.png"],
+      "content": "Fission stories: using PomBase to understand Schizosaccharomyces pombe biology.\nOriginally published in <a href='https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyab222/6481557'>Genetics</a>.",
+      "reference_id": "PMID:35100366",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-04-04",
+      "show_on_front_page": true
+     },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
