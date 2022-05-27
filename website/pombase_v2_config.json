@@ -3444,7 +3444,7 @@
       }
     },
     "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates": {
-      "name": "Priority unstudied genes (conserved unknowns)",
+      "name": "Priority unstudied genes (vertebrate orthologs, unknown process, protein coding)",
       "constraints": {
         "and": [
           {
