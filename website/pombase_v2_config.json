@@ -3205,6 +3205,17 @@
       "date_added": "2022-05-17",
       "show_on_front_page": true
      },
+     {
+        "title": "Porat et al., 2022",
+        "title_link": null,
+        "panel_type": "spotlight",
+        "head_image": ["spotlight/2022-05-30-PMID-35277511-Porat.png"],
+        "content": "The methyl phosphate capping enzyme Bmc1/Bin3 is a stable component of the fission yeast telomerase holoenzyme.\nOriginally published in <a href='https://www.nature.com/articles/s41467-022-28985-3'>Nature Communications</a>.",
+        "reference_id": "PMID:35277511",
+        "link_label": "Publication record in PomBase ...",
+        "date_added": "2022-05-30",
+        "show_on_front_page": true
+     },
     {
       "title": "Harris et al., 2021",
       "title_link": null,
