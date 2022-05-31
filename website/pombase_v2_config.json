@@ -3209,7 +3209,7 @@
       "date_added": "2022-05-17",
       "show_on_front_page": true
      },
-     {
+    {
         "title": "Porat et al., 2022",
         "title_link": null,
         "panel_type": "spotlight",
@@ -3218,6 +3218,17 @@
         "reference_id": "PMID:35277511",
         "link_label": "Publication record in PomBase ...",
         "date_added": "2022-05-30",
+        "show_on_front_page": true
+     },
+    {
+        "title": "Kim et al., 2022",
+        "title_link": null,
+        "panel_type": "spotlight",
+        "head_image": ["spotlight/2022-05-31-PMID-35286199-Kim.png"],
+        "content": "Mitotic spindle formation in the absence of Polo kinase.\nOriginally published in <a href='https://www.pnas.org/doi/full/10.1073/pnas.2114429119'>PNAS</a>.",
+        "reference_id": "PMID:35286199",
+        "link_label": "Publication record in PomBase ...",
+        "date_added": "2022-05-31",
         "show_on_front_page": true
      },
     {
