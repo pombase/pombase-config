@@ -3853,6 +3853,12 @@
       "reciprocal_display": "inhibited by"
     },
     {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0004857",
+      "display_name": "inhibits",
+      "reciprocal_display": "inhibited by"
+    },
+    {
       "rel_name": "has_regulation_target",
       "if_descendant_of": "GO:0008150",
       "display_name": "regulates",
@@ -3928,12 +3934,6 @@
       "if_descendant_of": "GO:0004672",
       "display_name": "phosphorylates",
       "reciprocal_display": "phosphorylated by"
-    },
-    {
-      "rel_name": "has_input",
-      "if_descendant_of": "GO:000472",
-      "display_name": "dephosphorylates",
-      "reciprocal_display": "dephosphorylated by"
     },
     {
       "rel_name": "has_input",
@@ -4020,91 +4020,7 @@
       "reciprocal_display": "regulated by"
     },
     {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0001217",
-      "display_name": "represses transcription of",
-      "reciprocal_display": "transcription repressed by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0004842",
-      "display_name": "ubiquitinates",
-      "reciprocal_display": "ubiquitinated by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0004672",
-      "display_name": "phosphorylates",
-      "reciprocal_display": "phosphorylated by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:000472i",
-      "display_name": "dephosphorylates",
-      "reciprocal_display": "dephosphorylated by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0003824",
-      "display_name": "has substrate",
-      "reciprocal_display": "substrate of"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0030234",
-      "display_name": "has substrate",
-      "reciprocal_display": "substrate of"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0006810",
-      "display_name": "transports",
-      "reciprocal_display": "transported by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0005215",
-      "display_name": "transports",
-      "reciprocal_display": "transported by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0005488",
-      "display_name": "binds",
-      "reciprocal_display": "binds"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0051179",
-      "display_name": "localizes",
-      "reciprocal_display": "localized by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0005085",
-      "display_name": "positively regulates",
-      "reciprocal_display": "positively regulated by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0008047",
-      "display_name": "positively regulates",
-      "reciprocal_display": "positively regulated by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0004857",
-      "display_name": "negatively regulates",
-      "reciprocal_display": "negatively regulated by"
-    },
-    {
-      "rel_name": "has_direct_input",
-      "if_descendant_of": "GO:0140313",
-      "display_name": "sequesters",
-      "reciprocal_display": "sequestered by"
-    },
-    {
-      "rel_name": "has_direct_input",
+      "rel_name": "has_input",
       "if_descendant_of": "GO:0140597",
       "display_name": "chaperones",
       "reciprocal_display": "chaperoned by"
@@ -4202,7 +4118,6 @@
       "modified residue",
       "directly_positively_regulates",
       "directly_negatively_regulates",
-      "has_direct_input",
       "has_input",
       "has_regulation_target",
       "binds",
@@ -4654,7 +4569,6 @@
         "directly_activates",
         "directly_inhibits",
         "has_input",
-        "has_direct_input",
         "has_regulation_target",
         "has_substrate",
         "binds"
@@ -7619,7 +7533,6 @@
         "not_exists_during": null,
         "activated_by": null,
         "exists_during": "RO:0002490",
-        "has_direct_input": "RO:0002233",
         "regulates_activity_of": "RO:0002233",
         "has_regulation_target": "RO:0002233",
         "directly_negatively_regulates": "RO:0002233",
