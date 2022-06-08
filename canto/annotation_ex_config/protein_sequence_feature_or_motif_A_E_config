@@ -1,2 +1,2 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
-SO:0001527	is_a	residue	text	position modified, e.g. K23-K30		1	user
+SO:0001527	is_a	residue	text	residue range, e.g. K23-K30		1	user
