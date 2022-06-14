@@ -7553,6 +7553,10 @@
         "SO:0000275": "SO:0001267",
         "SO:0000655": "SO:0001263"
       }
+    },
+    "phaf_cv_name": "single_locus_phenotype",
+    "phaf_parental_strain": {
+      "4896": "972 h-"
     }
   },
   "term_display_names": {
