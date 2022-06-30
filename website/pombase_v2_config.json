@@ -4119,6 +4119,12 @@
       "rel_name": "active_form",
       "if_descendant_of": "GO:0005575",
       "display_name": "localized form"
+    },
+    {
+      "rel_name": "has_input",
+      "if_descendant_of": "GO:0004930",
+      "display_name": "activates",
+      "reciprocal_display": "activated by"
     }
   ],
   "extension_relation_order": {
