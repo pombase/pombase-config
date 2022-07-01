@@ -3298,6 +3298,17 @@
       "show_on_front_page": true
      },
     {
+      "title": "Dong Q et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-06-30-PMID-34810257-CENP-T.png"],
+      "content": "Ccp1-Ndc80 switch at the N terminus of CENP-T regulates kinetochore assembly.\nOriginally published in <a href='https://www.pnas.org/doi/full/10.1073/pnas.2104459118'>Proc Natl Acad Sci</a>.",
+      "reference_id": "PMID:34810257",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-06-30",
+      "show_on_front_page": true
+     },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
