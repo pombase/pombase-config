@@ -3243,6 +3243,61 @@
       "show_on_front_page": true
      },
     {
+      "title": "Ren and Berrro, 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-06-30-35024575-THATCH.png"],
+      "content": "Isolated THATCH domain of End4 is unable to bind F-actin independently in the fission yeast Schizosaccharomyces pombe.\nOriginally published in <a href='https://www.micropublication.org/journals/biology/micropub-biology-000508'>MicroPubl</a>.",
+      "reference_id": "PMID:35024575",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-06-30",
+      "show_on_front_page": false
+     },
+    {
+      "title": "Ait Saada et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-06-30-35639710-any1.png"],
+      "content": "Characterization of canavanine-resistance of cat1 and vhc1 deletions and a dominant any1 mutation in fission yeast.\nOriginally published in <a href='https://www.pombase.org/reference/PMID:35639710'>PLoS One</a>.",
+      "reference_id": "PMID:35639710",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-06-30",
+      "show_on_front_page": true
+     },
+    {
+      "title": "Opalko  et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-06-30-arf6-PMID-34958661-mosely.png"],
+      "content": "Arf6 anchors Cdr2 nodes at the cell cortex to control cell size at division..\nOriginally published in <a href='https://rupress.org/jcb/article/221/2/e202109152/212942/Arf6-anchors-Cdr2-nodes-at-the-cell-cortex-to'>JCB</a>.",
+      "reference_id": "PMID:34958661",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-06-30",
+      "show_on_front_page": true
+     },
+    {
+      "title": "Zhang and See, 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-06-30-PMID-35609605-eisosome-zhang.png"],
+      "content": "Coordinated cortical ER remodeling facilitates actomyosin ring assembly.\nOriginally published in <a href='https://www.cell.com/current-biology/fulltext/S0960-9822(22)00722-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982222007229%3Fshowall%3Dtrue'>Current Biology</a>.",
+      "reference_id": "PMID:35609605",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-06-30",
+      "show_on_front_page": true
+     },
+    {
+      "title": "Neeli-Venkata et al., 2022",
+      "title_link": null,
+      "panel_type": "spotlight",
+      "head_image": ["spotlight/2022-06-30-PMID-34666001-Esc1-Minc.png"],
+      "content": "Detection of surface forces by the cell-wall mechanosensor Wsc1 in yeast.\nOriginally published in <a href='https://www.cell.com/developmental-cell/fulltext/S1534-5807(21)00768-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580721007681%3Fshowall%3Dtrue'>Dev Cell</a>.",
+      "reference_id": "PMID:34666001",
+      "link_label": "Publication record in PomBase ...",
+      "date_added": "2022-06-30",
+      "show_on_front_page": true
+     },
+    {
       "title": "Recent community curation",
       "panel_type": "community",
       "head_image": ["community/2020-02-24-community_papers_curated.png"],
