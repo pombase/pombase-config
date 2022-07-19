@@ -3683,6 +3683,19 @@
             "show_on_front_page": true
         },
         {
+            "title": "Billault-Chaumartin et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2022-07-19-PMID-35673994-fus1-billault-chaumartin.png"
+            ],
+            "content": "The actin assembly requirements of the formin Fus1 to build the fusion focus.\nOriginally published in <a href='https://doi.org/10.1242/jcs.260289'>Journal of Cell Science</a>.",
+            "reference_id": "PMID:35673994",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-07-19",
+            "show_on_front_page": true
+        },
+        {
             "title": "Porat et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
