@@ -4970,6 +4970,12 @@
     "extension_relation_order": {
         "relation_order": [
             "active_form",
+            "assayed_using",
+            "assayed_enzyme",
+            "assayed_substrate",
+            "assayed_protein",
+            "assayed_transcript",
+            "assayed_region",
             "modified residue",
             "directly_positively_regulates",
             "directly_negatively_regulates",
@@ -4993,12 +4999,6 @@
             "increased_in_presence_of",
             "decreased_in_presence_of",
             "absent_during",
-            "assayed_using",
-            "assayed_enzyme",
-            "assayed_substrate",
-            "assayed_protein",
-            "assayed_transcript",
-            "assayed_region",
             "has_severity",
             "has_penetrance"
         ],
