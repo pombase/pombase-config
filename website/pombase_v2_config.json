@@ -4076,14 +4076,14 @@
             "show_on_front_page": false
         },
         {
-            "title": "Disease associations for fission yeast proteins",
+            "title": "New disease associations for fission yeast proteins",
             "title_link": null,
             "panel_type": "explore",
             "head_image": [
                 "explore/2019-01-27-disease.png"
             ],
             "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1471 (up from 1401 in August 2021) of the 3597 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
-            "date_added": "2021-08-06",
+            "date_added": "2021-06-23",
             "show_on_front_page": true
         }
     ],
