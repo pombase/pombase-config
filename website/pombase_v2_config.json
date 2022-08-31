@@ -286,7 +286,7 @@
                 "link": "https://data.caltech.edu/records/1965/",
                 "text": "Genotype information and meta-data for all samples used in the study (csv format)"
             }
-        ], 
+        ]
     },
     "reference_page_jbrowse_columns": [
         {
