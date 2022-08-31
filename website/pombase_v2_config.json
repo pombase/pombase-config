@@ -77,7 +77,7 @@
     "jackhmmer_search_url": "https://www.ebi.ac.uk/Tools/hmmer/search/jackhmmer",
     "ebi_tools_url": "https://www.ebi.ac.uk/Tools/services/web/toolform.ebi",
     "intermine": {
-        "list_post_url": "http://pombemine.rahtiapp.fi/pombemine/portal.do",
+        "list_post_url": "https://www.pombase.org/im//pombemine/portal.do",
         "mine_name": "PombeMine"
     },
     "canto_url": "https://curation.pombase.org/pombe",
