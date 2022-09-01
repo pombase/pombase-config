@@ -273,15 +273,11 @@
             {
                 "link": "https://pubmed.ncbi.nlm.nih.gov/25665008/",
                 "text": "Uses raw data from:"
-            }
-        ], 
-        "PMID:34017941": [
+            },
             {
                 "link": "https://data.caltech.edu/records/1964/",
                 "text": "Mitochondrial variant calls for all samples used in the study (vcf format)"
-            }
-        ],
-         "PMID:34017941": [
+            },
             {
                 "link": "https://data.caltech.edu/records/1965/",
                 "text": "Genotype information and meta-data for all samples used in the study (csv format)"
