@@ -269,11 +269,7 @@
                 "text": "Time-dependent changes can be viewed using the accompanying application"
             }
         ],
-        "PMID:34017941": [
-            {
-                "link": "https://pubmed.ncbi.nlm.nih.gov/25665008/",
-                "text": "Uses raw data from:"
-            },
+        "PMID:34017941":   [
             {
                 "link": "https://data.caltech.edu/records/1964/",
                 "text": "Mitochondrial variant calls for all samples used in the study (vcf format)"
