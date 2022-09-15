@@ -4657,7 +4657,7 @@
     "extension_display_names": [
         {
             "rel_name": "has_input",
-            "if_descendant_of": "GO:0004722",
+            "if_descendant_of": "GO:0004721",
             "display_name": "dephosphorylates",
             "reciprocal_display": "dephosphorylated by"
         },
