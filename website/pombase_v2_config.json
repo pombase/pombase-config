@@ -5558,14 +5558,14 @@
             "slim_no_category_text": "molecular function GO Slim category",
             "split_by_parents": [
                 {
-                    "config_name": "NOT binding",
+                    "config_name": "not-binding",
                     "termids": [
                         "NOT GO:0005488"
                     ],
                     "display_name": "Activities"
                 },
                 {
-                    "config_name": "Binding",
+                    "config_name": "binding",
                     "termids": [
                         "GO:0005488"
                     ],
