@@ -3845,6 +3845,17 @@
             "show_on_front_page": true
          },
          {
+            "title": "Oravcová  et al., 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-09-09-30348841-oravcova-brc1.png"],
+            "content": "Brc1 Promotes the Focal Accumulation and SUMO Ligase Activity of Smc5-Smc6 during Replication Stress.\nOriginally published in <a href='https://journals.asm.org/doi/10.1128/MCB.00271-18'>Mol. Cell. Biol.</a>.",
+            "reference_id": "PMID:30348841",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-09-09",
+            "show_on_front_page": true
+         },
+         {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
