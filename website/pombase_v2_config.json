@@ -4703,52 +4703,28 @@
             "display_name": "during"
         },
         {
-            "rel_name": "has_regulation_target",
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0000976",
             "display_name": "regulates transcription of",
             "reciprocal_display": "transcription regulated by"
         },
         {
-            "rel_name": "has_regulation_target",
-            "if_descendant_of": "GO:0001216",
-            "display_name": "activates transcription of",
-            "reciprocal_display": "transcription activated by"
-        },
-        {
-            "rel_name": "has_regulation_target",
-            "if_descendant_of": "GO:0001217",
-            "display_name": "represses transcription of",
-            "reciprocal_display": "transcription repressed by"
-        },
-        {
-            "rel_name": "has_regulation_target",
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0003713",
             "display_name": "activates transcription of",
             "reciprocal_display": "transcription activated by"
         },
         {
-            "rel_name": "has_regulation_target",
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0003714",
             "display_name": "represses transcription of",
             "reciprocal_display": "transcription repressed by"
         },
         {
-            "rel_name": "has_regulation_target",
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0030234",
             "display_name": "regulates activity of",
             "reciprocal_display": "activity regulated by"
-        },
-        {
-            "rel_name": "has_regulation_target",
-            "if_descendant_of": "GO:0140677",
-            "display_name": "activates",
-            "reciprocal_display": "activated by"
-        },
-        {
-            "rel_name": "has_regulation_target",
-            "if_descendant_of": "GO:0140678",
-            "display_name": "inhibits",
-            "reciprocal_display": "inhibited by"
         },
         {
             "rel_name": "has_input",
@@ -4757,7 +4733,7 @@
             "reciprocal_display": "inhibited by"
         },
         {
-            "rel_name": "has_regulation_target",
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0008150",
             "display_name": "regulates",
             "reciprocal_display": "regulated by"
@@ -4895,12 +4871,6 @@
         },
         {
             "rel_name": "has_input",
-            "if_descendant_of": "GO:0001216",
-            "display_name": "activates transcription of",
-            "reciprocal_display": "transcription activated by"
-        },
-        {
-            "rel_name": "has_input",
             "if_descendant_of": "GO:0140677",
             "display_name": "activates",
             "reciprocal_display": "activated by"
@@ -5023,7 +4993,6 @@
             "directly_positively_regulates",
             "directly_negatively_regulates",
             "has_input",
-            "has_regulation_target",
             "binds",
             "activated by",
             "carried by",
@@ -5588,7 +5557,6 @@
                 "directly_activates",
                 "directly_inhibits",
                 "has_input",
-                "has_regulation_target",
                 "has_substrate",
                 "binds"
             ],
@@ -5787,8 +5755,7 @@
                 }
             ],
             "summary_relation_ranges_to_collect": [
-                "has_input",
-                "has_regulation_target"
+                "has_input"
             ],
             "slim_subset_name": "bp_goslim_pombe",
             "slim_description": "Biological process overview (GO slim)",
@@ -9245,7 +9212,6 @@
                 "activated_by": null,
                 "exists_during": "RO:0002490",
                 "regulates_activity_of": "RO:0002233",
-                "has_regulation_target": "RO:0002233",
                 "directly_negatively_regulates": "RO:0002233",
                 "directly_positively_regulates": "RO:0002233",
                 "regulates_expression_of": "RO:0002233",
