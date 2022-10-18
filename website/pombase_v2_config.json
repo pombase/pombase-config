@@ -3856,6 +3856,28 @@
             "show_on_front_page": true
          },
          {
+            "title": "Hirai  et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-10-06-35970865.png"],
+            "content": "The Mis6 inner kinetochore subcomplex maintains CENP-A nucleosomes against centromeric non-coding transcription during mitosis.\nOriginally published in <a href='https://www.nature.com/articles/s42003-022-03786-y'>Commun Biol</a>.",
+            "reference_id": "PMID:35970865",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-10-06",
+            "show_on_front_page": true
+         },
+         {
+            "title": "Kolesar et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/22-10-17-35011726-nse1.png"],
+            "content": "Role of Nse1 Subunit of SMC5/6 Complex as a Ubiquitin Ligase.\nOriginally published in <a href='https://www.mdpi.com/2073-4409/11/1/165'>Cell</a>.",
+            "reference_id": "PMID:35011726",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-10-17",
+            "show_on_front_page": true
+         },        
+         {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
