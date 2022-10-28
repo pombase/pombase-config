@@ -3876,6 +3876,51 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-19",
             "show_on_front_page": true
+         },    
+         {
+            "title": "Schwer et al., 2020",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-10-26-PMID-32546512-erh.png"],
+            "content": "Inactivation of fission yeast Erh1 de-represses pho1 expression: evidence that Erh1 is a negative regulator of prt lncRNA termination\nOriginally published in <a href='https://rnajournal.cshlp.org/content/26/10/1334'>RNA</a>.",
+            "reference_id": "PMID:32546512",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-10-26",
+            "show_on_front_page": true
+         },
+         {
+            "title": "Sanchez et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-10-25-PMID-35314193-duf89.png"],
+            "content": "Fission yeast Duf89 and Duf8901 are cobalt/nickel-dependent phosphatase-pyrophosphatases that act via a covalent aspartyl-phosphate intermediate.\nOriginally published in <a href='https://www.jbc.org/article/S0021-9258(22)00291-5/fulltext'>J Biol Chem</a>.",
+            "reference_id": "PMID:35314193",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-10-25",
+            "show_on_front_page": true
+         },
+         {
+            "title": "Sanchez et al., 2019",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-10-28-PMID-31276588-IP8.png"],
+            "content": "Inositol pyrophosphates impact phosphate homeostasis via modulation of RNA 3' processing and transcription termination.
+            .\nOriginally published in <a href='https://academic.oup.com/nar/article/47/16/8452/5528736'>Nucleic Acids Research</a>.",
+            "reference_id": "PMID:31276588",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-10-27",
+            "show_on_front_page": true
+         },
+         {
+            "title": "Garg et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-10-27-34967420_rad24.png"],
+            "content": "Genetic screen for suppression of transcriptional interference reveals fission yeast 14-3-3 protein Rad24 as an antagonist of precocious Pol2 transcription termination.\nOriginally published in <a href='https://academic.oup.com/nar/article/50/2/803/6489952'>Nucleic Acids Research</a>.",
+            "reference_id": "PMID:34967420",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-10-27",
+            "show_on_front_page": true
          },
          {
             "title": "Recent community curation",
