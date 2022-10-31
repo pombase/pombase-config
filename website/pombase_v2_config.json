@@ -6890,6 +6890,7 @@
             "dephosphorylated by": 25,
             "directly activated by": 20,
             "directly inhibited by": 20,
+            "inhibited by": 18,
             "phosphorylated by": 15,
             "ubiquitinated by": 15,
             "chaperoned by": 15,
