@@ -6877,6 +6877,148 @@
             ]
         }
     },
+    "interaction_config": {
+      "Co-crystal Structure": {
+        "baitLabel": "co-crystallizes with",
+        "preyLabel": "co-crystallizes with",
+        "isSymmetric": true
+      },
+      "Co-fractionation": {
+        "baitLabel": "co-fractionates with",
+        "preyLabel": "co-fractionates with",
+        "isSymmetric": true
+      },
+      "Co-localization": {
+        "baitLabel": "co-localizes with",
+        "preyLabel": "co-localizes with",
+        "isSymmetric": true
+      },
+      "Co-purification": {
+        "baitLabel": "co-purifies with",
+        "preyLabel": "co-purifies with",
+        "isSymmetric": true
+      },
+      "Reconstituted Complex": {
+        "baitLabel": "forms complex with",
+        "preyLabel": "forms complex with",
+        "isSymmetric": true
+      },
+      "Affinity Capture-Luminescence": {
+        "baitLabel": "affinity captures",
+        "preyLabel": "affinity captured by",
+        "isSymmetric": false
+      },
+      "Affinity Capture-MS": {
+        "baitLabel": "affinity captures",
+        "preyLabel": "affinity captured by",
+        "isSymmetric": false
+      },
+      "Affinity Capture-RNA": {
+        "baitLabel": "affinity captures",
+        "preyLabel": "affinity captured by",
+        "isSymmetric": false
+      },
+      "Affinity Capture-Western": {
+        "baitLabel": "affinity captures",
+        "preyLabel": "affinity captured by",
+        "isSymmetric": false
+      },
+      "Proximity Label-MS": {
+        "baitLabel": "affinity captures",
+        "preyLabel": "affinity captured by",
+        "isSymmetric": false
+      },
+      "Biochemical Activity": {
+        "baitLabel": "modifies",
+        "preyLabel": "modified by",
+        "isSymmetric": false
+      },
+      "Far Western": {
+        "baitLabel": "captures",
+        "preyLabel": "captured by",
+        "isSymmetric": false
+      },
+      "FRET": {
+        "baitLabel": "fluorescence resonance energy donor to",
+        "preyLabel": "fluorescence resonance energy acceptor from",
+        "isSymmetric": false
+      },
+      "PCA": {
+        "baitLabel": "interacts with",
+        "preyLabel": "interacts with",
+        "isSymmetric": true
+      },
+      "Protein-peptide": {
+        "baitLabel": "binds to peptide derived from",
+        "preyLabel": "peptide from this protein binds to",
+        "isSymmetric": false
+      },
+      "Protein-RNA": {
+        "baitLabel": "binds to RNA",
+        "preyLabel": "binds to protein",
+        "isSymmetric": false
+      },
+      "Two-hybrid": {
+        "baitLabel": "binds activation domain construct with",
+        "preyLabel": "binds DNA-binding domain construct with",
+        "isSymmetric": false
+      },
+      "Negative Genetic": {
+        "baitLabel": "negative genetic interaction with",
+        "preyLabel": "negative genetic interaction with",
+        "isSymmetric": true
+      },
+      "Positive Genetic": {
+        "baitLabel": "positive genetic interaction with",
+        "preyLabel": "positive genetic interaction with",
+        "isSymmetric": true
+      },
+      "Synthetic Growth Defect": {
+        "baitLabel": "synthetic growth defect with",
+        "preyLabel": "synthetic growth defect with",
+        "isSymmetric": true
+      },
+      "Synthetic Haploinsufficiency": {
+        "baitLabel": "synthetic haploinsufficient with",
+        "preyLabel": "synthetic haploinsufficient with",
+        "isSymmetric": true
+      },
+      "Synthetic Lethality": {
+        "baitLabel": "synthetic lethal with",
+        "preyLabel": "synthetic lethal with",
+        "isSymmetric": true
+      },
+      "Synthetic Rescue": {
+        "baitLabel": "synthetically rescued by",
+        "preyLabel": "synthetically rescues",
+        "isSymmetric": false
+      },
+      "Dosage Growth Defect": {
+        "baitLabel": "growth defect in presence of overexpressed",
+        "preyLabel": "overexpression causes growth defect to",
+        "isSymmetric": false
+      },
+      "Dosage Lethality": {
+        "baitLabel": "inviable in presence of overexpressed",
+        "preyLabel": "overexpression lethal to",
+        "isSymmetric": false
+      },
+      "Dosage Rescue": {
+        "baitLabel": "rescued by overexpression of",
+        "preyLabel": "overexpression rescues",
+        "isSymmetric": false
+      },
+      "Phenotypic Enhancement": {
+        "baitLabel": "phenotype enhanced by",
+        "preyLabel": "enhances phenotype of",
+        "isSymmetric": false
+      },
+      "Phenotypic Suppression": {
+        "baitLabel": "rescued by",
+        "preyLabel": "rescues",
+        "isSymmetric": false
+      }
+    },
     "target_of_config": {
         "ontology_labels": {
             "molecular_function": "GO",
