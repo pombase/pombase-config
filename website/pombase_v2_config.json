@@ -4310,7 +4310,8 @@
                     "termid": "FYPO:0002061",
                     "name": "inviable vegetative cell population",
                     "single_or_multi_locus": "single",
-                    "expression": "null"
+                    "expression": "null",
+                    "ploidiness": "haploid"
                 }
             }
         },
@@ -4320,7 +4321,8 @@
                     "termid": "FYPO:0002060",
                     "name": "viable vegetative cell population",
                     "single_or_multi_locus": "single",
-                    "expression": "null"
+                    "expression": "null",
+                    "ploidiness": "haploid"
                 }
             }
         },
@@ -4332,7 +4334,8 @@
                             "termid": "FYPO:0002061",
                             "name": "inviable vegetative cell population",
                             "single_or_multi_locus": "single",
-                            "expression": "null"
+                            "expression": "null",
+                            "ploidiness": "haploid"
                         }
                     },
                     {
@@ -4340,7 +4343,8 @@
                             "termid": "FYPO:0002060",
                             "name": "viable vegetative cell population",
                             "single_or_multi_locus": "single",
-                            "expression": "null"
+                            "expression": "null",
+                            "ploidiness": "haploid"
                         }
                     }
                 ]
@@ -4600,7 +4604,8 @@
                     "termid": "FYPO:0002060",
                     "name": "viable vegetative cell population",
                     "single_or_multi_locus": "single",
-                    "expression": "null"
+                    "expression": "null",
+                    "ploidiness": "haploid"
                 }
             }
         },
@@ -4611,7 +4616,8 @@
                     "termid": "FYPO:0002061",
                     "name": "inviable vegetative cell population",
                     "single_or_multi_locus": "single",
-                    "expression": "null"
+                    "expression": "null",
+                    "ploidiness": "haploid"
                 }
             }
         },
