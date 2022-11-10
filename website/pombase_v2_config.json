@@ -225,6 +225,10 @@
                         "url": "/about/citing-pombase"
                     },
                     {
+                        "title": "Scientific Advisory Board",
+                        "url": "/about/pombase-sab"
+                    },
+                    {
                         "title": "Resource metrics",
                         "url": "/about/resource-metrics"
                     },
