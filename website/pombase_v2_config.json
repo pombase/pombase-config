@@ -229,6 +229,10 @@
                         "url": "/about/pombase-sab"
                     },
                     {
+                        "title": "Collaborations",
+                        "url": "/about/collaborations"
+                    },
+                    {
                         "title": "Resource metrics",
                         "url": "/about/resource-metrics"
                     },
