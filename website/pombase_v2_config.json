@@ -3930,6 +3930,17 @@
             "show_on_front_page": true
          },
          {
+            "title": "Garg et al., 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-11-21-33579781-CTD-profiling.png"],
+            "content": "Transcriptional profiling of fission yeast RNA polymerase II CTD mutants.\nOriginally published in <a href='https://rnajournal.cshlp.org/content/27/5/560'>RNA</a>.",
+            "reference_id": "PMID:33579781",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-11-18",
+            "show_on_front_page": true
+         },
+         {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
