@@ -5580,10 +5580,6 @@
             "display_name": "Single locus phenotype",
             "inherits_from": "fission_yeast_phenotype",
             "single_or_multi_locus": "single",
-            "slim_subset_name": "fypo_slim",
-            "slim_description": "Fission yeast phenotype overview",
-            "slim_link": "/browse-curation/fypo-slim",
-            "slim_no_category_text": "fission yeast phenotype overview category",
             "help_route": "/documentation/gene-page-phenotypes"
         },
         "multi_locus_phenotype": {
