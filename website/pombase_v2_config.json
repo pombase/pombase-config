@@ -3941,6 +3941,39 @@
             "show_on_front_page": true
          },
          {
+            "title": "Sanchez et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-012-01-32282918-pin1-sanchez.png"],
+            "content": "Genetic interactions and transcriptomics implicate fission yeast CTD prolyl isomerase Pin1 as an agent of RNA 3' processing and transcription termination that functions via its effects on CTD phosphatase Ssu72.\nOriginally published in <a href='https://academic.oup.com/nar/article/48/9/4811/5819598'>Nucleic Acids Res.</a>.",
+            "reference_id": "PMID:32282918",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-12-01",
+            "show_on_front_page": true
+         },
+         {
+            "title": "Schwer et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/.png"],
+            "content": "Cleavage-Polyadenylation Factor Cft1 and SPX Domain Proteins Are Agents of Inositol Pyrophosphate Toxicosis in Fission Yeast..\nOriginally published in <a href='https://journals.asm.org/doi/10.1128/mbio.03476-21'>mBio</a>.",
+            "reference_id": "PMID:35012333",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-12-01",
+            "show_on_front_page": true
+         },
+         {
+            "title": "Selicky et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2022-12-01-36361590-cipek-gpl1.png"],
+            "content": "Interactome of Spliceosome-Associated G-Patch Protein Gpl1 in the Fission Yeast Schizosaccharomyces pombe.\nOriginally published in <a href='https://www.mdpi.com/1422-0067/23/21/12800'>Int J Mol Sci</a>.",
+            "reference_id": "PMID:36361590",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2022-12-01",
+            "show_on_front_page": true
+         },
+         {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
