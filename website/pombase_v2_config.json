@@ -498,6 +498,10 @@
                             {
                                 "name": "feature_type_rRNA_gene",
                                 "displayName": "feature_type:rRNA"
+                            },
+                            {
+                                "name": "feature_type_sncRNA_gene",
+                                "displayName": "feature_type:sncRNA"
                             }
                         ],
                         "topDescription": [
