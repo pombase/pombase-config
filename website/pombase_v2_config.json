@@ -671,6 +671,30 @@
                                         "text": "Retrieve genes by number of transcript isoforms"
                                     }
                                 ]
+                            },
+                            {
+                                "id": "spliced_rna_length",
+                                "displayName": "Spliced RNA length",
+                                "nodeType": "int-range",
+                                "range_minimum": 1,
+                                "range_any_and_none": false,
+                                "topDescription": [
+                                    {
+                                        "text": "Retrieve genes by spliced RNA length in nucleotides (not including UTRs for protein coding genes)"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "unspliced_rna_length",
+                                "displayName": "Unspliced RNA length",
+                                "nodeType": "int-range",
+                                "range_minimum": 1,
+                                "range_any_and_none": false,
+                                "topDescription": [
+                                    {
+                                        "text": "Retrieve genes by un-spliced RNA length in nucleotides (not including UTRs for protein coding genes)"
+                                    }
+                                ]
                             }
                         ]
                     }
