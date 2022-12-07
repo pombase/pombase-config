@@ -638,26 +638,39 @@
                         ]
                     },
                     {
-                        "id": "exon_count",
-                        "displayName": "number of exons",
-                        "nodeType": "int-range",
-                        "range_minimum": 1,
-                        "range_any_and_none": false,
+                       "id": "transcript_structure_properties",
+                        "displayName": "Transcripts and exons",
+                        "nodeType": "sub-nodes",
+                        "subsetPrefix": null,
                         "topDescription": [
                             {
-                                "text": "Retrieve genes by number of exons in the primary transcript"
+                                "text": "Transcript and exons properties"
                             }
-                        ]
-                    },
-                    {
-                        "id": "transcript_count",
-                        "displayName": "Number of transcripts",
-                        "nodeType": "int-range",
-                        "range_minimum": 1,
-                        "range_any_and_none": false,
-                        "topDescription": [
+                        ],
+                        "subNodes": [
                             {
-                                "text": "Retrieve genes by number of transcript isoforms"
+                                "id": "exon_count",
+                                "displayName": "number of exons",
+                                "nodeType": "int-range",
+                                "range_minimum": 1,
+                                "range_any_and_none": false,
+                                "topDescription": [
+                                    {
+                                        "text": "Retrieve genes by number of exons in the primary transcript"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "transcript_count",
+                                "displayName": "Number of transcripts",
+                                "nodeType": "int-range",
+                                "range_minimum": 1,
+                                "range_any_and_none": false,
+                                "topDescription": [
+                                    {
+                                        "text": "Retrieve genes by number of transcript isoforms"
+                                    }
+                                ]
                             }
                         ]
                     }
