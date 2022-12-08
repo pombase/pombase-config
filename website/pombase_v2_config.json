@@ -6869,6 +6869,16 @@
                 }
             ]
         },
+        "double_mutant_genetic_interactions": {
+            "feature_type": "gene",
+            "display_name": "Double allele interactions",
+            "inherits_from": "genetic_interactions"
+        },
+        "single_allele_genetic_interactions": {
+            "feature_type": "gene",
+            "display_name": "Single allele interactions",
+            "inherits_from": "genetic_interactions"
+        },
         "physical_interactions": {
             "feature_type": "gene",
             "display_name": "Physical interaction",
@@ -7175,6 +7185,8 @@
         "sequence",
         "physical_interactions",
         "genetic_interactions",
+        "double_mutant_genetic_interactions",
+        "single_allele_genetic_interactions",
         "orthologs",
         "paralogs",
         "species_dist",
