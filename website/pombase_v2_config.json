@@ -265,6 +265,12 @@
         }
     ],
     "reference_page_extra_links": {
+        "PMID:36257942": [
+            {
+                "link": "https://butterlab.imb-mainz.de/SpProtQuant/",
+                "text": "View the changes in proteome resulting from deleting a certain coding gene, or the changes in protein levels of a given coding gene in all strains deleted for coding genes."
+            }
+        ],
         "PMID:31364709": [
             {
                 "link": "https://www.pombase.org/jbrowse/?loc=mitochondrial%3A1..19433",
@@ -7284,6 +7290,16 @@
             "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
         },
         {
+            "ref_type": "Strain and reagents",
+            "feature_types": [
+                "ALL"
+            ],
+            "name": "Image Data Resource",
+            "description": "Microscopy data",
+            "field_name": "uniquename",
+            "url": "https://idr.openmicroscopy.org/mapr/gene/?value=<<IDENTIFIER>>.html"
+        },
+        {
             "ref_type": "GO annotation",
             "feature_types": [
                 "mRNA gene"
@@ -7422,6 +7438,26 @@
             "description": "Genome-wide cell-cycle-related experimental results",
             "field_name": "uniquename",
             "url": "https://cyclebase.org/CyclebasePage?type=4896&id=<<IDENTIFIER>>.1"
+        },
+        {
+            "ref_type": "Expression",
+            "feature_types": [
+                "CDS"
+            ],
+            "name": "Butter Lab (Öztürk et al. 2022)",
+            "description": "Changes in protein level of this gene product when deleting other protein coding genes",
+            "field_name": "uniquename",
+            "url": "https://butterlab.imb-mainz.de/SpProtQuant/?data=KOLibrary&data2=searchByProtein&protein=<<IDENTIFIER>>"
+        },
+        {
+            "ref_type": "Expression",
+            "feature_types": [
+                "CDS"
+            ],
+            "name": "Butter Lab (Öztürk et al. 2022)",
+            "description": "Proteomic changes resulting from the deletion of this gene",
+            "field_name": "uniquename",
+            "url": "https://butterlab.imb-mainz.de/SpProtQuant/?data=KOLibrary&data2=searchByKOStrain&KOStrain=SPBC2D10.18=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Proteomics",
