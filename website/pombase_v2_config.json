@@ -265,6 +265,12 @@
         }
     ],
     "reference_page_extra_links": {
+        "PMID:25373780": [
+            {
+                "link": "https://idr.openmicroscopy.org/webclient/?show=screen-3",
+                "text": "Access the microscopy data in Image Data Resource."
+            }
+        ],
         "PMID:36257942": [
             {
                 "link": "https://butterlab.imb-mainz.de/SpProtQuant/",
@@ -7297,7 +7303,7 @@
             "name": "Image Data Resource",
             "description": "Microscopy data",
             "field_name": "uniquename",
-            "url": "https://idr.openmicroscopy.org/mapr/gene/?value=<<IDENTIFIER>>.html"
+            "url": "https://idr.openmicroscopy.org/mapr/gene/?value=<<IDENTIFIER>>"
         },
         {
             "ref_type": "GO annotation",
