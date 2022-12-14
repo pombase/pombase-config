@@ -3925,7 +3925,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-19",
             "show_on_front_page": true
-         },    
+         },
          {
             "title": "Schwer et al., 2020",
             "title_link": null,
@@ -4511,17 +4511,12 @@
                 "or": [
                     {
                         "subset": {
+                            "subset_name": "feature_type_guide_RNA_gene"
+                        }
+                    },
+                    {
+                        "subset": {
                             "subset_name": "feature_type_ncRNA_gene"
-                        }
-                    },
-                    {
-                        "subset": {
-                            "subset_name": "feature_type_mRNA_gene"
-                        }
-                    },
-                    {
-                        "subset": {
-                            "subset_name": "feature_type_pseudogene"
                         }
                     },
                     {
@@ -4531,7 +4526,7 @@
                     },
                     {
                         "subset": {
-                            "subset_name": "feature_type_snoRNA_gene"
+                            "subset_name": "feature_type_sncRNA_gene"
                         }
                     },
                     {
@@ -4541,7 +4536,32 @@
                     },
                     {
                         "subset": {
+                            "subset_name": "feature_type_antisense_RNA_gene"
+                        }
+                    },
+                    {
+                        "subset": {
+                            "subset_name": "feature_type_pseudogene"
+                        }
+                    },
+                    {
+                        "subset": {
+                            "subset_name": "feature_type_mRNA_gene"
+                        }
+                    },
+                    {
+                        "subset": {
+                            "subset_name": "feature_type_snoRNA_gene"
+                        }
+                    },
+                    {
+                        "subset": {
                             "subset_name": "feature_type_tRNA_gene"
+                        }
+                    },
+                    {
+                        "subset": {
+                            "subset_name": "feature_type_lncRNA_gene"
                         }
                     }
                 ]
