@@ -7463,7 +7463,7 @@
             "name": "Butter Lab (Öztürk et al. 2022)",
             "description": "Proteomic changes resulting from the deletion of this gene",
             "field_name": "uniquename",
-            "url": "https://butterlab.imb-mainz.de/SpProtQuant/?data=KOLibrary&data2=searchByKOStrain&KOStrain=SPBC2D10.18=<<IDENTIFIER>>"
+            "url": "https://butterlab.imb-mainz.de/SpProtQuant/?data=KOLibrary&data2=searchByKOStrain&KOStrain=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Proteomics",
