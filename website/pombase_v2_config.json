@@ -7468,7 +7468,7 @@
         {
             "ref_type": "Expression",
             "feature_types": [
-                "CDS"
+                "mRNA gene"
             ],
             "name": "Butter Lab (Öztürk et al. 2022)",
             "description": "Changes in protein level of this gene product when deleting other protein coding genes",
@@ -7478,7 +7478,7 @@
         {
             "ref_type": "Expression",
             "feature_types": [
-                "CDS"
+                "mRNA gene"
             ],
             "name": "Butter Lab (Öztürk et al. 2022)",
             "description": "Proteomic changes resulting from the deletion of this gene",
