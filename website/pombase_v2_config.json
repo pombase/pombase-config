@@ -7255,6 +7255,51 @@
     ],
     "external_gene_references": [
         {
+            "ref_type": "Sequence Resources",
+            "feature_types": [
+                "rRNA gene",
+                "tRNA gene",
+                "snRNA gene",
+                "snoRNA gene",
+                "ncRNA gene"
+            ],
+            "name": "RNAcentral",
+            "description": "Non-coding RNA sequence database",
+            "field_name": "rnacentral_urs_identifier",
+            "url": "https://rnacentral.org/rna/<<IDENTIFIER>>/<<TAXONID>>"
+        },
+        {
+            "ref_type": "Sequence Resources",
+            "feature_types": [
+                "mRNA gene",
+                "pseudogene"
+            ],
+            "name": "UniProtKB/SwissProt",
+            "description": "Protein database ",
+            "field_name": "uniprot_identifier",
+            "go_xrf_abbrev": "UniProtKB"
+        },
+        {
+            "ref_type": "Sequence Resources",
+            "feature_types": [
+                "ALL"
+            ],
+            "name": "NCBI",
+            "description": "Query all NCBI databases",
+            "field_name": "NCBI_ALL_IDS",
+            "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<IDENTIFIER>>)+AND+(pombe+OR+fission+yeast)"
+        },
+        {
+            "ref_type": "Sequence Resources",
+            "feature_types": [
+                "ALL"
+            ],
+            "name": "Ensembl",
+            "description": "Genome browser",
+            "field_name": "uniquename",
+            "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Location/View?db=core;g=<<IDENTIFIER>>"
+        },
+        {
             "ref_type": "Structure",
             "feature_types": [
                 "mRNA gene"
@@ -7285,20 +7330,6 @@
             "description": "Automated protein structure homology modelling",
             "field_name": "uniprot_identifier",
             "url": "https://swissmodel.expasy.org/repository/uniprot/<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Sequence Resources",
-            "feature_types": [
-                "rRNA gene",
-                "tRNA gene",
-                "snRNA gene",
-                "snoRNA gene",
-                "ncRNA gene"
-            ],
-            "name": "RNAcentral",
-            "description": "Non-coding RNA sequence database",
-            "field_name": "rnacentral_urs_identifier",
-            "url": "https://rnacentral.org/rna/<<IDENTIFIER>>/<<TAXONID>>"
         },
         {
             "ref_type": "Strain and reagents",
@@ -7511,37 +7542,6 @@
             "description": "Manually curated and peer-reviewed pathways",
             "field_name": "uniprot_identifier",
             "url": "https://reactome.org/content/query?q=<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Sequence Resources",
-            "feature_types": [
-                "mRNA gene",
-                "pseudogene"
-            ],
-            "name": "UniProtKB/SwissProt",
-            "description": "Protein database ",
-            "field_name": "uniprot_identifier",
-            "go_xrf_abbrev": "UniProtKB"
-        },
-        {
-            "ref_type": "Sequence Resources",
-            "feature_types": [
-                "ALL"
-            ],
-            "name": "NCBI",
-            "description": "Query all NCBI databases",
-            "field_name": "NCBI_ALL_IDS",
-            "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<IDENTIFIER>>)+AND+(pombe+OR+fission+yeast)"
-        },
-        {
-            "ref_type": "Sequence Resources",
-            "feature_types": [
-                "ALL"
-            ],
-            "name": "Ensembl",
-            "description": "Genome browser",
-            "field_name": "uniquename",
-            "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Location/View?db=core;g=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Orthologs",
