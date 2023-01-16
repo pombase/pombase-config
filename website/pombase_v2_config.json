@@ -7266,6 +7266,7 @@
                 "snRNA gene",
                 "snoRNA gene",
                 "lncRNA gene",
+                "sncRNA gene",
                 "ncRNA gene"
             ],
             "name": "RNAcentral",
