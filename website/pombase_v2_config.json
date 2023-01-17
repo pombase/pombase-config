@@ -497,12 +497,12 @@
                                 "displayName": "feature_type:pseudogene"
                             },
                             {
-                                "name": "feature_type_lncRNA_gene",
-                                "displayName": "feature_type:lncRNA"
-                            },
-                            {
                                 "name": "feature_type_ncRNA_gene",
                                 "displayName": "feature_type:ncRNA"
+                            },
+                            {
+                                "name": "feature_type_lncRNA_gene",
+                                "displayName": "feature_type:lncRNA"
                             },
                             {
                                 "name": "feature_type_rRNA_gene",
