@@ -391,6 +391,26 @@
             "\\\\.1:pep"
         ]
     },
+    "feature_sub_groups": {
+        "rRNA gene": [
+            "ncRNA gene"
+        ],
+        "tRNA gene": [
+            "ncRNA gene"
+        ],
+        "snRNA gene": [
+            "ncRNA gene"
+        ],
+        "snoRNA gene": [
+            "ncRNA gene"
+        ],
+        "lncRNA gene": [
+            "ncRNA gene"
+        ],
+        "sncRNA gene": [
+            "ncRNA gene"
+        ]
+    },
     "query_builder": {
         "node_types": [
             {
