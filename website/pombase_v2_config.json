@@ -524,7 +524,7 @@
                             },
                             {
                                 "name": "feature_type_ncRNA_gene",
-                                "displayName": "feature_type:ncRNA"
+                                "displayName": "feature_type:ncRNA (all non coding)"
                             },
                             {
                                 "name": "feature_type_lncRNA_gene",
