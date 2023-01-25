@@ -7935,6 +7935,10 @@
                     "termid": "GO:0006091"
                 },
                 {
+                    "name": "inorganic ion homeostasis",
+                    "termid": "GO:0098771"
+                },
+                {
                     "name": "iron-sulfur cluster assembly",
                     "termid": "GO:0016226"
                 },
@@ -7957,10 +7961,6 @@
                 {
                     "name": "membrane organization",
                     "termid": "GO:0061024"
-                },
-                {
-                    "name": "metal ion homeostasis",
-                    "termid": "GO:0055065"
                 },
                 {
                     "name": "microtubule cytoskeleton organization",
