@@ -4063,6 +4063,28 @@
             "show_on_front_page": true
          },
          {
+             "title": "Bai et al., 2022",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["spotlight/2023-01-20_36108046_dnt1_Li_Sun_QW_Win.png"],
+             "content": "Recovery from spindle checkpoint-mediated arrest requires a novel Dnt1-dependent APC/C activation mechanism.\nOriginally published in <a href='https://www.pombase.org/reference/PMID:36108046'>PLoS Genet</a>.",
+             "reference_id": "PMID:36108046",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2022-01-20",
+             "show_on_front_page": true
+          },
+          {
+             "title": "Wang et al., 2022",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["spotlight/2023-01-20_36138017_CLIP170_Xi-wang-Jin-QW.png"],
+             "content": "Ubiquitination of CLIP-170 family protein restrains polarized growth upon DNA replication stress.\nOriginally published in <a href='https://www.nature.com/articles/s41467-022-33311-y'>Nat Commun</a>.",
+             "reference_id": "PMID:36138017",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-01-20",
+             "show_on_front_page": true
+          },
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
