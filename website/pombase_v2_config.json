@@ -363,6 +363,7 @@
             "warning": "Many lncRNAs are cryptic and the functions (if any) are mostly unknown. RNA-seq cannot precisely map transcription start and termination sites, hence features are currently approximate. Most lncRNAs in fission yeast are induced in certain conditions, like non-dividing cells and meiotic differentiation. In proliferating cells, most lncRNAs are suppressed by RNA-processing pathways. For more details on the relevance of a specific RNA please follow the link to the source(s) (adjacent). You can also inspect individual datasets as tracks in JBrowse."
         }
     ],
+    "alphafold_max_protein_length": 2700,
     "jbrowse_track_picker_base_url": "/jbrowse/?loc=I:1..5579133&tracks=",
     "missing_browser_images": [
         "SPNCRNA.1701",
