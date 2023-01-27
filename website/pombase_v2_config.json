@@ -7939,6 +7939,10 @@
                     "termid": "GO:0098771"
                 },
                 {
+                    "name": "intracellular phosphate ion homeostasis",
+                    "termid": "GO:0030643"
+                },
+                {
                     "name": "iron-sulfur cluster assembly",
                     "termid": "GO:0016226"
                 },
