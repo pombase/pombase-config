@@ -4084,6 +4084,17 @@
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-01-20",
              "show_on_front_page": true
+          },        
+          {
+             "title": "Poddar et al., 2022",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["spotlight/2023-02-03-PMID-36200871-pkd2-chen.png"],
+             "content": "Membrane stretching activates calcium-permeability of a putative channel Pkd2 during fission yeast cytokinesis..\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E22-07-0248'>Molecular Biology of the Cell</a>.",
+             "reference_id": "PMID:36200871",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-02-03",
+             "show_on_front_page": true
           },
           {
             "title": "Recent community curation",
