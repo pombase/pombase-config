@@ -81,6 +81,7 @@
     "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
     "jackhmmer_search_url": "https://www.ebi.ac.uk/Tools/hmmer/search/jackhmmer",
     "ebi_tools_url": "https://www.ebi.ac.uk/Tools/services/web/toolform.ebi",
+    "pdbe_entry_url": "https://www.ebi.ac.uk/pdbe-srv/view/entry",
     "intermine": {
         "list_post_url": "https://www.pombase.org/im//pombemine/portal.do",
         "mine_name": "PombeMine"
