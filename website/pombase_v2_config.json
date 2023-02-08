@@ -971,6 +971,32 @@
     ],
     "front_page_panels": [
         {
+            "title": "Pham et al., 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-02-08-Pham-palmitoylation.png"
+            ],
+            "content": "Protein S-palmitoylation regulates different stages of meiosis in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.26508/lsa.202201755'>Life Science Alliance</a>.",
+            "reference_id": "PMID:36650056",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-02-08",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Chacko et al., 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-02-08-Chacko-mitochondria-michrotubule.png"
+            ],
+            "content": "Microtubule-mitochondrial attachment facilitates cell division symmetry and mitochondrial partitioning in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260705'>Journal of cell Science</a>.",
+            "reference_id": "PMID:36633091",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-02-08",
+            "show_on_front_page": true
+        },
+        {
             "title": "Ohtsuka et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
