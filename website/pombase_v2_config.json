@@ -8838,6 +8838,10 @@
                 "display_name": "Synonyms",
                 "column_type": "list"
             },
+            "pdb_ids": {
+                "display_name": "PDB structure IDs",
+                "column_type": "list"
+            },
             "product": {
                 "display_name": "Product description",
                 "column_type": "string"
@@ -9397,6 +9401,7 @@
             "tmm",
             "characterisation_status",
             "taxonomic_distribution",
+            "pdb_ids",
             "molecular_weight",
             "protein_length",
             "protein_length_bin",
