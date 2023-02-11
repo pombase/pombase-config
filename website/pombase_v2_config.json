@@ -4111,7 +4111,7 @@
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-01-20",
              "show_on_front_page": true
-          },        
+          },
           {
              "title": "Poddar et al., 2022",
              "title_link": null,
@@ -4897,6 +4897,17 @@
                     "taxonid": 4897
                 }
             }
+        },
+        "canned_query:proteins_with_pdb_structures": {
+            "name": "Proteins with PDB structures",
+            "constraints": {
+                "node_name": "pdb_structure_count(≥1)",
+                "int_range": {
+                    "range_type": "pdb_structure_count",
+                    "start": 1,
+                    "end": null
+                }
+            }
         }
     },
     "canned_query_ids": [
@@ -4909,7 +4920,8 @@
         "conserved_in_vertebrates",
         "conserved_in_S_japonicus",
         "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
-        "protein_coding_genes_unknown_process"
+        "protein_coding_genes_unknown_process",
+        "canned_query:proteins_with_pdb_structures"
     ],
     "api_seq_chunk_sizes": [
         10000,
