@@ -4374,6 +4374,17 @@
             "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1471 (up from 1401 in August 2021) of the 3597 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
             "date_added": "2021-06-23",
             "show_on_front_page": true
+        },
+        {
+            "title": "PomBase's 'sister' database for fission yeast Schizosaccharomyces japonicus",
+            "title_link": null,
+            "panel_type": "explore",
+            "head_image": [
+                "explore/2023-02-13-explore-JaponicusDB.png"
+            ],
+            "content": "We cloned PomBase to create a fully community-maintained resource for the [emerging model S. japonicus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789812/); providing genome browser, literature curation, and query tools.\n\n[Visit JaponicusDB](https://www.japonicusdb.org/)",
+            "date_added": "2023-02-13",
+            "show_on_front_page": true
         }
     ],
     "predefined_queries": {
