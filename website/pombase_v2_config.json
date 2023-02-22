@@ -7435,6 +7435,17 @@
         {
             "ref_type": "Structure",
             "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "PDB",
+            "constraint": "pdb_entries",
+            "description": "Experiment structure predictions",
+            "field_name": "uniprot_identifier",
+            "url": "https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22q_uniprot%22:%5B%7B%22value%22:%22<<IDENTIFIER>>%22,%22condition1%22:%22AND%22,%22condition2%22:%22Contains%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22Sort%20by%22%7D%7D"
+        },
+        {
+            "ref_type": "Structure",
+            "feature_types": [
                 "mRNA gene",
                 "pseudogene"
             ],
