@@ -298,11 +298,11 @@
         ],
         "PMID:34017941":   [
             {
-                "link": "https://data.caltech.edu/records/1964/",
+                "link": "https://data.caltech.edu/records/tfcg1-zdc84",
                 "text": "Mitochondrial variant calls for all samples used in the study (vcf format)"
             },
             {
-                "link": "https://data.caltech.edu/records/1965/",
+                "link": "https://data.caltech.edu/records/4grkw-d1474",
                 "text": "Genotype information and meta-data for all samples used in the study (csv format)"
             }
         ]
