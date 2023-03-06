@@ -4124,6 +4124,28 @@
              "show_on_front_page": true
           },
           {
+             "title": "Foo et al., 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["assets/spotlight/2023-03-05-36695178-DAG-Foo.png"],
+             "content": "Diacylglycerol at the inner nuclear membrane fuels nuclear envelope expansion in closed mitosis.\nOriginally published in J Cell Sci.",
+             "reference_id": "PMID:36695178",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-03-05",
+             "show_on_front_page": true
+          },
+          {
+             "title": "Ohtsuka et al., 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["assets/spotlight/2023-03-05-36695178-ecl3-Ohtsuka.png"],
+             "content": "An ecl family gene ecl3+ is induced by phosphate starvation and contributes to sexual differentiation in fission yeast..\nOriginally published in J Cell Sci.",
+             "reference_id": "PMID:36779416",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-03-06",
+             "show_on_front_page": true
+           },
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
