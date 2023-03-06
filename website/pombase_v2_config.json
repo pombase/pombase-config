@@ -4127,7 +4127,7 @@
              "title": "Foo et al., 2023",
              "title_link": null,
              "panel_type": "spotlight",
-             "head_image": ["assets/spotlight/2023-03-05-36695178-DAG-Foo.png"],
+             "head_image": ["spotlight/2023-03-05-36695178-DAG-Foo.png"],
              "content": "Diacylglycerol at the inner nuclear membrane fuels nuclear envelope expansion in closed mitosis..\nOriginally published in <a href='https://journals.biologists.com/jcs/article/136/3/jcs260568/286881/Diacylglycerol-at-the-inner-nuclear-membrane-fuels'>J Cell Sci</a>.",
              "reference_id": "PMID:36695178",
              "link_label": "Publication record in PomBase ...",
