@@ -972,6 +972,19 @@
     ],
     "front_page_panels": [
         {
+            "title": "Mahrik et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-03-08-PMID36793083.png"
+            ],
+            "content": "The SAGA histone acetyltransferase module targets SMC5/6 to specific genes.\n\nOriginally published in <a href='https://doi.org/10.1186/s13072-023-00480-z'>Epigenetics Chromatin</a>.",
+            "reference_id": "PMID:36793083",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-08",
+            "show_on_front_page": true
+        },
+        {
             "title": "Pham et al., 2023",
             "title_link": null,
             "panel_type": "spotlight",
