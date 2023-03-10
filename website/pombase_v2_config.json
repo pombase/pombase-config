@@ -4162,8 +4162,7 @@
               "title": "Deng et al, 2022",
               "title_link": null,
               "panel_type": "spotlight",
-              "head_image": [
-              "spotlight/2023-03-10--PPA2-Deng-PMID36006032.png"],
+              "head_image": ["spotlight/2023-03-10-PPA2-Deng-PMID36006032.png"],
               "content": "Analysis of the potential role of fission yeast PP2A in spindle assembly checkpoint inactivation.\n\nOriginally published in <a href='https://doi.org/10.1096/fj.202101884R'>FASEB J</a>.",
               "reference_id": "PMID:36006032",
               "link_label": "Publication record in PomBase ...",
@@ -4174,8 +4173,7 @@
                "title": "Sun et al, 2015",
                "title_link": null,
                "panel_type": "spotlight",
-               "head_image": [
-               "spotlight/2023-03-10-anillin-Sun-PMID25959226.png"],
+               "head_image": ["spotlight/2023-03-10-anillin-Sun-PMID25959226.png"],
                "content": "Mechanistic insights into the anchorage of the contractile ring by anillin and Mid1.\n\nOriginally published in <a href='https://doi.org/10.1016/j.devcel.2015.03.003'>Dev Cell</a>.",
                "reference_id": "PMID:25959226",
                "link_label": "Publication record in PomBase ...",
