@@ -712,6 +712,21 @@
                                     {
                                         "text": "Retrieve genes by number of exons in the primary transcript"
                                     }
+                                ],
+                                "node_options_title": "Consider only",
+                                "node_options": [
+                                    {
+                                        "display_name": "coding exons",
+                                        "id": "coding-exons"
+                                    },
+                                    {
+                                        "display_name": "5' UTR exons",
+                                        "id": "five-prime-utr-exons"
+                                    },
+                                    {
+                                        "display_name": "3' UTR exons",
+                                        "id": "three-prime-utr-exons"
+                                    }
                                 ]
                             },
                             {
