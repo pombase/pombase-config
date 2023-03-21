@@ -4207,6 +4207,18 @@
                "show_on_front_page": false
           },
           {
+               "title": "Asanuma et al, 2022",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": [
+               "spotlight/2023-03-14-36617881-epe1-Asanuma.png"],
+               "content": "Tandemly repeated genes promote RNAi-mediated heterochromatin formation via an antisilencing factor, Epe1, in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.350129.122'>Genes Dev</a>.",
+               "reference_id": "PMID:36617881",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-03-17",
+               "show_on_front_page": true
+          },
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
