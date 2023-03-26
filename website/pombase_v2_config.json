@@ -83,10 +83,6 @@
     "ebi_tools_url": "https://www.ebi.ac.uk/Tools/services/web/toolform.ebi",
     "pdbe_entry_url": "https://www.ebi.ac.uk/pdbe-srv/view/entry",
     "pdbe_image_url": "https://www.ebi.ac.uk/pdbe/static/entry/<<PDB_ID>>_deposited_chain_front_image-200x200.png",
-    "intermine": {
-        "list_post_url": "https://www.pombase.org/im//pombemine/portal.do",
-        "mine_name": "PombeMine"
-    },
     "canto_url": "https://curation.pombase.org/pombe",
     "community_mailing_list": {
         "url": "https://lists.cam.ac.uk/sympa/info/ucam-pombelist",
