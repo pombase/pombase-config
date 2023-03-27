@@ -983,6 +983,19 @@
     ],
     "front_page_panels": [
         {
+            "title": "Andric et al, 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-03-27-PMID33536434.png"
+            ],
+            "content": "A scaffold lncRNA shapes the mitosis to meiosis switch.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-021-21032-7'>Nat Commun</a>.",
+            "reference_id": "PMID:33536434",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-27",
+            "show_on_front_page": true
+        },
+        {
             "title": "Mahrik et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
