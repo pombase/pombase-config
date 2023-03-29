@@ -983,6 +983,19 @@
     ],
     "front_page_panels": [
         {
+            "title": "Bhattacharjee et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-03-29-PMID36749320.png"
+            ],
+            "content": "Multiple polarity kinases inhibit phase separation of F-BAR protein Cdc15 and antagonize cytokinetic ring assembly in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.83062'>Elife</a>.",
+            "reference_id": "PMID:36749320",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-29",
+            "show_on_front_page": true
+        },
+        {
             "title": "Andric et al, 2021",
             "title_link": null,
             "panel_type": "spotlight",
