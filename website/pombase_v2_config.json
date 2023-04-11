@@ -4241,6 +4241,17 @@
                "show_on_front_page": true
           },
           {
+               "title": "Jian et al, 2023",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": ["spotlight/2023-04-11-PMID36537249.png"],
+               "content": "The fission yeast kinetochore complex Mhf1-Mhf2 regulates the spindle assembly checkpoint and faithful chromosome segregation.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260124'>J Cell Sci</a>.",
+               "reference_id": "PMID:36537249",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-04-11",
+               "show_on_front_page": true
+          },
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
