@@ -4028,7 +4028,7 @@
             "reference_id": "PMID:30348841",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-09-09",
-            "show_on_front_page": true
+            "show_on_front_page": false
          },
          {
             "title": "Hirai  et al., 2022",
@@ -4039,7 +4039,7 @@
             "reference_id": "PMID:35970865",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-19",
-            "show_on_front_page": true
+            "show_on_front_page": false
          },
          {
             "title": "Kolesar et al., 2022",
@@ -4050,7 +4050,7 @@
             "reference_id": "PMID:35011726",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-19",
-            "show_on_front_page": true
+            "show_on_front_page": false
          },
          {
             "title": "Schwer et al., 2020",
@@ -4061,7 +4061,7 @@
             "reference_id": "PMID:32546512",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-26",
-            "show_on_front_page": true
+            "show_on_front_page": false
          },
          {
             "title": "Sanchez et al., 2022",
@@ -4072,7 +4072,7 @@
             "reference_id": "PMID:35314193",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-25",
-            "show_on_front_page": true
+            "show_on_front_page": false
          },
          {
             "title": "Sanchez et al., 2019",
@@ -4138,7 +4138,7 @@
             "reference_id": "PMID:36361590",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-12-01",
-            "show_on_front_page": true
+            "show_on_front_page": false
          },
          {
              "title": "Bai et al., 2022",
@@ -4149,7 +4149,7 @@
              "reference_id": "PMID:36108046",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-01-20",
-             "show_on_front_page": true
+             "show_on_front_page": false
           },
           {
              "title": "Wang et al., 2022",
@@ -4160,7 +4160,7 @@
              "reference_id": "PMID:36138017",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-01-20",
-             "show_on_front_page": true
+             "show_on_front_page": false
           },
           {
              "title": "Poddar et al., 2022",
@@ -4171,7 +4171,7 @@
              "reference_id": "PMID:36200871",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-02-03",
-             "show_on_front_page": true
+             "show_on_front_page": false
           },
           {
              "title": "Foo et al., 2023",
