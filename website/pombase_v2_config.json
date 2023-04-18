@@ -4576,7 +4576,7 @@
             }
         },
         "canned_query:all_protein_coding_ex_dubious_and_transposon": {
-            "name": "All protein coding genes (ex. dubious and transposon)",
+            "name": "All protein coding genes (excluding dubious and transposon)",
             "constraints": {
                 "not": [
                     {
