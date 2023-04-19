@@ -984,6 +984,58 @@
     ],
     "front_page_panels": [
         {
+            "title": "Sanchez et al, 2018",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-04-18-PMID30355770.png"
+            ],
+            "content": "RNA polymerase II CTD interactome with 3' processing and termination factors in fission yeast and its impact on phosphate homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.1810711115'>Proc Natl Acad Sci U S A</a>.",
+            "reference_id": "PMID:30355770",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-04-18",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Sanchez et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-04-18-PMID36882296.png"
+            ],
+            "content": "Duf89 abets lncRNA control of fission yeast phosphate homeostasis via its antagonism of precocious lncRNA transcription termination.\n\nOriginally published in <a href='https://doi.org/10.1261/rna.079595.123'>RNA</a>.",
+            "reference_id": "PMID:36882296",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-04-18",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Murase et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-04-18-PMID36435910.png"
+            ],
+            "content": "Fission yeast Dis1 is an unconventional TOG/XMAP215 that induces microtubule catastrophe to drive chromosome pulling.\n\nOriginally published in <a href='https://doi.org/10.1038/s42003-022-04271-2'>Commun Biol</a>.",
+            "reference_id": "PMID:36435910",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-04-18",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Sanchez et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-04-18-PMID36820394.png"
+            ],
+            "content": "Inorganic polyphosphate abets silencing of a sub-telomeric gene cluster in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.000744'>MicroPubl Biol</a>.",
+            "reference_id": "PMID:36820394",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-04-18",
+            "show_on_front_page": true
+        },
+        {
             "title": "Bhattacharjee et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
