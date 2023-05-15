@@ -984,6 +984,19 @@
     ],
     "front_page_panels": [
         {
+            "title": "Takenaka et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-05-15-PMID37052630.png"
+            ],
+            "content": "Tfs1, transcription elongation factor TFIIS, has an impact on chromosome segregation affected by pka1 deletion in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1007/s00294-023-01268-0'>Curr Genet</a>.",
+            "reference_id": "PMID:37052630",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-05-15",
+            "show_on_front_page": true
+        },
+        {
             "title": "Sanchez et al, 2018",
             "title_link": null,
             "panel_type": "spotlight",
