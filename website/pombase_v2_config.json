@@ -4321,7 +4321,7 @@
                "title": "Panigrahi et al, 2023",
                "title_link": null,
                "panel_type": "spotlight",
-               "head_image": "spotlight/2023-05-18-PMID36481249.png"],
+               "head_image": ["spotlight/2023-05-18-PMID36481249.png"],
                "content": "Critical role of Wat1/Pop3 in regulating the TORC1 signalling pathway in fission yeast S. pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.fgb.2022.103764'>Fungal Genet Biol</a>.",
                "reference_id": "PMID:36481249",
                "link_label": "Publication record in PomBase ...",
