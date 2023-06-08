@@ -4329,6 +4329,17 @@
                "show_on_front_page": true
           },
           {
+               "title": "Hirano et al, 2023",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": ["spotlight/2023-06-08-PMID_36799444_lem2.png"],
+               "content": "Inner nuclear membrane proteins Lem2 and Bqt4 interact with different lipid synthesis enzymes in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1093/jb/mvad017'>J Biochem</a>.",
+               "reference_id": "PMID:36799444",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-06-08",
+               "show_on_front_page": true
+           },
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
