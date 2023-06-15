@@ -4339,6 +4339,50 @@
                "date_added": "2023-06-08",
                "show_on_front_page": true
            },
+           {
+               "title": "Fukuda et al, 2023",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": ["spotlight/2023-06-13-PMID-37191320-hva22.png"],
+               "content": "Hva22, a REEP family protein in fission yeast, promotes reticulophagy in collaboration with a receptor protein.\n\nOriginally published in <a href='https://doi.org/10.1080/15548627.2023.2214029'>Autophagy</a>.",
+               "reference_id": "PMID:37191320",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-06-15",
+               "show_on_front_page": true
+           },
+           {
+               "title": "Fukuda et al, 2023",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": ["spotlight/2023-06-13-PMID-37192628-atg44.png"],
+               "content": "The mitochondrial intermembrane space protein mitofissin drives mitochondrial fission required for mitophagy.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.04.022'>Mol Cell</a>.",
+               "reference_id": "PMID:37192628",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-06-15",
+               "show_on_front_page": true
+            },
+           {
+               "title": "Zareiesfandabadi et al, 2022",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": ["spotlight/2023-06-08-PMID-34951983-dhc1-klp2.png"],
+               "content": "Force by minus-end motors Dhc1 and Klp2 collapses the S. pombe spindle after laser ablation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.bpj.2021.12.019'>Biophys J</a>.",
+               "reference_id": "PMID:34951983",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-06-15",
+               "show_on_front_page": true
+           },
+           {
+               "title": "Nishida et al, 2023",
+               "title_link": null,
+               "panel_type": "spotlight",
+               "head_image": ["spotlight/2023-06-07-PMID_37156397-coq12.png" ],
+               "content": "Identification of novel coenzyme Q10 biosynthetic proteins Coq11 and Coq12 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.104797'>J Biol Chem</a>.",
+               "reference_id": "PMID:37156397",
+               "link_label": "Publication record in PomBase ...",
+               "date_added": "2023-06-15",
+               "show_on_front_page": true
+            },
           {
             "title": "Recent community curation",
             "panel_type": "community",
