@@ -4387,8 +4387,7 @@
                "title": "Mongia et al, 2023",
                "title_link": null,
                "panel_type": "spotlight",
-               "head_image": [
-               "spotlight/2023-06-18-PMID-37237082-srr1.”png],
+               "head_image": ["spotlight/2023-06-18-PMID-37237082-srr1.png"],
                "content": "Fission yeast Srr1 and Skb1 promote isochromosome formation at the centromere.\n\nOriginally published in <a href='https://doi.org/10.1038/s42003-023-04925-9'>Commun Biol</a>.",
                "reference_id": "PMID:37237082",
                "link_label": "Publication record in PomBase ...",
