@@ -4395,6 +4395,50 @@
                "show_on_front_page": true
           },
           {
+                "title": "Wakiya et al, 2021",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": ["spotlight/2023-06-19-33529549-dam1.png"],
+                "content": "Chiasmata and the kinetochore component Dam1 are crucial for elimination of erroneous chromosome attachments and centromere oscillation at meiosis I.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.200308'>Open Biol</a>.",
+                "reference_id": "PMID:33529549",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-06-20",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Nambu et al, 2022",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": ["spotlight/2023-06-19-34851403-sister-KT.png"],
+                "content": "Direct evaluation of cohesin-mediated sister kinetochore associations at meiosis I in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.259102'>J Cell Sci</a>.",
+                "reference_id": "PMID:34851403",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-06-20",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Rossi et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": ["spotlight/2023-06-19-37158439-fic1.png" ],
+                "content": "The fission yeast cytokinetic ring component Fic1 promotes septum formation.\n\nOriginally published in <a href='https://doi.org/10.1242/bio.059957'>Biol Open</a>.",
+                "reference_id": "PMID:37158439",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-06-20",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Alam et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": ["spotlight/2023-06-20-PMID37164017.png"],
+                "content": "Optimization of energy production and central carbon metabolism in a non-respiring eukaryote.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2023.04.046'>Curr Biol</a>.",
+                "reference_id": "PMID:37164017",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-06-20",
+                "show_on_front_page": true
+          },
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
