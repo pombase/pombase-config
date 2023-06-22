@@ -395,7 +395,8 @@
         "suffixes_to_trim": [
             "\\\\.1",
             "\\\\.1:pep"
-        ]
+        ],
+        "ortholog_organisms_to_always_show": [4932]
     },
     "feature_sub_groups": {
         "rRNA gene": [
