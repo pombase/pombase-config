@@ -396,7 +396,7 @@
             "\\\\.1",
             "\\\\.1:pep"
         ],
-        "ortholog_organisms_to_always_show": [4932]
+        "ortholog_organisms_to_always_show": [4932, 9606]
     },
     "feature_sub_groups": {
         "rRNA gene": [
