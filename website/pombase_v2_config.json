@@ -136,6 +136,10 @@
                     {
                         "title": "DNA binding site consensus sequences",
                         "url": "/browse-curation/dna-binding-sites"
+                    },
+                    {
+                        "title": "Genome overview",
+                        "url": "/status/genome-overview"
                     }
                 ]
             },
@@ -153,10 +157,6 @@
                     {
                         "title": "Genome updates",
                         "url": "/status/sequencing-updates"
-                    },
-                    {
-                        "title": "Genome overview",
-                        "url": "/status/genome-overview"
                     },
                     {
                         "title": "Gene coordinate changes",
