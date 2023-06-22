@@ -106,8 +106,8 @@
     },
     "nav_bar_config": {
         "nav_bar_menus": [
-            {
-                "header": "Genome Status",
+             {
+                "header": "Overviews",
                 "entries": [
                     {
                         "title": "GO molecular function overview",
@@ -129,6 +129,19 @@
                         "title": "Disease association overview",
                         "url": "/browse-curation/disease-slim"
                     },
+                    {
+                        "title": "Drugs with known S. pombe targets",
+                        "url": "/browse-curation/drugs-known-pombe-targets"
+                    },
+                    {
+                        "title": "DNA binding site consensus sequences",
+                        "url": "/browse-curation/dna-binding-sites"
+                    }
+                ]
+            },
+            {
+                "header": "Genome Status",
+                "entries": [
                     {
                         "title": "Curation statistics",
                         "url": "https://curation.pombase.org/pombe/stats/annotation"
@@ -160,14 +173,6 @@
                     {
                         "title": "Priority unstudied genes",
                         "url": "/status/priority-unstudied-genes"
-                    },
-                    {
-                        "title": "Community curated publications",
-                        "url": "/reference_list/community"
-                    },
-                    {
-                        "title": "PomBase curated publications",
-                        "url": "/reference_list/admin"
                     }
                 ]
             },
@@ -208,6 +213,14 @@
                         "url": "/community"
                     },
                     {
+                        "title": "Community curated publications",
+                        "url": "/reference_list/community"
+                    },
+                    {
+                        "title": "Curation statistics",
+                        "url": "https://curation.pombase.org/pombe/stats/annotation"
+                    },
+                    {
                         "title": "External resources",
                         "url": "/community/internet-resources"
                     }
@@ -237,8 +250,8 @@
                         "url": "/about/collaborations"
                     },
                     {
-                        "title": "Resource metrics",
-                        "url": "/about/resource-metrics"
+                        "title": "Curation statistics",
+                        "url": "https://curation.pombase.org/pombe/stats/annotation"
                     },
                     {
                         "title": "Terms of use",
