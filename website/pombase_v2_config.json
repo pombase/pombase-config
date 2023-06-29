@@ -4453,6 +4453,18 @@
                 "show_on_front_page": true
           },
           {
+                "title": "Virant et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-06-27-PMID-36705602-KT.png"],
+                "content": "Unraveling the kinetochore nanostructure in Schizosaccharomyces pombe using multi-color SMLM imaging.\n\nOriginally published in <a href='https://doi.org/10.1083/jcb.202209096'>J Cell Biol</a>.",
+                "reference_id": "PMID:36705602",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-06-29",
+                "show_on_front_page": true
+          },        
+          {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
