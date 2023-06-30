@@ -4463,7 +4463,18 @@
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-29",
                 "show_on_front_page": true
-          },        
+          },    
+          {
+                "title": "Esposito et al, 2022",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": ["spotlight/2023-06-30-PMID-35811551-Esposito-codon-bias-checkpoint..png"],
+                "content": "Mitotic checkpoint gene expression is tuned by codon usage bias.\n\nOriginally published in <a href='https://doi.org/10.15252/embj.2021107896'>EMBO J</a>.",
+                "reference_id": "PMID:35811551",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-06-30",
+                "show_on_front_page": true
+          },
           {
             "title": "Recent community curation",
             "panel_type": "community",
