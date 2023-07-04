@@ -1002,6 +1002,19 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
+                "spotlight/2023-07-04-PMID37099380.png"
+            ],
+            "content": "Microtubule competition and cell growth recenter the nucleus after anaphase in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E23-01-0034'>Mol Biol Cell</a>.",
+            "reference_id": "PMID:37099380",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-07-04",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Bellingham-Johnstun et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
                 "spotlight/2023-07-03-PMID36980258.png"
             ],
             "content": "Actin-Microtubule Crosstalk Imparts Stiffness to the Contractile Ring in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.3390/cells12060917'>Cells</a>.",
