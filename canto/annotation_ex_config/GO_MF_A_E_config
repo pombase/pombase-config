@@ -46,3 +46,4 @@ GO:0140566	is_a	has_input	Text	reads		0,1	user
 GO:0140142	is_a	has_input	ProteinID	carries		0,1	user
 GO:0001671	is_a	has_input	ProteinID	activates		0,1	user
 GO:0000772	is_a	has_input	ProteinID	activates		0,1	user
+GO:0008173	is_a	modified_residue	ProteinID	modified residue		0,1	user
