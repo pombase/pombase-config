@@ -4501,6 +4501,32 @@
                 "date_added": "2023-06-30",
                 "show_on_front_page": true
           },
+         {
+                "title": "Hiraoka et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-06-29-PMID_37128864-CDK-Hiraoko.png"
+                ],
+                "content": "CDK actively contributes to establishment of the stationary phase state in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260727'>J Cell Sci</a>.",
+                "reference_id": "PMID:37128864",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-07-11",
+                "show_on_front_page": true
+        },
+        {
+                "title": "Porat et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-07-11_PMID_37403782_bmc1.png"
+                ],
+                "content": "The fission yeast methyl phosphate capping enzyme Bmc1 guides 2'-O-methylation of the U6 snRNA.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad563'>Nucleic Acids Res</a>.",
+                "reference_id": "PMID:37403782",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-07-11",
+                "show_on_front_page": true
+                },
           {
             "title": "Recent community curation",
             "panel_type": "community",
