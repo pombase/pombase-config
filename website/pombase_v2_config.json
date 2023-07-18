@@ -10204,6 +10204,7 @@
     "protein_feature_view": {
         "widget_track_names": [
             "Mutants",
+            "Pfam families",
             "TM domains",
             "Disordered regions",
             "Low complexity",
