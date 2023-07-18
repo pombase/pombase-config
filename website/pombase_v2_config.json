@@ -10201,6 +10201,15 @@
         "regional_centromere": "centromere",
         "regional_centromere_central_core": "centromere central core"
     },
+    "protein_feature_view": {
+        "widget_track_names": [
+            "Mutants",
+            "TM domains",
+            "Disordered regions",
+            "Low complexity",
+            "Coiled coils"
+        ]
+    },
     "gene_expression": {
         "max_gene_ex_plot_genes": 250,
         "datasets": [
