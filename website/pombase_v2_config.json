@@ -10204,6 +10204,7 @@
     "protein_feature_view": {
         "widget_track_names": [
             "Mutant positions",
+            "Modifications",
             "Pfam families",
             "TM domains",
             "Disordered regions",
