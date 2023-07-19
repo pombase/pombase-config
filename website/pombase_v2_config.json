@@ -10203,12 +10203,14 @@
     },
     "protein_feature_view": {
         "widget_track_names": [
-            "Mutants",
+            "Mutant positions",
             "Pfam families",
             "TM domains",
             "Disordered regions",
             "Low complexity",
             "Coiled coils"
+        ],
+        "full_display_excluded": [
         ]
     },
     "gene_expression": {
