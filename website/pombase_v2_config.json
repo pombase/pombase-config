@@ -8991,8 +8991,8 @@
                     "termid": "FYPO:0002059"
                 },
                 {
-                    "name": "transporter activity phenotype",
-                    "termid": "FYPO:0002114"
+                    "name": "abnormal transport",
+                    "termid": "FYPO:0001720"
                 },
                 {
                     "name": "protein-RNA interaction phenotype",
