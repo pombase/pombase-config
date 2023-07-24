@@ -10210,6 +10210,9 @@
         "regional_centromere_central_core": "centromere central core"
     },
     "protein_feature_view": {
+        "modification_extension_rel_types": [
+            "added_during", "affected_by", "affected_by"
+        ],
         "widget_track_names": [
             "Mutant positions",
             "Modifications",
