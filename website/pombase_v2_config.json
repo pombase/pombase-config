@@ -10211,7 +10211,7 @@
     },
     "protein_feature_view": {
         "modification_extension_rel_types": [
-            "added_during", "affected_by", "affected_by"
+            "added_during", "added_by", "affected_by"
         ],
         "widget_track_names": [
             "Mutant positions",
