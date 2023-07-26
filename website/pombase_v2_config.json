@@ -10214,7 +10214,7 @@
             "added_during", "added_by", "affected_by"
         ],
         "widget_track_names": [
-            "Mutant positions",
+            "AA substitution positions",
             "Modifications",
             "Pfam families",
             "TM domains",
