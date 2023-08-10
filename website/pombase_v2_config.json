@@ -139,6 +139,10 @@
                         "url": "/browse-curation/dna-binding-sites"
                     },
                     {
+                        "title": "Gene characterisation status",
+                        "url": "/status/gene-characterisation"
+                    },
+                    {
                         "title": "Genome overview",
                         "url": "/status/genome-overview"
                     }
@@ -168,7 +172,7 @@
                         "url": "/status/new-and-removed-genes"
                     },
                     {
-                        "title": "Gene characterization status",
+                        "title": "Gene characterisation status",
                         "url": "/status/gene-characterisation"
                     },
                     {
