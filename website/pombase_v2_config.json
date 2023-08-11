@@ -4379,7 +4379,7 @@
                "reference_id": "PMID:36481249",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-05-18",
-               "show_on_front_page": true
+               "show_on_front_page": false
           },
           {
                "title": "Hirano et al, 2023",
@@ -4423,7 +4423,7 @@
                "reference_id": "PMID:34951983",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-06-15",
-               "show_on_front_page": true
+               "show_on_front_page": false
            },
            {
                "title": "Nishida et al, 2023",
@@ -4445,7 +4445,7 @@
                "reference_id": "PMID:37237082",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-06-19",
-               "show_on_front_page": true
+               "show_on_front_page": false
           },
           {
                 "title": "Wakiya et al, 2021",
@@ -4467,7 +4467,7 @@
                 "reference_id": "PMID:34851403",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-20",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Rossi et al, 2023",
@@ -4478,7 +4478,7 @@
                 "reference_id": "PMID:37158439",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-20",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Alam et al, 2023",
@@ -4512,7 +4512,7 @@
                 "reference_id": "PMID:35811551",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-30",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
          {
                 "title": "Hiraoka et al, 2023",
@@ -4539,7 +4539,19 @@
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-07-11",
                 "show_on_front_page": true
-                },
+        },
+        {
+                "title": "Willet et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": ["spotlight/2023-08-11-PMID37531259.png"
+                ],
+                "content": "Membrane binding of endocytic myosin-1s is inhibited by a class of ankyrin repeat proteins.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E23-06-0233'>Mol Biol Cell</a>.",
+                "reference_id": "PMID:37531259",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-08-11",
+                "show_on_front_page": true
+          },
           {
             "title": "Recent community curation",
             "panel_type": "community",
