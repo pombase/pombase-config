@@ -202,10 +202,6 @@
                 "header": "Community",
                 "entries": [
                     {
-                        "title": "Getting started",
-                        "url": "/documentation/getting-started"
-                    },
-                    {
                         "title": "Mailing list",
                         "url": "https://lists.cam.ac.uk/sympa/info/ucam-pombelist"
                     },
