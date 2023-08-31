@@ -9237,7 +9237,7 @@
         "scanprosite": "Prosite"
     },
     "misc_external_links": {
-        "esyn": "http://www.esyn.org//builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
+        "esyn": "http://esyn.rosalind.kcl.ac.uk/builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
         "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>",
         "KEGG": "https://www.genome.jp/kegg-bin/show_pathway?<<IDENTIFIER>>+<<GENE_UNIQUENAME>>"
     },
