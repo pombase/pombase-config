@@ -4390,7 +4390,7 @@
                "reference_id": "PMID:36799444",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-06-08",
-               "show_on_front_page": true
+               "show_on_front_page": false
            },
            {
                "title": "Fukuda et al, 2023",
@@ -4401,7 +4401,7 @@
                "reference_id": "PMID:37191320",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-06-15",
-               "show_on_front_page": true
+               "show_on_front_page": false
            },
            {
                "title": "Fukuda et al, 2023",
@@ -4412,7 +4412,7 @@
                "reference_id": "PMID:37192628",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-06-15",
-               "show_on_front_page": true
+               "show_on_front_page": false
             },
            {
                "title": "Zareiesfandabadi et al, 2022",
@@ -4434,7 +4434,7 @@
                "reference_id": "PMID:37156397",
                "link_label": "Publication record in PomBase ...",
                "date_added": "2023-06-15",
-               "show_on_front_page": true
+               "show_on_front_page": false
             },
            {
                "title": "Mongia et al, 2023",
@@ -4456,7 +4456,7 @@
                 "reference_id": "PMID:33529549",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-20",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Nambu et al, 2022",
@@ -4489,7 +4489,7 @@
                 "reference_id": "PMID:37164017",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-20",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Virant et al, 2023",
@@ -4501,7 +4501,7 @@
                 "reference_id": "PMID:36705602",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-06-29",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },    
           {
                 "title": "Esposito et al, 2022",
@@ -4525,7 +4525,7 @@
                 "reference_id": "PMID:37128864",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-07-11",
-                "show_on_front_page": true
+                "show_on_front_page": false
         },
         {
                 "title": "Porat et al, 2023",
@@ -4538,7 +4538,7 @@
                 "reference_id": "PMID:37403782",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-07-11",
-                "show_on_front_page": true
+                "show_on_front_page": false
         },
         {
                 "title": "Willet et al, 2023",
@@ -4563,6 +4563,45 @@
                 "reference_id": "PMID:37540145",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-08-18",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Garg et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-09-02-PMID 36794724.png"
+                ],
+                "content": "Cellular responses to long-term phosphate starvation of fission yeast: Maf1 determines fate choice between quiescence and death associated with aberrant tRNA biogenesis.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad063'>Nucleic Acids Res</a>.",
+                "reference_id": "PMID: 36794724",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-09-02",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Anil et al, 2022",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-09-02-PMID36095128.png"
+                ],
+                "content": "Splicing of branchpoint-distant exons is promoted by Cactin, Tls1 and the ubiquitin-fold-activated Sde2.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkac769'>Nucleic Acids Res</a>.",
+                "reference_id": "PMID:36095128",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-09-02",
+                "show_on_front_page": true
+          },
+          {
+                "title": "He et al, 2023",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-09-02-PMID37590302.png"
+                ],
+                "content": "The AAA-ATPase Yta4/ATAD1 interacts with the mitochondrial divisome to inhibit mitochondrial fission.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002247'>PLoS Biol</a>.",
+                "reference_id": "PMID:37590302",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-09-02",
                 "show_on_front_page": true
           },
           {
