@@ -4570,10 +4570,10 @@
                 "title_link": null,
                 "panel_type": "spotlight",
                 "head_image": [
-                "spotlight/2023-09-02-PMID 36794724.png"
+                  "spotlight/2023-09-01-PMID-36794724-garg-maf1.png"
                 ],
                 "content": "Cellular responses to long-term phosphate starvation of fission yeast: Maf1 determines fate choice between quiescence and death associated with aberrant tRNA biogenesis.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad063'>Nucleic Acids Res</a>.",
-                "reference_id": "PMID: 36794724",
+                "reference_id": "PMID:36794724",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
                 "show_on_front_page": true
@@ -4583,7 +4583,7 @@
                 "title_link": null,
                 "panel_type": "spotlight",
                 "head_image": [
-                "spotlight/2023-09-02-PMID36095128.png"
+                  "spotlight/2023-09-01-PMID-36095128-tls1.png"
                 ],
                 "content": "Splicing of branchpoint-distant exons is promoted by Cactin, Tls1 and the ubiquitin-fold-activated Sde2.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkac769'>Nucleic Acids Res</a>.",
                 "reference_id": "PMID:36095128",
@@ -4596,7 +4596,7 @@
                 "title_link": null,
                 "panel_type": "spotlight",
                 "head_image": [
-                "spotlight/2023-09-02-PMID37590302.png"
+                  "spotlight/2023-08-30-PMID-37590302-yta4.png"
                 ],
                 "content": "The AAA-ATPase Yta4/ATAD1 interacts with the mitochondrial divisome to inhibit mitochondrial fission.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002247'>PLoS Biol</a>.",
                 "reference_id": "PMID:37590302",
