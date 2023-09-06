@@ -73,10 +73,10 @@
         "facebook": "pombase",
         "linkedin": "https://www.linkedin.com/groups/5122686"
     },
-    "has_disease_annotation": true,
-    "has_characterisation_status": true,
-    "news_on_front_page": true,
-    "has_admin_curation": true,
+    "has_disease_annotation": ,
+    "has_characterisation_status": ,
+    "news_on_front_page": ,
+    "has_admin_curation": ,
     "no_gene_name_route": "/submit-data/gene-names",
     "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
     "jackhmmer_search_url": "https://www.ebi.ac.uk/Tools/hmmer/search/jackhmmer",
@@ -378,7 +378,7 @@
         {
             "name": "source_url",
             "display_name": "",
-            "download_link": true
+            "download_link": 
         }
     ],
     "gene_page_extra_links": {},
@@ -635,7 +635,7 @@
                                 "displayName": "TM domains",
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
-                                "range_any_and_none": true,
+                                "range_any_and_none": ,
                                 "topDescription": [
                                     {
                                         "text": "Retrieve protein-coding genes by number of predicted transmembrane domains in the product"
@@ -647,7 +647,7 @@
                                 "displayName": "coiled-coil regions",
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
-                                "range_any_and_none": true,
+                                "range_any_and_none": ,
                                 "topDescription": [
                                     {
                                         "text": "Retrieve protein-coding genes by number of predicted coiled-coil domains in the product"
@@ -659,7 +659,7 @@
                                 "displayName": "disordered regions",
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
-                                "range_any_and_none": true,
+                                "range_any_and_none": ,
                                 "topDescription": [
                                     {
                                         "text": "Retrieve protein-coding genes by number of disordered regions in the product"
@@ -671,7 +671,7 @@
                                 "displayName": "low complexity regions",
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
-                                "range_any_and_none": true,
+                                "range_any_and_none": ,
                                 "topDescription": [
                                     {
                                         "text": "Retrieve protein-coding genes by number of low complexity regions in the product"
@@ -1021,7 +1021,7 @@
             "reference_id": "PMID:37099380",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-07-04",
-            "show_on_front_page": true
+            "show_on_front_page": 
         },
         {
             "title": "Bellingham-Johnstun et al, 2023",
@@ -1034,7 +1034,7 @@
             "reference_id": "PMID:36980258",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-07-03",
-            "show_on_front_page": true
+            "show_on_front_page": 
         },
         {
             "title": "Takenaka et al, 2023",
@@ -1047,7 +1047,7 @@
             "reference_id": "PMID:37052630",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-05-15",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Sanchez et al, 2018",
@@ -4602,6 +4602,32 @@
                 "reference_id": "PMID:37590302",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Elías-Villalobos et al, 2019",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-09-07-31748520-TTT-tra1.png"
+                ],
+                "content": "Chaperone-mediated ordered assembly of the SAGA and NuA4 transcription co-activator complexes in yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-019-13243-w'>Nat Commun</a>.",
+                "reference_id": "PMID:31748520",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-09-06",
+                "show_on_front_page": true
+          },
+          {
+                "title": "Toullec et al, 2021",
+                "title_link": null,
+                "panel_type": "spotlight",
+                "head_image": [
+                "spotlight/2023-09-07-34686329-TTT-co-translation.png"
+                ],
+                "content": "The Hsp90 cochaperone TTT promotes cotranslational maturation of PIKKs prior to complex assembly.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2021.109867'>Cell Rep</a>.",
+                "reference_id": "PMID:34686329",
+                "link_label": "Publication record in PomBase ...",
+                "date_added": "2023-09-06",
                 "show_on_front_page": true
           },
           {
