@@ -4604,6 +4604,32 @@
                 "date_added": "2023-09-02",
                 "show_on_front_page": true
           },
+        {
+            "title": "Elías-Villalobos et al, 2019",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-09-07-31748520-TTT-tra1.png"
+            ],
+            "content": "Chaperone-mediated ordered assembly of the SAGA and NuA4 transcription co-activator complexes in yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-019-13243-w'>Nat Commun</a>.",
+            "reference_id": "PMID:31748520",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-09-06",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Toullec et al, 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-09-07-34686329-TTT-co-translation.png"
+            ],
+            "content": "The Hsp90 cochaperone TTT promotes cotranslational maturation of PIKKs prior to complex assembly.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2021.109867'>Cell Rep</a>.",
+            "reference_id": "PMID:34686329",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-09-06",
+            "show_on_front_page": true
+        },
           {
             "title": "Recent community curation",
             "panel_type": "community",
