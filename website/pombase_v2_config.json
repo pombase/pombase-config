@@ -5546,12 +5546,6 @@
         },
         {
             "rel_name": "has_input",
-            "if_descendant_of": "GO:0030234",
-            "display_name": "activates",
-            "reciprocal_display": "activated by"
-        },
-        {
-            "rel_name": "has_input",
             "if_descendant_of": "GO:0001671",
             "display_name": "activates",
             "reciprocal_display": "activated by"
@@ -5726,6 +5720,12 @@
             "if_descendant_of": "GO:0140678",
             "display_name": "inhibits",
             "reciprocal_display": "inhibited by"
+        },
+        {
+            "rel_name": "has_input",
+            "if_descendant_of": "GO:0030234",
+            "display_name": "activates",
+            "reciprocal_display": "activated by"
         },
         {
             "rel_name": "has_input",
