@@ -5707,8 +5707,8 @@
         {
             "rel_name": "has_input",
             "if_descendant_of": "GO:0030674",
-            "display_name": "connects",
-            "reciprocal_display": "connected by"
+            "display_name": "recruits",
+            "reciprocal_display": "recruited by"
         },
         {
             "rel_name": "has_input",
