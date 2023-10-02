@@ -5754,6 +5754,13 @@
         },
         {
             "rel_name": "has_input",
+            "if_descendant_of": "GO:0044183",
+            "display_name": "chaperones",
+            "reciprocal_display": "chaperoned by"
+        },
+        
+        {
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0140142",
             "display_name": "carries",
             "carries_display": "carried by"
