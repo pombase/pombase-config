@@ -10443,5 +10443,8 @@
                 "during_termid": "GO:0072690"
             }
         ]
+    },
+    "apicuron": {
+        "resource_id": "pombase"
     }
 }
