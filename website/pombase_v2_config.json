@@ -1011,6 +1011,19 @@
     ],
     "front_page_panels": [
         {
+            "title": "Rodríguez-López et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-10-04-PMID37787768.png"
+            ],
+            "content": "Broad functional profiling of fission yeast proteins using phenomics and machine learning.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.88229'>Elife</a>.",
+            "reference_id": "PMID:37787768",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-10-04",
+            "show_on_front_page": true
+        },
+        {
             "title": "Bellingham-Johnstun et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
