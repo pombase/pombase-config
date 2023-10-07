@@ -8323,7 +8323,7 @@
     "external_term_references": [
         {
             "name": "BioPortal",
-            "url": "http://bioportal.bioontology.org/ontologies/[conf_db_prefix]?p=classes&conceptid=[example_id]#details"
+            "url": "https://purl.bioontology.org/ontology/[conf_db_prefix]?conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2F[conf_db_prefix]_[id_no_prefix]"
         },
         {
             "name": "MISO",
