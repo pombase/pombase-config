@@ -1034,7 +1034,7 @@
             "reference_id": "PMID:37099380",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-07-04",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Bellingham-Johnstun et al, 2023",
@@ -1047,7 +1047,7 @@
             "reference_id": "PMID:36980258",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-07-03",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Takenaka et al, 2023",
@@ -1060,7 +1060,7 @@
             "reference_id": "PMID:37052630",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-05-15",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Sanchez et al, 2018",
@@ -4668,11 +4668,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-10-11",
             "show_on_front_page": true
-        },
-
-
-
-        
+        },    
         {
             "title": "Recent community curation",
             "panel_type": "community",
