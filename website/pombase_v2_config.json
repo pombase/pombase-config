@@ -4563,7 +4563,7 @@
                 "reference_id": "PMID:37531259",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-08-11",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Connor et al, 2023",
@@ -4576,7 +4576,7 @@
                 "reference_id": "PMID:37540145",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-08-18",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Garg et al, 2023",
@@ -4589,7 +4589,7 @@
                 "reference_id": "PMID:36794724",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
           {
                 "title": "Anil et al, 2022",
@@ -4656,6 +4656,23 @@
             "date_added": "2023-09-11",
             "show_on_front_page": true
         },
+       {
+            "title": "Ader et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2023-10-10-ader-ESCRT.png"
+            ],
+            "content": "An ESCRT grommet cooperates with a diffusion barrier to maintain nuclear integrity.\n\nOriginally published in <a href='https://doi.org/10.1038/s41556-023-01235-4'>Nat Cell Biol</a>.",
+            "reference_id": "PMID:37783794",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-10-11",
+            "show_on_front_page": true
+        },
+
+
+
+        
         {
             "title": "Recent community curation",
             "panel_type": "community",
