@@ -90,6 +90,7 @@
         "mine_name": "PombeMine"
     },
     "canto_url": "https://curation.pombase.org/pombe",
+    "canto_documentation_url": "https://pombase.github.io/canto_tutorial/",
     "community_mailing_list": {
         "url": "https://lists.cam.ac.uk/sympa/info/ucam-pombelist",
         "icon": "pombe_email_icon.png",
