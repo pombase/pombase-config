@@ -244,16 +244,16 @@
                         "url": "/about"
                     },
                     {
+                        "title": "Citing PomBase",
+                        "url": "/about/citing-pombase"
+                    },
+                    {
                         "title": "Getting started",
                         "url": "/documentation/getting-started"
                     },
                     {
                         "title": "PomBase publications",
                         "url": "/about/published-by-pombase"
-                    },
-                    {
-                        "title": "Citing PomBase",
-                        "url": "/about/citing-pombase"
                     },
                     {
                         "title": "Scientific Advisory Board",
