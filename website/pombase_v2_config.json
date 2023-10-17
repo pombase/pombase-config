@@ -50,6 +50,7 @@
     "base_url": "https://www.pombase.org",
     "helpdesk_address": "helpdesk@pombase.org",
     "show_names_of_staff_curators": false,
+    "show_names_of_staff_file_curators": false,
     "gene_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?$",
     "transcript_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?.\\d+$",
     "details_popup_delay": 500,
