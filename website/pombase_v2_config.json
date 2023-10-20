@@ -9348,6 +9348,14 @@
                 {
                     "name": "central nervous system malformation",
                     "termid": "MONDO:0020022"
+                },
+                {
+                    "name": "neurodevelopmental disorder",
+                    "termid": "MONDO:0700092"
+                },
+                {
+                    "name": "congenital nervous system disorder",
+                    "termid": "MONDO:0002320"
                 }
             ]
         }
