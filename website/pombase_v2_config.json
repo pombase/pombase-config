@@ -7982,6 +7982,16 @@
         {
             "ref_type": "Sequence Resources",
             "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "InterPro",
+            "description": "Classification of protein families",
+            "field_name": "uniprot_identifier",
+            "go_xrf_abbrev": "InterProUniProtId"
+        },
+        {
+            "ref_type": "Sequence Resources",
+            "feature_types": [
                 "ALL"
             ],
             "name": "NCBI",
