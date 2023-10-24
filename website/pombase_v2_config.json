@@ -9353,6 +9353,10 @@
                     "termid": "MONDO:0020022"
                 },
                 {
+                    "name": "disorder of glycosylation",
+                    "termid": "MONDO:0024322"
+                },
+                {
                     "name": "neurodevelopmental disorder",
                     "termid": "MONDO:0700092"
                 },
