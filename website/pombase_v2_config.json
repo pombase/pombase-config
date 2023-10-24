@@ -7962,7 +7962,7 @@
             "url": "https://rnacentral.org/rna/<<IDENTIFIER>>/<<TAXONID>>"
         },
         {
-            "ref_type": "Sequence Resources",
+            "ref_type": "Sequence resources",
             "feature_types": [
                 "mRNA gene",
                 "pseudogene"
@@ -7973,7 +7973,7 @@
             "go_xrf_abbrev": "UniProtKB"
         },
         {
-            "ref_type": "Sequence Resources",
+            "ref_type": "Sequence resources",
             "feature_types": [
                 "mRNA gene"
             ],
@@ -7983,7 +7983,7 @@
             "go_xrf_abbrev": "InterProUniProtId"
         },
         {
-            "ref_type": "Sequence Resources",
+            "ref_type": "Sequence resources",
             "feature_types": [
                 "ALL"
             ],
@@ -7993,7 +7993,7 @@
             "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<IDENTIFIER>>)+AND+(pombe+OR+fission+yeast)"
         },
         {
-            "ref_type": "Sequence Resources",
+            "ref_type": "Sequence resources",
             "feature_types": [
                 "ALL"
             ],
