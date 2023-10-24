@@ -8003,6 +8003,16 @@
             "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Location/View?db=core;g=<<IDENTIFIER>>"
         },
         {
+            "ref_type": "Disease resources",
+            "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "Monarch",
+            "description": "Human disease database",
+            "field_name": "uniquename",
+            "go_xrf_abbrev": "Monarch"
+        },
+        {
             "ref_type": "Structure",
             "feature_types": [
                 "mRNA gene"
