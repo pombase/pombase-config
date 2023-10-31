@@ -4672,6 +4672,32 @@
             "show_on_front_page": true
         },    
         {
+            "title": "Willet et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2023-10-31-PMID37792890-MIPC.png"
+            ],
+            "content": "Elevated levels of sphingolipid MIPC in the plasma membrane disrupt the coordination of cell growth with cell wall formation in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1010987'>PLoS Genet</a>.",
+            "reference_id": "PMID:37792890",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-10-31",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Willet et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2023-10-31-PMID37815455-pik1.png"
+            ],
+            "content": "Characterization of Pik1 function in fission yeast reveals its conserved role in lipid synthesis and not cytokinesis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261415'>J Cell Sci</a>.",
+            "reference_id": "PMID:37815455",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-10-31",
+            "show_on_front_page": true
+        },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
