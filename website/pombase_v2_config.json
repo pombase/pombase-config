@@ -4698,6 +4698,19 @@
             "show_on_front_page": true
         },
         {
+             "title": "Mori et al, 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": [
+             "spotlight/2023-11-01-PMID37859837-mito65.png"
+             ],
+             "content": "In fission yeast, 65 non-essential mitochondrial proteins related to respiration and stress become essential in low-glucose conditions.\n\nOriginally published in <a href='https://doi.org/10.1098/rsos.230404'>R Soc Open Sci</a>.",
+             "reference_id": "PMID:37859837",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-11-01",
+             "show_on_front_page": true
+         },       
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
