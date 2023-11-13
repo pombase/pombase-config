@@ -7860,6 +7860,11 @@
         "preyLabel": "synthetic lethal with",
         "isSymmetric": true
       },
+      "Synthetic Phenotype": {
+        "baitLabel": "synthetically interacts with",
+        "preyLabel": "synthetically interacts with",
+        "isSymmetric": true
+      },
       "Synthetic Rescue": {
         "baitLabel": "synthetically rescued by",
         "preyLabel": "synthetically rescues",
