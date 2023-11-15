@@ -6460,6 +6460,9 @@
                 "QuickGO",
                 "BioPortal"
             ],
+            "query_link_config": {
+              "type": "substrates"
+            },
             "slim_subset_name": "mf_goslim_pombe",
             "slim_description": "Molecular function overview (GO slim)",
             "slim_link": "/browse-curation/fission-yeast-mf-go-slim-terms",
