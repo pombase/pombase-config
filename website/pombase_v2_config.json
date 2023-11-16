@@ -4721,6 +4721,19 @@
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-11-16",
              "show_on_front_page": true
+        }, 
+        {
+             "title": "Strachan et al, 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": [
+             "spotlight/2023-11-16-PMID37970674-lem2.png"
+             ],
+             "content": "SUMOylation regulates Lem2 function in centromere clustering and silencing.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260868'>J Cell Sci</a>.",
+             "reference_id": "PMID:37970674",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-11-16",
+             "show_on_front_page": false
         },        
         {
             "title": "Recent community curation",
