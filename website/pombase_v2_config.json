@@ -4710,6 +4710,18 @@
              "date_added": "2023-11-01",
              "show_on_front_page": true
          },       
+         {
+             "title": "Le et al, 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["spotlight/2023-11-16-PMID37694715-doa10.png"
+             ],
+             "content": "A ubiquitin-proteasome pathway degrades the inner nuclear membrane protein Bqt4 to maintain nuclear membrane homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260930'>J Cell Sci</a>.",
+             "reference_id": "PMID:37694715",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2023-11-16",
+             "show_on_front_page": true
+        },        
         {
             "title": "Recent community curation",
             "panel_type": "community",
