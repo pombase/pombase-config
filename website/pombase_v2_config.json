@@ -6088,7 +6088,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "ploidiness",
+                    "filter_type": "ploidiness",
                     "display_name": "Haploid/Diploid",
                     "scope": [
                         "gene",
@@ -6098,7 +6098,7 @@
                     "detailed_view_only": false
                 },
                 {
-                    "filter_name": "term",
+                    "filter_type": "term",
                     "display_name": "Term",
                     "scope": [
                         "gene",
@@ -6188,7 +6188,7 @@
                     ]
                 },
                 {
-                    "filter_name": "evidence",
+                    "filter_type": "evidence",
                     "display_name": "Evidence",
                     "scope": [
                         "gene",
@@ -6342,7 +6342,7 @@
                     ]
                 },
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -6498,7 +6498,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "extension",
+                    "filter_type": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -6630,7 +6630,7 @@
                     ]
                 },
                 {
-                    "filter_name": "term",
+                    "filter_type": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -6640,7 +6640,7 @@
                     "slim_name": "mf_goslim_pombe"
                 },
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -6699,7 +6699,7 @@
             "slim_no_category_text": "biological process GO Slim category",
             "filters": [
                 {
-                    "filter_name": "extension",
+                    "filter_type": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -6831,7 +6831,7 @@
                     ]
                 },
                 {
-                    "filter_name": "term",
+                    "filter_type": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -6841,7 +6841,7 @@
                     "slim_name": "bp_goslim_pombe"
                 },
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -6897,7 +6897,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "extension",
+                    "filter_type": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -7029,7 +7029,7 @@
                     ]
                 },
                 {
-                    "filter_name": "term",
+                    "filter_type": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -7039,7 +7039,7 @@
                     "slim_name": "cc_goslim_pombe"
                 },
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7088,7 +7088,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7128,7 +7128,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "extension",
+                    "filter_type": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -7260,7 +7260,7 @@
                     ]
                 },
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7291,7 +7291,7 @@
             "display_name": "Quantitative gene expression",
             "filters": [
                 {
-                    "filter_name": "extension",
+                    "filter_type": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -7423,7 +7423,7 @@
                     ]
                 },
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7481,7 +7481,7 @@
             "slim_no_category_text": "disease ontology overview category",
             "filters": [
                 {
-                    "filter_name": "term",
+                    "filter_type": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -7629,7 +7629,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "throughput_categories": [
                         {
@@ -7667,7 +7667,7 @@
             ],
             "filters": [
                 {
-                    "filter_name": "throughput",
+                    "filter_type": "throughput",
                     "display_name": "Throughput",
                     "throughput_categories": [
                         {
