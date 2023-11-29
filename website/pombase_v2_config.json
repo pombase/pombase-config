@@ -7572,6 +7572,10 @@
         {
             "termid": "SO:0000839",
             "rel_name": "is_a"
+        },
+        {
+            "termid": "GO:0000786",
+            "rel_name": "is_a"
         }
     ],
     "external_gene_references": [
