@@ -5007,7 +5007,7 @@
             "title_link": null,
             "panel_type": "explore",
             "head_image": [
-                "assets/explore/2023-11-29-gene-characterisation-status.png"
+                "explore/2023-11-29-gene-characterisation-status.png"
             ],
             "content": "The protein characterization graph is updated daily. Over half of fission yeast proteins are now published in small-scale experiments. \n\n[View the protein characterization graph](https://www.pombase.org/status/gene-characterisation)",
             "date_added": "2023-11-29",
