@@ -4990,6 +4990,28 @@
             "content": "We cloned PomBase to create a fully community-maintained resource for the [emerging model S. japonicus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789812/); providing genome browser, literature curation, and query tools.\n\n[Visit JaponicusDB](https://www.japonicusdb.org/)",
             "date_added": "2023-02-13",
             "show_on_front_page": true
+        },
+        {
+            "title": "New documentation and videos for Canto",
+            "title_link": null,
+            "panel_type": "explore",
+            "head_image": [
+                "explore/2023-11-29-new-canto-video-docs.png"
+            ],
+            "content": "[A new website](https://pombase.github.io/canto_tutorial/) with videos and documentation for [Canto](https://curation.pombase.org/), our community curation tool. The website includes short step-by-step text and video guides on how to make annotations in Canto. \n\n[Visit the new Canto documentation](https://pombase.github.io/canto_tutorial/)",
+            "date_added": "2023-11-29",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Protein-coding gene characterisation status",
+            "title_link": null,
+            "panel_type": "explore",
+            "head_image": [
+                "assets/explore/2023-11-29-gene-characterisation-status.png"
+            ],
+            "content": "The protein characterization graph is updated daily. Over half of fission yeast proteins are now published in small-scale experiments. \n\n[View the protein characterization graph](https://www.pombase.org/status/gene-characterisation)",
+            "date_added": "2023-11-29",
+            "show_on_front_page": true
         }
     ],
     "predefined_queries": {
