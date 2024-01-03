@@ -4597,7 +4597,7 @@
                 "reference_id": "PMID:37590302",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
-                "show_on_front_page": true
+                "show_on_front_page": false
           },
         {
             "title": "Elías-Villalobos et al, 2019",
@@ -4610,7 +4610,7 @@
             "reference_id": "PMID:31748520",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-09-06",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Toullec et al, 2021",
@@ -4623,7 +4623,7 @@
             "reference_id": "PMID:34686329",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-09-06",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Rahayu et al, 2023",
@@ -4662,7 +4662,7 @@
             "reference_id": "PMID:37792890",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-10-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Willet et al, 2023",
@@ -4675,7 +4675,7 @@
             "reference_id": "PMID:37815455",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-10-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
              "title": "Mori et al, 2023",
@@ -4688,7 +4688,7 @@
              "reference_id": "PMID:37859837",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-11-01",
-             "show_on_front_page": true
+             "show_on_front_page": false
          },       
          {
              "title": "Le et al, 2023",
@@ -4700,9 +4700,9 @@
              "reference_id": "PMID:37694715",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-11-16",
-             "show_on_front_page": true
-        }, 
-        {
+             "show_on_front_page": false
+         }, 
+         {
              "title": "Strachan et al, 2023",
              "title_link": null,
              "panel_type": "spotlight",
@@ -4726,8 +4726,55 @@
              "reference_id": "PMID:31563844",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2023-11-20",
-             "show_on_front_page": true
+             "show_on_front_page": false
         },
+        {
+             "title": "Bednor et al, 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": [
+             "spotlight/2024-01-03-PMID38133430-bednor-tgp1.png"],
+             "content": "Genetic suppressor screen identifies Tgp1 (glycerophosphocholine transporter), Kcs1 (IP6 kinase), and Plc1 (phospholipase C) as determinants of inositol pyrophosphate toxicosis in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.03062-23'>mBio</a>.",
+             "reference_id": "PMID:38133430",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2024-01-03",
+             "show_on_front_page": true
+         },
+         {
+             "title": "Sorida et al, 2019",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": ["spotlight/2024-01-03-PMID31206516-epe1.png"],
+             "content": "Regulation of ectopic heterochromatin-mediated epigenetic diversification by the JmjC family protein Epe1.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1008129'>PLoS Genet</a>.",
+             "reference_id": "PMID:31206516",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2024-01-03",
+             "show_on_front_page": true
+         },
+         {
+             "title": "Berg et al, 2023",
+             "title_link": null,
+             "panel_type": "spotlight",
+             "head_image": [
+             "spotlight/2024-01-03-PMID36574843-berg-cdr2.png"],
+             "content": "Regulation of cell size and Wee1 kinase by elevated levels of the cell cycle regulatory protein kinase Cdr2.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2022.102831'>J Biol Chem</a>.",
+             "reference_id": "PMID:36574843",
+             "link_label": "Publication record in PomBase ...",
+             "date_added": "2024-01-03",
+             "show_on_front_page": true
+         },
+         {
+            "title": "Ohshima et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-01-03-PMID37788281-14-3-3-makoto.png"],
+            "content": "A dominant negative 14-3-3 mutant in Schizosaccharomyces pombe distinguishes the binding proteins involved in sexual differentiation and check point.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pone.0291524'>PLoS One</a>.",
+            "reference_id": "PMID:37788281",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-03",
+            "show_on_front_page": true
+         }, 
         {
             "title": "Recent community curation",
             "panel_type": "community",
