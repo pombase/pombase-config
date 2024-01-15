@@ -26,7 +26,7 @@ GO:0019787-is_a(GO:0004842)	is_a	has_input	ProteinID	modifies		0,1	user
 GO:0030234-is_a(GO:0004857)&is_a(GO:0008047)	is_a	has_input	ProteinID	regulates		0,1	user
 GO:0004857	is_a	has_input	ProteinID	inhibits		0,1	user
 GO:0008047	is_a	has_input	ProteinID	activates		0,1	user
-GO:0030674-is_a(GO:0008093)&is_a(GO:0140566)&is_a(GO:0005484)	is_a	has_input	ProteinID	connects		0,1	user
+GO:0030674-is_a(GO:0008093)&is_a(GO:0140566)&is_a(GO:0005484)	is_a	has_input	ProteinID	recruits		0,1	user
 GO:0032542	is_a	has_input	SPBC32F12.03c|SPBC1773.02c|SPCC330.06c|SPCC576.03c|SPAC27D7.12c|SPBC17D11.03c|SPBC17D11.03c	acts on		0,1	user
 GO:0033558	is_a	has_input	ProteinID	deacetylates		0,1	user
 GO:0038187	is_a	has_input	ProteinID|CHEBI:24431	has ligand (protein or chemical substance)		0,1	user
