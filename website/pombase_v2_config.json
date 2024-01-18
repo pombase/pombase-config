@@ -4776,6 +4776,42 @@
             "date_added": "2024-01-03",
             "show_on_front_page": true
          }, 
+         {
+            "title": "Takado et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-01-18-PMID38166399-wee1-Takado.png"],
+            "content": "Fission yeast Wee1 is required for stable kinetochore-microtubule attachment.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.230379'>Open Biol</a>.",
+            "reference_id": "PMID:38166399",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-18",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Tang et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-01-18-PMID37820734-tang-condensin.png"],
+            "content": "Establishment of dsDNA-dsDNA interactions by the condensin complex.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.09.019'>Mol Cell</a>.",
+            "reference_id": "PMID:37820734",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-18",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Hirai et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-01-18-PMID37913773-hirai-tor2.png"],
+            "content": "TOR inactivation triggers heterochromatin formation in rDNA during glucose starvation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2023.113320'>Cell Rep</a>.",
+            "reference_id": "PMID:37913773",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-18",
+            "show_on_front_page": true
+        },
         {
             "title": "Recent community curation",
             "panel_type": "community",
