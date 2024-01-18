@@ -75,6 +75,7 @@
         "linkedin": "https://www.linkedin.com/groups/5122686"
     },
     "has_disease_annotation": true,
+    "has_unknowns_list": true,
     "has_characterisation_status": true,
     "news_on_front_page": true,
     "has_admin_curation": true,
