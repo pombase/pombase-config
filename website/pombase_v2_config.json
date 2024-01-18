@@ -1004,7 +1004,7 @@
             "reference_id": "PMID:37787768",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-10-04",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Bellingham-Johnstun et al, 2023",
