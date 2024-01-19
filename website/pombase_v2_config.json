@@ -9,7 +9,7 @@
     "header_background_file_name": "header-background.jpg",
     "funder": "Wellcome Trust",
     "site_description": "A comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
-    "welcome_message": "PomBase is a comprehensive database for the fission yeast <i>Schizosaccharomyces pombe</i>, providing structural and functional annotation, literature curation and access to large-scale data sets",
+    "welcome_message": "PomBase is a comprehensive knowledgebase for the fission yeast <i>Schizosaccharomyces pombe</i>, providing iterature curation, analysis tools, genome annotation and access to large-scale data sets",
     "footer": {
         "funders": "PomBase is funded by the <a href=\"http://www.wellcome.ac.uk/\">Wellcome Trust</a>, run by a consortium comprising the <a href=\"http://www.cam.ac.uk/\">University of Cambridge</a>, <a href=\"http://www.ucl.ac.uk/\">University College London</a>, and hosted by the <a href=\"http://www.babraham.ac.uk\">Babraham Institute</a>.",
         "show_elixir_and_gbc_message": true,
