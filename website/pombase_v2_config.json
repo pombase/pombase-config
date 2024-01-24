@@ -10109,6 +10109,24 @@
             "Low complexity",
             "Coiled coils"
         ],
+        "modification_groups": [
+            {
+                "termid": "MOD:00696",
+                "name": "phosphorylated residue"
+            },
+            {
+                "termid": "MOD:00427",
+                "name": "methylated residue"
+            },
+            {
+                "termid": "MOD:00693",
+                "name": "glycosylated residue"
+            },
+            {
+                "termid": "MOD:00649",
+                "name": "acylated residue"
+            }
+        ],
         "full_display_excluded": [
         ]
     },
