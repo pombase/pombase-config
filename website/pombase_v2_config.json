@@ -10111,6 +10111,18 @@
         ],
         "modification_groups": [
             {
+                "termid": "MOD:01875",
+                "name": "N6-acylated L-lysine"
+            },
+            {
+                "termid": "MOD:01155",
+                "name": "lipoconjugated residue"
+            },
+            {
+                "termid": "MOD:00408",
+                "name": "N-acetylated residue"
+            },
+            {
                 "termid": "MOD:00696",
                 "name": "phosphorylated residue"
             },
@@ -10121,10 +10133,6 @@
             {
                 "termid": "MOD:00693",
                 "name": "glycosylated residue"
-            },
-            {
-                "termid": "MOD:00649",
-                "name": "acylated residue"
             }
         ],
         "full_display_excluded": [
