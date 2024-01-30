@@ -10128,8 +10128,12 @@
                 "name": "methylated residue"
             },
             {
-                "termid": "MOD:00693",
-                "name": "glycosylated residue"
+                "termid": "MOD:00764",
+                "name": "glycoconjugated residue"
+            },
+            {
+                "termid": "MOD:00905",
+                "name": "modified L-cysteine residue"
             }
         ],
         "full_display_excluded": [
