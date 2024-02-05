@@ -6321,6 +6321,9 @@
                 "reference",
                 "extension"
             ],
+            "columns_to_show_by_page_type": {
+                "reference": ["annotation_phenotype_score"]
+            },
             "external_db_link_keys": [
                 "BioPortal"
             ],
