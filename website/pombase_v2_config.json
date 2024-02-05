@@ -4813,6 +4813,19 @@
             "date_added": "2024-01-18",
             "show_on_front_page": true
         },
+        {    
+            "title": "Cao et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-02-05-PMID37572670.png"
+            ],
+            "content": "A peroxiredoxin-P38 MAPK scaffold increases MAPK activity by MAP3K-independent mechanisms.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.07.018'>Mol Cell</a>.",
+            "reference_id": "PMID:37572670",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-02-05",
+            "show_on_front_page": true
+        },
         {
             "title": "Recent community curation",
             "panel_type": "community",
