@@ -4827,6 +4827,19 @@
             "show_on_front_page": true
         },
         {
+            "title": "Kilchert et al, 2015",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/Kilchert-mmi1-PMID_26670050.png"
+            ],
+            "content": "Regulation of mRNA Levels by Decay-Promoting Introns that Recruit the Exosome Specificity Factor Mmi1.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2015.11.026'>Cell Rep</a>.",
+            "reference_id": "PMID:26670050",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-02-12",
+            "show_on_front_page": false
+        },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
