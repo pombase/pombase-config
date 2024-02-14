@@ -8418,6 +8418,11 @@
                     "termid": "GO:0140056"
                 },
                 {
+                    "name": "organophosphate biosynthetic process",
+                    "termid": "GO:0090407"
+                },        
+
+                {
                     "name": "peroxisome organization",
                     "termid": "GO:0007031"
                 },
