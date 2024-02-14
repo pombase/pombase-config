@@ -9,7 +9,7 @@
     "header_background_file_name": "header-background.jpg",
     "funder": "Wellcome Trust",
     "site_description": "A comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
-    "welcome_message": "PomBase is a comprehensive knowledgebase for the fission yeast <i>Schizosaccharomyces pombe</i>, providing iterature curation, analysis tools, genome annotation and access to large-scale data sets",
+    "welcome_message": "PomBase is a comprehensive database for the fission yeast <i>Schizosaccharomyces pombe</i>, providing structural and functional annotation, literature curation and access to large-scale data sets",
     "footer": {
         "funders": "PomBase is funded by the <a href=\"http://www.wellcome.ac.uk/\">Wellcome Trust</a>, run by a consortium comprising the <a href=\"http://www.cam.ac.uk/\">University of Cambridge</a>, <a href=\"http://www.ucl.ac.uk/\">University College London</a>, and hosted by the <a href=\"http://www.babraham.ac.uk\">Babraham Institute</a>.",
         "show_elixir_and_gbc_message": true,
@@ -50,7 +50,6 @@
     "base_url": "https://www.pombase.org",
     "helpdesk_address": "helpdesk@pombase.org",
     "show_names_of_staff_curators": false,
-    "show_names_of_staff_file_curators": false,
     "gene_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?$",
     "transcript_systematic_identifier_re": "^SP[\\w\\d]+\\.\\d+[wc]?.\\d+$",
     "details_popup_delay": 500,
@@ -69,14 +68,12 @@
     },
     "social_media": {
         "twitter": "PomBase",
-        "mastodon": "https://mstdn.science/@pombase",
         "github": "pombase",
         "slack": "https://spombe.slack.com/",
         "facebook": "pombase",
         "linkedin": "https://www.linkedin.com/groups/5122686"
     },
     "has_disease_annotation": true,
-    "has_unknowns_list": true,
     "has_characterisation_status": true,
     "news_on_front_page": true,
     "has_admin_curation": true,
@@ -93,7 +90,6 @@
         "mine_name": "PombeMine"
     },
     "canto_url": "https://curation.pombase.org/pombe",
-    "canto_documentation_url": "https://pombase.github.io/canto_tutorial/",
     "community_mailing_list": {
         "url": "https://lists.cam.ac.uk/sympa/info/ucam-pombelist",
         "icon": "pombe_email_icon.png",
@@ -247,16 +243,16 @@
                         "url": "/about"
                     },
                     {
-                        "title": "Citing PomBase",
-                        "url": "/about/citing-pombase"
-                    },
-                    {
                         "title": "Getting started",
                         "url": "/documentation/getting-started"
                     },
                     {
                         "title": "PomBase publications",
                         "url": "/about/published-by-pombase"
+                    },
+                    {
+                        "title": "Citing PomBase",
+                        "url": "/about/citing-pombase"
                     },
                     {
                         "title": "Scientific Advisory Board",
@@ -394,6 +390,26 @@
     ],
     "alphafold_max_protein_length": 2700,
     "jbrowse_track_picker_base_url": "/jbrowse/?loc=I:1..5579133&tracks=",
+    "missing_browser_images": [
+        "SPNCRNA.1701",
+        "SPAC110.06",
+        "SPAPB1A11.06",
+        "SPNCRNA.1705",
+        "SPNCRNA.1703",
+        "SPNCRNA.1702",
+        "SPNCRNA.1704",
+        "SPNCRNA.1698",
+        "SPNCRNA.1712",
+        "SPNCRNA.1709",
+        "SPNCRNA.1708",
+        "SPNCRNA.1707",
+        "SPCC4G3.20",
+        "SPNCRNA.1706",
+        "SPNCRNA.1711",
+        "SPNCRNA.1710",
+        "SPCC1840.13",
+        "SPMITNCRNA.01"
+    ],
     "search_box_cv_names": [
         "molecular_function",
         "biological_process",
@@ -995,19 +1011,6 @@
     ],
     "front_page_panels": [
         {
-            "title": "Rodríguez-López et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-                "spotlight/2023-10-04-PMID37787768.png"
-            ],
-            "content": "Broad functional profiling of fission yeast proteins using phenomics and machine learning.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.88229'>Elife</a>.",
-            "reference_id": "PMID:37787768",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2023-10-04",
-            "show_on_front_page": false
-        },
-        {
             "title": "Bellingham-Johnstun et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
@@ -1018,7 +1021,7 @@
             "reference_id": "PMID:37099380",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-07-04",
-            "show_on_front_page": false
+            "show_on_front_page": true
         },
         {
             "title": "Bellingham-Johnstun et al, 2023",
@@ -1031,7 +1034,7 @@
             "reference_id": "PMID:36980258",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-07-03",
-            "show_on_front_page": false
+            "show_on_front_page": true
         },
         {
             "title": "Takenaka et al, 2023",
@@ -1044,7 +1047,7 @@
             "reference_id": "PMID:37052630",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-05-15",
-            "show_on_front_page": false
+            "show_on_front_page": true
         },
         {
             "title": "Sanchez et al, 2018",
@@ -4547,7 +4550,7 @@
                 "reference_id": "PMID:37531259",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-08-11",
-                "show_on_front_page": false
+                "show_on_front_page": true
           },
           {
                 "title": "Connor et al, 2023",
@@ -4560,7 +4563,7 @@
                 "reference_id": "PMID:37540145",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-08-18",
-                "show_on_front_page": false
+                "show_on_front_page": true
           },
           {
                 "title": "Garg et al, 2023",
@@ -4573,7 +4576,7 @@
                 "reference_id": "PMID:36794724",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
-                "show_on_front_page": false
+                "show_on_front_page": true
           },
           {
                 "title": "Anil et al, 2022",
@@ -4586,7 +4589,7 @@
                 "reference_id": "PMID:36095128",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
-                "show_on_front_page": false
+                "show_on_front_page": true
           },
           {
                 "title": "He et al, 2023",
@@ -4599,7 +4602,7 @@
                 "reference_id": "PMID:37590302",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2023-09-02",
-                "show_on_front_page": false
+                "show_on_front_page": true
           },
         {
             "title": "Elías-Villalobos et al, 2019",
@@ -4612,7 +4615,7 @@
             "reference_id": "PMID:31748520",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-09-06",
-            "show_on_front_page": false
+            "show_on_front_page": true
         },
         {
             "title": "Toullec et al, 2021",
@@ -4625,7 +4628,7 @@
             "reference_id": "PMID:34686329",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-09-06",
-            "show_on_front_page": false
+            "show_on_front_page": true
         },
         {
             "title": "Rahayu et al, 2023",
@@ -4638,206 +4641,7 @@
             "reference_id": "PMID:37400983",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-09-11",
-            "show_on_front_page": false
-        },
-       {
-            "title": "Ader et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2023-10-10-ader-ESCRT.png"
-            ],
-            "content": "An ESCRT grommet cooperates with a diffusion barrier to maintain nuclear integrity.\n\nOriginally published in <a href='https://doi.org/10.1038/s41556-023-01235-4'>Nat Cell Biol</a>.",
-            "reference_id": "PMID:37783794",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2023-10-11",
             "show_on_front_page": true
-        },    
-        {
-            "title": "Willet et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2023-10-31-PMID37792890-MIPC.png"
-            ],
-            "content": "Elevated levels of sphingolipid MIPC in the plasma membrane disrupt the coordination of cell growth with cell wall formation in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1010987'>PLoS Genet</a>.",
-            "reference_id": "PMID:37792890",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2023-10-31",
-            "show_on_front_page": false
-        },
-        {
-            "title": "Willet et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2023-10-31-PMID37815455-pik1.png"
-            ],
-            "content": "Characterization of Pik1 function in fission yeast reveals its conserved role in lipid synthesis and not cytokinesis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261415'>J Cell Sci</a>.",
-            "reference_id": "PMID:37815455",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2023-10-31",
-            "show_on_front_page": false
-        },
-        {
-             "title": "Mori et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2023-11-01-PMID37859837-mito65.png"
-             ],
-             "content": "In fission yeast, 65 non-essential mitochondrial proteins related to respiration and stress become essential in low-glucose conditions.\n\nOriginally published in <a href='https://doi.org/10.1098/rsos.230404'>R Soc Open Sci</a>.",
-             "reference_id": "PMID:37859837",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-01",
-             "show_on_front_page": false
-         },       
-         {
-             "title": "Le et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-11-16-PMID37694715-doa10.png"
-             ],
-             "content": "A ubiquitin-proteasome pathway degrades the inner nuclear membrane protein Bqt4 to maintain nuclear membrane homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260930'>J Cell Sci</a>.",
-             "reference_id": "PMID:37694715",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-16",
-             "show_on_front_page": false
-         }, 
-         {
-             "title": "Strachan et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2023-11-16-PMID37970674-lem2.png"
-             ],
-             "content": "SUMOylation regulates Lem2 function in centromere clustering and silencing.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260868'>J Cell Sci</a>.",
-             "reference_id": "PMID:37970674",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-16",
-             "show_on_front_page": false
-        },  
-        {
-             "title": "Sparks et al, 2019",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-               "spotlight/2023-11-20-PMID-31563844-exo5.png"
-             ],
-             "content": "The roles of fission yeast exonuclease 5 in nuclear and mitochondrial genome stability.\n\nOriginally published in <a href='https://doi.org/10.1016/j.dnarep.2019.102720'>DNA Repair (Amst)</a>.",
-             "reference_id": "PMID:31563844",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-20",
-             "show_on_front_page": false
-        },
-        {
-             "title": "Bednor et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2024-01-03-PMID38133430-bednor-tgp1.png"],
-             "content": "Genetic suppressor screen identifies Tgp1 (glycerophosphocholine transporter), Kcs1 (IP6 kinase), and Plc1 (phospholipase C) as determinants of inositol pyrophosphate toxicosis in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.03062-23'>mBio</a>.",
-             "reference_id": "PMID:38133430",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2024-01-03",
-             "show_on_front_page": true
-         },
-         {
-             "title": "Sorida et al, 2019",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2024-01-03-PMID31206516-epe1.png"],
-             "content": "Regulation of ectopic heterochromatin-mediated epigenetic diversification by the JmjC family protein Epe1.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1008129'>PLoS Genet</a>.",
-             "reference_id": "PMID:31206516",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2024-01-03",
-             "show_on_front_page": true
-         },
-         {
-             "title": "Berg et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2024-01-03-PMID36574843-berg-cdr2.png"],
-             "content": "Regulation of cell size and Wee1 kinase by elevated levels of the cell cycle regulatory protein kinase Cdr2.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2022.102831'>J Biol Chem</a>.",
-             "reference_id": "PMID:36574843",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2024-01-03",
-             "show_on_front_page": true
-         },
-         {
-            "title": "Ohshima et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2024-01-03-PMID37788281-14-3-3-makoto.png"],
-            "content": "A dominant negative 14-3-3 mutant in Schizosaccharomyces pombe distinguishes the binding proteins involved in sexual differentiation and check point.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pone.0291524'>PLoS One</a>.",
-            "reference_id": "PMID:37788281",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2024-01-03",
-            "show_on_front_page": true
-         }, 
-         {
-            "title": "Takado et al, 2024",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2024-01-18-PMID38166399-wee1-Takado.png"],
-            "content": "Fission yeast Wee1 is required for stable kinetochore-microtubule attachment.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.230379'>Open Biol</a>.",
-            "reference_id": "PMID:38166399",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2024-01-18",
-            "show_on_front_page": true
-        },
-        {
-            "title": "Tang et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2024-01-18-PMID37820734-tang-condensin.png"],
-            "content": "Establishment of dsDNA-dsDNA interactions by the condensin complex.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.09.019'>Mol Cell</a>.",
-            "reference_id": "PMID:37820734",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2024-01-18",
-            "show_on_front_page": true
-        },
-        {
-            "title": "Hirai et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2024-01-18-PMID37913773-hirai-tor2.png"],
-            "content": "TOR inactivation triggers heterochromatin formation in rDNA during glucose starvation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2023.113320'>Cell Rep</a>.",
-            "reference_id": "PMID:37913773",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2024-01-18",
-            "show_on_front_page": true
-        },
-        {    
-            "title": "Cao et al, 2023",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/2024-02-05-PMID37572670.png"
-            ],
-            "content": "A peroxiredoxin-P38 MAPK scaffold increases MAPK activity by MAP3K-independent mechanisms.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.07.018'>Mol Cell</a>.",
-            "reference_id": "PMID:37572670",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2024-02-05",
-            "show_on_front_page": true
-        },
-        {
-            "title": "Kilchert et al, 2015",
-            "title_link": null,
-            "panel_type": "spotlight",
-            "head_image": [
-            "spotlight/Kilchert-mmi1-PMID_26670050.png"
-            ],
-            "content": "Regulation of mRNA Levels by Decay-Promoting Introns that Recruit the Exosome Specificity Factor Mmi1.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2015.11.026'>Cell Rep</a>.",
-            "reference_id": "PMID:26670050",
-            "link_label": "Publication record in PomBase ...",
-            "date_added": "2024-02-12",
-            "show_on_front_page": false
         },
         {
             "title": "Recent community curation",
@@ -5088,7 +4892,7 @@
                 "explore/2019-01-27-disease.png"
             ],
             "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1471 (up from 1401 in August 2021) of the 3597 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
-            "date_added": "2022-06-23",
+            "date_added": "2021-06-23",
             "show_on_front_page": true
         },
         {
@@ -5100,28 +4904,6 @@
             ],
             "content": "We cloned PomBase to create a fully community-maintained resource for the [emerging model S. japonicus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789812/); providing genome browser, literature curation, and query tools.\n\n[Visit JaponicusDB](https://www.japonicusdb.org/)",
             "date_added": "2023-02-13",
-            "show_on_front_page": true
-        },
-        {
-            "title": "New documentation and videos for Canto",
-            "title_link": null,
-            "panel_type": "explore",
-            "head_image": [
-                "explore/2023-11-29-new-canto-video-docs.png"
-            ],
-            "content": "[A new website](https://pombase.github.io/canto_tutorial/) with videos and documentation for [Canto](https://curation.pombase.org/), our community curation tool. The website includes short step-by-step text and video guides on how to make annotations in Canto. \n\n[Visit the new Canto documentation](https://pombase.github.io/canto_tutorial/)",
-            "date_added": "2023-11-29",
-            "show_on_front_page": true
-        },
-        {
-            "title": "Protein-coding gene characterisation status",
-            "title_link": null,
-            "panel_type": "explore",
-            "head_image": [
-                "explore/2023-11-29-gene-characterisation-status.png"
-            ],
-            "content": "Although over half of fission yeast proteins are now published in small-scale experiments, and the roles of a further >1900 can be inferred, there are still 616 of unknown process, of these 356 are conserved outside the fission yeast, 126 as far as human. \n\n[View the protein characterization graph](https://www.pombase.org/status/gene-characterisation)",
-            "date_added": "2023-11-29",
             "show_on_front_page": true
         }
     ],
@@ -5723,12 +5505,6 @@
     "extension_display_names": [
         {
             "rel_name": "has_input",
-            "if_descendant_of": "GO:0140597",
-            "display_name": "chaperones",
-            "reciprocal_display": "chaperoned by"
-        },
-        {
-            "rel_name": "has_input",
             "if_descendant_of": "GO:0004721",
             "display_name": "dephosphorylates",
             "reciprocal_display": "dephosphorylated by"
@@ -5780,6 +5556,12 @@
             "if_descendant_of": "GO:0003714",
             "display_name": "represses transcription of",
             "reciprocal_display": "transcription repressed by"
+        },
+        {
+            "rel_name": "has_input",
+            "if_descendant_of": "GO:0030234",
+            "display_name": "activates",
+            "reciprocal_display": "activated by"
         },
         {
             "rel_name": "has_input",
@@ -5931,8 +5713,8 @@
         {
             "rel_name": "has_input",
             "if_descendant_of": "GO:0030674",
-            "display_name": "recruits",
-            "reciprocal_display": "recruited by"
+            "display_name": "connects",
+            "reciprocal_display": "connected by"
         },
         {
             "rel_name": "has_input",
@@ -5966,7 +5748,7 @@
         },
         {
             "rel_name": "has_input",
-            "if_descendant_of": "GO:0044183",
+            "if_descendant_of": "GO:0140597",
             "display_name": "chaperones",
             "reciprocal_display": "chaperoned by"
         },
@@ -6216,124 +5998,6 @@
             "long": "Unknown"
         }
     },
-    "extension_categories": {
-        "during": [
-            {
-                "display_name": "mitotic interphase",
-                "ancestors": [
-                    "GO:0051329"
-                ]
-            },
-            {
-                "display_name": "mitotic G1 phase",
-                "ancestors": [
-                    "GO:0000080"
-                ]
-            },
-            {
-                "display_name": "mitotic S phase",
-                "ancestors": [
-                    "GO:0000084"
-                ]
-            },
-            {
-                "display_name": "mitotic G2 phase",
-                "ancestors": [
-                    "GO:0000085"
-                ]
-            },
-            {
-                "display_name": "mitotic M phase",
-                "ancestors": [
-                    "GO:0000087"
-                ]
-            },
-            {
-                "display_name": "mitotic prophase",
-                "ancestors": [
-                    "GO:0000088"
-                ]
-            },
-            {
-                "display_name": "mitotic metaphase",
-                "ancestors": [
-                    "GO:0000089"
-                ]
-            },
-            {
-                "display_name": "mitotic anaphase",
-                "ancestors": [
-                    "GO:0000090"
-                ]
-            },
-            {
-                "display_name": "mitotic telophase",
-                "ancestors": [
-                    "GO:0000093"
-                ]
-            },
-            {
-                "display_name": "meiotic S phase",
-                "ancestors": [
-                    "GO:0051332"
-                ]
-            },
-            {
-                "display_name": "meiotic M phase",
-                "ancestors": [
-                    "GO:0051327"
-                ]
-            },
-            {
-                "display_name": "meiotic interphase",
-                "ancestors": [
-                    "GO:0051328"
-                ]
-            },
-            {
-                "display_name": "meiotic prophase I",
-                "ancestors": [
-                    "GO:0007128"
-                ]
-            },
-            {
-                "display_name": "meiotic metaphase I",
-                "ancestors": [
-                    "GO:0007132"
-                ]
-            },
-            {
-                "display_name": "meiotic anaphase I",
-                "ancestors": [
-                    "GO:0007133"
-                ]
-            },
-            {
-                "display_name": "meiotic telophase I",
-                "ancestors": [
-                    "GO:0007134"
-                ]
-            },
-            {
-                "display_name": "meiotic metaphase II",
-                "ancestors": [
-                    "GO:0007137"
-                ]
-            },
-            {
-                "display_name": "meiotic anaphase II",
-                "ancestors": [
-                    "GO:0007138"
-                ]
-            },
-            {
-                "display_name": "meiotic telophase II",
-                "ancestors": [
-                    "GO:0007139"
-                ]
-            }
-        ]
-    },
     "cv_config": {
         "fission_yeast_phenotype": {
             "feature_type": "genotype",
@@ -6347,15 +6011,12 @@
                 "reference",
                 "extension"
             ],
-            "columns_to_show_by_page_type": {
-                "reference": ["annotation_phenotype_score"]
-            },
             "external_db_link_keys": [
                 "BioPortal"
             ],
             "filters": [
                 {
-                    "filter_type": "ploidiness",
+                    "filter_name": "ploidiness",
                     "display_name": "Haploid/Diploid",
                     "scope": [
                         "gene",
@@ -6365,7 +6026,7 @@
                     "detailed_view_only": false
                 },
                 {
-                    "filter_type": "term",
+                    "filter_name": "term",
                     "display_name": "Term",
                     "scope": [
                         "gene",
@@ -6455,7 +6116,7 @@
                     ]
                 },
                 {
-                    "filter_type": "evidence",
+                    "filter_name": "evidence",
                     "display_name": "Evidence",
                     "scope": [
                         "gene",
@@ -6609,7 +6270,7 @@
                     ]
                 },
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -6762,8 +6423,7 @@
             ],
             "filters": [
                 {
-                    "filter_type": "extension",
-                    "filter_subtype": "during",
+                    "filter_name": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -6776,10 +6436,126 @@
                         "during",
                         "happens_during",
                         "exists_during"
+                    ],
+                    "extension_categories": [
+                        {
+                            "display_name": "mitotic interphase",
+                            "ancestors": [
+                                "GO:0051329"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G1 phase",
+                            "ancestors": [
+                                "GO:0000080"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic S phase",
+                            "ancestors": [
+                                "GO:0000084"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G2 phase",
+                            "ancestors": [
+                                "GO:0000085"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic M phase",
+                            "ancestors": [
+                                "GO:0000087"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic prophase",
+                            "ancestors": [
+                                "GO:0000088"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic metaphase",
+                            "ancestors": [
+                                "GO:0000089"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic anaphase",
+                            "ancestors": [
+                                "GO:0000090"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic telophase",
+                            "ancestors": [
+                                "GO:0000093"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic S phase",
+                            "ancestors": [
+                                "GO:0051332"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic M phase",
+                            "ancestors": [
+                                "GO:0051327"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic interphase",
+                            "ancestors": [
+                                "GO:0051328"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic prophase I",
+                            "ancestors": [
+                                "GO:0007128"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase I",
+                            "ancestors": [
+                                "GO:0007132"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase I",
+                            "ancestors": [
+                                "GO:0007133"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase I",
+                            "ancestors": [
+                                "GO:0007134"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase II",
+                            "ancestors": [
+                                "GO:0007137"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase II",
+                            "ancestors": [
+                                "GO:0007138"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase II",
+                            "ancestors": [
+                                "GO:0007139"
+                            ]
+                        }
                     ]
                 },
                 {
-                    "filter_type": "term",
+                    "filter_name": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -6789,7 +6565,7 @@
                     "slim_name": "mf_goslim_pombe"
                 },
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -6848,8 +6624,7 @@
             "slim_no_category_text": "biological process GO Slim category",
             "filters": [
                 {
-                    "filter_type": "extension",
-                    "filter_subtype": "during",
+                    "filter_name": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -6862,10 +6637,126 @@
                         "during",
                         "happens_during",
                         "exists_during"
+                    ],
+                    "extension_categories": [
+                        {
+                            "display_name": "mitotic interphase",
+                            "ancestors": [
+                                "GO:0051329"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G1 phase",
+                            "ancestors": [
+                                "GO:0000080"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic S phase",
+                            "ancestors": [
+                                "GO:0000084"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G2 phase",
+                            "ancestors": [
+                                "GO:0000085"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic M phase",
+                            "ancestors": [
+                                "GO:0000087"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic prophase",
+                            "ancestors": [
+                                "GO:0000088"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic metaphase",
+                            "ancestors": [
+                                "GO:0000089"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic anaphase",
+                            "ancestors": [
+                                "GO:0000090"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic telophase",
+                            "ancestors": [
+                                "GO:0000093"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic S phase",
+                            "ancestors": [
+                                "GO:0051332"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic M phase",
+                            "ancestors": [
+                                "GO:0051327"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic interphase",
+                            "ancestors": [
+                                "GO:0051328"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic prophase I",
+                            "ancestors": [
+                                "GO:0007128"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase I",
+                            "ancestors": [
+                                "GO:0007132"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase I",
+                            "ancestors": [
+                                "GO:0007133"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase I",
+                            "ancestors": [
+                                "GO:0007134"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase II",
+                            "ancestors": [
+                                "GO:0007137"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase II",
+                            "ancestors": [
+                                "GO:0007138"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase II",
+                            "ancestors": [
+                                "GO:0007139"
+                            ]
+                        }
                     ]
                 },
                 {
-                    "filter_type": "term",
+                    "filter_name": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -6875,7 +6766,7 @@
                     "slim_name": "bp_goslim_pombe"
                 },
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -6931,8 +6822,7 @@
             ],
             "filters": [
                 {
-                    "filter_type": "extension",
-                    "filter_subtype": "during",
+                    "filter_name": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -6945,10 +6835,126 @@
                         "during",
                         "happens_during",
                         "exists_during"
+                    ],
+                    "extension_categories": [
+                        {
+                            "display_name": "mitotic interphase",
+                            "ancestors": [
+                                "GO:0051329"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G1 phase",
+                            "ancestors": [
+                                "GO:0000080"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic S phase",
+                            "ancestors": [
+                                "GO:0000084"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G2 phase",
+                            "ancestors": [
+                                "GO:0000085"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic M phase",
+                            "ancestors": [
+                                "GO:0000087"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic prophase",
+                            "ancestors": [
+                                "GO:0000088"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic metaphase",
+                            "ancestors": [
+                                "GO:0000089"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic anaphase",
+                            "ancestors": [
+                                "GO:0000090"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic telophase",
+                            "ancestors": [
+                                "GO:0000093"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic S phase",
+                            "ancestors": [
+                                "GO:0051332"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic M phase",
+                            "ancestors": [
+                                "GO:0051327"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic interphase",
+                            "ancestors": [
+                                "GO:0051328"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic prophase I",
+                            "ancestors": [
+                                "GO:0007128"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase I",
+                            "ancestors": [
+                                "GO:0007132"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase I",
+                            "ancestors": [
+                                "GO:0007133"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase I",
+                            "ancestors": [
+                                "GO:0007134"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase II",
+                            "ancestors": [
+                                "GO:0007137"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase II",
+                            "ancestors": [
+                                "GO:0007138"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase II",
+                            "ancestors": [
+                                "GO:0007139"
+                            ]
+                        }
                     ]
                 },
                 {
-                    "filter_type": "term",
+                    "filter_name": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -6958,7 +6964,7 @@
                     "slim_name": "cc_goslim_pombe"
                 },
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7005,10 +7011,9 @@
             "summary_relation_ranges_to_collect": [
                 "modified residue"
             ],
-            "gene_structure_change_message": "Warning: The translation start or intron/exon structure of this gene has changed since the genome was published (see Gene structure history section for change details).  Changed Modification positions from older studies have been revised to match their current amino acid location.",
             "filters": [
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7048,8 +7053,7 @@
             ],
             "filters": [
                 {
-                    "filter_type": "extension",
-                    "filter_subtype": "during",
+                    "filter_name": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -7062,10 +7066,126 @@
                         "during",
                         "happens_during",
                         "exists_during"
+                    ],
+                    "extension_categories": [
+                        {
+                            "display_name": "mitotic interphase",
+                            "ancestors": [
+                                "GO:0051329"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G1 phase",
+                            "ancestors": [
+                                "GO:0000080"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic S phase",
+                            "ancestors": [
+                                "GO:0000084"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G2 phase",
+                            "ancestors": [
+                                "GO:0000085"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic M phase",
+                            "ancestors": [
+                                "GO:0000087"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic prophase",
+                            "ancestors": [
+                                "GO:0000088"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic metaphase",
+                            "ancestors": [
+                                "GO:0000089"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic anaphase",
+                            "ancestors": [
+                                "GO:0000090"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic telophase",
+                            "ancestors": [
+                                "GO:0000093"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic S phase",
+                            "ancestors": [
+                                "GO:0051332"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic M phase",
+                            "ancestors": [
+                                "GO:0051327"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic interphase",
+                            "ancestors": [
+                                "GO:0051328"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic prophase I",
+                            "ancestors": [
+                                "GO:0007128"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase I",
+                            "ancestors": [
+                                "GO:0007132"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase I",
+                            "ancestors": [
+                                "GO:0007133"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase I",
+                            "ancestors": [
+                                "GO:0007134"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase II",
+                            "ancestors": [
+                                "GO:0007137"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase II",
+                            "ancestors": [
+                                "GO:0007138"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase II",
+                            "ancestors": [
+                                "GO:0007139"
+                            ]
+                        }
                     ]
                 },
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7096,8 +7216,7 @@
             "display_name": "Quantitative gene expression",
             "filters": [
                 {
-                    "filter_type": "extension",
-                    "filter_subtype": "during",
+                    "filter_name": "extension",
                     "display_name": "During",
                     "scope": [
                         "gene",
@@ -7110,10 +7229,126 @@
                         "during",
                         "happens_during",
                         "exists_during"
+                    ],
+                    "extension_categories": [
+                        {
+                            "display_name": "mitotic interphase",
+                            "ancestors": [
+                                "GO:0051329"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G1 phase",
+                            "ancestors": [
+                                "GO:0000080"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic S phase",
+                            "ancestors": [
+                                "GO:0000084"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic G2 phase",
+                            "ancestors": [
+                                "GO:0000085"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic M phase",
+                            "ancestors": [
+                                "GO:0000087"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic prophase",
+                            "ancestors": [
+                                "GO:0000088"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic metaphase",
+                            "ancestors": [
+                                "GO:0000089"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic anaphase",
+                            "ancestors": [
+                                "GO:0000090"
+                            ]
+                        },
+                        {
+                            "display_name": "mitotic telophase",
+                            "ancestors": [
+                                "GO:0000093"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic S phase",
+                            "ancestors": [
+                                "GO:0051332"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic M phase",
+                            "ancestors": [
+                                "GO:0051327"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic interphase",
+                            "ancestors": [
+                                "GO:0051328"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic prophase I",
+                            "ancestors": [
+                                "GO:0007128"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase I",
+                            "ancestors": [
+                                "GO:0007132"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase I",
+                            "ancestors": [
+                                "GO:0007133"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase I",
+                            "ancestors": [
+                                "GO:0007134"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic metaphase II",
+                            "ancestors": [
+                                "GO:0007137"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic anaphase II",
+                            "ancestors": [
+                                "GO:0007138"
+                            ]
+                        },
+                        {
+                            "display_name": "meiotic telophase II",
+                            "ancestors": [
+                                "GO:0007139"
+                            ]
+                        }
                     ]
                 },
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "scope": [
                         "gene",
@@ -7171,7 +7406,7 @@
             "slim_no_category_text": "disease ontology overview category",
             "filters": [
                 {
-                    "filter_type": "term",
+                    "filter_name": "term",
                     "display_name": "Slim term",
                     "scope": [
                         "gene",
@@ -7319,7 +7554,7 @@
             ],
             "filters": [
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "throughput_categories": [
                         {
@@ -7357,7 +7592,7 @@
             ],
             "filters": [
                 {
-                    "filter_type": "throughput",
+                    "filter_name": "throughput",
                     "display_name": "Throughput",
                     "throughput_categories": [
                         {
@@ -7558,11 +7793,6 @@
         "preyLabel": "synthetic lethal with",
         "isSymmetric": true
       },
-      "Synthetic Phenotype": {
-        "baitLabel": "synthetically interacts with",
-        "preyLabel": "synthetically interacts with",
-        "isSymmetric": true
-      },
       "Synthetic Rescue": {
         "baitLabel": "synthetically rescued by",
         "preyLabel": "synthetically rescues",
@@ -7684,10 +7914,6 @@
         {
             "termid": "SO:0000839",
             "rel_name": "is_a"
-        },
-        {
-            "termid": "GO:0000786",
-            "rel_name": "is_a"
         }
     ],
     "external_gene_references": [
@@ -7708,7 +7934,7 @@
             "url": "https://rnacentral.org/rna/<<IDENTIFIER>>/<<TAXONID>>"
         },
         {
-            "ref_type": "Sequence resources",
+            "ref_type": "Sequence Resources",
             "feature_types": [
                 "mRNA gene",
                 "pseudogene"
@@ -7719,17 +7945,7 @@
             "go_xrf_abbrev": "UniProtKB"
         },
         {
-            "ref_type": "Sequence resources",
-            "feature_types": [
-                "mRNA gene"
-            ],
-            "name": "InterPro",
-            "description": "Classification of protein families",
-            "field_name": "uniprot_identifier",
-            "go_xrf_abbrev": "InterProUniProtId"
-        },
-        {
-            "ref_type": "Sequence resources",
+            "ref_type": "Sequence Resources",
             "feature_types": [
                 "ALL"
             ],
@@ -7739,7 +7955,7 @@
             "url": "https://www.ncbi.nlm.nih.gov/gquery/?term=(<<IDENTIFIER>>)+AND+(pombe+OR+fission+yeast)"
         },
         {
-            "ref_type": "Sequence resources",
+            "ref_type": "Sequence Resources",
             "feature_types": [
                 "ALL"
             ],
@@ -7747,16 +7963,6 @@
             "description": "Genome browser",
             "field_name": "uniquename",
             "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Location/View?db=core;g=<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Phenotype resources",
-            "feature_types": [
-                "mRNA gene"
-            ],
-            "name": "Monarch",
-            "description": "Phenotype driven discovery",
-            "field_name": "uniquename",
-            "go_xrf_abbrev": "Monarch"
         },
         {
             "ref_type": "Structure",
@@ -8097,7 +8303,7 @@
     "external_term_references": [
         {
             "name": "BioPortal",
-            "url": "https://purl.bioontology.org/ontology/[conf_db_prefix]?conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2F[conf_db_prefix]_[id_no_prefix]"
+            "url": "http://bioportal.bioontology.org/ontologies/[conf_db_prefix]?p=classes&conceptid=[example_id]#details"
         },
         {
             "name": "MISO",
@@ -9102,18 +9308,6 @@
                 {
                     "name": "central nervous system malformation",
                     "termid": "MONDO:0020022"
-                },
-                {
-                    "name": "disorder of glycosylation",
-                    "termid": "MONDO:0024322"
-                },
-                {
-                    "name": "neurodevelopmental disorder",
-                    "termid": "MONDO:0700092"
-                },
-                {
-                    "name": "congenital nervous system disorder",
-                    "termid": "MONDO:0002320"
                 }
             ]
         }
@@ -10141,36 +10335,6 @@
             "Low complexity",
             "Coiled coils"
         ],
-        "modification_groups": [
-            {
-                "termid": "MOD:01875",
-                "name": "N6-acylated L-lysine"
-            },
-            {
-                "termid": "MOD:01155",
-                "name": "lipoconjugated residue"
-            },
-            {
-                "termid": "MOD:00408",
-                "name": "N-acetylated residue"
-            },
-            {
-                "termid": "MOD:00696",
-                "name": "phosphorylated residue"
-            },
-            {
-                "termid": "MOD:00427",
-                "name": "methylated residue"
-            },
-            {
-                "termid": "MOD:00764",
-                "name": "glycoconjugated residue"
-            },
-            {
-                "termid": "MOD:00905",
-                "name": "modified L-cysteine residue"
-            }
-        ],
         "full_display_excluded": [
         ]
     },
@@ -10277,11 +10441,5 @@
                 "during_termid": "GO:0072690"
             }
         ]
-    },
-    "stats_page": {
-        "curated_vs_curatable_min_year": 2009
-    },
-    "apicuron": {
-        "resource_id": "pombase"
     }
 }
