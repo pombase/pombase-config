@@ -10278,8 +10278,41 @@
             }
         ]
     },
-    "stats_page": {
-        "curated_vs_curatable_min_year": 2009
+    "stats": {
+        "curated_vs_curatable_min_year": 2009,
+        "annotation_type_groups": [
+            {
+                "display_name": "GO",
+                "cv_names": ["molecular_function", "biological_process", "cellular_component"]
+            },
+            {   "display_name": "Phenotype",
+                "cv_names": ["fission_yeast_phenotype"]
+            },
+            {
+                "display_name": "Modifications",
+                "cv_names": ["PSI-MOD"]
+            },
+            {
+                "display_name": "Gene expression",
+                "cv_names": ["gene_ex"]
+            },
+            {
+                "display_name": "Genetic interactions",
+                "cv_names": ["interacts_genetically"]
+            },
+            {
+                "display_name": "Physical interactions",
+                "cv_names": ["interacts_physically"]
+            },
+            {
+                "display_name": "Disease",
+                "cv_names": ["mondo"]
+            },
+            {
+                "display_name": "Other",
+                "cv_names": ["PomBase family or domain", "complementation"]
+            }
+        ]
     },
     "apicuron": {
         "resource_id": "pombase"
