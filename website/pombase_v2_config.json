@@ -10294,7 +10294,7 @@
             },
             {
                 "display_name": "Gene expression",
-                "cv_names": ["gene_ex"]
+                "cv_names": ["gene_ex", "PomGeneExProt", "PomGeneExRD", "PomGeneExRNA"]
             },
             {
                 "display_name": "Genetic interactions",
@@ -10310,7 +10310,13 @@
             },
             {
                 "display_name": "Other",
-                "cv_names": ["PomBase family or domain", "complementation"]
+                "cv_names": [
+                    "PomBase family or domain", "complementation", "EC numbers",
+                    "PomBase gene characterisation status",
+                    "PomBase gene products", "ex_tools", "genome_org",
+                    "kegg_pombe_pathway", "m_f_g", "misc", "mondo",
+                    "name_description", "sequence", "species_dist", "warning",
+                    "cat_act", "subunit_composition"]
             }
         ]
     },
