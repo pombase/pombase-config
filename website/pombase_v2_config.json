@@ -10280,6 +10280,7 @@
     },
     "stats": {
         "curated_vs_curatable_min_year": 2009,
+        "annotation_type_counts_min_year": 2005,
         "annotation_type_groups": [
             {
                 "display_name": "GO",
