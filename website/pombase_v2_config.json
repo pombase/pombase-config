@@ -10305,10 +10305,6 @@
                 "cv_names": ["interacts_physically"]
             },
             {
-                "display_name": "Disease",
-                "cv_names": ["mondo"]
-            },
-            {
                 "display_name": "Other",
                 "cv_names": [
                     "PomBase family or domain", "complementation", "EC numbers",
