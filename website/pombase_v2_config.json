@@ -7005,7 +7005,7 @@
             "summary_relation_ranges_to_collect": [
                 "modified residue"
             ],
-            "gene_structure_change_message": "Warning: The translation start or intron/exon structure of this gene has changed since the genome was published (see Gene structure history section for change details).  Changed Modification positions from older studies have been revised to match their current amino acid location.",
+            "gene_structure_change_message": ["Warning: The translation start or intron/exon structure of this gene has changed since the genome was published (see Gene structure history section for change details).", "Changed Modification positions from older studies have been revised to match their current amino acid location."],
             "filters": [
                 {
                     "filter_type": "throughput",
