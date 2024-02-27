@@ -69,6 +69,7 @@
     },
     "social_media": {
         "twitter": "PomBase",
+        "bluesky": "pombase.bsky.social",
         "mastodon": "https://mstdn.science/@pombase",
         "github": "pombase",
         "slack": "https://spombe.slack.com/",
