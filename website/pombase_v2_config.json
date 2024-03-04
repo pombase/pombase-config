@@ -4652,7 +4652,7 @@
             "reference_id": "PMID:37783794",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-10-11",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },    
         {
             "title": "Willet et al, 2023",
@@ -4741,7 +4741,7 @@
              "reference_id": "PMID:38133430",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2024-01-03",
-             "show_on_front_page": true
+             "show_on_front_page": false
          },
          {
              "title": "Sorida et al, 2019",
@@ -4752,7 +4752,7 @@
              "reference_id": "PMID:31206516",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2024-01-03",
-             "show_on_front_page": true
+             "show_on_front_page": false
          },
          {
              "title": "Berg et al, 2023",
@@ -4764,7 +4764,7 @@
              "reference_id": "PMID:36574843",
              "link_label": "Publication record in PomBase ...",
              "date_added": "2024-01-03",
-             "show_on_front_page": true
+             "show_on_front_page": false
          },
          {
             "title": "Ohshima et al, 2023",
@@ -4776,7 +4776,7 @@
             "reference_id": "PMID:37788281",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-01-03",
-            "show_on_front_page": true
+            "show_on_front_page": false
          }, 
          {
             "title": "Takado et al, 2024",
@@ -4788,7 +4788,7 @@
             "reference_id": "PMID:38166399",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-01-18",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Tang et al, 2023",
@@ -4800,7 +4800,7 @@
             "reference_id": "PMID:37820734",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-01-18",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Hirai et al, 2023",
@@ -4812,7 +4812,7 @@
             "reference_id": "PMID:37913773",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-01-18",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {    
             "title": "Cao et al, 2023",
@@ -4839,6 +4839,45 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2017-11-20",
             "show_on_front_page": false
+        },
+        {
+            "title": "Doamekpor et al, 2014",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-03-04-PMID-24939935-pce1.png"
+            ],
+            "content": "How an mRNA capping enzyme reads distinct RNA polymerase II and Spt5 CTD phosphorylation codes.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.242768.114'>Genes Dev</a>.",
+            "reference_id": "PMID:24939935",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-03-04",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Schwer et al, 2015",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-03-04-PMID26264592-CTD.png"
+            ],
+            "content": "RNA polymerase II CTD phospho-sites Ser5 and Ser7 govern phosphate homeostasis in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1261/rna.052555.115'>RNA</a>.",
+            "reference_id": "PMID:26264592",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-03-04",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Tasak et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-03-04-PMID35901126-trna-decay.png"
+            ],
+            "content": "Initiator tRNA lacking 1-methyladenosine is targeted by the rapid tRNA decay pathway in evolutionarily distant yeast species.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1010215'>PLoS Genet</a>.",
+            "reference_id": "PMID:35901126",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-03-04",
+            "show_on_front_page": true
         },
         {
             "title": "Recent community curation",
