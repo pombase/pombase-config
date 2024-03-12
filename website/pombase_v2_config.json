@@ -6732,6 +6732,10 @@
             "feature_type": "genotype",
             "display_name": "Single locus phenotype",
             "inherits_from": "fission_yeast_phenotype",
+            "downstream_query_title": "Send all downstream (affected) genes to the Advanced Search ...",
+            "downstream_relations": [
+                "assayed_using", "assayed_substrate", "assayed_protein", "assayed_transcript", "assayed_enzyme"
+            ],
             "single_or_multi_locus": "single",
             "help_route": "/documentation/gene-page-phenotypes"
         },
@@ -6799,6 +6803,10 @@
                 "has_input",
                 "has_substrate",
                 "binds"
+            ],
+            "downstream_query_title": "Send all substrate genes to Advanced Search ...",
+            "downstream_relations": [
+                "RO:0002233"
             ],
             "filters": [
                 {
