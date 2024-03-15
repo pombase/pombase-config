@@ -6083,9 +6083,19 @@
             "display_name": "affected region"
         },
         {
-            "rel_name": "modified residue",
+            "rel_name": "residue",
+            "if_descendant_of": "FYPO:0000001",
+            "display_name": "modified residue"
+        },
+        {
+            "rel_name": "residue",
             "if_descendant_of": "GO:0005515",
             "display_name": "binding site"
+        },
+        {
+            "rel_name": "residue",
+            "if_descendant_of": "MOD:00000",
+            "display_name": "modified residue"
         },
         {
             "rel_name": "active_form",
@@ -6112,6 +6122,7 @@
             "assayed_protein",
             "assayed_transcript",
             "assayed_region",
+            "residue",
             "modified residue",
             "directly_positively_regulates",
             "directly_negatively_regulates",
@@ -7051,6 +7062,7 @@
                 "extension"
             ],
             "summary_relation_ranges_to_collect": [
+                "residue",
                 "modified residue"
             ],
             "modification_abbreviations": {
