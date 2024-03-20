@@ -7355,7 +7355,7 @@
             "feature_type": "gene",
             "display_name": "Protein domains and properties"
         },
-        "PomBase family or domain": {
+        "pombase_family_or_domain": {
             "feature_type": "gene",
             "display_name": "Protein features",
             "details_only": true,
@@ -7714,7 +7714,7 @@
         "PSI-MOD",
         "qualitative_gene_expression",
         "quantitative_gene_expression",
-        "PomBase family or domain",
+        "pombase_family_or_domain",
         "misc",
         "cat_act",
         "m_f_g",
@@ -10376,7 +10376,7 @@
             {
                 "display_name": "Other",
                 "cv_names": [
-                    "PomBase family or domain", "complementation", "EC numbers",
+                    "pombase_family_or_domain", "complementation", "EC numbers",
                     "PomBase gene characterisation status",
                     "PomBase gene products", "ex_tools", "genome_org",
                     "kegg_pombe_pathway", "m_f_g", "misc", "mondo",
