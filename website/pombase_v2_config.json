@@ -10377,9 +10377,9 @@
                 "display_name": "Other",
                 "cv_names": [
                     "pombase_family_or_domain", "complementation", "EC numbers",
-                    "PomBase gene characterisation status",
+                    "PomBase gene characterisation status", "external_link",
                     "PomBase gene products", "ex_tools", "genome_org",
-                    "kegg_pombe_pathway", "m_f_g", "misc", "mondo",
+                    "m_f_g", "misc", "mondo",
                     "name_description", "sequence", "species_dist", "warning",
                     "cat_act", "subunit_composition"]
             }
