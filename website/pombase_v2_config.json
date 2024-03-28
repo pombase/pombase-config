@@ -6393,6 +6393,7 @@
                 "desc-rel",
                 "genotype",
                 "genotype_background",
+                "allele_promoters",
                 "evidence",
                 "conditions",
                 "reference",
