@@ -4825,7 +4825,7 @@
             "reference_id": "PMID:37572670",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-02-05",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Kilchert et al, 2015",
@@ -4877,6 +4877,19 @@
             "reference_id": "PMID:35901126",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-03-04",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Nathanailidou et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-09-PMID38285941.png"
+            ],
+            "content": "Specialized replication of heterochromatin domains ensures self-templated chromatin assembly and epigenetic inheritance.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2315596121'>Proc Natl Acad Sci U S A</a>.",
+            "reference_id": "PMID:38285941",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-09",
             "show_on_front_page": true
         },
         {
