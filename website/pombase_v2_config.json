@@ -161,8 +161,8 @@
                 "header": "Genome Status",
                 "entries": [
                     {
-                        "title": "Curation statistics",
-                        "url": "https://curation.pombase.org/pombe/stats/annotation"
+                        "title": "Literature and curation metrics",
+                        "url": "/metrics"
                     },
                     {
                         "title": "Genome sequence status",
@@ -231,10 +231,6 @@
                         "url": "/reference_list/community"
                     },
                     {
-                        "title": "Curation statistics",
-                        "url": "https://curation.pombase.org/pombe/stats/annotation"
-                    },
-                    {
                         "title": "External resources",
                         "url": "/community/internet-resources"
                     }
@@ -268,7 +264,11 @@
                         "url": "/about/collaborations"
                     },
                     {
-                        "title": "Curation statistics",
+                        "title": "Literature and curation metrics",
+                        "url": "/metrics"
+                    },
+                    {
+                        "title": "Community curation stats",
                         "url": "https://curation.pombase.org/pombe/stats/annotation"
                     },
                     {
