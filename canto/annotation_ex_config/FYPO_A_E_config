@@ -16,7 +16,7 @@ FYPO:0000653	is_a	assayed_region	SO:0000110	assayed region		0,1	user
 FYPO:0000654	is_a	assayed_enzyme	ProteinID	assayed enzyme		0,1	user
 FYPO:0000654	is_a	assayed_substrate	TranscriptID|ProteinID	assayed substrate (RNA or protein only)		0,1	user
 FYPO:0000682-is_a(FYPO:0004916)	is_a	assayed_protein	ProteinID	assayed enzyme		0,1	user
-FYPO:0000702-is_a(FYPO:0007157)	is_a	assayed_protein	ProteinID	affected proteins (add TWO, i.e. both binding partners)		2	user
+FYPO:0000702-is_a(FYPO:0007157)	is_a	assayed_protein	ProteinID	affected proteins (add TWO, i.e. both binding partners)		1,2	user
 FYPO:0000824	is_a	assayed_transcript	TranscriptID|SO:0000673	assayed transcript	For a general transcript type, such as 'rRNA', 'tRNA', 'centromere outer repeat transcript' type text in the text box. For a specific gene, select the 'Gene' radio button and then choose a gene from the pulldown menu. or 	0,1	user
 FYPO:0000834	is_a	assayed_protein	ProteinID	assayed protein		0,1	user
 FYPO:0000840	is_a	assayed_transcript	TranscriptID|SO:0000673	assayed transcript		0,1	user
