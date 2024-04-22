@@ -4893,6 +4893,83 @@
             "show_on_front_page": true
         },
         {
+            "title": "Lim et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2024-04-22-PMID_37445861-chen.png"
+            ],
+            "content": "Resistance to Chemotherapeutic 5-Fluorouracil Conferred by Modulation of Heterochromatic Integrity through Ino80 Function in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.3390/ijms241310687'>Int J Mol Sci</a>.",
+            "reference_id": "PMID:37445861",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Budden et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-22-PMID37615341-rtf2.png"
+            ],
+            "content": "Schizosaccharomyces pombe Rtf2 is important for replication fork barrier activity of RTS1 via splicing of Rtf1.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.78554'>Elife</a>.",
+            "reference_id": "PMID:37615341",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Fang et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-22-PMID38479839.png"
+            ],
+            "content": "Coordination of histone chaperones for parental histone segregation and epigenetic inheritance.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.351278.123'>Genes Dev</a>.",
+            "reference_id": "PMID:38479839",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Morozumi et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-22-PMID38269097-rapamycin.png"
+            ],
+            "content": "Rapamycin-sensitive mechanisms confine the growth of fission yeast below the temperatures detrimental to cell physiology.\n\nOriginally published in <a href='https://doi.org/10.1016/j.isci.2023.108777'>iScience</a>.",
+            "reference_id": "PMID:38269097",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Sun et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-22-PMID38289024-atf1.png"
+        ],
+            "content": "Heat stress-induced activation of MAPK pathway attenuates Atf1-dependent epigenetic inheritance of heterochromatin in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.90525'>Elife</a>.",
+            "reference_id": "PMID:38289024",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Wang et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-22-PMID37553386-yop1.png"
+            ],
+            "content": "A conserved membrane curvature-generating protein is crucial for autophagosome formation in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-023-40530-4'>Nat Commun</a>.",
+            "reference_id": "PMID:37553386",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+            },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
