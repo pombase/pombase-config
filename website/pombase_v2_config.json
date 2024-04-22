@@ -4969,6 +4969,19 @@
             "date_added": "2024-04-22",
             "show_on_front_page": true
             },
+            {
+            "title": "Tavafoghi et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-04-22-PMID38633868.png"
+            ],
+            "content": "Generation and characterization of temperature-sensitive alleles encoding GPI anchored proteins Psu1 and Dfg502 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.001179'>MicroPubl Biol</a>.",
+            "reference_id": "PMID:38633868",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-04-22",
+            "show_on_front_page": true
+            },
         {
             "title": "Recent community curation",
             "panel_type": "community",
