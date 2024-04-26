@@ -6214,6 +6214,12 @@
             "rel_name": "active_form",
             "if_descendant_of": "GO:0005575",
             "display_name": "localized form"
+        },
+        {
+            "rel_name": "has_input",
+            "if_descendant_of": "GO:0000981",
+            "display_name": "regulates transcription of",
+            "reciprocal_display": "transcription regulated by"
         }
     ],
     "extension_relation_order": {
