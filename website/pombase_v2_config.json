@@ -7517,11 +7517,12 @@
                         "Dosage Growth Defect",
                         "Dosage Lethality",
                         "Dosage Rescue",
+                        "Negative Genetic",
                         "Phenotypic Enhancement",
                         "Phenotypic Suppression",
+                        "Positive Genetic",
                         "Synthetic Growth Defect",
                         "Synthetic Lethality",
-                        "Synthetic Phenotype",
                         "Synthetic Rescue"
                     ]
                 }
