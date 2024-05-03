@@ -7497,6 +7497,20 @@
             ],
             "filters": [
                 {
+                    "filter_type": "throughput",
+                    "display_name": "Throughput",
+                    "throughput_categories": [
+                        {
+                            "display_name": "High",
+                            "throughput_type": "high"
+                        },
+                        {
+                            "display_name": "Low",
+                            "throughput_type": "low"
+                        }
+                    ]
+                },
+                {
                     "filter_type": "interaction_type",
                     "display_name": "Interaction Type",
                     "interaction_types": [
@@ -7509,20 +7523,6 @@
                         "Synthetic Lethality",
                         "Synthetic Phenotype",
                         "Synthetic Rescue"
-                    ]
-                },
-                {
-                    "filter_type": "throughput",
-                    "display_name": "Throughput",
-                    "throughput_categories": [
-                        {
-                            "display_name": "High",
-                            "throughput_type": "high"
-                        },
-                        {
-                            "display_name": "Low",
-                            "throughput_type": "low"
-                        }
                     ]
                 }
             ]
