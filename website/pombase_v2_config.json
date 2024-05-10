@@ -4968,8 +4968,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
             "show_on_front_page": true
-            },
-            {
+        },
+        {
             "title": "Tavafoghi et al, 2024",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4981,7 +4981,20 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
             "show_on_front_page": true
-            },
+        },
+        {
+            "title": "Liu et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-05-10-COMPASS-CLRC-PMID38181050.png"
+            ],
+            "content": "The Cross-Regulation Between Set1, Clr4, and Lsd1/2 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1011107'>PLoS Genet</a>.",
+            "reference_id": "PMID:38181050",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-05-10",
+            "show_on_front_page": true
+        },
         {
             "title": "Recent community curation",
             "panel_type": "community",
