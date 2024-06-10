@@ -4851,7 +4851,7 @@
             "reference_id": "PMID:24939935",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-03-04",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Schwer et al, 2015",
@@ -4864,7 +4864,7 @@
             "reference_id": "PMID:26264592",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-03-04",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Tasak et al, 2022",
@@ -4877,7 +4877,7 @@
             "reference_id": "PMID:35901126",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-03-04",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Nathanailidou et al, 2024",
@@ -4993,6 +4993,19 @@
             "reference_id": "PMID:38181050",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-05-10",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Takado et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-05-23-PMID37949217-phosphate-export.png"
+            ],
+            "content": "Phosphate uptake restriction, phosphate export, and polyphosphate synthesis contribute synergistically to cellular proliferation and survival.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.105454'>J Biol Chem</a>.",
+            "reference_id": "PMID:37949217",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-05-23",
             "show_on_front_page": true
         },
         {
