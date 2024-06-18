@@ -5826,6 +5826,17 @@
                     "end": null
                 }
             }
+        },
+        "canned_query:genes_in_gocam_models": {
+            "name": "Genes in GO-CAM models",
+            "constraints": {
+                "node_name": "gocam_model_count(≥1)",
+                "int_range": {
+                    "range_type": "gocam_model_count",
+                    "start": 1,
+                    "end": null
+                }
+            }
         }
     },
     "canned_query_ids": [
@@ -5839,7 +5850,8 @@
         "conserved_in_S_japonicus",
         "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
         "protein_coding_genes_unknown_process",
-        "canned_query:proteins_with_pdb_structures"
+        "canned_query:proteins_with_pdb_structures",
+        "canned_query:genes_in_gocam_models"
     ],
     "api_seq_chunk_sizes": [
         10000,
