@@ -5828,7 +5828,7 @@
             }
         },
         "canned_query:genes_in_gocam_models": {
-            "name": "Genes in GO-CAM models",
+            "name": "Genes in GO-CAM pathway models",
             "constraints": {
                 "node_name": "gocam_model_count(≥1)",
                 "int_range": {
