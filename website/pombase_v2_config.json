@@ -7375,6 +7375,10 @@
                     "id_source": "prop_name:malacards_disease_slug",
                     "condition": "reference=PMID:27899610"
                 },
+                "Monarch": {
+                    "id_source": "ACCESSION",
+                    "condition": "reference=PB_REF:0000006"
+                },
                 "PomBase": {
                     "condition": "reference=PB_REF:0000003"
                 },
@@ -9387,6 +9391,7 @@
     "misc_external_links": {
         "esyn": "http://esyn.rosalind.kcl.ac.uk/builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
         "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>",
+        "Monarch": "https://monarchinitiative.org/MONDO:<<IDENTIFIER>>",
         "KEGG": "https://www.genome.jp/kegg-bin/show_pathway?<<IDENTIFIER>>+<<GENE_UNIQUENAME>>"
     },
     "interpro": {
