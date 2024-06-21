@@ -5346,12 +5346,27 @@
         "canned_query:all_diseases": {
             "name": "All disease associated genes",
             "constraints": {
-                "term": {
-                    "termid": "MONDO:0000001",
-                    "name": "disease or disorder",
-                    "single_or_multi_locus": null,
-                    "expression": null
-                }
+                "or": [
+                    {
+                        "node_name": "genes annotated with \"disease susceptibility\" (MONDO:0042489)",
+                        "term": {
+                            "termid": "MONDO:0042489",
+                            "name": "disease susceptibility",
+                            "ploidiness": null,
+                            "expression": null
+                        }
+                    },
+                    {
+                        "node_name": "genes annotated with \"disease\" (MONDO:0000001)",
+                        "term": {
+                            "termid": "MONDO:0000001",
+                            "name": "disease",
+                            "ploidiness": null,
+                            "expression": null
+                        }
+                    }
+                ],
+                "node_name": "genes annotated with \"disease\" (MONDO:0000001) OR genes annotated with \"disease susceptibility\" (MONDO:0042489)"
             }
         },
         "canned_query:all_protein_coding_ex_dubious_and_transposon": {
