@@ -4915,7 +4915,7 @@
             "reference_id": "PMID:37615341",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Fang et al, 2024",
@@ -4928,7 +4928,7 @@
             "reference_id": "PMID:38479839",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Morozumi et al, 2024",
@@ -4941,7 +4941,7 @@
             "reference_id": "PMID:38269097",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Sun et al, 2024",
@@ -4980,7 +4980,7 @@
             "reference_id": "PMID:38633868",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Liu et al, 2024",
@@ -4993,7 +4993,7 @@
             "reference_id": "PMID:38181050",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-05-10",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Takado et al, 2023",
@@ -5006,6 +5006,58 @@
             "reference_id": "PMID:37949217",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-05-23",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Maki et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-06-27-PMID-36951094-swi2-swi5.png"
+            ],
+            "content": "Fission yeast Swi2 designates cell-type specific donor and stimulates Rad51-driven strand exchange for mating-type switching.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad204'>Nucleic Acids Res</a>.",
+            "reference_id": "PMID:36951094",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-06-27",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Hati et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-06-27-PMID-37923140-grx4-fra2.png"
+            ],
+            "content": "Iron homeostasis proteins Grx4 and Fra2 control activity of the Schizosaccharomyces pombe iron repressor Fep1 by facilitating [2Fe-2S] cluster removal.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.105419'>J Biol Chem</a>.",
+            "reference_id": "PMID:37923140",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-06-27",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Maekawa et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-06-27-PMID-38424265-mor2.png"
+            ],
+            "content": "Identification of plb1 mutation that extends longevity via activating Sty1 MAPK in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1007/s00438-024-02107-8'>Mol Genet Genomics</a>.",
+            "reference_id": "PMID:38424265",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-06-27",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Kumar et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-06-27-PMID-38692277-micos.png"
+            ],
+            "content": "A dynamin superfamily-like pseudoenzyme coordinates with MICOS to promote cristae architecture.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2024.04.028'>Curr Biol</a>.",
+            "reference_id": "PMID:38692277",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-06-27",
             "show_on_front_page": true
         },
         {
