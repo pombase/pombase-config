@@ -9498,6 +9498,10 @@
                 "display_name": "PDB structure IDs",
                 "column_type": "list"
             },
+            "rnacentral_id": {
+                "display_name": "RNACentral ID",
+                "column_type": "string"
+            },
             "product": {
                 "display_name": "Product description",
                 "column_type": "string"
@@ -10058,6 +10062,7 @@
             "characterisation_status",
             "taxonomic_distribution",
             "pdb_ids",
+            "rnacentral_id",
             "molecular_weight",
             "protein_length",
             "protein_length_bin",
