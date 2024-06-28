@@ -5904,6 +5904,17 @@
                     "end": null
                 }
             }
+        },
+        "canned_query:genes_with_rna_secondary_structure_predictions": {
+            "name": "Genes with RNA secondary structure predictions",
+            "constraints": {
+                "node_name": "RNA 2D structures",
+                "gene_properties": {
+                    "property_flags": [
+                        "rnacentral_2d_structure"
+                    ]
+                }
+            }
         }
     },
     "canned_query_ids": [
@@ -5917,8 +5928,9 @@
         "conserved_in_S_japonicus",
         "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
         "protein_coding_genes_unknown_process",
-        "canned_query:proteins_with_pdb_structures",
-        "canned_query:genes_in_gocam_models"
+        "proteins_with_pdb_structures",
+        "genes_with_rna_secondary_structure_predictions",
+        "genes_in_gocam_models"
     ],
     "api_seq_chunk_sizes": [
         10000,
