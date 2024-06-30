@@ -1,4 +1,3 @@
-{ 
     "site_name": "PomBase",
     "database_name": "PomBase",
     "database_long_name": "The Schizosaccharomyces pombe genome database",
@@ -4902,7 +4901,7 @@
             "reference_id": "PMID:37445861",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Budden et al, 2023",
@@ -4954,7 +4953,7 @@
             "reference_id": "PMID:38289024",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Wang et al, 2023",
