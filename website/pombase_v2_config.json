@@ -4890,7 +4890,7 @@
             "reference_id": "PMID:38285941",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-09",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Lim et al, 2023",
@@ -4967,7 +4967,7 @@
             "reference_id": "PMID:37553386",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-04-22",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Tavafoghi et al, 2024",
@@ -5047,6 +5047,19 @@
             "date_added": "2024-06-27",
             "show_on_front_page": true
         },
+        {
+            "title": "Kume et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-07-01-PMID38442865.png"
+            ],
+            "content": "The fission yeast NDR kinase Orb6 and its signalling pathway MOR regulate cytoplasmic microtubule organization during the cell cycle.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.230440'>Open Biol</a>.",
+            "reference_id": "PMID:38442865",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-07-01",
+            "show_on_front_page": true
+            },
         {
             "title": "Recent community curation",
             "panel_type": "community",
