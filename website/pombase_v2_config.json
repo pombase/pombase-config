@@ -8208,6 +8208,28 @@
             "go_xrf_abbrev": "iPTMnet"
         },
         {
+            "ref_type": "Modifications",
+            "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "PombePhosphoproteomics",
+            "constraint": "pombephosphoproteomics_unige_ch_starvation_mating_gene",
+            "description": "Phosphorylation changes during sexual reproduction, starvation/mating",
+            "field_name": "uniprot_identifier",
+            "url": "https://pombephosphoproteomics.unige.ch/protein/<<IDENTIFIER>>/starvation-mating"
+        },
+        {
+            "ref_type": "Modifications",
+            "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "PombePhosphoproteomics",
+            "constraint": "pombephosphoproteomics_unige_ch_fusion_gene",
+            "description": "Phosphorylation changes during sexual reproduction, cell-cell fusion",
+            "field_name": "uniprot_identifier",
+            "url": "https://pombephosphoproteomics.unige.ch/protein/<<IDENTIFIER>>/cell-cell-fusion"
+        },
+        {
             "ref_type": "Expression",
             "feature_types": [
                 "ALL"
@@ -8317,28 +8339,6 @@
             "description": "Peptides identified in tandem mass spectrometry",
             "field_name": "uniquename",
             "url": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/GetProtein?action=QUERY&atlas_build_id=355&protein_name=<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Modifications",
-            "feature_types": [
-                "mRNA gene"
-            ],
-            "name": "PombePhosphoproteomics",
-            "constraint": "pombephosphoproteomics_unige_ch_starvation_mating_gene",
-            "description": "Phosphorylation changes during sexual reproduction, starvation/mating",
-            "field_name": "uniprot_identifier",
-            "url": "https://pombephosphoproteomics.unige.ch/protein/<<IDENTIFIER>>/starvation-mating"
-        },
-        {
-            "ref_type": "Modifications",
-            "feature_types": [
-                "mRNA gene"
-            ],
-            "name": "PombePhosphoproteomics",
-            "constraint": "pombephosphoproteomics_unige_ch_fusion_gene",
-            "description": "Phosphorylation changes during sexual reproduction, cell-cell fusion",
-            "field_name": "uniprot_identifier",
-            "url": "https://pombephosphoproteomics.unige.ch/protein/<<IDENTIFIER>>/cell-cell-fusion"
         },
         {
             "ref_type": "Pathways",
