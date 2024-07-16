@@ -5061,6 +5061,45 @@
             "show_on_front_page": true
             },
         {
+            "title": "Ren et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-07-16-PMID-37831774-berro-end4.png"
+            ],
+            "content": "Force redistribution in clathrin-mediated endocytosis revealed by coiled-coil force sensors.\n\nOriginally published in <a href='https://doi.org/10.1126/sciadv.adi1535'>Sci Adv</a>.",
+            "reference_id": "PMID:37831774",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-07-16",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Fletcher et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-07-16-PMID-38938413-spg1-mutants.png"
+            ],
+            "content": "Characterization of temperature-sensitive Schizosaccharomyces pombe mutants in the septation initiation network Spg1 GTPase.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.001193'>MicroPubl Biol</a>.",
+            "reference_id": "PMID:38938413",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-07-16",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Willet et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-07-16-PMID38865179-SIP-complex.png"
+            ],
+            "content": "Transient PP2A SIP complex localization to mitotic SPBs for SIN inhibition is mediated solely by the Csc1 FHA domain.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E24-04-0196'>Mol Biol Cell</a>.",
+            "reference_id": "PMID:38865179",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-07-16",
+            "show_on_front_page": true
+        },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
