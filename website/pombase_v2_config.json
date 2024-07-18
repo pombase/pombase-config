@@ -198,10 +198,6 @@
                         "url": "/datasets"
                     },
                     {
-                        "title": "Documents",
-                        "url": "/documents"
-                    },
-                    {
                         "title": "Chado database dumps",
                         "url": "/downloads/chado-database-dumps"
                     }
