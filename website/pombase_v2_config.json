@@ -10705,6 +10705,10 @@
                 "cv_names": ["interacts_physically"]
             },
             {
+                "display_name": "Orthologs",
+                "cv_names": ["orthologous_to"]
+            },
+            {
                 "display_name": "Other",
                 "cv_names": [
                     "pombase_family_or_domain", "complementation", "EC numbers",
