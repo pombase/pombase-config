@@ -5096,6 +5096,19 @@
             "show_on_front_page": true
         },
         {
+            "title": "Schwer et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-07-29-PMID38899862.png"
+            ],
+            "content": "Suppression of inositol pyrophosphate toxicosis and hyper-repression of the fission yeast PHO regulon by loss-of-function mutations in chromatin remodelers Snf22 and Sol1.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.01252-24'>mBio</a>.",
+            "reference_id": "PMID:38899862",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-07-29",
+            "show_on_front_page": true
+        },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
