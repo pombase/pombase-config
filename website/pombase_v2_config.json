@@ -10538,7 +10538,8 @@
             "TM domains",
             "Disordered regions",
             "Low complexity",
-            "Coiled coils"
+            "Coiled coils",
+            "Signal peptide"
         ],
         "modification_groups": [
             {
