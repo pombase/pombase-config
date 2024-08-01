@@ -5109,6 +5109,19 @@
             "show_on_front_page": true
         },
         {
+            "title": "Chen et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-08-01-PMID38985524.png"
+            ],
+            "content": "The core spindle pole body scaffold Ppc89 links the pericentrin orthologue Pcp1 to the fission yeast spindle pole body via an evolutionarily conserved interface.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E24-05-0220'>Mol Biol Cell</a>.",
+            "reference_id": "PMID:38985524",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-08-01",
+            "show_on_front_page": true
+        },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
