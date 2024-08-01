@@ -10552,7 +10552,8 @@
             "Disordered regions",
             "Low complexity",
             "Coiled coils",
-            "Signal peptide"
+            "Signal peptide",
+            "Transit peptide"
         ],
         "modification_groups": [
             {
