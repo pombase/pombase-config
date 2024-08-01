@@ -5122,6 +5122,19 @@
             "show_on_front_page": true
         },
         {
+            "title": "Turner et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-08-01-PMID38989013.png"
+            ],
+            "content": "Characterization of temperature-sensitive alleles of Schizosaccharomyces pombe septation initiation network components.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.001249'>MicroPubl Biol</a>.",
+            "reference_id": "PMID:38989013",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-08-01",
+            "show_on_front_page": true
+        },
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
