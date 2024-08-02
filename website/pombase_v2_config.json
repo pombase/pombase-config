@@ -10579,9 +10579,7 @@
             "Low complexity",
             "Coiled coils",
             "Signal peptide",
-            "Transit peptide",
-            "Binding sites",
-            "Active sites"
+            "Transit peptide"
         ],
         "modification_groups": [
             {
