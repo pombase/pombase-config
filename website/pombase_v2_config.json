@@ -5136,6 +5136,45 @@
             "show_on_front_page": true
         },
         {
+            "title": "Ouasti et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-08-02-PMID38376141.png"
+            ],
+            "content": "Disordered regions and folded modules in CAF-1 promote histone deposition in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.91461'>Elife</a>.",
+            "reference_id": "PMID:38376141",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-08-02",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Marešová et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-08-02-PMID38482739.png"
+    		],
+    		"content": "Critical importance of DNA binding for CSL protein functions in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261568'>J Cell Sci</a>.",
+    		"reference_id": "PMID:38482739",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-08-02",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Schirmeisen et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-08-02-PMID38917328.png"
+    		],
+    		"content": "SUMO protease and proteasome recruitment at the nuclear periphery differently affect replication dynamics at arrested forks.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkae526'>Nucleic Acids Res</a>.",
+    		"reference_id": "PMID:38917328",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-08-02",
+    		"show_on_front_page": true
+		},
+        {
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
