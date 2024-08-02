@@ -396,6 +396,7 @@
         "biological_process",
         "cellular_component",
         "fission_yeast_phenotype",
+        "sequence",
         "mondo"
     ],
     "search_box_config": {
