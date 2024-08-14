@@ -10626,6 +10626,7 @@
         "widget_track_names": [
             "AA substitution positions",
             "Modifications",
+            "Glycosylation sites",
             "Pfam domains",
             "TM domains",
             "Disordered regions",
