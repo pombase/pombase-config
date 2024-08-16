@@ -9721,6 +9721,10 @@
                 "display_name": "PDB structure IDs",
                 "column_type": "list"
             },
+            "paralogs": {
+                "display_name": "Paralog IDs",
+                "column_type": "list"
+            },
             "rnacentral_id": {
                 "display_name": "RNACentral ID",
                 "column_type": "string"
@@ -10285,6 +10289,7 @@
             "characterisation_status",
             "taxonomic_distribution",
             "pdb_ids",
+            "paralogs",
             "rnacentral_id",
             "molecular_weight",
             "protein_length",
