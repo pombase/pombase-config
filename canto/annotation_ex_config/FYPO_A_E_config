@@ -1,4 +1,5 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
+FYPO:0003845	is_a	assayed_protein	ProteinID	assayed protein		0,1	user
 FYPO:0008255	is_a	assayed_using	GeneID	assayed gene		0,1	user
 FYPO:0008254	is_a	assayed_using	GeneID	assayed gene		0,1	user
 FYPO:0000002	is_a|has_part	has_penetrance	FYPO_EXT:1000002|%	penetrance	proportion of the population that shows the phenotype (can be quantitative or qualitative)	0,1	user
