@@ -6042,6 +6042,17 @@
                     ]
                 }
             }
+        },
+        "canned_query:genes_with_paralogs": {
+            "name": "Genes with paralogs",
+            "constraints": {
+                "node_name": "Genes with paralogs",
+                "gene_properties": {
+                    "property_flags": [
+                        "has_paralog"
+                    ]
+                }
+            }
         }
     },
     "canned_query_ids": [
@@ -6057,6 +6068,7 @@
         "protein_coding_genes_unknown_process",
         "proteins_with_pdb_structures",
         "genes_with_rna_secondary_structure_predictions",
+        "genes_with_paralogs",
         "genes_in_gocam_models"
     ],
     "api_seq_chunk_sizes": [
