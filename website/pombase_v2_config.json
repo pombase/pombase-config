@@ -6064,11 +6064,11 @@
         "conserved_in_S_cerevisiae",
         "conserved_in_vertebrates",
         "conserved_in_S_japonicus",
+        "genes_with_paralogs",
         "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
         "protein_coding_genes_unknown_process",
         "proteins_with_pdb_structures",
         "genes_with_rna_secondary_structure_predictions",
-        "genes_with_paralogs",
         "genes_in_gocam_models"
     ],
     "api_seq_chunk_sizes": [
