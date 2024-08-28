@@ -602,7 +602,7 @@
                             },
                             {
                                 "id": "SO_protein",
-                                "displayName": "protein motifs",
+                                "displayName": "protein features",
                                 "nodeType": "ontology",
                                 "ontologyName": "SO-protein",
                                 "topDescription": [
