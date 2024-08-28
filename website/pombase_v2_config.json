@@ -6053,6 +6053,15 @@
                     ]
                 }
             }
+        },
+        "canned_query:genes_with_annotated_protein_feature": {
+            "name": "Genes annotated with protein features ",
+            "constraints": {
+                "term": {
+                    "termid": "SO:0000839",
+                    "name": " polypeptide_region"
+                }
+            }
         }
     },
     "canned_query_ids": [
@@ -6069,7 +6078,8 @@
         "protein_coding_genes_unknown_process",
         "proteins_with_pdb_structures",
         "genes_with_rna_secondary_structure_predictions",
-        "genes_in_gocam_models"
+        "genes_in_gocam_models",
+        "genes_with_annotated_protein_feature"
     ],
     "api_seq_chunk_sizes": [
         10000,
