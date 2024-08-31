@@ -6463,6 +6463,11 @@
         },
         {
             "rel_name": "residue",
+            "if_descendant_of": "MOD:00689",
+            "display_name": "residue"
+        },
+        {
+            "rel_name": "residue",
             "if_descendant_of": "MOD:00000",
             "display_name": "modified residue"
         },
