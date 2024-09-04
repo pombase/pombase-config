@@ -6001,6 +6001,15 @@
                 }
             }
         },
+        "canned_query:conserved_in_human": {
+            "name": "Proteins conserved in human",
+            "constraints": {
+                "node_name": "has ortholog with: human",
+                "has_ortholog": {
+                    "taxonid": 9606
+                }
+            }
+        },
         "canned_query:conserved_in_S_japonicus": {
             "name": "Proteins conserved in <i>S. japonicus</i>",
             "constraints": {
@@ -6071,7 +6080,7 @@
         "viable_deletions",
         "inviable_deletions",
         "conserved_in_S_cerevisiae",
-        "conserved_in_vertebrates",
+        "conserved_in_human",
         "conserved_in_S_japonicus",
         "genes_with_paralogs",
         "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
