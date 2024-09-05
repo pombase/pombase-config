@@ -610,7 +610,7 @@
                                         "text": "Retrieve protein-coding genes based on features annotated using the protein sequence feature branch of the Sequence Ontology (SO)"
                                     }
                                 ],
-                                "extraDescription": "Examples: short motifs such as TM domains, NLS or KEN box, signal sequence, cleaved region, helix"
+                                "extraDescription": "Examples: short motifs such as TM domains, NLS or KEN box, mitochondrial targeting signal, cleaved region, helix"
                             },
                             {
                                 "id": "tm_domain_count",
