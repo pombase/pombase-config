@@ -5958,34 +5958,18 @@
         "canned_query:conserved_in_S_cerevisiae": {
             "name": "Proteins conserved in <i>S. cerevisiae</i>",
             "constraints": {
-                "not": [
+                "and": [
                     {
-                        "term": {
-                            "termid": "PBO:0011064",
-                            "name": "conserved in fungi",
-                            "single_or_multi_locus": null,
-                            "expression": null
+                        "node_name": "has ortholog with: S. cerevisiae",
+                        "has_ortholog": {
+                            "taxonid": 4932
                         }
                     },
                     {
-                        "or": [
-                            {
-                                "term": {
-                                    "termid": "PBO:0000055",
-                                    "name": "no apparent S. cerevisiae ortholog",
-                                    "single_or_multi_locus": null,
-                                    "expression": null
-                                }
-                            },
-                            {
-                                "term": {
-                                    "termid": "PBO:0000110",
-                                    "name": "orthologs cannot be distinguished",
-                                    "single_or_multi_locus": null,
-                                    "expression": null
-                                }
-                            }
-                        ]
+                        "node_name": "subset: mRNA genes",
+                        "subset": {
+                            "subset_name": "feature_type_mRNA_gene"
+                        }
                     }
                 ]
             }
@@ -6004,19 +5988,39 @@
         "canned_query:conserved_in_human": {
             "name": "Proteins conserved in human",
             "constraints": {
-                "node_name": "has ortholog with: human",
-                "has_ortholog": {
-                    "taxonid": 9606
-                }
+                "and": [
+                    {
+                        "node_name": "has ortholog with: human",
+                        "has_ortholog": {
+                            "taxonid": 9606
+                        }
+                    },
+                    {
+                        "node_name": "subset: mRNA genes",
+                        "subset": {
+                            "subset_name": "feature_type_mRNA_gene"
+                        }
+                    }
+                ]
             }
         },
         "canned_query:conserved_in_S_japonicus": {
             "name": "Proteins conserved in <i>S. japonicus</i>",
             "constraints": {
-                "node_name": "has ortholog with: S. japonicus",
-                "has_ortholog": {
-                    "taxonid": 4897
-                }
+                "and": [
+                    {
+                        "node_name": "has ortholog with: S. japonicus",
+                        "has_ortholog": {
+                            "taxonid": 4897
+                        }
+                    },
+                    {
+                        "node_name": "subset: mRNA genes",
+                        "subset": {
+                            "subset_name": "feature_type_mRNA_gene"
+                        }
+                    }
+                ]
             }
         },
         "canned_query:proteins_with_pdb_structures": {
