@@ -5147,8 +5147,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-08-02",
     	    "show_on_front_page": true
-		},
-		{
+	},
+	{
     		"title": "Marešová et al, 2024",
     		"title_link": null,
     		"panel_type": "spotlight",
@@ -5160,8 +5160,8 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-08-02",
     		"show_on_front_page": true
-		},
-		{
+	},
+	{
     		"title": "Schirmeisen et al, 2024",
     		"title_link": null,
     		"panel_type": "spotlight",
@@ -5173,8 +5173,8 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-08-02",
     		"show_on_front_page": true
-		},
-		{
+	},
+	{
     		"title": "Ghosh et al, 2024",
     		"title_link": null,
     		"panel_type": "spotlight",
@@ -5186,7 +5186,20 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-08-02",
     		"show_on_front_page": true
-		},
+	},
+	{
+    		"title": "Kobayashi-Ooka et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-09-09-PMID38913087.png"
+    		],
+    		"content": "Mutational analyses of the interacting domains of Schizosaccharomyces pombe Byr2 with 14-3-3s.\n\nOriginally published in <a href='https://doi.org/10.1007/s00294-024-01293-7'>Curr Genet</a>.",
+    		"reference_id": "PMID:38913087",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-09-09",
+    		"show_on_front_page": true
+	},   
         {
             "title": "Recent community curation",
             "panel_type": "community",
