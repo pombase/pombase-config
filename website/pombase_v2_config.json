@@ -589,18 +589,6 @@
                         ],
                         "subNodes": [
                             {
-                                "id": "all_domains",
-                                "displayName": "Domain ID",
-                                "nodeType": "subset-input",
-                                "subsetPrefix": null,
-                                "placeholder": "eg. PF02373 or IPR001138",
-                                "topDescription": [
-                                    {
-                                        "text": "Retrieve protein-coding genes by specific domains present in the products. To retrieve all domain-containing proteins, search for \"IPR*\" or \"PF*\""
-                                    }
-                                ]
-                            },
-                            {
                                 "id": "SO_protein",
                                 "displayName": "protein features",
                                 "nodeType": "ontology",
@@ -611,6 +599,18 @@
                                     }
                                 ],
                                 "extraDescription": "Examples: short motifs such as NLS or KEN box, signal peptide, mitochondrial targeting signal, cleaved region"
+                            },
+                            {
+                                "id": "all_domains",
+                                "displayName": "Domain ID",
+                                "nodeType": "subset-input",
+                                "subsetPrefix": null,
+                                "placeholder": "eg. PF02373 or IPR001138",
+                                "topDescription": [
+                                    {
+                                        "text": "Retrieve protein-coding genes by specific domains present in the products. To retrieve all domain-containing proteins, search for \"IPR*\" or \"PF*\""
+                                    }
+                                ]
                             },
                             {
                                 "id": "tm_domain_count",
