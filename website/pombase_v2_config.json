@@ -630,9 +630,11 @@
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
                                 "range_any_and_none": true,
+                                "percent_query_id": "coiled_coils_percent",
+                                "percent_display_name": "percentage of residues in coiled coil regions",
                                 "topDescription": [
                                     {
-                                        "text": "Retrieve protein-coding genes by number of predicted coiled-coil domains in the product"
+                                        "text": "Retrieve protein-coding genes by number of predicted coiled-coil domains in the product or by percentage of residues in coiled-coil regions"
                                     }
                                 ]
                             },
@@ -642,9 +644,11 @@
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
                                 "range_any_and_none": true,
+                                "percent_query_id": "disordered_percent",
+                                "percent_display_name": "percentage of residues in disordered regions",
                                 "topDescription": [
                                     {
-                                        "text": "Retrieve protein-coding genes by number of disordered regions in the product"
+                                        "text": "Retrieve protein-coding genes by number of disordered regions in the product or by percentage of residues in disordered regions"
                                     }
                                 ]
                             },
@@ -654,9 +658,11 @@
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
                                 "range_any_and_none": true,
+                                "percent_query_id": "low_complexity_percent",
+                                "percent_display_name": "percentage of residues in low complexity regions",
                                 "topDescription": [
                                     {
-                                        "text": "Retrieve protein-coding genes by number of low complexity regions in the product"
+                                        "text": "Retrieve protein-coding genes by number of low complexity regions in the product or by percentage of residues in low complexity regions"
                                     }
                                 ]
                             }
