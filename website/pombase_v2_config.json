@@ -5206,6 +5206,19 @@
     		"date_added": "2024-09-09",
     		"show_on_front_page": true
 	},   
+	{
+		"title": "Willet et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-09-13-PMID-39239853.png"
+    		],
+    		"content": "Fission yeast Duc1 links to ER-PM contact sites and influences PM lipid composition and cytokinetic ring anchoring.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.262347'>J Cell Sci</a>.",
+    		"reference_id": "PMID:39239853",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-09-13",
+    		"show_on_front_page": true
+	},    
         {
             "title": "Recent community curation",
             "panel_type": "community",
