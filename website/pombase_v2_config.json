@@ -598,7 +598,8 @@
                                         "text": "Retrieve protein-coding genes based on features annotated using the protein sequence feature branch of the Sequence Ontology (SO)"
                                     }
                                 ],
-                                "extraDescription": "Examples: short motifs such as NLS or KEN box, signal peptide, mitochondrial targeting signal, cleaved region"
+                                "extraDescription": "Examples: short motifs such as NLS or KEN box, signal peptide, mitochondrial targeting signal, cleaved region",
+                                "extraDescription2": "Use \"sequence feature\" to retrieve all genes with annotated sequence features"
                             },
                             {
                                 "id": "all_domains",
