@@ -5219,7 +5219,20 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-09-13",
     		"show_on_front_page": true
-	},    
+	},
+	{
+   		 "title": "Onwubiko et al, 2023",
+    		 "title_link": null,
+   		 "panel_type": "spotlight",
+    		 "head_image": [
+       		 "spotlight/2024-09-27-PMID37039135.png"
+   		 ],
+    		 "content": "Cdc42 prevents precocious Rho1 activation during cytokinesis in a Pak1-dependent manner.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261160'>J Cell Sci</a>.",
+    		 "reference_id": "PMID:37039135",
+    		 "link_label": "Publication record in PomBase ...",
+    		 "date_added": "2024-09-27",
+    		 "show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
