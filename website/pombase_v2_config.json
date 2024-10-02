@@ -5127,7 +5127,7 @@
             "reference_id": "PMID:38985524",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-08-01",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Turner et al, 2024",
@@ -5140,7 +5140,7 @@
             "reference_id": "PMID:38989013",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-08-01",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Ouasti et al, 2024",
@@ -5153,7 +5153,7 @@
             "reference_id": "PMID:38376141",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-08-02",
-    	    "show_on_front_page": true
+    	    "show_on_front_page": false
 	},
 	{
 		"title": "Marešová et al, 2024",
@@ -5166,7 +5166,7 @@
     		"reference_id": "PMID:38482739",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-08-02",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Schirmeisen et al, 2024",
@@ -5179,7 +5179,7 @@
     		"reference_id": "PMID:38917328",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-08-02",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Ghosh et al, 2024",
@@ -5192,7 +5192,7 @@
     		"reference_id": "PMID:38940614",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-08-02",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Kobayashi-Ooka et al, 2024",
@@ -5218,6 +5218,32 @@
     		"reference_id": "PMID:39239853",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-09-13",
+    		"show_on_front_page": true
+	},
+	{
+   		 "title": "Onwubiko et al, 2023",
+    		 "title_link": null,
+   		 "panel_type": "spotlight",
+    		 "head_image": [
+       		 "spotlight/2024-09-27-PMID37039135.png"
+   		 ],
+    		 "content": "Cdc42 prevents precocious Rho1 activation during cytokinesis in a Pak1-dependent manner.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261160'>J Cell Sci</a>.",
+    		 "reference_id": "PMID:37039135",
+    		 "link_label": "Publication record in PomBase ...",
+    		 "date_added": "2024-09-27",
+    		 "show_on_front_page": true
+	},
+	{
+    		"title": "Luo et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-09-29-PMID39289458.png"
+    		],
+    		"content": "Characterization of Shy1, the Schizosaccharomyces pombe homolog of human SURF1.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-024-72681-9'>Sci Rep</a>.",
+    		"reference_id": "PMID:39289458",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-09-29",
     		"show_on_front_page": true
 	},    
         {
