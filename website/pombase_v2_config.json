@@ -5224,22 +5224,11 @@
             "title": "Recent community curation",
             "panel_type": "community",
             "head_image": [
-                "community/2020-02-24-community_papers_curated.png"
             ],
             "head_image_link": "https://curation.pombase.org/pombe/stats/annotation",
             "content": "<app-recent-community-pubs></app-recent-community-pubs>",
             "date_added": "2017-10-10",
             "show_on_front_page": true
-        },
-        {
-            "title": "Recent community curation",
-            "panel_type": "community",
-            "head_image": [
-                "community/2017-10-07-community_curation_pie_and_cloud.png"
-            ],
-            "content": "<app-recent-community-pubs></app-recent-community-pubs>",
-            "date_added": "2017-10-10",
-            "show_on_front_page": false
         },
         {
             "title": "Step into the unknown",
