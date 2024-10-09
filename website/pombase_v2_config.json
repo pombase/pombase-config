@@ -5246,6 +5246,19 @@
     		"date_added": "2024-09-29",
     		"show_on_front_page": true
 	},    
+	{
+    		"title": "Ohtsuka et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-10-09-sdr1-PMID39289458.png"
+    		],
+    		"content": "A novel transcription factor Sdr1 involving sulfur depletion response in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1111/gtc.13136'>Genes Cells</a>.",
+    		"reference_id": "PMID:39105351",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-10-09",
+    		"show_on_front_page": true
+	},    
         {
             "title": "Recent community curation",
             "panel_type": "community",
