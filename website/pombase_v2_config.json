@@ -5259,6 +5259,32 @@
     		"date_added": "2024-10-09",
     		"show_on_front_page": true
 	},    
+	{
+   		"title": "Palacios-Blanco et al, 2024",
+		"title_link": null,
+		"panel_type": "spotlight",
+		"head_image": [
+		"spotlight/2024-10-16-PMID39174851.png"
+		],
+		"content": "CDK phosphorylation of Sfr1 downregulates Rad51 function in late-meiotic homolog invasions.\n\nOriginally published in <a href='https://doi.org/10.1038/s44318-024-00205-2'>EMBO J</a>.",
+		"reference_id": "PMID:39174851",
+		"link_label": "Publication record in PomBase ...",
+		"date_added": "2024-10-16",
+		"show_on_front_page": true		
+	},
+	{
+		"title": "Sakai et al, 2024",
+		"title_link": null,
+		"panel_type": "spotlight",
+		"head_image": [
+			"spotlight/2024-10-16-PMID38889144.png"
+		],
+		"content": "Cytoplasmic fluidization contributes to breaking spore dormancy in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2405553121'>Proc Natl Acad Sci U S A</a>.",
+		"reference_id": "PMID:38889144",
+		"link_label": "Publication record in PomBase ...",
+		"date_added": "2024-10-16",
+		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
