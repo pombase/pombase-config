@@ -10710,12 +10710,12 @@
             "Propeptides"
         ],
         "domains_and_features_tracks": [
-            "MOBIDB_LITE",
-            "MOBIDB_LITE-Negative-Polyelectrolyte",
-            "MOBIDB_LITE-Polar",
-            "MOBIDB_LITE-Polyampholyte",
-            "MOBIDB_LITE-Positive-Polyelectrolyte",
-            "MOBIDB_LITE-Proline-rich",
+            "MOBIDB-Disorder",
+            "MOBIDB-Negative-Polyelectrolyte",
+            "MOBIDB-Polar",
+            "MOBIDB-Polyampholyte",
+            "MOBIDB-Positive-Polyelectrolyte",
+            "MOBIDB-Proline-rich",
             "CDD",
             "FUNFAM",
             "GENE3D",
