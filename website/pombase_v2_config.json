@@ -9713,7 +9713,10 @@
         "mobidblt": "MobiDB",
         "amigo": "GO",
         "cathgene3d": "Gene3D",
-        "scanprosite": "Prosite"
+        "scanprosite": "Prosite",
+        "prositeprofiles": "Prosite",
+        "prositepatterns": "Prosite",
+        "coils": "Coiled coils"
     },
     "misc_external_links": {
         "esyn": "http://esyn.rosalind.kcl.ac.uk/builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
@@ -9724,46 +9727,6 @@
     "interpro": {
         "dbnames_to_filter": []
     },
-    "protein_features": {
-        "track_config": {
-            "CATHGENE3D": {
-                "colour": "#228b22"
-            },
-            "PFAM": {
-                "colour": "#884"
-            },
-            "PROSITE": {
-                "colour": "#ffa500"
-            },
-            "PROFILE": {
-                "colour": "#368ec9"
-            },
-            "PANTHER": {
-                "colour": "#a2d"
-            },
-            "SMART": {
-                "colour": "#66cd00"
-            },
-            "SSF": {
-                "colour": "#0000ff"
-            },
-            "TIGRFAMs": {
-                "colour": "#ff0000"
-            },
-            "CDD": {
-                "colour": "#926b22"
-            },
-            "Pfam-disordered": {
-                "colour": "#b54"
-            },
-            "Pfam-low-complexity": {
-                "colour": "#25a"
-            },
-            "ncoils": {
-                "colour": "#492"
-            }
-        }
-    },
     "server": {
         "subsets": {
             "prefixes_to_remove": [
@@ -9773,6 +9736,7 @@
                 "interpro:PANTHER",
                 "interpro:PFAM",
                 "interpro:PIRSF",
+                "interpro:PIRSR",
                 "interpro:PRINTS",
                 "interpro:PRODOM",
                 "interpro:PROFILE",
@@ -10729,7 +10693,7 @@
         "modification_extension_rel_types": [
             "added_during", "added_by", "affected_by", "removed_by"
         ],
-        "widget_track_names": [
+        "widget_tracks": [
             "AA substitution positions",
             "Modifications",
             "Glycosylation sites",
@@ -10744,6 +10708,33 @@
             "Signal peptide",
             "Transit peptide",
             "Propeptides"
+        ],
+        "domains_and_features_tracks": [
+            "MOBIDB_LITE",
+            "MOBIDB_LITE-Negative-Polyelectrolyte",
+            "MOBIDB_LITE-Polar",
+            "MOBIDB_LITE-Polyampholyte",
+            "MOBIDB_LITE-Positive-Polyelectrolyte",
+            "MOBIDB_LITE-Proline-rich",
+            "CDD",
+            "FUNFAM",
+            "GENE3D",
+            "HAMAP",
+            "NCBIFAM",
+            "PANTHER",
+            "PFAM",
+            "PIRSF",
+            "PIRSR",
+            "PRINTS",
+            "PROSITE_PATTERNS",
+            "PROSITE_PROFILES",
+            "Pfam domains",
+            "SFLD",
+            "SMART",
+            "SUPERFAMILY",
+            "Disordered regions",
+            "Low complexity",
+            "Coiled coils"
         ],
         "modification_groups": [
             {
