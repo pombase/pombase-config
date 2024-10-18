@@ -10764,6 +10764,10 @@
             "Low complexity",
             "Coiled coils"
         ],
+        "modification_section_tracks": [
+            "Modifications",
+            "Disulfide bonds"
+        ],
         "modification_groups": [
             {
                 "termid": "MOD:01875",
