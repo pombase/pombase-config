@@ -10710,6 +10710,8 @@
             "Propeptides"
         ],
         "domains_and_features_tracks": [
+            "Binding sites",
+            "Active sites",
             "MOBIDB-Disorder",
             "MOBIDB-Negative-Polyelectrolyte",
             "MOBIDB-Polar",
