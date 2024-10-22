@@ -7507,6 +7507,7 @@
         "PSI-MOD": {
             "feature_type": "gene",
             "display_name": "Modification",
+            "protein_viewer_type": "modifications",
             "columns_to_show": [
                 "term_id",
                 "desc-rel",
