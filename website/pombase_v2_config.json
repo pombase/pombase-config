@@ -9752,7 +9752,7 @@
         "KEGG": "https://www.genome.jp/kegg-bin/show_pathway?<<IDENTIFIER>>+<<GENE_UNIQUENAME>>"
     },
     "interpro": {
-        "dbnames_to_filter": []
+        "dbnames_to_filter": ["PIRSR"]
     },
     "server": {
         "subsets": {
@@ -10753,7 +10753,6 @@
             "PANTHER",
             "PFAM",
             "PIRSF",
-            "PIRSR",
             "PRINTS",
             "PROSITE_PATTERNS",
             "PROSITE_PROFILES",
