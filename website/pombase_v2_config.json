@@ -10716,6 +10716,13 @@
         "regional_centromere": "centromere",
         "regional_centromere_central_core": "centromere central core"
     },
+    "protein_feature_table": {
+        "feature_types": {
+            "PRINTS": {
+                "min_max_only": true
+            }
+        }
+    },
     "protein_feature_view": {
         "modification_extension_rel_types": [
             "added_during", "added_by", "affected_by", "removed_by"
