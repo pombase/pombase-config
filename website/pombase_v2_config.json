@@ -9716,6 +9716,7 @@
         "cathgene3d": "Gene3D",
         "scanprosite": "Prosite",
         "prositeprofiles": "Prosite",
+        "prosite_profiles": "Prosite",
         "prositepatterns": "Prosite",
         "coils": "Coiled coils"
     },
