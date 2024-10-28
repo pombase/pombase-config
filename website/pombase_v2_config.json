@@ -10717,6 +10717,19 @@
         "regional_centromere": "centromere",
         "regional_centromere_central_core": "centromere central core"
     },
+    "protein_feature_db_order": [
+        "PFAM",
+        "CDD",
+        "PROSITE",
+        "SMART",
+        "PRINTS",
+        "FUNFAM",
+        "SUPERFAMILY",
+        "GENE3D",
+        "PANTHER",
+        "PIRSF",
+        "OTHER"
+    ],
     "protein_feature_table": {
         "feature_types": {
             "PRINTS": {
