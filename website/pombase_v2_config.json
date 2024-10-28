@@ -10761,6 +10761,8 @@
             "Binding sites",
             "Active sites",
             "MOBIDB-Disorder",
+            "MOBIDB-Glycine-rich",
+            "MOBIDB-Low-complexity",
             "MOBIDB-Negative-Polyelectrolyte",
             "MOBIDB-Polar",
             "MOBIDB-Polyampholyte",
