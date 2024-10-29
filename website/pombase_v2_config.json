@@ -5205,7 +5205,7 @@
     		"reference_id": "PMID:38913087",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-09-09",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},   
 	{
 		"title": "Willet et al, 2024",
@@ -5218,7 +5218,7 @@
     		"reference_id": "PMID:39239853",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-09-13",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
    		 "title": "Onwubiko et al, 2023",
@@ -5231,7 +5231,7 @@
     		 "reference_id": "PMID:37039135",
     		 "link_label": "Publication record in PomBase ...",
     		 "date_added": "2024-09-27",
-    		 "show_on_front_page": true
+    		 "show_on_front_page": false
 	},
 	{
     		"title": "Luo et al, 2024",
@@ -5277,7 +5277,7 @@
 		"title_link": null,
 		"panel_type": "spotlight",
 		"head_image": [
-			"spotlight/2024-10-16-PMID38889144.png"
+		"spotlight/2024-10-16-PMID38889144.png"
 		],
 		"content": "Cytoplasmic fluidization contributes to breaking spore dormancy in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2405553121'>Proc Natl Acad Sci U S A</a>.",
 		"reference_id": "PMID:38889144",
@@ -5285,6 +5285,71 @@
 		"date_added": "2024-10-16",
 		"show_on_front_page": true
 	},
+	{
+    		"title": "Wang et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-10-29-PMID38499152.png"
+    		],
+    		"content": "Sls1 and Mtf2 mediate the assembly of the Mrh5C complex required for activation of cox1 mRNA translation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.107176'>J Biol Chem</a>.",
+    		"reference_id": "PMID:38499152",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-10-29",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Gemin et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-10-29-PMID39379376.png"
+    		],
+    		"content": "Ribosomes hibernate on mitochondria during cellular stress.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-52911-4'>Nat Commun</a>.",
+    		"reference_id": "PMID:39379376",
+   	 	"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-10-29",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Facchetti et al, 2019",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-10-29-PMID 30639107.png"
+    		],
+    		"content": "Reprogramming Cdr2-Dependent Geometry-Based Cell Size Control in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2018.12.017'>Curr Biol</a>.",
+    		"reference_id": "PMID: 30639107",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-10-29",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Rutkowski et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-10-29-PMID39333500.png"
+    		],
+    		"content": "Cdc42 mobility and membrane flows regulate fission yeast cell shape and survival.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-52655-1'>Nat Commun</a>.",
+    		"reference_id": "PMID:39333500",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-10-29",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Bustamante-Jaramillo et al, 2021",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-10-29-PMID34067465.png"
+    		],
+    		"content": "The Meiosis-Specific Crs1 Cyclin Is Required for Efficient S-Phase Progression and Stable Nuclear Architecture.\n\nOriginally published in <a href='https://doi.org/10.3390/ijms22115483'>Int J Mol Sci</a>.",
+    		"reference_id": "PMID:34067465",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-10-29",
+    		"show_on_front_page": true
+	},	    
         {
             "title": "Recent community curation",
             "panel_type": "community",
