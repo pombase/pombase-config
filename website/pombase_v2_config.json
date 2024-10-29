@@ -10783,6 +10783,9 @@
             "SFLD",
             "SMART",
             "SUPERFAMILY",
+            "Signal peptide",
+            "Transit peptide",
+            "TM domains",
             "Disordered regions",
             "Low complexity",
             "Coiled coils"
