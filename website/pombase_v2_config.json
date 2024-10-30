@@ -10827,7 +10827,6 @@
             "Active sites",
             "MOBIDB-Disorder",
             "MOBIDB-Glycine-rich",
-            "MOBIDB-Low-complexity",
             "MOBIDB-Negative-Polyelectrolyte",
             "MOBIDB-Polar",
             "MOBIDB-Polyampholyte",
@@ -10890,6 +10889,7 @@
             }
         ],
         "full_display_excluded": [
+          "MOBIDB-Low-complexity"
         ]
     },
     "gene_expression": {
