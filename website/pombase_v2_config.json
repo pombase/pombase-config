@@ -5316,10 +5316,10 @@
     		"title_link": null,
     		"panel_type": "spotlight",
     		"head_image": [
-        	"spotlight/2024-10-29-PMID 30639107.png"
+        	  "spotlight/2024-10-29-PMID30639107.png"
     		],
     		"content": "Reprogramming Cdr2-Dependent Geometry-Based Cell Size Control in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2018.12.017'>Curr Biol</a>.",
-    		"reference_id": "PMID: 30639107",
+    		"reference_id": "PMID:30639107",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-10-29",
     		"show_on_front_page": true
