@@ -10843,7 +10843,6 @@
             "PRINTS",
             "PROSITE_PATTERNS",
             "PROSITE_PROFILES",
-            "Pfam domains",
             "SFLD",
             "SMART",
             "SUPERFAMILY",
@@ -10889,7 +10888,8 @@
             }
         ],
         "full_display_excluded": [
-          "MOBIDB-Low-complexity"
+          "MOBIDB-Low-complexity",
+          "Pfam domains"
         ]
     },
     "gene_expression": {
