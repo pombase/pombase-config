@@ -10820,7 +10820,8 @@
             "Active sites",
             "Signal peptide",
             "Transit peptide",
-            "Propeptides"
+            "Propeptides",
+            "Cleavage sites"
         ],
         "domains_and_features_tracks": [
             "Binding sites",
