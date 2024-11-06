@@ -5349,7 +5349,46 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-10-29",
     		"show_on_front_page": true
-	},	    
+	},	
+	{
+    		"title": "Hanna et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-11-06-ppc89-PMID39471327.png"
+    		],
+    		"content": "New mutations in the core Schizosaccharomyces pombe spindle pole body scaffold Ppc89 reveal separable functions in regulating cell division.\n\nOriginally published in <a href='https://doi.org/10.1093/g3journal/jkae249'>G3 (Bethesda)</a>.",
+    		"reference_id": "PMID:39471327",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-11-06",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Luo et al, 2021",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-11-06-ppr10-mpa1-PMID34119521.png"
+    		],
+    		"content": "Schizosaccharomyces pombe Ppr10 and Mpa1 together mediate mitochondrial translational initiation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2021.100869'>J Biol Chem</a>.",
+    		"reference_id": "PMID:34119521",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-11-06",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Hoh et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-11-06-VAP-PMID39110593.png"
+    		],
+    		"content": "VAP-mediated membrane-tethering mechanisms implicate ER-PM contact function in pH homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2024.114592'>Cell Rep</a>.",
+    		"reference_id": "PMID:39110593",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-11-06",
+    		"show_on_front_page": true
+	},    
         {
             "title": "Recent community curation",
             "panel_type": "community",
