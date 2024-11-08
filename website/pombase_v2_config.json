@@ -8344,7 +8344,6 @@
         { "name": "expression",
           "sub_types": ["qualitative_gene_expression", "quantitative_gene_expression"] },
         { "name": "pombase_family_or_domain" },
-        { "name": "misc" },
         { "name": "cat_act" },
         { "name": "m_f_g" },
         { "name": "genome_org" },
@@ -8358,7 +8357,8 @@
         { "name": "paralogs" },
         { "name": "species_dist" },
         { "name": "mondo" },
-        { "name": "warning" },
+        { "name": "Comments and warnings",
+          "sub_types": ["misc", "warning"] },
         { "name": "subunit_composition" }
     ],
     "interesting_parents": [
