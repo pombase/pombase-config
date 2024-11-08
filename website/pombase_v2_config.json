@@ -8354,7 +8354,7 @@
         },
         { "name": "double_mutant_genetic_interactions" },
         { "name": "single_allele_genetic_interactions" },
-        { "name": "Homologs",
+        { "name": "homologs",
           "sub_types": ["orthologs", "paralogs"]
         },
         { "name": "species_dist" },
