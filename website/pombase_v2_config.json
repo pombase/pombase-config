@@ -8349,8 +8349,9 @@
         { "name": "genome_org" },
         { "name": "ex_tools" },
         { "name": "sequence" },
-        { "name": "physical_interactions" },
-        { "name": "genetic_interactions" },
+        { "name": "interactions",
+          "sub_types": ["physical_interactions", "genetic_interactions"]
+        },
         { "name": "double_mutant_genetic_interactions" },
         { "name": "single_allele_genetic_interactions" },
         { "name": "orthologs" },
