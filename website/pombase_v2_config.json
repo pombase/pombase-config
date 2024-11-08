@@ -7697,7 +7697,8 @@
         },
         "qualitative_gene_expression": {
             "feature_type": "gene",
-            "display_name": "Qualitative",
+            "display_name": "Qualitative gene expression",
+            "menu_item_label": "Qualitative",
             "columns_to_show": [
                 "desc-rel",
                 "gene",
@@ -7753,7 +7754,8 @@
         },
         "quantitative_gene_expression": {
             "feature_type": "gene",
-            "display_name": "Quantitative",
+            "display_name": "Quantitative gene expression",
+            "menu_item_label": "Quantitative",
             "filters": [
                 {
                     "filter_type": "extension",
