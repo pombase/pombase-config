@@ -8344,7 +8344,6 @@
         { "name": "fission_yeast_phenotype_condition" },
         { "name": "complementation" },
         { "name": "kegg_pombe_pathway" },
-        { "name": "transcript_view" },
         { "name": "protein_domains_and_properties" },
         { "name": "PSI-MOD" },
         { "name": "expression",
@@ -8354,7 +8353,9 @@
         { "name": "m_f_g" },
         { "name": "genome_org" },
         { "name": "ex_tools" },
-        { "name": "sequence" },
+        { "name": "sequence and transcripts",
+          "sub_types": ["transcript_view", "sequence"]
+        },
         { "name": "interactions",
           "sub_types": ["physical_interactions", "genetic_interactions"]
         },
