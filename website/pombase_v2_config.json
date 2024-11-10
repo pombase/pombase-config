@@ -7855,29 +7855,6 @@
                 }
             ]
         },
-        "kegg_pombe_pathway": {
-            "feature_type": "gene",
-            "display_name": "Molecular pathway",
-            "columns_to_show": [
-                "term_id",
-                "gene",
-                "term",
-                "term-xref",
-                "reference"
-            ],
-            "details_only": true,
-            "hide_term_id_prefix": true,
-            "is_a_fake_ontology": true,
-            "external_db_link_keys": [
-                "KEGG Pathway"
-            ],
-            "source_config": {
-                "KEGG": {
-                    "id_source": "ACCESSION",
-                    "condition": "reference=PMID:10592173"
-                }
-            }
-        },
         "species_dist": {
             "feature_type": "gene",
             "display_name": "Taxonomic conservation",
@@ -8343,7 +8320,6 @@
         },
         { "name": "fission_yeast_phenotype_condition" },
         { "name": "complementation" },
-        { "name": "kegg_pombe_pathway" },
         { "name": "protein_domains_and_properties" },
         { "name": "PSI-MOD" },
         { "name": "expression",
@@ -8837,10 +8813,6 @@
         {
             "name": "Monarch Disease Ontology",
             "url": "https://monarchinitiative.org/disease/[example_id]"
-        },
-        {
-            "name": "KEGG Pathway",
-            "url": "https://www.genome.jp/kegg-bin/show_pathway?[example_id]"
         }
     ],
     "external_term_link_prefixes": [
@@ -9863,8 +9835,7 @@
     "misc_external_links": {
         "esyn": "http://esyn.rosalind.kcl.ac.uk/builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
         "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>",
-        "Monarch": "https://monarchinitiative.org/MONDO:<<IDENTIFIER>>",
-        "KEGG": "https://www.genome.jp/kegg-bin/show_pathway?<<IDENTIFIER>>+<<GENE_UNIQUENAME>>"
+        "Monarch": "https://monarchinitiative.org/MONDO:<<IDENTIFIER>>"
     },
     "interpro": {
         "dbnames_to_filter": ["PIRSR"]
