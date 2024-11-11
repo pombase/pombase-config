@@ -10846,6 +10846,7 @@
         "domains_and_features_tracks": [
             "Binding sites",
             "Active sites",
+            "Conserved motifs",
             "MOBIDB-Disorder",
             "MOBIDB-Glycine-rich",
             "MOBIDB-Negative-Polyelectrolyte",
