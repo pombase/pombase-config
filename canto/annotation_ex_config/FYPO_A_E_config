@@ -1,4 +1,5 @@
 domain ID	subset relation	extension relation	range ID	Canto display text	Help text	cardinality	role
+FYPO:0007222	is_a	assayed_region	GeneID	assayed gene		0,1	user
 FYPO:0007217	is_a	assayed_region	GeneID	assayed gene		0,1	user
 FYPO:0006268	is_a	assayed_region	GeneID	assayed gene		0,1	user
 FYPO:0004605	is_a	assayed_using	ProteinID	assayed protein		0,1	user
