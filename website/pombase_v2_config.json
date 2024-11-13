@@ -9814,6 +9814,10 @@
                     "name": "congenital nervous system disorder",
                     "termid": "MONDO:0002320"
                 }
+		},
+		    "name": "metabolic disease",
+	    	    "termid": "MONDO:MONDO:0005066"
+		{
             ]
         }
     },
