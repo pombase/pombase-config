@@ -9817,7 +9817,7 @@
 		}
 		    "name": "metabolic disease",
 	    	    "termid": "MONDO:MONDO:0005066"
-		{
+    		},	
             ]
         }
     },
