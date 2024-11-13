@@ -705,7 +705,7 @@
                         ]
                     },
                     {
-                       "id": "transcript_structure_properties",
+                        "id": "transcript_structure_properties",
                         "displayName": "Transcripts and exons",
                         "nodeType": "sub-nodes",
                         "subsetPrefix": null,
@@ -4139,8 +4139,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-08-18",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Oravcová  et al., 2021",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4150,8 +4150,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-09-09",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Hirai  et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4161,8 +4161,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-19",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Kolesar et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4172,8 +4172,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-19",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Schwer et al., 2020",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4183,8 +4183,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-26",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Sanchez et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4194,8 +4194,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-25",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Sanchez et al., 2019",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4205,8 +4205,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-27",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Garg et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4216,8 +4216,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-10-27",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Garg et al., 2021",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4227,8 +4227,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-11-18",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Sanchez et al., 2020",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4238,8 +4238,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-12-01",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Schwer et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4249,8 +4249,8 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-12-01",
             "show_on_front_page": false
-         },
-         {
+        },
+        {
             "title": "Selicky et al., 2022",
             "title_link": null,
             "panel_type": "spotlight",
@@ -4260,352 +4260,352 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2022-12-01",
             "show_on_front_page": false
-         },
-         {
-             "title": "Bai et al., 2022",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-01-20_36108046_dnt1_Li_Sun_QW_Win.png"],
-             "content": "Recovery from spindle checkpoint-mediated arrest requires a novel Dnt1-dependent APC/C activation mechanism.\nOriginally published in <a href='https://www.pombase.org/reference/PMID:36108046'>PLoS Genet</a>.",
-             "reference_id": "PMID:36108046",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-01-20",
-             "show_on_front_page": false
-          },
-          {
-             "title": "Wang et al., 2022",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-01-20_36138017_CLIP170_Xi-wang-Jin-QW.png"],
-             "content": "Ubiquitination of CLIP-170 family protein restrains polarized growth upon DNA replication stress.\nOriginally published in <a href='https://www.nature.com/articles/s41467-022-33311-y'>Nat Commun</a>.",
-             "reference_id": "PMID:36138017",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-01-20",
-             "show_on_front_page": false
-          },
-          {
-             "title": "Poddar et al., 2022",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-02-03-PMID-36200871-pkd2-chen.png"],
-             "content": "Membrane stretching activates calcium-permeability of a putative channel Pkd2 during fission yeast cytokinesis..\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E22-07-0248'>Molecular Biology of the Cell</a>.",
-             "reference_id": "PMID:36200871",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-02-03",
-             "show_on_front_page": false
-          },
-          {
-             "title": "Foo et al., 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-03-05-36695178-DAG-Foo.png"],
-             "content": "Diacylglycerol at the inner nuclear membrane fuels nuclear envelope expansion in closed mitosis..\nOriginally published in <a href='https://journals.biologists.com/jcs/article/136/3/jcs260568/286881/Diacylglycerol-at-the-inner-nuclear-membrane-fuels'>J Cell Sci</a>.",
-             "reference_id": "PMID:36695178",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-03-05",
-             "show_on_front_page": false
-          },
-          {
-             "title": "Ohtsuka et al., 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-03-05-36779416-ecl3-Ohtsuka.png"],
-             "content": "An ecl family gene ecl3+ is induced by phosphate starvation and contributes to sexual differentiation in fission yeast..\nOriginally published in <a href='https://journals.biologists.com/jcs/article/doi/10.1242/jcs.260759/287015/An-ecl-family-gene-ecl3-is-induced-by-phosphate'>J Cell Sci</a>.",
-             "reference_id": "PMID:36779416",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-03-06",
-             "show_on_front_page": false
-          },
-          {
-              "title": "Deng et al, 2022",
-              "title_link": null,
-              "panel_type": "spotlight",
-              "head_image": ["spotlight/2023-03-10-PPA2-Deng-PMID36006032.png"],
-              "content": "Analysis of the potential role of fission yeast PP2A in spindle assembly checkpoint inactivation.\n\nOriginally published in <a href='https://doi.org/10.1096/fj.202101884R'>FASEB J</a>.",
-              "reference_id": "PMID:36006032",
-              "link_label": "Publication record in PomBase ...",
-              "date_added": "2023-03-10",
-              "show_on_front_page": false
-          },
-          {
-               "title": "Sun et al, 2015",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-03-10-anillin-Sun-PMID25959226.png"],
-               "content": "Mechanistic insights into the anchorage of the contractile ring by anillin and Mid1.\n\nOriginally published in <a href='https://doi.org/10.1016/j.devcel.2015.03.003'>Dev Cell</a>.",
-               "reference_id": "PMID:25959226",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-03-10",
-               "show_on_front_page": false
-          },
-          {
-               "title": "Moe et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-03-10-conplex-V-Moe-PMID36797353.png"],
-               "content": "Cryo-EM structure and function of S. pombe complex IV with bound respiratory supercomplex factor.\n\nOriginally published in <a href='https://doi.org/10.1038/s42004-023-00827-3'>Commun Chem</a>.",
-               "reference_id": "PMID:36797353",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-03-10",
-               "show_on_front_page": false
-          },
-          {
-               "title": "Asanuma et al, 2022",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": [
-               "spotlight/2023-03-14-36617881-epe1-Asanuma.png"],
-               "content": "Tandemly repeated genes promote RNAi-mediated heterochromatin formation via an antisilencing factor, Epe1, in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.350129.122'>Genes Dev</a>.",
-               "reference_id": "PMID:36617881",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-03-17",
-               "show_on_front_page": false
-          },
-          {
-               "title": "Jian et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-04-09-36537249-mhf1-2-fu.png"],
-               "content": "The fission yeast kinetochore complex Mhf1-Mhf2 regulates the spindle assembly checkpoint and faithful chromosome segregation.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260124'>J Cell Sci</a>.",
-               "reference_id": "PMID:36537249",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-04-11",
-               "show_on_front_page": false
-          },
-          {
-               "title": "Panigrahi et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-04-20-3648124-wat1-pop1-TOR.png"],
-               "content": "Critical role of Wat1/Pop3 in regulating the TORC1 signalling pathway in fission yeast S. pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.fgb.2022.103764'>Fungal Genet Biol</a>.",
-               "reference_id": "PMID:36481249",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-05-18",
-               "show_on_front_page": false
-          },
-          {
-               "title": "Hirano et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-06-08-PMID_36799444_lem2.png"],
-               "content": "Inner nuclear membrane proteins Lem2 and Bqt4 interact with different lipid synthesis enzymes in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1093/jb/mvad017'>J Biochem</a>.",
-               "reference_id": "PMID:36799444",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-06-08",
-               "show_on_front_page": false
-           },
-           {
-               "title": "Fukuda et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-06-13-PMID-37191320-hva22.png"],
-               "content": "Hva22, a REEP family protein in fission yeast, promotes reticulophagy in collaboration with a receptor protein.\n\nOriginally published in <a href='https://doi.org/10.1080/15548627.2023.2214029'>Autophagy</a>.",
-               "reference_id": "PMID:37191320",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-06-15",
-               "show_on_front_page": false
-           },
-           {
-               "title": "Fukuda et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-06-13-PMID-37192628-atg44.png"],
-               "content": "The mitochondrial intermembrane space protein mitofissin drives mitochondrial fission required for mitophagy.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.04.022'>Mol Cell</a>.",
-               "reference_id": "PMID:37192628",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-06-15",
-               "show_on_front_page": false
-            },
-           {
-               "title": "Zareiesfandabadi et al, 2022",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-06-08-PMID-34951983-dhc1-klp2.png"],
-               "content": "Force by minus-end motors Dhc1 and Klp2 collapses the S. pombe spindle after laser ablation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.bpj.2021.12.019'>Biophys J</a>.",
-               "reference_id": "PMID:34951983",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-06-15",
-               "show_on_front_page": false
-           },
-           {
-               "title": "Nishida et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-06-07-PMID_37156397-coq12.png" ],
-               "content": "Identification of novel coenzyme Q10 biosynthetic proteins Coq11 and Coq12 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.104797'>J Biol Chem</a>.",
-               "reference_id": "PMID:37156397",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-06-15",
-               "show_on_front_page": false
-            },
-           {
-               "title": "Mongia et al, 2023",
-               "title_link": null,
-               "panel_type": "spotlight",
-               "head_image": ["spotlight/2023-06-18-PMID-37237082-srr1.png"],
-               "content": "Fission yeast Srr1 and Skb1 promote isochromosome formation at the centromere.\n\nOriginally published in <a href='https://doi.org/10.1038/s42003-023-04925-9'>Commun Biol</a>.",
-               "reference_id": "PMID:37237082",
-               "link_label": "Publication record in PomBase ...",
-               "date_added": "2023-06-19",
-               "show_on_front_page": false
-          },
-          {
-                "title": "Wakiya et al, 2021",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": ["spotlight/2023-06-19-33529549-dam1.png"],
-                "content": "Chiasmata and the kinetochore component Dam1 are crucial for elimination of erroneous chromosome attachments and centromere oscillation at meiosis I.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.200308'>Open Biol</a>.",
-                "reference_id": "PMID:33529549",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-06-20",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Nambu et al, 2022",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": ["spotlight/2023-06-19-34851403-sister-KT.png"],
-                "content": "Direct evaluation of cohesin-mediated sister kinetochore associations at meiosis I in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.259102'>J Cell Sci</a>.",
-                "reference_id": "PMID:34851403",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-06-20",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Rossi et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": ["spotlight/2023-06-19-37158439-fic1.png" ],
-                "content": "The fission yeast cytokinetic ring component Fic1 promotes septum formation.\n\nOriginally published in <a href='https://doi.org/10.1242/bio.059957'>Biol Open</a>.",
-                "reference_id": "PMID:37158439",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-06-20",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Alam et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": ["spotlight/2023-06-20-37164017-TCA.png"],
-                "content": "Optimization of energy production and central carbon metabolism in a non-respiring eukaryote.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2023.04.046'>Curr Biol</a>.",
-                "reference_id": "PMID:37164017",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-06-20",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Virant et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
+        },
+        {
+            "title": "Bai et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-01-20_36108046_dnt1_Li_Sun_QW_Win.png"],
+            "content": "Recovery from spindle checkpoint-mediated arrest requires a novel Dnt1-dependent APC/C activation mechanism.\nOriginally published in <a href='https://www.pombase.org/reference/PMID:36108046'>PLoS Genet</a>.",
+            "reference_id": "PMID:36108046",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-01-20",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Wang et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-01-20_36138017_CLIP170_Xi-wang-Jin-QW.png"],
+            "content": "Ubiquitination of CLIP-170 family protein restrains polarized growth upon DNA replication stress.\nOriginally published in <a href='https://www.nature.com/articles/s41467-022-33311-y'>Nat Commun</a>.",
+            "reference_id": "PMID:36138017",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-01-20",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Poddar et al., 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-02-03-PMID-36200871-pkd2-chen.png"],
+            "content": "Membrane stretching activates calcium-permeability of a putative channel Pkd2 during fission yeast cytokinesis..\nOriginally published in <a href='https://www.molbiolcell.org/doi/10.1091/mbc.E22-07-0248'>Molecular Biology of the Cell</a>.",
+            "reference_id": "PMID:36200871",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-02-03",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Foo et al., 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-03-05-36695178-DAG-Foo.png"],
+            "content": "Diacylglycerol at the inner nuclear membrane fuels nuclear envelope expansion in closed mitosis..\nOriginally published in <a href='https://journals.biologists.com/jcs/article/136/3/jcs260568/286881/Diacylglycerol-at-the-inner-nuclear-membrane-fuels'>J Cell Sci</a>.",
+            "reference_id": "PMID:36695178",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-05",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Ohtsuka et al., 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-03-05-36779416-ecl3-Ohtsuka.png"],
+            "content": "An ecl family gene ecl3+ is induced by phosphate starvation and contributes to sexual differentiation in fission yeast..\nOriginally published in <a href='https://journals.biologists.com/jcs/article/doi/10.1242/jcs.260759/287015/An-ecl-family-gene-ecl3-is-induced-by-phosphate'>J Cell Sci</a>.",
+            "reference_id": "PMID:36779416",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-06",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Deng et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-03-10-PPA2-Deng-PMID36006032.png"],
+            "content": "Analysis of the potential role of fission yeast PP2A in spindle assembly checkpoint inactivation.\n\nOriginally published in <a href='https://doi.org/10.1096/fj.202101884R'>FASEB J</a>.",
+            "reference_id": "PMID:36006032",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-10",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Sun et al, 2015",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-03-10-anillin-Sun-PMID25959226.png"],
+            "content": "Mechanistic insights into the anchorage of the contractile ring by anillin and Mid1.\n\nOriginally published in <a href='https://doi.org/10.1016/j.devcel.2015.03.003'>Dev Cell</a>.",
+            "reference_id": "PMID:25959226",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-10",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Moe et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-03-10-conplex-V-Moe-PMID36797353.png"],
+            "content": "Cryo-EM structure and function of S. pombe complex IV with bound respiratory supercomplex factor.\n\nOriginally published in <a href='https://doi.org/10.1038/s42004-023-00827-3'>Commun Chem</a>.",
+            "reference_id": "PMID:36797353",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-10",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Asanuma et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-03-14-36617881-epe1-Asanuma.png"],
+            "content": "Tandemly repeated genes promote RNAi-mediated heterochromatin formation via an antisilencing factor, Epe1, in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.350129.122'>Genes Dev</a>.",
+            "reference_id": "PMID:36617881",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-03-17",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Jian et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-04-09-36537249-mhf1-2-fu.png"],
+            "content": "The fission yeast kinetochore complex Mhf1-Mhf2 regulates the spindle assembly checkpoint and faithful chromosome segregation.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260124'>J Cell Sci</a>.",
+            "reference_id": "PMID:36537249",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-04-11",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Panigrahi et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-04-20-3648124-wat1-pop1-TOR.png"],
+            "content": "Critical role of Wat1/Pop3 in regulating the TORC1 signalling pathway in fission yeast S. pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.fgb.2022.103764'>Fungal Genet Biol</a>.",
+            "reference_id": "PMID:36481249",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-05-18",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Hirano et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-08-PMID_36799444_lem2.png"],
+            "content": "Inner nuclear membrane proteins Lem2 and Bqt4 interact with different lipid synthesis enzymes in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1093/jb/mvad017'>J Biochem</a>.",
+            "reference_id": "PMID:36799444",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-08",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Fukuda et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-13-PMID-37191320-hva22.png"],
+            "content": "Hva22, a REEP family protein in fission yeast, promotes reticulophagy in collaboration with a receptor protein.\n\nOriginally published in <a href='https://doi.org/10.1080/15548627.2023.2214029'>Autophagy</a>.",
+            "reference_id": "PMID:37191320",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-15",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Fukuda et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-13-PMID-37192628-atg44.png"],
+            "content": "The mitochondrial intermembrane space protein mitofissin drives mitochondrial fission required for mitophagy.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.04.022'>Mol Cell</a>.",
+            "reference_id": "PMID:37192628",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-15",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Zareiesfandabadi et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-08-PMID-34951983-dhc1-klp2.png"],
+            "content": "Force by minus-end motors Dhc1 and Klp2 collapses the S. pombe spindle after laser ablation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.bpj.2021.12.019'>Biophys J</a>.",
+            "reference_id": "PMID:34951983",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-15",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Nishida et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-07-PMID_37156397-coq12.png" ],
+            "content": "Identification of novel coenzyme Q10 biosynthetic proteins Coq11 and Coq12 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.104797'>J Biol Chem</a>.",
+            "reference_id": "PMID:37156397",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-15",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Mongia et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-18-PMID-37237082-srr1.png"],
+            "content": "Fission yeast Srr1 and Skb1 promote isochromosome formation at the centromere.\n\nOriginally published in <a href='https://doi.org/10.1038/s42003-023-04925-9'>Commun Biol</a>.",
+            "reference_id": "PMID:37237082",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-19",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Wakiya et al, 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-19-33529549-dam1.png"],
+            "content": "Chiasmata and the kinetochore component Dam1 are crucial for elimination of erroneous chromosome attachments and centromere oscillation at meiosis I.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.200308'>Open Biol</a>.",
+            "reference_id": "PMID:33529549",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-20",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Nambu et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-19-34851403-sister-KT.png"],
+            "content": "Direct evaluation of cohesin-mediated sister kinetochore associations at meiosis I in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.259102'>J Cell Sci</a>.",
+            "reference_id": "PMID:34851403",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-20",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Rossi et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-19-37158439-fic1.png" ],
+            "content": "The fission yeast cytokinetic ring component Fic1 promotes septum formation.\n\nOriginally published in <a href='https://doi.org/10.1242/bio.059957'>Biol Open</a>.",
+            "reference_id": "PMID:37158439",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-20",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Alam et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-20-37164017-TCA.png"],
+            "content": "Optimization of energy production and central carbon metabolism in a non-respiring eukaryote.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2023.04.046'>Curr Biol</a>.",
+            "reference_id": "PMID:37164017",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-20",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Virant et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
                 "spotlight/2023-06-27-PMID-36705602-KT.png"],
-                "content": "Unraveling the kinetochore nanostructure in Schizosaccharomyces pombe using multi-color SMLM imaging.\n\nOriginally published in <a href='https://doi.org/10.1083/jcb.202209096'>J Cell Biol</a>.",
-                "reference_id": "PMID:36705602",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-06-29",
-                "show_on_front_page": false
-          },    
-          {
-                "title": "Esposito et al, 2022",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": ["spotlight/2023-06-30-PMID-35811551-Esposito-codon-bias-checkpoint.png"],
-                "content": "Mitotic checkpoint gene expression is tuned by codon usage bias.\n\nOriginally published in <a href='https://doi.org/10.15252/embj.2021107896'>EMBO J</a>.",
-                "reference_id": "PMID:35811551",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-06-30",
-                "show_on_front_page": false
-          },
-         {
-                "title": "Hiraoka et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
+            "content": "Unraveling the kinetochore nanostructure in Schizosaccharomyces pombe using multi-color SMLM imaging.\n\nOriginally published in <a href='https://doi.org/10.1083/jcb.202209096'>J Cell Biol</a>.",
+            "reference_id": "PMID:36705602",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-29",
+            "show_on_front_page": false
+        },    
+        {
+            "title": "Esposito et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-06-30-PMID-35811551-Esposito-codon-bias-checkpoint.png"],
+            "content": "Mitotic checkpoint gene expression is tuned by codon usage bias.\n\nOriginally published in <a href='https://doi.org/10.15252/embj.2021107896'>EMBO J</a>.",
+            "reference_id": "PMID:35811551",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-06-30",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Hiraoka et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
                 "spotlight/2023-06-29-PMID_37128864-CDK-Hiraoko.png"
-                ],
-                "content": "CDK actively contributes to establishment of the stationary phase state in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260727'>J Cell Sci</a>.",
-                "reference_id": "PMID:37128864",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-07-11",
-                "show_on_front_page": false
+            ],
+            "content": "CDK actively contributes to establishment of the stationary phase state in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260727'>J Cell Sci</a>.",
+            "reference_id": "PMID:37128864",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-07-11",
+            "show_on_front_page": false
         },
         {
-                "title": "Porat et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
+            "title": "Porat et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
                 "spotlight/2023-07-11_PMID_37403782_bmc1.png"
-                ],
-                "content": "The fission yeast methyl phosphate capping enzyme Bmc1 guides 2'-O-methylation of the U6 snRNA.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad563'>Nucleic Acids Res</a>.",
-                "reference_id": "PMID:37403782",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-07-11",
-                "show_on_front_page": false
+            ],
+            "content": "The fission yeast methyl phosphate capping enzyme Bmc1 guides 2'-O-methylation of the U6 snRNA.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad563'>Nucleic Acids Res</a>.",
+            "reference_id": "PMID:37403782",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-07-11",
+            "show_on_front_page": false
         },
         {
-                "title": "Willet et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": ["spotlight/2023-08-11-PMID37531259-ank1-alaina.png"
-                ],
-                "content": "Membrane binding of endocytic myosin-1s is inhibited by a class of ankyrin repeat proteins.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E23-06-0233'>Mol Biol Cell</a>.",
-                "reference_id": "PMID:37531259",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-08-11",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Connor et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
+            "title": "Willet et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-08-11-PMID37531259-ank1-alaina.png"
+                          ],
+            "content": "Membrane binding of endocytic myosin-1s is inhibited by a class of ankyrin repeat proteins.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E23-06-0233'>Mol Biol Cell</a>.",
+            "reference_id": "PMID:37531259",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-08-11",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Connor et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
                 "spotlight/2023-08-18-PMID37540145-mdi1.png"
-                ],
-                "content": "Completion of mitochondrial division requires the intermembrane space protein Mdi1/Atg44.\n\nOriginally published in <a href='https://doi.org/10.1083/jcb.202303147'>J Cell Biol</a>.",
-                "reference_id": "PMID:37540145",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-08-18",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Garg et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
-                  "spotlight/2023-09-01-PMID-36794724-garg-maf1.png"
-                ],
-                "content": "Cellular responses to long-term phosphate starvation of fission yeast: Maf1 determines fate choice between quiescence and death associated with aberrant tRNA biogenesis.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad063'>Nucleic Acids Res</a>.",
-                "reference_id": "PMID:36794724",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-09-02",
-                "show_on_front_page": false
-          },
-          {
-                "title": "Anil et al, 2022",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
-                  "spotlight/2023-09-01-PMID-36095128-tls1.png"
-                ],
-                "content": "Splicing of branchpoint-distant exons is promoted by Cactin, Tls1 and the ubiquitin-fold-activated Sde2.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkac769'>Nucleic Acids Res</a>.",
-                "reference_id": "PMID:36095128",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-09-02",
-                "show_on_front_page": false
-          },
-          {
-                "title": "He et al, 2023",
-                "title_link": null,
-                "panel_type": "spotlight",
-                "head_image": [
-                  "spotlight/2023-08-30-PMID-37590302-yta4.png"
-                ],
-                "content": "The AAA-ATPase Yta4/ATAD1 interacts with the mitochondrial divisome to inhibit mitochondrial fission.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002247'>PLoS Biol</a>.",
-                "reference_id": "PMID:37590302",
-                "link_label": "Publication record in PomBase ...",
-                "date_added": "2023-09-02",
-                "show_on_front_page": false
-          },
+            ],
+            "content": "Completion of mitochondrial division requires the intermembrane space protein Mdi1/Atg44.\n\nOriginally published in <a href='https://doi.org/10.1083/jcb.202303147'>J Cell Biol</a>.",
+            "reference_id": "PMID:37540145",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-08-18",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Garg et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-09-01-PMID-36794724-garg-maf1.png"
+            ],
+            "content": "Cellular responses to long-term phosphate starvation of fission yeast: Maf1 determines fate choice between quiescence and death associated with aberrant tRNA biogenesis.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad063'>Nucleic Acids Res</a>.",
+            "reference_id": "PMID:36794724",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-09-02",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Anil et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-09-01-PMID-36095128-tls1.png"
+            ],
+            "content": "Splicing of branchpoint-distant exons is promoted by Cactin, Tls1 and the ubiquitin-fold-activated Sde2.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkac769'>Nucleic Acids Res</a>.",
+            "reference_id": "PMID:36095128",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-09-02",
+            "show_on_front_page": false
+        },
+        {
+            "title": "He et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-08-30-PMID-37590302-yta4.png"
+            ],
+            "content": "The AAA-ATPase Yta4/ATAD1 interacts with the mitochondrial divisome to inhibit mitochondrial fission.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002247'>PLoS Biol</a>.",
+            "reference_id": "PMID:37590302",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-09-02",
+            "show_on_front_page": false
+        },
         {
             "title": "Elías-Villalobos et al, 2019",
             "title_link": null,
@@ -4637,7 +4637,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2020-09-09-37400983-chp2.png"
+                "spotlight/2020-09-09-37400983-chp2.png"
             ],
             "content": "Cooperative DNA-binding activities of Chp2 are critical for its function in heterochromatin assembly.\n\nOriginally published in <a href='https://doi.org/10.1093/jb/mvad050'>J Biochem</a>.",
             "reference_id": "PMID:37400983",
@@ -4645,12 +4645,12 @@
             "date_added": "2023-09-11",
             "show_on_front_page": false
         },
-       {
+        {
             "title": "Ader et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2023-10-10-ader-ESCRT.png"
+                "spotlight/2023-10-10-ader-ESCRT.png"
             ],
             "content": "An ESCRT grommet cooperates with a diffusion barrier to maintain nuclear integrity.\n\nOriginally published in <a href='https://doi.org/10.1038/s41556-023-01235-4'>Nat Cell Biol</a>.",
             "reference_id": "PMID:37783794",
@@ -4663,7 +4663,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2023-10-31-PMID37792890-MIPC.png"
+                "spotlight/2023-10-31-PMID37792890-MIPC.png"
             ],
             "content": "Elevated levels of sphingolipid MIPC in the plasma membrane disrupt the coordination of cell growth with cell wall formation in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1010987'>PLoS Genet</a>.",
             "reference_id": "PMID:37792890",
@@ -4676,7 +4676,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2023-10-31-PMID37815455-pik1.png"
+                "spotlight/2023-10-31-PMID37815455-pik1.png"
             ],
             "content": "Characterization of Pik1 function in fission yeast reveals its conserved role in lipid synthesis and not cytokinesis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261415'>J Cell Sci</a>.",
             "reference_id": "PMID:37815455",
@@ -4685,109 +4685,109 @@
             "show_on_front_page": false
         },
         {
-             "title": "Mori et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2023-11-01-PMID37859837-mito65.png"
-             ],
-             "content": "In fission yeast, 65 non-essential mitochondrial proteins related to respiration and stress become essential in low-glucose conditions.\n\nOriginally published in <a href='https://doi.org/10.1098/rsos.230404'>R Soc Open Sci</a>.",
-             "reference_id": "PMID:37859837",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-01",
-             "show_on_front_page": false
-         },       
-         {
-             "title": "Le et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2023-11-16-PMID37694715-doa10.png"
-             ],
-             "content": "A ubiquitin-proteasome pathway degrades the inner nuclear membrane protein Bqt4 to maintain nuclear membrane homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260930'>J Cell Sci</a>.",
-             "reference_id": "PMID:37694715",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-16",
-             "show_on_front_page": false
-         }, 
-         {
-             "title": "Strachan et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2023-11-16-PMID37970674-lem2.png"
-             ],
-             "content": "SUMOylation regulates Lem2 function in centromere clustering and silencing.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260868'>J Cell Sci</a>.",
-             "reference_id": "PMID:37970674",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-16",
-             "show_on_front_page": false
+            "title": "Mori et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-11-01-PMID37859837-mito65.png"
+            ],
+            "content": "In fission yeast, 65 non-essential mitochondrial proteins related to respiration and stress become essential in low-glucose conditions.\n\nOriginally published in <a href='https://doi.org/10.1098/rsos.230404'>R Soc Open Sci</a>.",
+            "reference_id": "PMID:37859837",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-11-01",
+            "show_on_front_page": false
+        },       
+        {
+            "title": "Le et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2023-11-16-PMID37694715-doa10.png"
+                          ],
+            "content": "A ubiquitin-proteasome pathway degrades the inner nuclear membrane protein Bqt4 to maintain nuclear membrane homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260930'>J Cell Sci</a>.",
+            "reference_id": "PMID:37694715",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-11-16",
+            "show_on_front_page": false
+        }, 
+        {
+            "title": "Strachan et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-11-16-PMID37970674-lem2.png"
+            ],
+            "content": "SUMOylation regulates Lem2 function in centromere clustering and silencing.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.260868'>J Cell Sci</a>.",
+            "reference_id": "PMID:37970674",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-11-16",
+            "show_on_front_page": false
         },  
         {
-             "title": "Sparks et al, 2019",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-               "spotlight/2023-11-20-PMID-31563844-exo5.png"
-             ],
-             "content": "The roles of fission yeast exonuclease 5 in nuclear and mitochondrial genome stability.\n\nOriginally published in <a href='https://doi.org/10.1016/j.dnarep.2019.102720'>DNA Repair (Amst)</a>.",
-             "reference_id": "PMID:31563844",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2023-11-20",
-             "show_on_front_page": false
+            "title": "Sparks et al, 2019",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2023-11-20-PMID-31563844-exo5.png"
+            ],
+            "content": "The roles of fission yeast exonuclease 5 in nuclear and mitochondrial genome stability.\n\nOriginally published in <a href='https://doi.org/10.1016/j.dnarep.2019.102720'>DNA Repair (Amst)</a>.",
+            "reference_id": "PMID:31563844",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2023-11-20",
+            "show_on_front_page": false
         },
         {
-             "title": "Bednor et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2024-01-03-PMID38133430-bednor-tgp1.png"],
-             "content": "Genetic suppressor screen identifies Tgp1 (glycerophosphocholine transporter), Kcs1 (IP6 kinase), and Plc1 (phospholipase C) as determinants of inositol pyrophosphate toxicosis in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.03062-23'>mBio</a>.",
-             "reference_id": "PMID:38133430",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2024-01-03",
-             "show_on_front_page": false
-         },
-         {
-             "title": "Sorida et al, 2019",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": ["spotlight/2024-01-03-PMID31206516-epe1.png"],
-             "content": "Regulation of ectopic heterochromatin-mediated epigenetic diversification by the JmjC family protein Epe1.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1008129'>PLoS Genet</a>.",
-             "reference_id": "PMID:31206516",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2024-01-03",
-             "show_on_front_page": false
-         },
-         {
-             "title": "Berg et al, 2023",
-             "title_link": null,
-             "panel_type": "spotlight",
-             "head_image": [
-             "spotlight/2024-01-03-PMID36574843-berg-cdr2.png"],
-             "content": "Regulation of cell size and Wee1 kinase by elevated levels of the cell cycle regulatory protein kinase Cdr2.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2022.102831'>J Biol Chem</a>.",
-             "reference_id": "PMID:36574843",
-             "link_label": "Publication record in PomBase ...",
-             "date_added": "2024-01-03",
-             "show_on_front_page": false
-         },
-         {
+            "title": "Bednor et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-01-03-PMID38133430-bednor-tgp1.png"],
+            "content": "Genetic suppressor screen identifies Tgp1 (glycerophosphocholine transporter), Kcs1 (IP6 kinase), and Plc1 (phospholipase C) as determinants of inositol pyrophosphate toxicosis in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.03062-23'>mBio</a>.",
+            "reference_id": "PMID:38133430",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-03",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Sorida et al, 2019",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": ["spotlight/2024-01-03-PMID31206516-epe1.png"],
+            "content": "Regulation of ectopic heterochromatin-mediated epigenetic diversification by the JmjC family protein Epe1.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1008129'>PLoS Genet</a>.",
+            "reference_id": "PMID:31206516",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-03",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Berg et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-01-03-PMID36574843-berg-cdr2.png"],
+            "content": "Regulation of cell size and Wee1 kinase by elevated levels of the cell cycle regulatory protein kinase Cdr2.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2022.102831'>J Biol Chem</a>.",
+            "reference_id": "PMID:36574843",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-01-03",
+            "show_on_front_page": false
+        },
+        {
             "title": "Ohshima et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-01-03-PMID37788281-14-3-3-makoto.png"],
+                "spotlight/2024-01-03-PMID37788281-14-3-3-makoto.png"],
             "content": "A dominant negative 14-3-3 mutant in Schizosaccharomyces pombe distinguishes the binding proteins involved in sexual differentiation and check point.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pone.0291524'>PLoS One</a>.",
             "reference_id": "PMID:37788281",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-01-03",
             "show_on_front_page": false
-         }, 
-         {
+        }, 
+        {
             "title": "Takado et al, 2024",
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-01-18-PMID38166399-wee1-Takado.png"],
+                "spotlight/2024-01-18-PMID38166399-wee1-Takado.png"],
             "content": "Fission yeast Wee1 is required for stable kinetochore-microtubule attachment.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.230379'>Open Biol</a>.",
             "reference_id": "PMID:38166399",
             "link_label": "Publication record in PomBase ...",
@@ -4799,7 +4799,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-01-18-PMID37820734-tang-condensin.png"],
+                "spotlight/2024-01-18-PMID37820734-tang-condensin.png"],
             "content": "Establishment of dsDNA-dsDNA interactions by the condensin complex.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.09.019'>Mol Cell</a>.",
             "reference_id": "PMID:37820734",
             "link_label": "Publication record in PomBase ...",
@@ -4811,7 +4811,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-01-18-PMID37913773-hirai-tor2.png"],
+                "spotlight/2024-01-18-PMID37913773-hirai-tor2.png"],
             "content": "TOR inactivation triggers heterochromatin formation in rDNA during glucose starvation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2023.113320'>Cell Rep</a>.",
             "reference_id": "PMID:37913773",
             "link_label": "Publication record in PomBase ...",
@@ -4823,7 +4823,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-02-05-PMID37572670.png"
+                "spotlight/2024-02-05-PMID37572670.png"
             ],
             "content": "A peroxiredoxin-P38 MAPK scaffold increases MAPK activity by MAP3K-independent mechanisms.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2023.07.018'>Mol Cell</a>.",
             "reference_id": "PMID:37572670",
@@ -4836,7 +4836,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-              "spotlight/2024-02-14-PMID-26670050-Kilchert-mmi1.png"
+                "spotlight/2024-02-14-PMID-26670050-Kilchert-mmi1.png"
             ],
             "content": "Regulation of mRNA Levels by Decay-Promoting Introns that Recruit the Exosome Specificity Factor Mmi1.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2015.11.026'>Cell Rep</a>.",
             "reference_id": "PMID:26670050",
@@ -4849,7 +4849,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-03-04-PMID-24939935-pce1.png"
+                "spotlight/2024-03-04-PMID-24939935-pce1.png"
             ],
             "content": "How an mRNA capping enzyme reads distinct RNA polymerase II and Spt5 CTD phosphorylation codes.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.242768.114'>Genes Dev</a>.",
             "reference_id": "PMID:24939935",
@@ -4862,7 +4862,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-03-04-PMID26264592-CTD.png"
+                "spotlight/2024-03-04-PMID26264592-CTD.png"
             ],
             "content": "RNA polymerase II CTD phospho-sites Ser5 and Ser7 govern phosphate homeostasis in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1261/rna.052555.115'>RNA</a>.",
             "reference_id": "PMID:26264592",
@@ -4875,7 +4875,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-03-04-PMID35901126-trna-decay.png"
+                "spotlight/2024-03-04-PMID35901126-trna-decay.png"
             ],
             "content": "Initiator tRNA lacking 1-methyladenosine is targeted by the rapid tRNA decay pathway in evolutionarily distant yeast species.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1010215'>PLoS Genet</a>.",
             "reference_id": "PMID:35901126",
@@ -4888,7 +4888,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-09-PMID38285941.png"
+                "spotlight/2024-04-09-PMID38285941.png"
             ],
             "content": "Specialized replication of heterochromatin domains ensures self-templated chromatin assembly and epigenetic inheritance.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2315596121'>Proc Natl Acad Sci U S A</a>.",
             "reference_id": "PMID:38285941",
@@ -4901,7 +4901,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": ["spotlight/2024-04-22-PMID_37445861-chen.png"
-            ],
+                          ],
             "content": "Resistance to Chemotherapeutic 5-Fluorouracil Conferred by Modulation of Heterochromatic Integrity through Ino80 Function in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.3390/ijms241310687'>Int J Mol Sci</a>.",
             "reference_id": "PMID:37445861",
             "link_label": "Publication record in PomBase ...",
@@ -4913,7 +4913,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-22-PMID-37615341-rtf2.png"
+                "spotlight/2024-04-22-PMID-37615341-rtf2.png"
             ],
             "content": "Schizosaccharomyces pombe Rtf2 is important for replication fork barrier activity of RTS1 via splicing of Rtf1.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.78554'>Elife</a>.",
             "reference_id": "PMID:37615341",
@@ -4926,7 +4926,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-22-PMID-38479839.png"
+                "spotlight/2024-04-22-PMID-38479839.png"
             ],
             "content": "Coordination of histone chaperones for parental histone segregation and epigenetic inheritance.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.351278.123'>Genes Dev</a>.",
             "reference_id": "PMID:38479839",
@@ -4939,7 +4939,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-22-PMID-38269097-rapamycin.png"
+                "spotlight/2024-04-22-PMID-38269097-rapamycin.png"
             ],
             "content": "Rapamycin-sensitive mechanisms confine the growth of fission yeast below the temperatures detrimental to cell physiology.\n\nOriginally published in <a href='https://doi.org/10.1016/j.isci.2023.108777'>iScience</a>.",
             "reference_id": "PMID:38269097",
@@ -4952,8 +4952,8 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-22-PMID38289024-atf1.png"
-        ],
+                "spotlight/2024-04-22-PMID38289024-atf1.png"
+            ],
             "content": "Heat stress-induced activation of MAPK pathway attenuates Atf1-dependent epigenetic inheritance of heterochromatin in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.90525'>Elife</a>.",
             "reference_id": "PMID:38289024",
             "link_label": "Publication record in PomBase ...",
@@ -4965,7 +4965,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-22-PMID-37553386-yop1.png"
+                "spotlight/2024-04-22-PMID-37553386-yop1.png"
             ],
             "content": "A conserved membrane curvature-generating protein is crucial for autophagosome formation in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-023-40530-4'>Nat Commun</a>.",
             "reference_id": "PMID:37553386",
@@ -4978,7 +4978,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-04-22-PMID-38633868-dfg501.png"
+                "spotlight/2024-04-22-PMID-38633868-dfg501.png"
             ],
             "content": "Generation and characterization of temperature-sensitive alleles encoding GPI anchored proteins Psu1 and Dfg502 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.001179'>MicroPubl Biol</a>.",
             "reference_id": "PMID:38633868",
@@ -4991,7 +4991,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-05-10-COMPASS-CLRC-PMID38181050.png"
+                "spotlight/2024-05-10-COMPASS-CLRC-PMID38181050.png"
             ],
             "content": "The Cross-Regulation Between Set1, Clr4, and Lsd1/2 in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1011107'>PLoS Genet</a>.",
             "reference_id": "PMID:38181050",
@@ -5004,7 +5004,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-05-23-PMID37949217-phosphate-export.png"
+                "spotlight/2024-05-23-PMID37949217-phosphate-export.png"
             ],
             "content": "Phosphate uptake restriction, phosphate export, and polyphosphate synthesis contribute synergistically to cellular proliferation and survival.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.105454'>J Biol Chem</a>.",
             "reference_id": "PMID:37949217",
@@ -5017,7 +5017,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-06-27-PMID-36951094-swi2-swi5.png"
+                "spotlight/2024-06-27-PMID-36951094-swi2-swi5.png"
             ],
             "content": "Fission yeast Swi2 designates cell-type specific donor and stimulates Rad51-driven strand exchange for mating-type switching.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad204'>Nucleic Acids Res</a>.",
             "reference_id": "PMID:36951094",
@@ -5030,7 +5030,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-06-27-PMID-37923140-grx4-fra2.png"
+                "spotlight/2024-06-27-PMID-37923140-grx4-fra2.png"
             ],
             "content": "Iron homeostasis proteins Grx4 and Fra2 control activity of the Schizosaccharomyces pombe iron repressor Fep1 by facilitating [2Fe-2S] cluster removal.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2023.105419'>J Biol Chem</a>.",
             "reference_id": "PMID:37923140",
@@ -5043,7 +5043,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-06-27-PMID-38692277-micos.png"
+                "spotlight/2024-06-27-PMID-38692277-micos.png"
             ],
             "content": "A dynamin superfamily-like pseudoenzyme coordinates with MICOS to promote cristae architecture.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2024.04.028'>Curr Biol</a>.",
             "reference_id": "PMID:38692277",
@@ -5056,20 +5056,20 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-06-27-PMID-38442865-mor2.png"
+                "spotlight/2024-06-27-PMID-38442865-mor2.png"
             ],
             "content": "The fission yeast NDR kinase Orb6 and its signalling pathway MOR regulate cytoplasmic microtubule organization during the cell cycle.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.230440'>Open Biol</a>.",
             "reference_id": "PMID:38442865",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-07-01",
             "show_on_front_page": false
-            },
+        },
         {
             "title": "Ren et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-07-16-PMID-37831774-berro-end4.png"
+                "spotlight/2024-07-16-PMID-37831774-berro-end4.png"
             ],
             "content": "Force redistribution in clathrin-mediated endocytosis revealed by coiled-coil force sensors.\n\nOriginally published in <a href='https://doi.org/10.1126/sciadv.adi1535'>Sci Adv</a>.",
             "reference_id": "PMID:37831774",
@@ -5082,7 +5082,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-07-16-PMID-38938413-spg1-mutants.png"
+                "spotlight/2024-07-16-PMID-38938413-spg1-mutants.png"
             ],
             "content": "Characterization of temperature-sensitive Schizosaccharomyces pombe mutants in the septation initiation network Spg1 GTPase.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.001193'>MicroPubl Biol</a>.",
             "reference_id": "PMID:38938413",
@@ -5095,7 +5095,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-07-16-PMID-38865179-SIP-complex.png"
+                "spotlight/2024-07-16-PMID-38865179-SIP-complex.png"
             ],
             "content": "Transient PP2A SIP complex localization to mitotic SPBs for SIN inhibition is mediated solely by the Csc1 FHA domain.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E24-04-0196'>Mol Biol Cell</a>.",
             "reference_id": "PMID:38865179",
@@ -5108,7 +5108,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-07-29-PMID38899862.png"
+                "spotlight/2024-07-29-PMID38899862.png"
             ],
             "content": "Suppression of inositol pyrophosphate toxicosis and hyper-repression of the fission yeast PHO regulon by loss-of-function mutations in chromatin remodelers Snf22 and Sol1.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.01252-24'>mBio</a>.",
             "reference_id": "PMID:38899862",
@@ -5121,7 +5121,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-08-01-PMID38985524.png"
+                "spotlight/2024-08-01-PMID38985524.png"
             ],
             "content": "The core spindle pole body scaffold Ppc89 links the pericentrin orthologue Pcp1 to the fission yeast spindle pole body via an evolutionarily conserved interface.\n\nOriginally published in <a href='https://doi.org/10.1091/mbc.E24-05-0220'>Mol Biol Cell</a>.",
             "reference_id": "PMID:38985524",
@@ -5134,7 +5134,7 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-08-01-PMID38989013.png"
+                "spotlight/2024-08-01-PMID38989013.png"
             ],
             "content": "Characterization of temperature-sensitive alleles of Schizosaccharomyces pombe septation initiation network components.\n\nOriginally published in <a href='https://doi.org/10.17912/micropub.biology.001249'>MicroPubl Biol</a>.",
             "reference_id": "PMID:38989013",
@@ -5147,248 +5147,248 @@
             "title_link": null,
             "panel_type": "spotlight",
             "head_image": [
-            "spotlight/2024-08-02-PMID38376141.png"
+                "spotlight/2024-08-02-PMID38376141.png"
             ],
             "content": "Disordered regions and folded modules in CAF-1 promote histone deposition in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.7554/eLife.91461'>Elife</a>.",
             "reference_id": "PMID:38376141",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-08-02",
-    	    "show_on_front_page": false
-	},
-	{
-		"title": "Marešová et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-08-02-PMID38482739.png"
-    		],
-    		"content": "Critical importance of DNA binding for CSL protein functions in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261568'>J Cell Sci</a>.",
-    		"reference_id": "PMID:38482739",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-08-02",
-    		"show_on_front_page": false
-	},
-	{
-    		"title": "Schirmeisen et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-08-02-PMID38917328.png"
-    		],
-    		"content": "SUMO protease and proteasome recruitment at the nuclear periphery differently affect replication dynamics at arrested forks.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkae526'>Nucleic Acids Res</a>.",
-    		"reference_id": "PMID:38917328",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-08-02",
-    		"show_on_front_page": false
-	},
-	{
-    		"title": "Ghosh et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-08-02-PMID38940614.png"
-    		],
-    		"content": "Activities and genetic interactions of fission yeast Aps1, a Nudix-type inositol pyrophosphatase and inorganic polyphosphatase.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.01084-24'>mBio</a>.",
-    		"reference_id": "PMID:38940614",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-08-02",
-    		"show_on_front_page": false
-	},
-	{
-    		"title": "Kobayashi-Ooka et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-09-09-PMID38913087.png"
-    		],
-    		"content": "Mutational analyses of the interacting domains of Schizosaccharomyces pombe Byr2 with 14-3-3s.\n\nOriginally published in <a href='https://doi.org/10.1007/s00294-024-01293-7'>Curr Genet</a>.",
-    		"reference_id": "PMID:38913087",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-09-09",
-    		"show_on_front_page": false
-	},   
-	{
-		"title": "Willet et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-09-13-PMID-39239853.png"
-    		],
-    		"content": "Fission yeast Duc1 links to ER-PM contact sites and influences PM lipid composition and cytokinetic ring anchoring.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.262347'>J Cell Sci</a>.",
-    		"reference_id": "PMID:39239853",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-09-13",
-    		"show_on_front_page": false
-	},
-	{
-   		 "title": "Onwubiko et al, 2023",
-    		 "title_link": null,
-   		 "panel_type": "spotlight",
-    		 "head_image": [
-       		 "spotlight/2024-09-27-PMID37039135.png"
-   		 ],
-    		 "content": "Cdc42 prevents precocious Rho1 activation during cytokinesis in a Pak1-dependent manner.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261160'>J Cell Sci</a>.",
-    		 "reference_id": "PMID:37039135",
-    		 "link_label": "Publication record in PomBase ...",
-    		 "date_added": "2024-09-27",
-    		 "show_on_front_page": false
-	},
-	{
-    		"title": "Luo et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-09-29-PMID39289458.png"
-    		],
-    		"content": "Characterization of Shy1, the Schizosaccharomyces pombe homolog of human SURF1.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-024-72681-9'>Sci Rep</a>.",
-    		"reference_id": "PMID:39289458",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-09-29",
-    		"show_on_front_page": true
-	},    
-	{
-    		"title": "Ohtsuka et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-10-09-sdr1-PMID39289458.png"
-    		],
-    		"content": "A novel transcription factor Sdr1 involving sulfur depletion response in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1111/gtc.13136'>Genes Cells</a>.",
-    		"reference_id": "PMID:39105351",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-10-09",
-    		"show_on_front_page": true
-	},    
-	{
-   		"title": "Palacios-Blanco et al, 2024",
-		"title_link": null,
-		"panel_type": "spotlight",
-		"head_image": [
-		"spotlight/2024-10-16-PMID39174851.png"
-		],
-		"content": "CDK phosphorylation of Sfr1 downregulates Rad51 function in late-meiotic homolog invasions.\n\nOriginally published in <a href='https://doi.org/10.1038/s44318-024-00205-2'>EMBO J</a>.",
-		"reference_id": "PMID:39174851",
-		"link_label": "Publication record in PomBase ...",
-		"date_added": "2024-10-16",
-		"show_on_front_page": true		
-	},
-	{
-		"title": "Sakai et al, 2024",
-		"title_link": null,
-		"panel_type": "spotlight",
-		"head_image": [
-		"spotlight/2024-10-16-PMID38889144.png"
-		],
-		"content": "Cytoplasmic fluidization contributes to breaking spore dormancy in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2405553121'>Proc Natl Acad Sci U S A</a>.",
-		"reference_id": "PMID:38889144",
-		"link_label": "Publication record in PomBase ...",
-		"date_added": "2024-10-16",
-		"show_on_front_page": true
-	},
-	{
-    		"title": "Wang et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-10-29-PMID38499152.png"
-    		],
-    		"content": "Sls1 and Mtf2 mediate the assembly of the Mrh5C complex required for activation of cox1 mRNA translation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.107176'>J Biol Chem</a>.",
-    		"reference_id": "PMID:38499152",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-10-29",
-    		"show_on_front_page": true
-	},
-	{
-    		"title": "Gemin et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-10-29-PMID39379376.png"
-    		],
-    		"content": "Ribosomes hibernate on mitochondria during cellular stress.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-52911-4'>Nat Commun</a>.",
-    		"reference_id": "PMID:39379376",
-   	 	"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-10-29",
-    		"show_on_front_page": true
-	},
-	{
-    		"title": "Facchetti et al, 2019",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	  "spotlight/2024-10-29-PMID30639107.png"
-    		],
-    		"content": "Reprogramming Cdr2-Dependent Geometry-Based Cell Size Control in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2018.12.017'>Curr Biol</a>.",
-    		"reference_id": "PMID:30639107",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-10-29",
-    		"show_on_front_page": true
-	},
-	{
-    		"title": "Rutkowski et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-10-29-PMID39333500.png"
-    		],
-    		"content": "Cdc42 mobility and membrane flows regulate fission yeast cell shape and survival.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-52655-1'>Nat Commun</a>.",
-    		"reference_id": "PMID:39333500",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-10-29",
-    		"show_on_front_page": true
-	},
-	{
-    		"title": "Bustamante-Jaramillo et al, 2021",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-10-29-PMID34067465.png"
-    		],
-    		"content": "The Meiosis-Specific Crs1 Cyclin Is Required for Efficient S-Phase Progression and Stable Nuclear Architecture.\n\nOriginally published in <a href='https://doi.org/10.3390/ijms22115483'>Int J Mol Sci</a>.",
-    		"reference_id": "PMID:34067465",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-10-29",
-    		"show_on_front_page": true
-	},	
-	{
-    		"title": "Hanna et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-11-06-ppc89-PMID39471327.png"
-    		],
-    		"content": "New mutations in the core Schizosaccharomyces pombe spindle pole body scaffold Ppc89 reveal separable functions in regulating cell division.\n\nOriginally published in <a href='https://doi.org/10.1093/g3journal/jkae249'>G3 (Bethesda)</a>.",
-    		"reference_id": "PMID:39471327",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-11-06",
-    		"show_on_front_page": true
-	},
-	{
-    		"title": "Luo et al, 2021",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-11-06-ppr10-mpa1-PMID34119521.png"
-    		],
-    		"content": "Schizosaccharomyces pombe Ppr10 and Mpa1 together mediate mitochondrial translational initiation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2021.100869'>J Biol Chem</a>.",
-    		"reference_id": "PMID:34119521",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-11-06",
-    		"show_on_front_page": true
-	},
-	{
-    		"title": "Hoh et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-11-06-VAP-PMID39110593.png"
-    		],
-    		"content": "VAP-mediated membrane-tethering mechanisms implicate ER-PM contact function in pH homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2024.114592'>Cell Rep</a>.",
-    		"reference_id": "PMID:39110593",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-11-06",
-    		"show_on_front_page": true
-	},    
+            "show_on_front_page": false
+        },
+        {
+            "title": "Marešová et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-08-02-PMID38482739.png"
+            ],
+            "content": "Critical importance of DNA binding for CSL protein functions in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261568'>J Cell Sci</a>.",
+            "reference_id": "PMID:38482739",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-08-02",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Schirmeisen et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-08-02-PMID38917328.png"
+            ],
+            "content": "SUMO protease and proteasome recruitment at the nuclear periphery differently affect replication dynamics at arrested forks.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkae526'>Nucleic Acids Res</a>.",
+            "reference_id": "PMID:38917328",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-08-02",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Ghosh et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-08-02-PMID38940614.png"
+            ],
+            "content": "Activities and genetic interactions of fission yeast Aps1, a Nudix-type inositol pyrophosphatase and inorganic polyphosphatase.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.01084-24'>mBio</a>.",
+            "reference_id": "PMID:38940614",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-08-02",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Kobayashi-Ooka et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-09-09-PMID38913087.png"
+            ],
+            "content": "Mutational analyses of the interacting domains of Schizosaccharomyces pombe Byr2 with 14-3-3s.\n\nOriginally published in <a href='https://doi.org/10.1007/s00294-024-01293-7'>Curr Genet</a>.",
+            "reference_id": "PMID:38913087",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-09-09",
+            "show_on_front_page": false
+        },   
+        {
+            "title": "Willet et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-09-13-PMID-39239853.png"
+            ],
+            "content": "Fission yeast Duc1 links to ER-PM contact sites and influences PM lipid composition and cytokinetic ring anchoring.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.262347'>J Cell Sci</a>.",
+            "reference_id": "PMID:39239853",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-09-13",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Onwubiko et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-09-27-PMID37039135.png"
+            ],
+            "content": "Cdc42 prevents precocious Rho1 activation during cytokinesis in a Pak1-dependent manner.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.261160'>J Cell Sci</a>.",
+            "reference_id": "PMID:37039135",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-09-27",
+            "show_on_front_page": false
+        },
+        {
+            "title": "Luo et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-09-29-PMID39289458.png"
+            ],
+            "content": "Characterization of Shy1, the Schizosaccharomyces pombe homolog of human SURF1.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-024-72681-9'>Sci Rep</a>.",
+            "reference_id": "PMID:39289458",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-09-29",
+            "show_on_front_page": true
+        },    
+        {
+            "title": "Ohtsuka et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-09-sdr1-PMID39289458.png"
+            ],
+            "content": "A novel transcription factor Sdr1 involving sulfur depletion response in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1111/gtc.13136'>Genes Cells</a>.",
+            "reference_id": "PMID:39105351",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-09",
+            "show_on_front_page": true
+        },    
+        {
+            "title": "Palacios-Blanco et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-16-PMID39174851.png"
+            ],
+            "content": "CDK phosphorylation of Sfr1 downregulates Rad51 function in late-meiotic homolog invasions.\n\nOriginally published in <a href='https://doi.org/10.1038/s44318-024-00205-2'>EMBO J</a>.",
+            "reference_id": "PMID:39174851",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-16",
+            "show_on_front_page": true              
+        },
+        {
+            "title": "Sakai et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-16-PMID38889144.png"
+            ],
+            "content": "Cytoplasmic fluidization contributes to breaking spore dormancy in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2405553121'>Proc Natl Acad Sci U S A</a>.",
+            "reference_id": "PMID:38889144",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-16",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Wang et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-29-PMID38499152.png"
+            ],
+            "content": "Sls1 and Mtf2 mediate the assembly of the Mrh5C complex required for activation of cox1 mRNA translation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.107176'>J Biol Chem</a>.",
+            "reference_id": "PMID:38499152",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-29",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Gemin et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-29-PMID39379376.png"
+            ],
+            "content": "Ribosomes hibernate on mitochondria during cellular stress.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-52911-4'>Nat Commun</a>.",
+            "reference_id": "PMID:39379376",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-29",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Facchetti et al, 2019",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-29-PMID30639107.png"
+            ],
+            "content": "Reprogramming Cdr2-Dependent Geometry-Based Cell Size Control in Fission Yeast.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2018.12.017'>Curr Biol</a>.",
+            "reference_id": "PMID:30639107",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-29",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Rutkowski et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-29-PMID39333500.png"
+            ],
+            "content": "Cdc42 mobility and membrane flows regulate fission yeast cell shape and survival.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-52655-1'>Nat Commun</a>.",
+            "reference_id": "PMID:39333500",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-29",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Bustamante-Jaramillo et al, 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-10-29-PMID34067465.png"
+            ],
+            "content": "The Meiosis-Specific Crs1 Cyclin Is Required for Efficient S-Phase Progression and Stable Nuclear Architecture.\n\nOriginally published in <a href='https://doi.org/10.3390/ijms22115483'>Int J Mol Sci</a>.",
+            "reference_id": "PMID:34067465",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-10-29",
+            "show_on_front_page": true
+        },      
+        {
+            "title": "Hanna et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-11-06-ppc89-PMID39471327.png"
+            ],
+            "content": "New mutations in the core Schizosaccharomyces pombe spindle pole body scaffold Ppc89 reveal separable functions in regulating cell division.\n\nOriginally published in <a href='https://doi.org/10.1093/g3journal/jkae249'>G3 (Bethesda)</a>.",
+            "reference_id": "PMID:39471327",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-11-06",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Luo et al, 2021",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-11-06-ppr10-mpa1-PMID34119521.png"
+            ],
+            "content": "Schizosaccharomyces pombe Ppr10 and Mpa1 together mediate mitochondrial translational initiation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2021.100869'>J Biol Chem</a>.",
+            "reference_id": "PMID:34119521",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-11-06",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Hoh et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-11-06-VAP-PMID39110593.png"
+            ],
+            "content": "VAP-mediated membrane-tethering mechanisms implicate ER-PM contact function in pH homeostasis.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2024.114592'>Cell Rep</a>.",
+            "reference_id": "PMID:39110593",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-11-06",
+            "show_on_front_page": true
+        },    
         {
             "title": "Recent community curation",
             "panel_type": "community",
@@ -9814,10 +9814,10 @@
                     "name": "congenital nervous system disorder",
                     "termid": "MONDO:0002320"
                 },
-	        {
-		    "name": "metabolic disease",
-	    	    "termid": "MONDO:MONDO:0005066"
-    	        }
+                {
+                    "name": "metabolic disease",
+                    "termid": "MONDO:MONDO:0005066"
+                }
             ]
         }
     },
@@ -10912,8 +10912,8 @@
             }
         ],
         "full_display_excluded": [
-          "MOBIDB-Low-complexity",
-          "Pfam domains"
+            "MOBIDB-Low-complexity",
+            "Pfam domains"
         ]
     },
     "gene_expression": {
