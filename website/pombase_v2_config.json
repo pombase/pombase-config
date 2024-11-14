@@ -5389,6 +5389,32 @@
             "date_added": "2024-11-06",
             "show_on_front_page": true
         },    
+		{
+   		 	"title": "Larkin et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-11-14-PMID39094565.png"
+    		],
+    		"content": "Mapping the dynamics of epigenetic adaptation in S. pombe during heterochromatin misregulation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.devcel.2024.07.006'>Dev Cell</a>.",
+    		"reference_id": "PMID:39094565",
+    		"link_label": "Publication record in PomBase ...",
+   			"date_added": "2024-11-14",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Anver et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-11-14-PMID39358553.png"
+    		],
+    		"content": "Ageing-associated long non-coding RNA extends lifespan and reduces translation in non-dividing cells.\n\nOriginally published in <a href='https://doi.org/10.1038/s44319-024-00265-9'>EMBO Rep</a>.",
+    		"reference_id": "PMID:39358553",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-11-14",
+    		"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
