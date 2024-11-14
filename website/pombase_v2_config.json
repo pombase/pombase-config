@@ -7322,7 +7322,8 @@
             "summary_relation_ranges_to_collect": [
                 "assayed_enzyme",
                 "assayed_substrate",
-                "assayed_using"
+                "assayed_using",
+                "residue"
             ]
         },
         "single_locus_phenotype": {
