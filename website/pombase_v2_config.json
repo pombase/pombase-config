@@ -8364,10 +8364,10 @@
         },
         { "name": "double_mutant_genetic_interactions" },
         { "name": "single_allele_genetic_interactions" },
+        { "name": "mondo" },
         { "name": "homologs and conservation",
           "sub_types": ["orthologs", "paralogs", "species_dist"]
         },
-        { "name": "mondo" },
         { "name": "Comments and warnings",
           "sub_types": ["misc", "warning"] },
         { "name": "subunit_composition" }
