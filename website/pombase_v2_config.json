@@ -7346,6 +7346,7 @@
                 "has_severity"
             ],
             "summary_relation_ranges_to_collect": [
+                "affecting",
                 "assayed_enzyme",
                 "assayed_substrate",
                 "assayed_using",
