@@ -9077,6 +9077,10 @@
                     "termid": "GO:0006091"
                 },
                 {
+                    "name": "GPI anchored protein biosynthesis",
+                    "termid": "GO:0180046"
+                },
+                {
                     "name": "inorganic ion homeostasis",
                     "termid": "GO:0098771"
                 },
@@ -9170,8 +9174,8 @@
                     "termid": "GO:0006486"
                 },
                 {
-                    "name": "protein maturation",
-                    "termid": "GO:0051604"
+                    "name": "protein maturation by iron-sulfur cluster transfer GO:0097428",
+                    "termid": "GO:0097428"
                 },
                 {
                     "name": "protein modification by small protein conjugation or removal",
@@ -9238,8 +9242,8 @@
                     "termid": "GO:0055085"
                 },
                 {
-                    "name": "ubiquinone biosynthetic process",
-                    "termid": "GO:0006744"
+                    "name": "ubiquinone metabolic process",
+                    "termid": "GO:0006743"
                 },
                 {
                     "name": "vesicle-mediated transport",
