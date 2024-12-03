@@ -105,3 +105,4 @@ FYPO:0004083	is_a	assayed_using	GO:0032991	assayed protein complex		0,1	admin
 FYPO:0004083	is_a	assayed_protein	Text	assayed protein isoform		0,1	admin
 FYPO:0004849	is_a	assayed_protein	Text	assayed protein isoform		0,1	admin
 FYPO:0005936	is_a	assayed_region	GeneID	assayed gene		0,1	admin
+FYPO:0003124	is_a	assayed_protein	Text	assayed protein isoform		0,1	admin
