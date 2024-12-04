@@ -10861,7 +10861,9 @@
     },
     "protein_feature_view": {
         "modification_extension_rel_types": [
-            "added_during", "added_by", "affected_by", "removed_by"
+            "added_during", "added_by", "affected_by", "removed_by",
+            "present_during", "increased_during", "level_fluctuates_during",
+            "increased_in_presence_of"
         ],
         "widget_tracks": [
             "AA substitution positions",
