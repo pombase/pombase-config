@@ -84,7 +84,7 @@
     "no_gene_name_route": "/submit-data/gene-names",
     "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
     "jackhmmer_search_url": "https://www.ebi.ac.uk/Tools/hmmer/search/jackhmmer",
-    "ebi_tools_url": "https://www.ebi.ac.uk/Tools/services/web/toolform.ebi",
+    "ebi_tools_url": "https://www.ebi.ac.uk/jdispatcher/sss",
     "pdbe_entry_url": "https://www.ebi.ac.uk/pdbe-srv/view/entry",
     "pdbe_image_url": "https://www.ebi.ac.uk/pdbe/static/entry/<<PDB_ID>>_deposited_chain_front_image-200x200.png",
     "rcsb_pdb_entry_url": "https://www.rcsb.org/structure",
