@@ -8516,7 +8516,7 @@
                 "ALL"
             ],
             "name": "SPD / RIKEN",
-            "description": "Orfeome Localization Data",
+            "description": "Riken Orfeome Localization Data",
             "field_name": "orfeome_identifier",
             "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
         },
