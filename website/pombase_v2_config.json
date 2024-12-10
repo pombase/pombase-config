@@ -8511,6 +8511,16 @@
             "url": "https://swissmodel.expasy.org/repository/uniprot/<<IDENTIFIER>>"
         },
         {
+            "ref_type": "Localization",
+            "feature_types": [
+                "ALL"
+            ],
+            "name": "SPD / RIKEN",
+            "description": "Orfeome Localization Data",
+            "field_name": "orfeome_identifier",
+            "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
+        },
+        {
             "ref_type": "Strain and reagents",
             "feature_types": [
                 "ALL"
@@ -8519,16 +8529,6 @@
             "description": "Strains and clones",
             "field_name": "uniquename",
             "url": "http://viewer.shigen.info/yeastvw/wordsearch/search?fuzzy=y&action=mapview&ysttype=f&word=<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Strain and reagents",
-            "feature_types": [
-                "ALL"
-            ],
-            "name": "SPD / RIKEN",
-            "description": "Orfeome Localization Data",
-            "field_name": "orfeome_identifier",
-            "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
         },
         {
             "ref_type": "Strain and reagents",
