@@ -8358,7 +8358,7 @@
         { "name": "genome_org" },
         { "name": "ex_tools" },
         { "name": "sequence and transcripts",
-          "sub_types": ["transcript_view", "sequence"]
+          "sub_types": ["transcript_view", "transcript-sequence"]
         },
         { "name": "interactions",
           "sub_types": ["physical_interactions", "genetic_interactions"]
