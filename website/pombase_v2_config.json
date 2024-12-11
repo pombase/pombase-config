@@ -173,8 +173,12 @@
                         "url": "/status/sequencing-updates"
                     },
                     {
-                        "title": "Gene coordinate changes",
-                        "url": "/status/gene-coordinate-changes"
+                        "title": "Proten coding gene coordinate changes",
+                        "url": "/status/gene-coordinate-changes-protein-coding"
+                    },
+                    {
+                        "title": "RNA gene coordinate changes",
+                        "url": "/status/gene-coordinate-changes-RNA"
                     },
                     {
                         "title": "New and removed genes",
