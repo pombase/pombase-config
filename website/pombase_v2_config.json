@@ -5394,7 +5394,7 @@
             "show_on_front_page": true
         },    
 		{
-   		 	"title": "Larkin et al, 2024",
+   			"title": "Larkin et al, 2024",
     		"title_link": null,
     		"panel_type": "spotlight",
     		"head_image": [
@@ -5417,6 +5417,45 @@
     		"reference_id": "PMID:39358553",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2024-11-14",
+    		"show_on_front_page": true
+		},
+	    {
+    		"title": "Yao et al, 2024",
+   			"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-12-12-PMID38272226.png"
+    		],
+    		"content": "E3 ubiquitin ligase Hul6 modulates iron-dependent metabolism by regulating Php4 stability.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.105670'>J Biol Chem</a>.",
+    		"reference_id": "PMID:38272226",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-12-12",
+    		"show_on_front_page": true
+		},
+	    {
+    		"title": "Sivakova et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-12-12-PMID39367033.png"
+    		],
+    		"content": "Quantitative proteomics and phosphoproteomics profiling of meiotic divisions in the fission yeast Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-024-74523-0'>Sci Rep</a>.",
+    		"reference_id": "PMID:39367033",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-12-12",
+    		"show_on_front_page": true
+		},
+	    {
+    		"title": "Cipak et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2024-12-12-PMID39476757.png"
+    		],
+    		"content": "Characterization of Ksg1 protein kinase-dependent phosphoproteome in the fission yeast S. pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.bbrc.2024.150895'>Biochem Biophys Res Commun</a>.",
+    		"reference_id": "PMID:39476757",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2024-12-12",
     		"show_on_front_page": true
 		},
         {
