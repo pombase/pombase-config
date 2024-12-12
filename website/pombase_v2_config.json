@@ -7472,7 +7472,7 @@
                 },
                 {
                     "filter_type": "throughput",
-                    "display_name": "Throughput",
+                    "display_name": "Evidence type",
                     "scope": [
                         "gene",
                         "term",
@@ -7490,8 +7490,12 @@
                             "throughput_type": "low"
                         },
                         {
-                            "display_name": "Non-experimental",
+                            "display_name": "Inferred",
                             "throughput_type": "non-experimental"
+                        },
+                        {
+                            "display_name": "All experimental",
+                            "throughput_type": "high|low"
                         }
                     ]
                 }
@@ -7560,7 +7564,7 @@
                 },
                 {
                     "filter_type": "throughput",
-                    "display_name": "Throughput",
+                    "display_name": "Evidence type",
                     "scope": [
                         "gene",
                         "term",
@@ -7578,8 +7582,12 @@
                             "throughput_type": "low"
                         },
                         {
-                            "display_name": "Non-experimental",
+                            "display_name": "Inferred",
                             "throughput_type": "non-experimental"
+                        },
+                        {
+                            "display_name": "All experimental",
+                            "throughput_type": "high|low"
                         }
                     ]
                 }
@@ -7645,7 +7653,7 @@
                 },
                 {
                     "filter_type": "throughput",
-                    "display_name": "Throughput",
+                    "display_name": "Evidence type",
                     "scope": [
                         "gene",
                         "term",
@@ -7663,8 +7671,12 @@
                             "throughput_type": "low"
                         },
                         {
-                            "display_name": "Non-experimental",
+                            "display_name": "Inferred",
                             "throughput_type": "non-experimental"
+                        },
+                        {
+                            "display_name": "All experimental",
+                            "throughput_type": "high|low"
                         }
                     ]
                 }
