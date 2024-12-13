@@ -7521,11 +7521,11 @@
                     "detailed_view_only": true,
                     "throughput_categories": [
                         {
-                            "display_name": "High",
+                            "display_name": "High throughput experiment",
                             "throughput_type": "high"
                         },
                         {
-                            "display_name": "Low",
+                            "display_name": "Low throughput experiment",
                             "throughput_type": "low"
                         },
                         {
@@ -7533,7 +7533,7 @@
                             "throughput_type": "non-experimental"
                         },
                         {
-                            "display_name": "All experimental",
+                            "display_name": "All experimental annotation",
                             "throughput_type": "high|low"
                         }
                     ]
@@ -7613,11 +7613,11 @@
                     "detailed_view_only": true,
                     "throughput_categories": [
                         {
-                            "display_name": "High",
+                            "display_name": "High throughput experiment",
                             "throughput_type": "high"
                         },
                         {
-                            "display_name": "Low",
+                            "display_name": "Low throughput experiment",
                             "throughput_type": "low"
                         },
                         {
@@ -7625,7 +7625,7 @@
                             "throughput_type": "non-experimental"
                         },
                         {
-                            "display_name": "All experimental",
+                            "display_name": "All experimental annotation",
                             "throughput_type": "high|low"
                         }
                     ]
@@ -7702,11 +7702,11 @@
                     "detailed_view_only": true,
                     "throughput_categories": [
                         {
-                            "display_name": "High",
+                            "display_name": "High throughput experiment",
                             "throughput_type": "high"
                         },
                         {
-                            "display_name": "Low",
+                            "display_name": "Low throughput experiment",
                             "throughput_type": "low"
                         },
                         {
@@ -7714,7 +7714,7 @@
                             "throughput_type": "non-experimental"
                         },
                         {
-                            "display_name": "All experimental",
+                            "display_name": "All experimental annotation",
                             "throughput_type": "high|low"
                         }
                     ]
