@@ -7529,12 +7529,12 @@
                             "throughput_type": "low"
                         },
                         {
-                            "display_name": "Inferred",
-                            "throughput_type": "non-experimental"
-                        },
-                        {
                             "display_name": "All experimental annotation",
                             "throughput_type": "high|low"
+                        },
+                        {
+                            "display_name": "Inferred",
+                            "throughput_type": "non-experimental"
                         }
                     ]
                 }
@@ -7621,12 +7621,12 @@
                             "throughput_type": "low"
                         },
                         {
-                            "display_name": "Inferred",
-                            "throughput_type": "non-experimental"
-                        },
-                        {
                             "display_name": "All experimental annotation",
                             "throughput_type": "high|low"
+                        },
+                        {
+                            "display_name": "Inferred",
+                            "throughput_type": "non-experimental"
                         }
                     ]
                 }
@@ -7710,12 +7710,12 @@
                             "throughput_type": "low"
                         },
                         {
-                            "display_name": "Inferred",
-                            "throughput_type": "non-experimental"
-                        },
-                        {
                             "display_name": "All experimental annotation",
                             "throughput_type": "high|low"
+                        },
+                        {
+                            "display_name": "Inferred",
+                            "throughput_type": "non-experimental"
                         }
                     ]
                 }
