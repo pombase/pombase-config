@@ -5458,6 +5458,19 @@
     		"date_added": "2024-12-12",
     		"show_on_front_page": true
 		},
+	    	{
+    		"title": "Grochowski et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+       		"spotlight/PMID-39333464-uridylation.png"
+    		],
+		"content": "Uridylation regulates mRNA decay directionality in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-50824-w'>Nat Commun</a>.",
+    		"reference_id": "PMID:39333464",
+    		"link_label": "Publication record in PomBase ...",
+   		"date_added": "2024-12-16",
+    		"show_on_front_page": true
+		},   
         {
             "title": "Recent community curation",
             "panel_type": "community",
