@@ -1,7 +1,7 @@
 {
     "site_name": "PomBase",
     "database_name": "PomBase",
-    "database_long_name": "The Schizosaccharomyces pombe genome database", 
+    "database_long_name": "The Schizosaccharomyces pombe genome database",
     "database_citation": "PMID:22039153",
     "logo_file_name": "pombase-logo.png",
     "small_logo_file_name": "pombase-logo-small.png",
@@ -4508,7 +4508,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-06-29",
             "show_on_front_page": false
-        },    
+        },
         {
             "title": "Esposito et al, 2022",
             "title_link": null,
@@ -4661,7 +4661,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-10-11",
             "show_on_front_page": false
-        },    
+        },
         {
             "title": "Willet et al, 2023",
             "title_link": null,
@@ -4700,7 +4700,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-11-01",
             "show_on_front_page": false
-        },       
+        },
         {
             "title": "Le et al, 2023",
             "title_link": null,
@@ -4712,7 +4712,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-11-16",
             "show_on_front_page": false
-        }, 
+        },
         {
             "title": "Strachan et al, 2023",
             "title_link": null,
@@ -4725,7 +4725,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2023-11-16",
             "show_on_front_page": false
-        },  
+        },
         {
             "title": "Sparks et al, 2019",
             "title_link": null,
@@ -4785,7 +4785,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-01-03",
             "show_on_front_page": false
-        }, 
+        },
         {
             "title": "Takado et al, 2024",
             "title_link": null,
@@ -4822,7 +4822,7 @@
             "date_added": "2024-01-18",
             "show_on_front_page": false
         },
-        {    
+        {
             "title": "Cao et al, 2023",
             "title_link": null,
             "panel_type": "spotlight",
@@ -5210,7 +5210,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-09-09",
             "show_on_front_page": false
-        },   
+        },
         {
             "title": "Willet et al, 2024",
             "title_link": null,
@@ -5249,7 +5249,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-09-29",
             "show_on_front_page": true
-        },    
+        },
         {
             "title": "Ohtsuka et al, 2024",
             "title_link": null,
@@ -5262,7 +5262,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-09",
             "show_on_front_page": true
-        },    
+        },
         {
             "title": "Palacios-Blanco et al, 2024",
             "title_link": null,
@@ -5274,7 +5274,7 @@
             "reference_id": "PMID:39174851",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-16",
-            "show_on_front_page": true              
+            "show_on_front_page": true
         },
         {
             "title": "Sakai et al, 2024",
@@ -5353,7 +5353,7 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-29",
             "show_on_front_page": true
-        },      
+        },
         {
             "title": "Hanna et al, 2024",
             "title_link": null,
@@ -5392,85 +5392,85 @@
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-11-06",
             "show_on_front_page": true
-        },    
-		{
-   			"title": "Larkin et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-11-14-PMID39094565.png"
-    		],
-    		"content": "Mapping the dynamics of epigenetic adaptation in S. pombe during heterochromatin misregulation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.devcel.2024.07.006'>Dev Cell</a>.",
-    		"reference_id": "PMID:39094565",
-    		"link_label": "Publication record in PomBase ...",
-   			"date_added": "2024-11-14",
-    		"show_on_front_page": true
-		},
-		{
-    		"title": "Anver et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-11-14-PMID39358553.png"
-    		],
-    		"content": "Ageing-associated long non-coding RNA extends lifespan and reduces translation in non-dividing cells.\n\nOriginally published in <a href='https://doi.org/10.1038/s44319-024-00265-9'>EMBO Rep</a>.",
-    		"reference_id": "PMID:39358553",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-11-14",
-    		"show_on_front_page": true
-		},
-	    {
-    		"title": "Yao et al, 2024",
-   			"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-12-12-PMID38272226.png"
-    		],
-    		"content": "E3 ubiquitin ligase Hul6 modulates iron-dependent metabolism by regulating Php4 stability.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.105670'>J Biol Chem</a>.",
-    		"reference_id": "PMID:38272226",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-12-12",
-    		"show_on_front_page": true
-		},
-	    {
-    		"title": "Sivakova et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-12-12-PMID39367033.png"
-    		],
-    		"content": "Quantitative proteomics and phosphoproteomics profiling of meiotic divisions in the fission yeast Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-024-74523-0'>Sci Rep</a>.",
-    		"reference_id": "PMID:39367033",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-12-12",
-    		"show_on_front_page": true
-		},
-	    {
-    		"title": "Cipak et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-        	"spotlight/2024-12-12-PMID39476757.png"
-    		],
-    		"content": "Characterization of Ksg1 protein kinase-dependent phosphoproteome in the fission yeast S. pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.bbrc.2024.150895'>Biochem Biophys Res Commun</a>.",
-    		"reference_id": "PMID:39476757",
-    		"link_label": "Publication record in PomBase ...",
-    		"date_added": "2024-12-12",
-    		"show_on_front_page": true
-		},
-	    	{
-    		"title": "Grochowski et al, 2024",
-    		"title_link": null,
-    		"panel_type": "spotlight",
-    		"head_image": [
-       		"spotlight/PMID-39333464-uridylation.png"
-    		],
-		"content": "Uridylation regulates mRNA decay directionality in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-50824-w'>Nat Commun</a>.",
-    		"reference_id": "PMID:39333464",
-    		"link_label": "Publication record in PomBase ...",
-   		"date_added": "2024-12-16",
-    		"show_on_front_page": true
-		},   
+        },
+        {
+            "title": "Larkin et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-11-14-PMID39094565.png"
+            ],
+            "content": "Mapping the dynamics of epigenetic adaptation in S. pombe during heterochromatin misregulation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.devcel.2024.07.006'>Dev Cell</a>.",
+            "reference_id": "PMID:39094565",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-11-14",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Anver et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-11-14-PMID39358553.png"
+            ],
+            "content": "Ageing-associated long non-coding RNA extends lifespan and reduces translation in non-dividing cells.\n\nOriginally published in <a href='https://doi.org/10.1038/s44319-024-00265-9'>EMBO Rep</a>.",
+            "reference_id": "PMID:39358553",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-11-14",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Yao et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-12-12-PMID38272226.png"
+            ],
+            "content": "E3 ubiquitin ligase Hul6 modulates iron-dependent metabolism by regulating Php4 stability.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.105670'>J Biol Chem</a>.",
+            "reference_id": "PMID:38272226",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-12",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Sivakova et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-12-12-PMID39367033.png"
+            ],
+            "content": "Quantitative proteomics and phosphoproteomics profiling of meiotic divisions in the fission yeast Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-024-74523-0'>Sci Rep</a>.",
+            "reference_id": "PMID:39367033",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-12",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Cipak et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/2024-12-12-PMID39476757.png"
+            ],
+            "content": "Characterization of Ksg1 protein kinase-dependent phosphoproteome in the fission yeast S. pombe.\n\nOriginally published in <a href='https://doi.org/10.1016/j.bbrc.2024.150895'>Biochem Biophys Res Commun</a>.",
+            "reference_id": "PMID:39476757",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-12",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Grochowski et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+                "spotlight/PMID-39333464-uridylation.png"
+            ],
+            "content": "Uridylation regulates mRNA decay directionality in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-50824-w'>Nat Commun</a>.",
+            "reference_id": "PMID:39333464",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-16",
+            "show_on_front_page": true
+        },
         {
             "title": "Recent community curation",
             "panel_type": "community",
@@ -9219,7 +9219,7 @@
                 {
                     "name": "organophosphate metabolic process",
                     "termid": "GO:0019637"
-                },        
+                },
 
                 {
                     "name": "peroxisome organization",
