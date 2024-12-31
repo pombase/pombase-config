@@ -5248,7 +5248,7 @@
             "reference_id": "PMID:39289458",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-09-29",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Ohtsuka et al, 2024",
@@ -5261,7 +5261,7 @@
             "reference_id": "PMID:39105351",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-09",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Palacios-Blanco et al, 2024",
@@ -5274,7 +5274,7 @@
             "reference_id": "PMID:39174851",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-16",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Sakai et al, 2024",
@@ -5287,7 +5287,7 @@
             "reference_id": "PMID:38889144",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-16",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Wang et al, 2024",
@@ -5300,7 +5300,7 @@
             "reference_id": "PMID:38499152",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-29",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Gemin et al, 2024",
@@ -5313,7 +5313,7 @@
             "reference_id": "PMID:39379376",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-29",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Facchetti et al, 2019",
@@ -5326,7 +5326,7 @@
             "reference_id": "PMID:30639107",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-29",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Rutkowski et al, 2024",
@@ -5339,7 +5339,7 @@
             "reference_id": "PMID:39333500",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-29",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Bustamante-Jaramillo et al, 2021",
@@ -5352,7 +5352,7 @@
             "reference_id": "PMID:34067465",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-10-29",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Hanna et al, 2024",
@@ -5469,6 +5469,71 @@
             "reference_id": "PMID:39333464",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-12-16",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Vega et al, 2022",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-12-31-PMID35820914.png"
+            ],
+            "content": "Antagonistic effects of mitochondrial matrix and intermembrane space proteases on yeast aging.\n\nOriginally published in <a href='https://doi.org/10.1186/s12915-022-01352-w'>BMC Biol</a>.",
+            "reference_id": "PMID:35820914",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-31",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Vega et al, 2023",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-12-31-PMID37956308.png"
+            ],
+            "content": "Topoisomerase 1 facilitates nucleosome reassembly at stress genes during recovery.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkad1066'>Nucleic Acids Res</a>.",
+            "reference_id": "PMID:37956308",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-31",
+            "show_on_front_page": true
+        },
+        {
+            "title": "De Zoysa et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-12-31-PMID38295128.png"
+            ],
+            "content": "A connection between the ribosome and two S. pombe tRNA modification mutants subject to rapid tRNA decay.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1011146'>PLoS Genet</a>.",
+            "reference_id": "PMID:38295128",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-31",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Borao et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-12-31-PMID38833506.png"
+            ],
+            "content": "A systematic screen identifies Saf5 as a link between splicing and transcription in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1011316'>PLoS Genet</a>.",
+            "reference_id": "PMID:38833506",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-31",
+            "show_on_front_page": true
+        },
+        {
+            "title": "Innokentev et al, 2024",
+            "title_link": null,
+            "panel_type": "spotlight",
+            "head_image": [
+            "spotlight/2024-12-31-PMID39660919.png"
+            ],
+            "content": "Efn1 and Efn2 are extracellular 5'-nucleotidases induced during the fission yeast response to phosphate starvation.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.02992-24'>mBio</a>.",
+            "reference_id": "PMID:39660919",
+            "link_label": "Publication record in PomBase ...",
+            "date_added": "2024-12-31",
             "show_on_front_page": true
         },
         {
