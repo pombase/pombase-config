@@ -8883,6 +8883,20 @@
                 "mRNA gene",
                 "pseudogene"
             ],
+            "name": "DIOPT",
+            "description": "DRSC Integrative Ortholog Prediction Tool",
+            "field_name": "uniquename",
+            "show_in_sections": [
+                "orthologs"
+            ],
+            "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
+        },
+        {
+            "ref_type": "Orthologs",
+            "feature_types": [
+                "mRNA gene",
+                "pseudogene"
+            ],
             "name": "HCOP",
             "description": "Integrated human orthologs",
             "field_name": "uniquename",
@@ -8932,20 +8946,6 @@
                 "orthologs"
             ],
             "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO%7CPomBase%3D<<UNIQUENAME>>%7CUniProtKB%3D<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Orthologs",
-            "feature_types": [
-                "mRNA gene",
-                "pseudogene"
-            ],
-            "name": "DIOPT",
-            "description": "DRSC Integrative Ortholog Prediction Tool",
-            "field_name": "uniquename",
-            "show_in_sections": [
-                "orthologs"
-            ],
-            "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Promoters",
