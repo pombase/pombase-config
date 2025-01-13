@@ -5536,6 +5536,32 @@
             "date_added": "2024-12-31",
             "show_on_front_page": true
         },
+		{
+    		"title": "Hua et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        		"spotlight/2025-01-13-PMID39485795.png"
+    		],
+    		"content": "A meiotic driver hijacks an epigenetic reader to disrupt mitosis in noncarrier offspring.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2408347121'>Proc Natl Acad Sci U S A</a>.",
+    		"reference_id": "PMID:39485795",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-01-13",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Hua et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        		"spotlight/2025-01-13-PMID39485800.png"
+    		],
+    		"content": "Structural duality enables a single protein to act as a toxin-antidote pair for meiotic drive.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2408618121'>Proc Natl Acad Sci U S A</a>.",
+    		"reference_id": "PMID:39485800",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-01-13",
+    		"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
