@@ -5536,7 +5536,7 @@
             "date_added": "2024-12-31",
             "show_on_front_page": true
         },
-		{
+	{
     		"title": "Hua et al, 2024",
     		"title_link": null,
     		"panel_type": "spotlight",
@@ -5548,8 +5548,8 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-01-13",
     		"show_on_front_page": true
-		},
-		{
+	},
+	{
     		"title": "Hua et al, 2024",
     		"title_link": null,
     		"panel_type": "spotlight",
@@ -5561,7 +5561,7 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-01-13",
     		"show_on_front_page": true
-		},
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
