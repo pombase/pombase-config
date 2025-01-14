@@ -89,10 +89,6 @@
     "pdbe_image_url": "https://www.ebi.ac.uk/pdbe/static/entry/<<PDB_ID>>_deposited_chain_front_image-200x200.png",
     "rcsb_pdb_entry_url": "https://www.rcsb.org/structure",
     "seq_and_features_download_url": "https://curation.pombase.org/allele_qc/genome_region?systematic_id=<<IDENTIFIER>>&format=<<FORMAT>>&upstream=<<UPSTREAM_BASES>>&downstream=<<DOWNSTREAM_BASES>>",
-    "intermine": {
-        "list_post_url": "https://www.pombase.org/im/pombemine/portal.do",
-        "mine_name": "PombeMine"
-    },
     "canto_url": "https://curation.pombase.org/pombe",
     "canto_documentation_url": "https://pombase.github.io/canto_tutorial/",
     "community_mailing_list": {
