@@ -136,6 +136,10 @@
                         "url": "/browse-curation/disease-slim"
                     },
                     {
+                        "title": "All curated GO-CAM pathways",
+                        "url": "/documentation/go-cam-pathway-models"
+                    },
+                    {
                         "title": "Drugs with known S. pombe targets",
                         "url": "/browse-curation/drugs-known-pombe-targets"
                     },
