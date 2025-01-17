@@ -505,7 +505,7 @@
                     },
                     {
                         "id": "disease_associated",
-                        "displayName": "disease associated",
+                        "displayName": "disease association",
                         "nodeType": "ontology",
                         "ontologyName": "mondo",
                         "topDescription": [
