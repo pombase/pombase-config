@@ -10707,6 +10707,7 @@
         "site_map_reference_prefixes": [
             "PMID:"
         ],
+        "include_nd_lines": true,
         "macromolecular_complexes": {
             "parent_complex_termid": "GO:0032991",
             "excluded_terms": [
