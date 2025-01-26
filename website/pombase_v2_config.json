@@ -897,8 +897,8 @@
                         "nodeType": "subset-select",
                         "subsets": [
                             {
-                                "name": "characterisation_status_published",
-                                "displayName": "characterisation_status:published"
+                                "name": "characterisation_status_biological_role_published",
+                                "displayName": "characterisation_status:biological role published"
                             },
                             {
                                 "name": "characterisation_status_transposon",
@@ -6089,7 +6089,7 @@
                     },
                     {
                         "subset": {
-                            "subset_name": "characterisation_status_published"
+                            "subset_name": "characterisation_status_biological_role_published"
                         }
                     }
                 ]
@@ -10471,7 +10471,7 @@
                 "column_type": "attribute",
                 "attr_values": [
                     {
-                        "name": "published",
+                        "name": "biological role published",
                         "color": "#2d3"
                     },
                     {
