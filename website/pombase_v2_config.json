@@ -333,6 +333,12 @@
                 "link": "https://data.caltech.edu/records/4grkw-d1474",
                 "text": "Genotype information and meta-data for all samples used in the study (csv format)"
             }
+        ],
+        "PMID:37991801": [
+            {
+                "link": "https://www.addgene.org/kits/pluskal-pombox/",
+                "text": "addgene page to order POMBOX cloning kit"
+            }
         ]
     },
     "reference_page_jbrowse_columns": [
