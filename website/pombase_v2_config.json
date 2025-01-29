@@ -9352,10 +9352,6 @@
                     "termid": "GO:0006486"
                 },
                 {
-                    "name": "protein maturation by iron-sulfur cluster transfer GO:0097428",
-                    "termid": "GO:0097428"
-                },
-                {
                     "name": "protein modification by small protein conjugation or removal",
                     "termid": "GO:0070647"
                 },
