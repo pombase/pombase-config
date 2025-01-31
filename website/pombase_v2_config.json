@@ -5593,7 +5593,20 @@
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2025-01-28",
                 "show_on_front_page": true
-        },    
+        },
+        {
+    			"title": "Garcia et al, 2024",
+    			"title_link": null,
+    			"panel_type": "spotlight",
+    			"head_image": [
+        			"spotlight/2025-01-31-PMID39509469.png"
+    			],
+    			"content": "Rho1 and Rgf1 establish a new actin-dependent signal to determine growth poles in yeast independently of microtubules and the Tea1-Tea4 complex.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002491'>PLoS Biol</a>.",
+    			"reference_id": "PMID:39509469",
+    			"link_label": "Publication record in PomBase ...",
+    			"date_added": "2025-01-31",
+    			"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
