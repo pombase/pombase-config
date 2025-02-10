@@ -5635,7 +5635,7 @@
             "head_image": [
                 "explore/2017-10-08-slimming.png"
             ],
-            "content": "The fission yeast [GO slim](browse-curation/fission-yeast-go-slim-terms) provides a summary of genes annotated to broad biological processes",
+            "content": "The fission yeast [GO slim](browse-curation/fission-yeast-bp-go-slim-terms) provides a summary of genes annotated to broad biological processes",
             "date_added": "2017-10-10",
             "show_on_front_page": false
         },
@@ -5668,7 +5668,7 @@
             "head_image": [
                 "explore/2017-11-06-building_networks.png"
             ],
-            "content": "PomBase uses manually curated Gene Ontology annotation to generate biological process-specific networks, such as the cytokinesis network excerpted above. Currently available networks are linked to the [GO slim](browse-curation/fission-yeast-go-slim-terms) page.",
+            "content": "PomBase uses manually curated Gene Ontology annotation to generate biological process-specific networks, such as the cytokinesis network excerpted above. Currently available networks are linked to the [GO slim](browse-curation/fission-yeast-bp-go-slim-terms) page.",
             "date_added": "2017-11-06",
             "show_on_front_page": false
         },
@@ -7720,7 +7720,7 @@
             ],
             "slim_subset_name": "bp_goslim_pombe",
             "slim_description": "Biological process overview (GO slim)",
-            "slim_link": "/browse-curation/fission-yeast-go-slim-terms",
+            "slim_link": "/browse-curation/fission-yeast-bp-go-slim-terms",
             "slim_no_category_text": "biological process GO Slim category",
             "filters": [
                 {
