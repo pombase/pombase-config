@@ -7619,6 +7619,7 @@
                 }
             ],
             "summary_relations_to_hide": [],
+            "ontology_graph_url": "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids}/chart?base64=false&showKey=true&showIds=true&termBoxWidth=120&termBoxHeight=65&showSlimColours=false&showChildren=true&fontSize=11&ids=",
             "summary_relation_ranges_to_collect": [
                 "directly_activates",
                 "directly_inhibits",
@@ -7715,6 +7716,7 @@
                     "url_prefix": "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids}/chart?ids="
                 }
             ],
+            "ontology_graph_url": "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids}/chart?base64=false&showKey=true&showIds=true&termBoxWidth=120&termBoxHeight=65&showSlimColours=false&showChildren=true&fontSize=11&ids=",
             "summary_relation_ranges_to_collect": [
                 "has_input"
             ],
@@ -7805,6 +7807,7 @@
             "slim_description": "Cellular component overview (GO slim)",
             "slim_link": "/browse-curation/fission-yeast-cc-go-slim-terms",
             "slim_no_category_text": "cellular component GO Slim category",
+            "ontology_graph_url": "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{ids}/chart?base64=false&showKey=true&showIds=true&termBoxWidth=120&termBoxHeight=65&showSlimColours=false&showChildren=true&fontSize=11&ids=",
             "summary_relation_ranges_to_collect": [
                 "coincident_with",
                 "during",
