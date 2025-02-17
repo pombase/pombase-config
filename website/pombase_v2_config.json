@@ -6554,6 +6554,12 @@
     "extension_display_names": [
         {
             "rel_name": "has_input",
+            "if_descendant_of": "GO:0140299",
+            "display_name": "senses",
+            "reciprocal_display": "sensed by"
+        },
+        {
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0140597",
             "display_name": "chaperones",
             "reciprocal_display": "chaperoned by"
@@ -8538,6 +8544,7 @@
             "transcription repressed by": 7,
             "transcription regulated by": 7,
             "regulated by": 6,
+            "sensed by": 5,
             "activity affected by mutation in": 5,
             "affected by mutation in": 4
         }
