@@ -5633,6 +5633,19 @@
     		"date_added": "2025-03-03",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Tyree et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-03-05-myo51-PMID-39330407.png"
+    		],
+    		"content": "The Myosin-V Myo51 and Alpha-Actinin Ain1p Cooperate during Contractile Ring Assembly and Disassembly in Fission Yeast Cytokinesis.\n\nOriginally published in <a href='https://doi.org/10.3390/jof10090647'>J Fungi (Basel)</a>.",
+    		"reference_id": "PMID:39330407",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-03-05",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
