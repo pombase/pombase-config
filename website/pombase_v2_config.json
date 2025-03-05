@@ -5646,6 +5646,19 @@
     		"date_added": "2025-03-05",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Zou et al, 2023",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/04-03-25-PMID-37939137-yep1.png"
+    		],
+    		"content": "The ortholog of human REEP1-4 is required for autophagosomal enclosure of ER-phagy/nucleophagy cargos in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002372'>PLoS Biol</a>.",
+    		"reference_id": "PMID:37939137",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-03-05",
+    		"show_on_front_page": true
+	},    
         {
             "title": "Recent community curation",
             "panel_type": "community",
