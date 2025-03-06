@@ -5626,10 +5626,10 @@
     		"title_link": null,
     		"panel_type": "spotlight",
     		"head_image": [
-        	"spotlight/2025-03-03-PMID 39540318.png"
+        	"spotlight/2025-03-03-PMID-39540318.png"
    		 ],
     		"content": "Pck2 association with the plasma membrane and efficient response of the cell integrity pathway require regulation of PI4P homeostasis by exomer.\n\nOriginally published in <a href='https://doi.org/10.1098/rsob.240101'>Open Biol</a>.",
-    		"reference_id": "PMID: 39540318",
+    		"reference_id": "PMID:39540318",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-03",
     		"show_on_front_page": true
