@@ -63,9 +63,10 @@
         ]
     },
     "example_pages": {
-        "gene": "SPCC18B5.03",
+        "gene": "SPBC216.07c",
         "term": "GO:0000070",
-        "reference": "PMID:25908789"
+        "reference": "PMID:25908789",
+        "gocam": "6796b94c00006848"
     },
     "social_media": {
         "twitter": "PomBase",
