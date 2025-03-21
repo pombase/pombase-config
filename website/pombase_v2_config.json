@@ -6709,8 +6709,8 @@
         {
             "rel_name": "has_input",
             "if_descendant_of": "GO:0000976",
-            "display_name": "regulates transcription of",
-            "reciprocal_display": "transcription regulated by"
+            "display_name": "binds promoter of",
+            "reciprocal_display": "promoter bound by"
         },
         {
             "rel_name": "has_input",
