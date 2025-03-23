@@ -340,6 +340,12 @@
                 "link": "https://www.addgene.org/kits/pluskal-pombox/",
                 "text": "addgene page to order POMBOX cloning kit"
             }
+        ],
+        "PMID:40015273": [
+            {
+                "link": "https://data.fmi.ch/TFexplorer/",
+                "text": "TF Explorer - an interactive web application to explore experimentally determined transcription factor (TF) interactions"
+            }
         ]
     },
     "reference_page_jbrowse_columns": [
