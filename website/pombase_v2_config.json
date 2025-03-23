@@ -345,6 +345,10 @@
             {
                 "link": "https://data.fmi.ch/TFexplorer/",
                 "text": "TF Explorer - an interactive web application to explore experimentally determined transcription factor (TF) interactions"
+            },
+            {
+                "link": "https://yeast.nig.ac.jp/yeast/fy/StrainSetIndividualList.jsf?id=8",
+                "text": "Library from the National BioResource Project (Yeast)"
             }
         ]
     },
