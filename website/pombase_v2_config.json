@@ -348,7 +348,11 @@
             },
             {
                 "link": "https://yeast.nig.ac.jp/yeast/fy/StrainSetIndividualList.jsf?id=8",
-                "text": "Library from the National BioResource Project (Yeast)"
+                "text": "Obtain strain library from the National BioResource Project (Yeast)"
+            },
+            {
+                "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274238",
+                "text": "Obtain full dataset in the Gene Expression Omnibus"
             }
         ]
     },
@@ -8922,6 +8926,27 @@
             "description": "IntAct Interaction Network",
             "field_name": "uniprot_identifier",
             "go_xrf_abbrev": "IntactInteractionNetwork"
+        },
+        {
+            "ref_type": "Interactions",
+            "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "TFexplorer IPMS",
+            "description": "Experimentally determined transcription factor (TF) interactions (IP-MS)",
+            "field_name": "tfexplorer_ipms_identifier",
+            "url": "https://data.fmi.ch/TFexplorer/pombe.html?tf=<<IDENTIFIER>>"
+        },
+        {
+            "ref_type": "Interactions",
+            "feature_types": [
+                "mRNA gene"
+            ],
+            "name": "TFexplorer ChIP–seq",
+
+            "description": "Experimentally determined transcription factor (TF) interactions (ChIP-Seq)",
+            "field_name": "tfexplorer_chipseq_identifier",
+            "url": "https://data.fmi.ch/TFexplorer/pombe.html?tf=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Modifications",
