@@ -352,7 +352,7 @@
             },
             {
                 "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274238",
-                "text": "Obtain full dataset in the Gene Expression Omnibus"
+                "text": "Genome browser track data in the Gene Expression Omnibus (GEO)"
             }
         ]
     },
