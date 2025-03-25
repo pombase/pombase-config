@@ -5674,6 +5674,19 @@
     		"date_added": "2025-03-05",
     		"show_on_front_page": true
 	},    
+	{
+    		"title": "Ding et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        		"spotlight/2025-03-25-PMID39878217.png"
+    		],
+    		"content": "The ortholog of human DNAJC9 promotes histone H3-H4 degradation and is counteracted by Asf1 in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkaf036'>Nucleic Acids Res</a>.",
+    		"reference_id": "PMID:39878217",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-03-25",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
