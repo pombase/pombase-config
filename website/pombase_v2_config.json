@@ -9448,6 +9448,10 @@
                     "termid": "GO:0006091"
                 },
                 {
+                    "name": "glycoprotein biosynthetic process",
+                    "termid": "GO:0009101"
+                },
+                {
                     "name": "GPI anchored protein biosynthesis",
                     "termid": "GO:0180046"
                 },
@@ -9462,10 +9466,6 @@
                 {
                     "name": "lipid metabolic process",
                     "termid": "GO:0006629"
-                },
-                {
-                    "name": "lipoprotein biosynthetic process",
-                    "termid": "GO:0042158"
                 },
                 {
                     "name": "mRNA metabolic process",
@@ -9527,6 +9527,10 @@
                 {
                     "name": "peroxisome organization",
                     "termid": "GO:0007031"
+                },
+                {
+                    "name": "polyamine metabolic process",
+                    "termid": "GO:0006595"
                 },
                 {
                     "name": "protein catabolic process",
