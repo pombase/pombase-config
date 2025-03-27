@@ -5503,7 +5503,7 @@
             "reference_id": "PMID:35820914",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-12-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Vega et al, 2023",
@@ -5516,7 +5516,7 @@
             "reference_id": "PMID:37956308",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-12-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "De Zoysa et al, 2024",
@@ -5529,7 +5529,7 @@
             "reference_id": "PMID:38295128",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-12-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Borao et al, 2024",
@@ -5542,7 +5542,7 @@
             "reference_id": "PMID:38833506",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-12-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
             "title": "Innokentev et al, 2024",
@@ -5555,7 +5555,7 @@
             "reference_id": "PMID:39660919",
             "link_label": "Publication record in PomBase ...",
             "date_added": "2024-12-31",
-            "show_on_front_page": true
+            "show_on_front_page": false
         },
         {
                 "title": "Hua et al, 2024",
@@ -5568,7 +5568,7 @@
                 "reference_id": "PMID:39485795",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2025-01-13",
-                "show_on_front_page": true
+                "show_on_front_page": false
         },
         {
                 "title": "Hua et al, 2024",
@@ -5594,7 +5594,7 @@
                 "reference_id": "PMID:39652606",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2025-01-17",
-                "show_on_front_page": true
+                "show_on_front_page": false
         },
         {
                 "title": "Boronat et al, 2023",
@@ -5687,6 +5687,19 @@
     		"date_added": "2025-03-25",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Skribbe et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-03-27-PMID40015273.png"
+    		],
+    		"content": "A comprehensive Schizosaccharomyces pombe atlas of physical transcription factor interactions with proteins and chromatin.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2025.01.032'>Mol Cell</a>.",
+    		"reference_id": "PMID:40015273",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-03-27",
+    		"show_on_front_page": true
+	},    
         {
             "title": "Recent community curation",
             "panel_type": "community",
