@@ -5679,7 +5679,7 @@
     		"title_link": null,
     		"panel_type": "spotlight",
     		"head_image": [
-        		"spotlight/2025-03-25-PMID39878217.png"
+        	"spotlight/2025-03-25-PMID39878217.png"
     		],
     		"content": "The ortholog of human DNAJC9 promotes histone H3-H4 degradation and is counteracted by Asf1 in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkaf036'>Nucleic Acids Res</a>.",
     		"reference_id": "PMID:39878217",
@@ -5700,6 +5700,19 @@
     		"date_added": "2025-03-27",
     		"show_on_front_page": true
 	},    
+	{
+    		"title": "Ruiz-Romero et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-03-28-PMID39473973.png"
+    		],
+    		"content": "Limiting 20S proteasome assembly leads to unbalanced nucleo-cytoplasmic distribution of 26S/30S proteasomes and chronic proteotoxicity.\n\nOriginally published in <a href='https://doi.org/10.1016/j.isci.2024.111095'>iScience</a>.",
+    		"reference_id": "PMID:39473973",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-03-28",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
