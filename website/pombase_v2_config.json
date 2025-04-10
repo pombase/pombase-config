@@ -5713,6 +5713,19 @@
     		"date_added": "2025-03-28",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Oya et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-04-10-PMID 39945308.png"
+    		],
+    		"content": "Characterization of the Swi6/HP1 binding motif in its partner protein reveals the basis for the functional divergence of the HP1 family proteins in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1096/fj.202402264RR'>FASEB J</a>.",
+    		"reference_id": "PMID: 39945308",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-04-10",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
