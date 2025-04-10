@@ -5726,6 +5726,19 @@
     		"date_added": "2025-04-10",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Billault-Chaumartin et al, 2022",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-04-10-PMID36202103.png"
+    		],
+    		"content": "Condensation of the fusion focus by the intrinsically disordered region of the formin Fus1 is essential for cell-cell fusion.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2022.09.026'>Curr Biol</a>.",
+    		"reference_id": "PMID:36202103",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-04-10",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
