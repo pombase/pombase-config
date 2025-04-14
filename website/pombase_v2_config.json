@@ -5739,6 +5739,19 @@
     		"date_added": "2025-04-10",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Wang et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-04-14-PMID40193710.png"
+    	],
+    		"content": "An enzymatic-independent function of palmitoyl hydrolase in cohesin loading onto chromosome.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkaf257'>Nucleic Acids Res</a>.",
+    		"reference_id": "PMID:40193710",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-04-14",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
