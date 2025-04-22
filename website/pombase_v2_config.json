@@ -5752,6 +5752,19 @@
     		"date_added": "2025-04-14",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Bérard et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-04-22-PMID39705284.png"
+    	],
+    		"content": "Proteomic and phosphoproteomic analyses reveal that TORC1 is reactivated by pheromone signaling during sexual reproduction in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3002963'>PLoS Biol</a>.",
+    		"reference_id": "PMID:39705284",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-04-22",
+    		"show_on_front_page": true
+	},
         {
             "title": "Recent community curation",
             "panel_type": "community",
