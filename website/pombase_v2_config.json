@@ -5581,7 +5581,7 @@
                 "reference_id": "PMID:39485800",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2025-01-13",
-                "show_on_front_page": true
+                "show_on_front_page": false
         },
         {
                 "title": "Marešová et al, 2024",
@@ -5607,7 +5607,7 @@
                 "reference_id": "PMID:37446379",
                 "link_label": "Publication record in PomBase ...",
                 "date_added": "2025-01-28",
-                "show_on_front_page": true
+                "show_on_front_page": false
         },
         {
     		"title": "Garcia et al, 2024",
@@ -5620,7 +5620,7 @@
     		"reference_id": "PMID:39509469",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-01-31",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Ohtsuka et al, 2025",
@@ -5633,7 +5633,7 @@
     		"reference_id": "PMID:39910760",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-02-17",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Moscoso-Romero et al, 2024",
@@ -5765,6 +5765,32 @@
     		"date_added": "2025-04-22",
     		"show_on_front_page": true
 	},
+	{
+    		"title": "Berraquero et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-04-24-PMID40124504.png"
+    		],
+    		"content": "Ltc1 localization by EMC regulates cell membrane fluidity to facilitate membrane protein biogenesis.\n\nOriginally published in <a href='https://doi.org/10.1016/j.isci.2025.112096'>iScience</a>.",
+    		"reference_id": "PMID:40124504",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-04-24",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Hirano et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-04-24-PMID38825008.png"
+    		],
+    		"content": "Disordered region of nuclear membrane protein Bqt4 recruits phosphatidic acid to the nuclear envelope to maintain its structural integrity.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2024.107430'>J Biol Chem</a>.",
+    		"reference_id": "PMID:38825008",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-04-24",
+    		"show_on_front_page": true
+	},    
         {
             "title": "Recent community curation",
             "panel_type": "community",
