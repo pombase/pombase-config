@@ -9441,12 +9441,6 @@
             "description": "S. pombe high level GO biological process terms",
             "slim_results_description": "A \"GO slim\" is a subset of the Gene Ontology terms selected for a specific purpose in interpreting the functional annotations in an entire organism, or a gene product list derived from an experiment.  PomBase has created a GO slim to provide a simple summary of S. pombe's biological capabilities by grouping gene products using broad biological process classifiers.",
             "cv_name": "biological_process",
-            "external_link_config": {
-                "description": "Physical network interaction",
-                "link_text": "esyN",
-                "link_config_key": "esyn",
-                "icon_image": "esyn_icon.png"
-            },
             "terms": [
                 {
                     "name": "DNA recombination",
@@ -10305,7 +10299,6 @@
         "coils": "Coiled coils"
     },
     "misc_external_links": {
-        "esyn": "http://esyn.rosalind.kcl.ac.uk/builder.php?type=Graph&term=<<IDENTIFIER>>&interactionType=physical&source=pombase&includeInteractors=false",
         "MalaCards": "https://www.malacards.org/card/<<IDENTIFIER>>",
         "Monarch": "https://monarchinitiative.org/MONDO:<<IDENTIFIER>>"
     },
