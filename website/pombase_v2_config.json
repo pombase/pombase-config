@@ -9540,6 +9540,10 @@
                     "termid": "GO:0098754"
                 },
                 {
+                    "name": "dolichol phosphate mannose biosynthetic process",
+                    "termid": "GO:0180047"
+                },
+                {
                     "name": "establishment or maintenance of cell polarity",
                     "termid": "GO:0007163"
                 },
@@ -9645,6 +9649,10 @@
                     "termid": "GO:0006457"
                 },
                 {
+                    "name": "protein maturation",
+                    "termid": "GO:0051604"
+                },
+                {
                     "name": "protein modification by small protein conjugation or removal",
                     "termid": "GO:0070647"
                 },
@@ -9675,6 +9683,10 @@
                 {
                     "name": "signaling",
                     "termid": "GO:0023052"
+                },
+                {
+                    "name": "sister chromatid cohesion",
+                    "termid": "GO:0007062"
                 },
                 {
                     "name": "snoRNA metabolic process",
