@@ -6640,6 +6640,17 @@
                 }
             }
         },
+        "canned_query:gocam_activity_gene_count": {
+            "name": "Genes that enable activities in GO-CAM pathway models",
+            "constraints": {
+                "node_name": "gocam_activity_gene_count(≥1)",
+                "int_range": {
+                    "range_type": "gocam_activity_gene_count",
+                    "start": 1,
+                    "end": null
+                }
+            }
+        },
         "canned_query:genes_with_rna_secondary_structure_predictions": {
             "name": "Genes with RNA secondary structure predictions",
             "constraints": {
@@ -6738,6 +6749,7 @@
         "proteins_with_pdb_structures",
         "genes_with_rna_secondary_structure_predictions",
         "genes_in_gocam_models",
+        "gocam_activity_gene_count",
         "genes_with_annotated_protein_feature",
         "canned_query:genes_in_complexes",
         "canned_query:proteins_in_complexes"
