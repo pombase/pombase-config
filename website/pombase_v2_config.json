@@ -416,7 +416,7 @@
     ],
     "alphafold_max_protein_length": 2700,
     "jbrowse_track_picker_base_url": "/jbrowse/?loc=I:1..5579133",
-    "jbrowse_assembly_name": "pombe_v1",
+    "jbrowse2_assembly_name": "pombe_v1",
     "jbrowse2_default_track_ids": ["Schizosaccharomyces_pombe_all_chromosomes_forward_strand", "Schizosaccharomyces_pombe_all_chromosomes_reverse_strand"],
     "search_box_cv_names": [
         "molecular_function",
