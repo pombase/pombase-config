@@ -5648,7 +5648,7 @@
     		"reference_id": "PMID:39540318",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-03",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Tyree et al, 2024",
@@ -5661,7 +5661,7 @@
     		"reference_id": "PMID:39330407",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-05",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Zou et al, 2023",
@@ -5674,7 +5674,7 @@
     		"reference_id": "PMID:37939137",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-05",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},    
 	{
     		"title": "Ding et al, 2025",
@@ -5687,7 +5687,7 @@
     		"reference_id": "PMID:39878217",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-25",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Skribbe et al, 2025",
@@ -5700,7 +5700,7 @@
     		"reference_id": "PMID:40015273",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-27",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},    
 	{
     		"title": "Ruiz-Romero et al, 2024",
@@ -5713,7 +5713,7 @@
     		"reference_id": "PMID:39473973",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-03-28",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Oya et al, 2025",
@@ -5726,7 +5726,7 @@
     		"reference_id": "PMID:39945308",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-10",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Billault-Chaumartin et al, 2022",
@@ -5791,6 +5791,32 @@
     		"reference_id": "PMID:38825008",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-24",
+    		"show_on_front_page": true
+	},    
+	{
+    		"title": "Ohtsuka et al, 2022",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+    		    "spotlight/2025-06-19-PMID40395999.png"
+    		],
+    		"content": "Cdc13 (cyclin B) is degraded by autophagy under sulfur depletion in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1080/27694127.2022.2047442'>Autophagy Rep</a>.",
+    		"reference_id": "PMID:40395999",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-06-19",
+    		"show_on_front_page": true
+	},
+	{
+    		"title": "Luo et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-06-19-PMID40427588.png"
+    		],
+    		"content": "The Insertion Domain of Mti2 Facilitates the Association of Mitochondrial Initiation Factors with Mitoribosomes in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.3390/biom15050695'>Biomolecules</a>.",
+    		"reference_id": "PMID:40427588",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-06-19",
     		"show_on_front_page": true
 	},    
         {
