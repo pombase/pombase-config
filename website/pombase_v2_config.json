@@ -203,6 +203,18 @@
                         "url": "/datasets"
                     },
                     {
+                        "title": "GO annotation",
+                        "url": "/downloads/go-annotations"
+                    },
+                    {
+                        "title": "Phenotype annotation",
+                        "url": "/downloads/phenotype-annotations"
+                    },
+                    {
+                        "title": "Protein datasets",
+                        "url": "/downloads/protein-datasets"
+                    },
+                    {
                         "title": "Chado database dumps",
                         "url": "/downloads/chado-database-dumps"
                     }
