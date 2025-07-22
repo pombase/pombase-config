@@ -57,7 +57,7 @@
       "study_id"
     ]
   },
-  "defaultTracks": "Forward strand features,DNA sequence,Reverse strand features",
+  "defaultTracks": "Forward strand features,DNA sequence,refseqs,Reverse strand features",
   "trackLabels": "no-block",
   "tracks" : [
     {
