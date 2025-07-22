@@ -5830,7 +5830,72 @@
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-06-19",
     		"show_on_front_page": true
-	},    
+	},   
+	{
+    		"title": "Gallo et al, 2022",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-07-04-PMID_34851357.png"
+    		],
+    		"content": "A novel fission yeast platform to model N-glycosylation and the bases of congenital disorders of glycosylation type I.\n\nOriginally published in <a href='https://doi.org/10.1242/jcs.259167'>J Cell Sci</a>.",
+    		"reference_id": "PMID:34851357",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-07-04",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Srivastav et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-07-04-PMID-39747188_phpc.png"
+    		],
+    		"content": "PhpCNF-Y transcription factor infiltrates heterochromatin to generate cryptic intron-containing transcripts crucial for small RNA production.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-024-55736-3'>Nat Commun</a>.",
+    		"reference_id": "PMID:39747188",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-07-04",
+    		"show_on_front_page": true
+		},
+	    	{
+    		"title": "Sahu et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-07-07-PMID39096900.png"
+    		],
+    		"content": "Nucleosome remodeler exclusion by histone deacetylation enforces heterochromatic silencing and epigenetic inheritance.\n\nOriginally published in <a href='https://doi.org/10.1016/j.molcel.2024.07.006'>Mol Cell</a>.",
+    		"reference_id": "PMID:39096900",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-07-07",
+    		"show_on_front_page": true
+		},
+	    	{
+    		"title": "Zhang et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-07-07-PMID40063661.png"
+    		],
+    		"content": "Fission yeast Caprin protein is required for efficient heterochromatin establishment.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1011620'>PLoS Genet</a>.",
+    		"reference_id": "PMID:40063661",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-07-07",
+    		"show_on_front_page": true
+		},
+	    	{
+    		"title": "Leroy et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-07-07-PMID40185772.png"
+    		],
+    		"content": "A bifunctional snoRNA with separable activities in guiding rRNA 2'-O-methylation and scaffolding gametogenesis effectors.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-025-58664-y'>Nat Commun</a>.",
+    		"reference_id": "PMID:40185772",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-07-07",
+    		"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
