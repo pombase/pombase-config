@@ -7169,6 +7169,12 @@
         },
         {
             "rel_name": "assayed_using",
+            "if_descendant_of": "FYPO:0001370",
+            "display_name": "affecting",
+            "reciprocal_display": "localization affected by mutation in"
+        },
+        {
+            "rel_name": "assayed_using",
             "if_descendant_of": "FYPO:0001985",
             "display_name": "affecting",
             "reciprocal_display": "affected by mutation in"
@@ -8901,8 +8907,9 @@
             "transcription regulated by": 7,
             "regulated by": 6,
             "sensed by": 5,
-            "activity affected by mutation in": 5,
-            "affected by mutation in": 4
+            "localization affected by mutation in": 4,
+            "activity affected by mutation in": 3,
+            "affected by mutation in": 2
         }
     },
     "phenotype_id_prefixes": [
