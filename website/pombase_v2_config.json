@@ -6733,7 +6733,7 @@
             }
         },
         "canned_query:genes_in_gocam_models": {
-            "name": "Genes in GO-CAM pathway models",
+            "name": "Genes in GO-CAM pathway models (including target genes)",
             "constraints": {
                 "node_name": "gocam_model_count(≥1)",
                 "int_range": {
@@ -6851,8 +6851,8 @@
         "protein_coding_genes_unknown_process",
         "proteins_with_pdb_structures",
         "genes_with_rna_secondary_structure_predictions",
-        "genes_in_gocam_models",
         "gocam_activity_gene_count",
+        "genes_in_gocam_models",
         "genes_with_annotated_protein_feature",
         "canned_query:genes_in_complexes",
         "canned_query:proteins_in_complexes"
