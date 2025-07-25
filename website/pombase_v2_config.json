@@ -7174,6 +7174,12 @@
             "reciprocal_display": "localization affected by mutation in"
         },
         {
+            "rel_name": "assayed_protein",
+            "if_descendant_of": "FYPO:0001370",
+            "display_name": "affecting",
+            "reciprocal_display": "localization affected by mutation in"
+        },
+        {
             "rel_name": "assayed_using",
             "if_descendant_of": "FYPO:0001985",
             "display_name": "affecting",
