@@ -6194,6 +6194,7 @@
             }
         },
         "priority-unstudied-genes:conserved_unknown": {
+            "name": "Genes of unknown process, conserved outside the Schizosaccharomyces clade",
             "constraints": {
                 "subset": {
                     "subset_name": "characterisation_status_conserved_unknown"
