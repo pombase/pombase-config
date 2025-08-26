@@ -7104,7 +7104,6 @@
         "proteins_with_pdb_structures",
         "genes_with_rna_secondary_structure_predictions",
         "gocam_activity_gene_count",
-        "genes_in_gocam_models",
         "genes_with_annotated_protein_feature",
         "canned_query:genes_in_complexes",
         "canned_query:proteins_in_complexes"
