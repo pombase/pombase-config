@@ -5922,6 +5922,19 @@
     		"date_added": "2025-08-27",
     		"show_on_front_page": true
 		},
+		{
+    		"title": "Jacob et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-08-30-PMID40668835.png"
+    		],
+    		"content": "α-glucan remodeling by GH13-domain enzymes shapes fungal cell wall architecture.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2505509122'>Proc Natl Acad Sci U S A</a>.",
+    		"reference_id": "PMID:40668835",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-08-30",
+    		"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
