@@ -149,7 +149,7 @@
                         "url": "/browse-curation/dna-binding-sites"
                     },
                     {
-                        "title": "Gene characterisation status",
+                        "title": "Known/unknown protein roles",
                         "url": "/status/gene-characterisation"
                     },
                     {
@@ -186,7 +186,7 @@
                         "url": "/status/new-and-removed-genes"
                     },
                     {
-                        "title": "Gene characterisation status",
+                        "title": "Known/unknown protein roles",
                         "url": "/status/gene-characterisation"
                     },
                     {
