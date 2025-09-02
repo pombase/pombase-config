@@ -956,6 +956,10 @@
                                 "displayName": "characterisation_status:biological role inferred"
                             },
                             {
+                                "name": "characterisation_status_meiotic_driver",
+                                "displayName": "characterisation_status:meiotic driver"
+                            },
+                            {
                                 "name": "characterisation_status_conserved_unknown",
                                 "displayName": "characterisation_status:conserved unknown"
                             }
@@ -11371,6 +11375,10 @@
                     {
                         "name": "conserved unknown",
                         "color": "#36f"
+                    },
+                    {
+                        "name": "meiotic driver",
+                        "color": "#8a9"
                     },
                     {
                         "name": "unknown",
