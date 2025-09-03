@@ -945,11 +945,11 @@
                             },
                             {
                                 "name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized",
-                                "displayName": "characterisation_status:Schizo. specific protein, uncharacterized"
+                                "displayName": "characterisation_status:Schizo. specific, uncharacterized"
                             },
                             {
                                 "name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized",
-                                "displayName": "characterisation_status:S. pombe specific protein, uncharacterized"
+                                "displayName": "characterisation_status:S. pombe specific, uncharacterized"
                             },
                             {
                                 "name": "characterisation_status_biological_role_inferred",
@@ -957,7 +957,7 @@
                             },
                             {
                                 "name": "characterisation_status_meiotic_driver",
-                                "displayName": "characterisation_status:meiotic driver"
+                                "displayName": "characterisation_status:meiotic driver (selfish genes)"
                             },
                             {
                                 "name": "characterisation_status_conserved_unknown",
@@ -11352,12 +11352,12 @@
                     },
                     {
                         "name": "Schizosaccharomyces pombe specific protein, uncharacterized",
-                        "display_name": "S. pombe specific protein, uncharacterized",
+                        "display_name": "S. pombe specific, uncharacterized",
                         "color": "#359"
                     },
                     {
                         "name": "Schizosaccharomyces specific protein, uncharacterized",
-                        "display_name": "Schizosaccharomyces specific, uncharacterized",
+                        "display_name": "Schizo. specific, uncharacterized",
                         "color": "#9af"
                     },
                     {
@@ -11378,6 +11378,7 @@
                     },
                     {
                         "name": "meiotic driver",
+                        "display_name": "meiotic driver (selfish genes)",
                         "color": "#8a9"
                     },
                     {
