@@ -980,6 +980,9 @@
             }
         ]
     },
+    "gocams": {
+        "max_genes_mega_model_coverage": 3000
+    },
     "organisms": [
         {
             "taxonid": 4896,
