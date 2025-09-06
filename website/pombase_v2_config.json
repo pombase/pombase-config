@@ -5758,7 +5758,7 @@
     		"reference_id": "PMID:36202103",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-10",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Wang et al, 2025",
@@ -5771,7 +5771,7 @@
     		"reference_id": "PMID:40193710",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-14",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Bérard et al, 2024",
@@ -5784,7 +5784,7 @@
     		"reference_id": "PMID:39705284",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-22",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Berraquero et al, 2025",
@@ -5797,7 +5797,7 @@
     		"reference_id": "PMID:40124504",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-24",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Hirano et al, 2024",
@@ -5810,7 +5810,7 @@
     		"reference_id": "PMID:38825008",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-04-24",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},    
 	{
     		"title": "Ohtsuka et al, 2022",
@@ -5823,7 +5823,7 @@
     		"reference_id": "PMID:40395999",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-06-19",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},
 	{
     		"title": "Luo et al, 2025",
@@ -5849,7 +5849,7 @@
     		"reference_id": "PMID:34851357",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-07-04",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 		},
 		{
     		"title": "Srivastav et al, 2025",
@@ -5888,7 +5888,7 @@
     		"reference_id": "PMID:40063661",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-07-07",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 		},
 	    	{
     		"title": "Leroy et al, 2025",
