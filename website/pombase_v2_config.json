@@ -5836,7 +5836,7 @@
     		"reference_id": "PMID:40427588",
     		"link_label": "Publication record in PomBase ...",
     		"date_added": "2025-06-19",
-    		"show_on_front_page": true
+    		"show_on_front_page": false
 	},   
 	{
     		"title": "Gallo et al, 2022",
