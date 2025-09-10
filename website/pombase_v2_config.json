@@ -366,7 +366,11 @@
                 "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274238",
                 "text": "Genome browser track data in the Gene Expression Omnibus (GEO)"
             }
-        ]
+        ],
+        "PMID:39094570": {
+            "link": "https://modelarchive.org/doi/10.5452/ma-dm-hisrep",
+            "text": "AlphaFold-Multimer predictions of protein-protein interactions"
+        }
     },
     "reference_page_jbrowse_columns": [
         {
