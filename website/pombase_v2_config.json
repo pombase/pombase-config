@@ -5948,6 +5948,45 @@
     		"date_added": "2025-08-30",
     		"show_on_front_page": true
 		},
+		{
+    		"title": "Mu et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-09-28-PMID_40629316_mu_zhang.png"
+    		],
+    		"content": "Ca2+-dependent vesicular and non-vesicular lipid transfer controls hypoosmotic plasma membrane expansion.\n\nOriginally published in <a href='https://doi.org/10.1186/s12915-025-02309-5'>BMC Biol</a>.",
+    		"reference_id": "PMID:40629316",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-09-28",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Rübsam et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-09-28-PMID_40829803_modorado.png"
+    		],
+    		"content": "MoDorado: enhanced detection of tRNA modifications in nanopore sequencing by off-label use of modification callers.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkaf795'>Nucleic Acids Res</a>.",
+    		"reference_id": "PMID:40829803",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-09-28",
+    		"show_on_front_page": true
+		},
+		{
+    		"title": "Hooks et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-09-28-PMID_40899782_hooks.png"
+    		],
+    		"content": "Golgi_traff phylogeny reveals ancient eukaryotic genes with recent surprises: replication and diversification of HID1 domain-containing protein unique to Schizosaccharomyces.\n\nOriginally published in <a href='https://doi.org/10.1093/femsle/fnaf088'>FEMS Microbiol Lett</a>.",
+    		"reference_id": "PMID:40899782",
+    		"link_label": "Publication record in PomBase ...",
+   			"date_added": "2025-09-28",
+    		"show_on_front_page": true
+		},	
         {
             "title": "Recent community curation",
             "panel_type": "community",
