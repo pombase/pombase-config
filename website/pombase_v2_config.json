@@ -5987,6 +5987,19 @@
    			"date_added": "2025-09-28",
     		"show_on_front_page": true
 		},	
+		{
+    		"title": "Yu et al, 2024",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-09-29-PMID39094570.png"
+    		],
+    		"content": "A replisome-associated histone H3-H4 chaperone required for epigenetic inheritance.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cell.2024.07.006'>Cell</a>.",
+    		"reference_id": "PMID:39094570",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-09-29",
+    		"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
