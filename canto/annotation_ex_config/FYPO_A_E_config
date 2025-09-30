@@ -107,4 +107,4 @@ FYPO:0004083	is_a	assayed_protein	Text	assayed protein isoform		0,1	admin
 FYPO:0004849	is_a	assayed_protein	Text	assayed protein isoform		0,1	admin
 FYPO:0005936	is_a	assayed_region	GeneID	assayed gene		0,1	admin
 FYPO:0003124	is_a	assayed_protein	Text	assayed protein isoform		0,1	admin
-FYPO:0008457  is_a  assayed_region  GeneID|SO:0001411-SO:0000839	assayed gene or region		0,1	user
+FYPO:0008457	is_a	assayed_region	GeneID|SO:0001411-SO:0000839	assayed gene or region		0,1	user
