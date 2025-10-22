@@ -8,8 +8,30 @@
     "tiny_logo_file_name": "pombase-logo-tiny.png",
     "header_background_file_name": "header-background.jpg",
     "funder": "Wellcome Trust",
-    "site_description": "A comprehensive database for the fission yeast Schizosaccharomyces pombe, providing structural and functional annotation, literature curation and access to large-scale data sets",
-    "welcome_message": "PomBase is a comprehensive knowledgebase for the fission yeast <i>Schizosaccharomyces pombe</i>, providing literature curation, analysis tools, genome annotation and access to large-scale data sets",
+    "site_description": "A comprehensive database for the fission yeast <i>Schizosaccharomyces pombe</i>, providing structural and functional annotation, literature curation and access to large-scale data sets",
+    "welcome_message": "Comprehensive, curated, connected genomic, genetic and molecular data for <i>Schizosaccharomyces pombe</i>",
+    "testimonials": [
+        {
+            "quote": "Simply put, PomBase is a must for a fission yeast researcher. With every new student joining lab to work on pombe projects, day one starts with: “Here is your desk and bench… This is the lab information… Here is a minireview on pombe as a model organism and here is THE PomBase… Now, let’s make some discoveries…”",
+            "author": "Ivan Surovtsev, Yale University",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "Upon sequencing the genome of a mutant strain, we found a missense mutation in a gene that did not appear to have been studied before based on a PubMed search. However, when looking up this gene in PomBase, we found a wealth of information associated with either deletion or overexpression from various genomic-scale studies. This has guided our efforts to understand the consequence of the missense mutation. We would have had no clue how to move forward with this project without PomBase.",
+            "author": "Professor Charlie Hoffman, Boston College, USA",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "PomBase is essential to our daily work, from genome editing to gene annotation and protein feature. PomBase is the main tool we use to gain an in-depth understanding of genome organization, genetic interaction and protein-protein interaction. We can use PomBase several times per day. Without PomBase,  our scientific approaches would be completely reshaped at the cost of strong delay in our work progression. It would be extremely hard to keep competitivity without PomBase.",
+            "author": "Sarah Lambert, Institut Curie, France.",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "We would frequently look to PomBase to understand functional and physical relationships involving genes we came across in multicopy suppressor screens.",
+            "author": "Professor Charlie Hoffman, Boston College, USA",
+            "show_on_front_page": true
+        }
+    ],
     "footer": {
         "funders": "PomBase is funded by the <a href=\"http://www.wellcome.ac.uk/\">Wellcome Trust</a>, run by a consortium comprising the <a href=\"http://www.cam.ac.uk/\">University of Cambridge</a>, <a href=\"http://www.ucl.ac.uk/\">University College London</a>, and hosted by the <a href=\"http://www.babraham.ac.uk\">Babraham Institute</a>.",
         "show_elixir_and_gbc_message": true,
