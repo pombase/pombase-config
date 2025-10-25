@@ -225,6 +225,10 @@
                         "url": "/datasets"
                     },
                     {
+                        "title": "Latest monthly release",
+                        "url": "https://www.pombase.org/latest_release"
+                    },
+                    {
                         "title": "GO annotation",
                         "url": "/downloads/go-annotations"
                     },
