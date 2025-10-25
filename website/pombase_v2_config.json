@@ -13,7 +13,7 @@
     "testimonials": [
         {
             "quote": "Simply put, PomBase is a must for a fission yeast researcher. With every new student joining lab to work on pombe projects, day one starts with: “Here is your desk and bench… This is the lab information… Here is a minireview on pombe as a model organism and here is THE PomBase… Now, let’s make some discoveries…”",
-            "author": "Ivan Surovtsev, Staff Scientist, Yale University",
+            "author": "Ivan Surovtsev, Research Scientist, Yale University",
             "show_on_front_page": true
         },
         {
@@ -29,6 +29,46 @@
         {
             "quote": "We would frequently look to PomBase to understand functional and physical relationships involving genes we came across in multicopy suppressor screens.",
             "author": "Professor Charlie Hoffman, Boston College, USA",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "Our research <a target='_blank' href='/reference/PMID:40015273'>Skribbe <i>et al.</i> 2025</a> would not have been possible without PomBase. From defining the project to gaining valuable information about the proteins to be studied (what are they, who do they interact with, what are their protein domains, when and where are they expressed, etc) to sharing our data with the community via the PomBase platform. And this is not taking into account all the small projects that emerged along the way which we could easily evaluate in priority and feasibility because of PomBase.",
+            "author": "Merle Skribbe, former PhD student, Friedrich Miescher Institute for Biomedical Research",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "I struggle to estimate the time used but PomBase is always my first go-to if I am in need of any kind of fission yeast related information. I would estimate that for this project, I spend on average half an hour a day on PomBase over 4 years. Beyond that, I also relied on PomBase for previous projects. A specific advantage for me is how carefully curated and easily accessible the information are. It makes it a particularly powerful tool to connect pieces of information and develop projects.",
+            "author": "Merle Skribbe, former PhD student, Friedrich Miescher Institute for Biomedical Research",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "I use Pombase routinely as the one stop place for any and all information on any gene of interest.  The extent to which I use it is extensive, easily once every week or even more frequently.",
+            "author": "Professor Mohan Balasubramanian, University of Warwick",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "PomBase is an indispensable resource that I use almost daily in my research. Its comprehensive and expertly curated data make it easy to explore gene function, genetic interactions, and regulatory pathways. The high-quality annotations, integration of literature, and intuitive interface greatly facilitate experimental design, data interpretation, and hypothesis generation.",
+            "author": "Professor Songtao Jia, Columbia University",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "I am characterizing a protein-DNA complex that would have been infinitely more difficult without resources from PomBase. […] Without PomBase, it would have likely took me four- to five-fold more time to complete my current progress. PomBase has streamlined fission yeast research and resource tools.",
+            "author": "Emory Malone, PhD student, University of Arkansas for Medical Sciences",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "For those daily processes, our group in total spends 2 hours per day. And literally we use every day. The time may be not that long, but that is because PomBase is very easy to use for students. In the absence of PomBase, we must go back to the laboratory life of ~30 years  ago ---students would be reluctant to do experiments, because even gene deletion would be tedious in its absence. I would like to stress that there are no alternatives for PomBase.",
+            "author": "Professor Masamitsu Sato, Waseda University",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "It is back and forth:  think about the project/results for a while, then compare with the body of data in PomBase, then think/work a bit more. Rinse and repeat.",
+            "author": "Martin Převorovský, Charles University, Czech Republic",
+            "show_on_front_page": true
+        },
+        {
+            "quote": "As S. pombe has relatively simple genome organisation, even junior students can easily recognise where the promoter, CDS, terminator, ATG, termination codons, nuclear localisation signals, intron-exon borders etc. exist on chromosomes (in human, lots of intron make it impossible for young students to recognise how each gene is located on chromosome DNA). This is indeed for the first time for most students to see the real 'map' of genes. That is why we use genome browser of PomBase.",
+            "author": "Professor Masamitsu Sato, Waseda University",
             "show_on_front_page": true
         }
     ],
