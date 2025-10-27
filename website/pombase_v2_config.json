@@ -12250,16 +12250,16 @@
         "descriptions": {
             "PSI-MOD": "Protein Modifications Ontology",
             "biological_process": "GO biological process",
-            "cell": "The Cell Ontology (CL) of biological cell types",
+            "cell": "The Cell Ontology of biological cell types (CL)",
             "cellular_component": "GO cellular component",
-            "chebi_ontology": "Chemical Entities of Biological Interest Ontology",
-            "fission_yeast_phenotype": "A formal ontology of phenotypes observed in fission yeast",
+            "chebi_ontology": "Chemical Entities of Biological Interest Ontology (CHEBI)",
+            "fission_yeast_phenotype": "A formal ontology of phenotypes observed in fission yeast (FYPO)",
             "fission_yeast_phenotype_condition": "FYPO condition ontology",
             "molecular_function": "GO molecular function",
             "mondo": "Mondo disease ontology",
             "pombase_relations": "PomBase specific ontology relations",
-            "protein": "PRO protein-relation entity ontology",
-            "sequence": "Ontology of sequence features used in biological sequence annotation"
+            "protein": "PRO protein-relation entity ontology (PRO)",
+            "sequence": "Ontology of sequence features used in biological sequence annotation (SO)"
         }
     },
     "stats": {
