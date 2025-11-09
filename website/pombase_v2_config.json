@@ -6406,6 +6406,19 @@
     		"date_added": "2025-09-29",
     		"show_on_front_page": true
 		},
+		{
+    		"title": "Amberg et al, 2025",
+    		"title_link": null,
+    		"panel_type": "spotlight",
+    		"head_image": [
+        	"spotlight/2025-11-09-PMID41068765.png"
+    		],
+    		"content": "Proteasome regulation of petite-negativity in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1186/s12915-025-02409-2'>BMC Biol</a>.",
+    		"reference_id": "PMID:41068765",
+    		"link_label": "Publication record in PomBase ...",
+    		"date_added": "2025-11-09",
+    		"show_on_front_page": true
+		},
         {
             "title": "Recent community curation",
             "panel_type": "community",
