@@ -8160,6 +8160,12 @@
     "extension_display_names": [
         {
             "rel_name": "has_input",
+            "if_descendant_of": "GO:0140567",
+            "display_name": "extracts",
+            "reciprocal_display": "extracted by"
+        },
+        {
+            "rel_name": "has_input",
             "if_descendant_of": "GO:0140299",
             "display_name": "senses",
             "reciprocal_display": "sensed by"
