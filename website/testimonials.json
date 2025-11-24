@@ -1,0 +1,862 @@
+[
+  {
+    "quote": "Simply put, PomBase is a must for a fission yeast researcher. With every new student joining lab to work on pombe projects, day one starts with: ‘Here is your desk and bench… This is the lab information… Here is a minireview on pombe as a model organism and here is THE PomBase… Now, let’s make some discoveries…’",
+    "author": "Ivan Surovtsev, Research Scientist, Yale University, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase led me to the tif471 and lys7 promoters that are divergently transcribed. The gene expression data showed that they were of significantly different strengths. From this information, both of which were obtained from Pombase, we created and published two different tools.",
+    "author": "Professor Charlie Hoffman, Boston College, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "We would frequently look to PomBase to understand functional and physical relationships involving genes we came across in multicopy suppressor screens.",
+    "author": "Professor Charlie Hoffman, Boston College, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Upon sequencing the genome of a mutant strain, we found a missense mutation in a gene that did not appear to have been studied before based on a PubMed search. However, when looking up this gene in PomBase, we found a wealth of information associated with either deletion or overexpression from various genomic-scale studies. This has guided our efforts to understand the consequence of the missense mutation. We would have had no clue how to move forward with this project without PomBase.",
+    "author": "Professor Charlie Hoffman, Boston College, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Over the years, we have used PomBase in many different ways. Once, we were looking to make a new expression vector that would have a choice of two promoters of different strengths in a small region of the genome. PomBase led me to the tif471 and lys7 promoters that are divergently transcribed. The gene expression data showed that they were of significantly different strengths. From this information, both of which were obtained from Pombase, we created and published two different tools.<p>We would frequently look to PomBase to understand functional and physical relationships involving genes we came across in multicopy suppressor screens.<p>Finally, we recently carried out a genetic screen for mutations that confer resistance to a compound we identified in a HTS that confers growth arrest to S. pombe. Upon sequencing the genome of a mutant strain, we found a missense mutation in a gene that did not appear to have been studied before based on a PubMed search. However, when looking up this gene in PomBase, we found a wealth of information associated with either deletion or overexpression from various genomic-scale studies. This has guided our efforts to understand the consequence of the missense mutation. We would have had no clue how to move forward with this project without PomBase.",
+    "author": "Professor Charlie Hoffman, Boston College, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase is essential to our daily work, from genome editing to gene annotation and protein feature. PomBase is the main tool we use to gain an in-depth understanding of genome organization, genetic interaction and protein-protein interaction. We can use PomBase several times per day. Without PomBase,  our scientific approaches would be completely reshaped at the cost of strong delay in our work progression. It would be extremely hard to keep competitivity without PomBase.",
+    "author": "Sarah Lambert, Directeur de recherche CNRS, Institut Curie, France.",
+    "location": "BOTH"
+  },
+  {
+    "quote": "Our research (<a target='_blank' href='/reference/PMID:40015273'>PMID:40015273</a>) would not have been possible without PomBase. From defining the project to gaining valuable information about the proteins to be studied (what are they, who do they interact with, what are their protein domains, when and where are they expressed, etc) to sharing our data with the community via the PomBase platform. And this is not taking into account all the small projects that emerged along the way which we could easily evaluate in priority and feasibility because of PomBase.",
+    "author": "Merle Skribbe, former PhD student, Friedrich Miescher Institute for Biomedical Research, Switzerland",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I struggle to estimate the time used but PomBase is always my first go-to if I am in need of any kind of fission yeast related information. I would estimate that for this project, I spend on average half an hour a day on PomBase over 4 years. Beyond that, I also relied on PomBase for previous projects. A specific advantage for me is how carefully curated and easily accessible the information are. It makes it a particularly powerful tool to connect pieces of information and develop projects.",
+    "author": "Merle Skribbe, former PhD student, Friedrich Miescher Institute for Biomedical Research, Switzerland",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Our research (<a target='_blank' href='/reference/PMID:40015273'>PMID:40015273</a>) would not have been possible without PomBase. From defining the project to gaining valuable information about the proteins to be studied (what are they, who do they interact with, what are their protein domains, when and where are they expressed, etc) to sharing our data with the community via the PomBase platform. And this is not taking into account all the small projects that emerged along the way which we could easily evaluate in priority and feasibility because of PomBase. Since we looked at transcription factor interactions with proteins and chromatin in a comprehensive manner, we saved a lot of time comparing our results to published work, confirming them and/or developing new research directions. For example, we observed an interaction between Pho7 and the 14-3-3 proteins Rad24 and Rad25. Initially, we disregarded these interactions because we often co-purified these interactors. But because Rad24 already had annotated physical interactions with transcription factors, we decided to take a closer look at this interaction. As a result, we uncovered that a large fraction of S. pombe transcription factors interact with 14-3-3 proteins, suggesting a common mechanism for their regulation. We were also able to propose a model for the regulation of Pho7 in particular. Without these annotations, this interaction may not have caught our interest. I struggle to estimate the time used but PomBase is always my first go-to if I am in need of any kind of fission yeast related information. I would estimate that for this project, I spend on average half an hour a day on PomBase over 4 years. Beyond that, I also relied on PomBase for previous projects. A specific advantage for me is how carefully curated and easily accessible the information are. It makes it a particularly powerful tool to connect pieces of information and develop projects.",
+    "author": "Merle Skribbe, former PhD student, Friedrich Miescher Institute for Biomedical Research, Switzerland",
+    "location": "FULL"
+  },
+  {
+    "quote": "I use Pombase routinely as the one stop place for any and all information on any gene of interest. The extent to which I use it is extensive, easily once every week or even more frequently.",
+    "author": "Professor Mohan Balasubramanian, University of Warwick, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase is an indispensable resource that I use almost daily in my research. Its comprehensive and expertly curated data make it easy to explore gene function, genetic interactions, and regulatory pathways. The high-quality annotations, integration of literature, and intuitive interface greatly facilitate experimental design, data interpretation, and hypothesis generation.",
+    "author": "Professor Songtao Jia, Columbia University, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I am characterizing a protein-DNA complex that would have been infinitely more difficult without resources from PomBase. […] Without PomBase, it would have likely took me four- to five-fold more time to complete my current progress. PomBase has streamlined fission yeast research and resource tools.",
+    "author": "Emory Malone, PhD student, University of Arkansas for Medical Sciences, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I am characterizing a protein-DNA complex that would have been infinitely more difficult without resources from PomBase. PomBase organizes information on protein domains of my protein of interest as well as the protein sequence, and I can align ChIP-seq data from other resources to spot if protein-DNA complex formation aligns with other factors using multiple sets of pombe data. Additionally, we like to study conserved processes, and PomBase allows you to quickly find homologs of proteins of interest. The availability of protein domain sequences has allowed me to quickly design amino acid substitutions in the protein DNA binding domain to determine sequence-specific functions of this protein.<p>Without PomBase, it would have likely taken me four- to five-fold more time to complete my current progress. PomBase has streamlined fission yeast research and resource tools.<p>I have not yet looked into the GO-CAM pathways, and this would be very beneficial for our area of interest. Upstream of DNA site-dependent meiotic recombination is a number of metabolic pathways which regulate transcription factors.",
+    "author": "Emory Malone, PhD student, University of Arkansas for Medical Sciences, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "For those daily processes, our group in total spends 2 hours per day. And literally we use it every day. The time may not be that long, but that is because PomBase is very easy to use for students. In the absence of PomBase, we must go back to the laboratory life of ~30 years  ago ---students would be reluctant to do experiments, because even gene deletion would be tedious in its absence. I would like to stress that there are no alternatives for PomBase.",
+    "author": "Professor Masamitsu Sato, Waseda University",
+    "location": "FRONT"
+  },
+  {
+    "quote": "As S. pombe has relatively simple genome organisation, even junior students can easily recognise where the promoter, CDS, terminator, ATG, termination codons, nuclear localisation signals, intron-exon borders etc. exist on chromosomes (in human, lots of intron make it impossible for young students to recognise how each gene is located on chromosome DNA). This is indeed for the first time for most students to see the real 'map' of genes. That is why we use the genome browser of PomBase.",
+    "author": "Professor Masamitsu Sato, Waseda University, Japan",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Our group has been using PomBase constantly since it launched. For daily experiments, genome browser is essential and indeed very useful to design gene-knockout/knockin construction. It is also essential to estimate phenotypes of mutants when we are looking for candidate genes that regulate the phenomenon of our interest. It involves both phenotypes characterised by experiments and those from comprehensive omics datasets. It is also essential to find the best literature for genes of interest. Particularly, the number of genes introduced in each literature is shown on the right, which is very useful to select which paper most describes the detailed information we want.<p>For those daily processes, our group in total spends 2 hours per day. And literally we use it every day. The time may not be that long, but that is because PomBase is very easy to use for students.<p>In the absence of PomBase, we must go back to the laboratory life of ~30 years  ago ---students would be reluctant to do experiments, because even gene deletion would be tedious in its absence. I would like to stress that there are no alternatives for PomBase.<p>As S. pombe has relatively simple genome organisation, even junior students can easily recognise where the promoter, CDS, terminator, ATG, termination codons, nuclear localisation signals, intron-exon borders etc. exist on chromosomes (in human, lots of intron make it impossible for young students to recognise how each gene is located on chromosome DNA). This is indeed for the first time for most students to see the real 'map' of genes. That is why we use the genome browser of PomBase.",
+    "author": "Professor Masamitsu Sato, Waseda University, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "It is back and forth: think about the project/results for a while, then compare with the body of data in PomBase, then think/work a bit more. Rinse and repeat.",
+    "author": "Martin Převorovský, Charles University, Czech Republic",
+    "location": "BOTH"
+  },
+  {
+    "quote": "The extent to which PomBase powers our research can hardly be overstated. It's a fantastic resource, and the outstanding, up-to-date curation and constant integration of new data types have contributed so much to enabling S. pombe research to drive our mechanistic understanding of universally conserved processes, for example in my own field of post-transcriptional gene regulation. I have PomBase open on a tab in my browser, always.",
+    "author": "Cornelia Kilchert, Group Leader, Justus Liebig University of Giessen, Germany",
+    "location": "FRONT"
+  },
+  {
+    "quote": "In our daily research, PomBase helps us to identify connections between pathways and is an essential tool for hypothesis building. For example, when we identified a set of physical interactors for the DEAD-box ATPase Dbp2, mining that data with the help of PomBase was instrumental in understanding its role at the interface between RNA 3'-end processing and export (<a target='_blank' href='/reference/PMID:39122693'>PMID:39122693</a>).",
+    "author": "Cornelia Kilchert, Group Leader, Justus Liebig University of Giessen, Germany",
+    "location": "FRONT"
+  },
+  {
+    "quote": "We are a young lab, but we have generated about a thousand S. pombe strains by now - every single one of them was designed with the help of the sequence resources and annotations provided by PomBase - to be honest, I would not even know where else to find that information if PomBase didn't exist.",
+    "author": "Cornelia Kilchert, Group Leader, Justus Liebig University of Giessen, Germany",
+    "location": "FRONT"
+  },
+  {
+    "quote": "The extent to which PomBase powers our research can hardly be overstated. It's a fantastic resource, and the outstanding, up-to-date curation and constant integration of new data types have contributed so much to enabling S. pombe research to drive our mechanistic understanding of universally conserved processes, for example in my own field of post-transcriptional gene regulation. I have PomBase open on a tab in my browser, always. When I come across an interesting gene in a paper or a seminar, pulling up information on that gene in PomBase is the first thing I do, because PomBase brings together all the relevant info in one place. Same if the research of interest was carried out in another organism - the ability to search for genes in the main search bar based on orthologue names makes that super quick (love that feature!). In our daily research, PomBase helps us to identify connections between pathways and is an essential tool for hypothesis building. For example, when we identified a set of physical interactors for the DEAD-box ATPase Dbp2, mining that data with the help of PomBase was instrumental in understanding its role at the interface between RNA 3'-end processing and export (<a target='_blank' href='/reference/PMID:39122693'>PMID:39122693</a>). We are a young lab, but we have generated about a thousand S. pombe strains by now - every single one of them was designed with the help of the sequence resources and annotations provided by PomBase - to be honest, I would not even know where else to find that information if PomBase didn't exist.",
+    "author": "Cornelia Kilchert, Group Leader, Justus Liebig University of Giessen",
+    "location": "FULL"
+  },
+  {
+    "quote": "Without going into details, I just want to say that the PomBase has been an important source of information throughout my career. What I really appreciate is that the PomBase is run by dedicated scientists who understand fission yeast biology and they know what other scientists need from the PomBase. Indeed, whenever I needed information or help with curation, the PomBase staff helped me.",
+    "author": "Juraj Gregan, BOKU University Vienna, Austria",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Without going into details, I just want to say that the PomBase has been an important source of information throughout my career. What I really appreciate is that the PomBase is run by dedicated scientists who understand fission yeast biology and they know what other scientists need from the PomBase. Indeed, whenever I needed information or help with curation, the PomBase staff helped me.<p>I always recommend PomBase to my students and they certainly use it.",
+    "author": "Juraj Gregan, BOKU University Vienna",
+    "location": "FULL"
+  },
+  {
+    "quote": "My lab has used S. pombe as a model organism for >20 yrs. All projects start with searching for information on PomBase. On average, I estimate 5% of total working time is spent on PomBase. In fact, the website is permanently opened on my browser.",
+    "author": "Phong Tran, Team Leader at Institut Curie, France, and Associate Professor at University of Pennsylvania, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "My lab has used S. pombe as a model organism for >20 yrs. All projects start with searching for information on PomBase. On average, I estimate 5% of total working time is spent on PomBase. In fact, the website is permanently opened on my browser.<p>For each new trainee to my lab, I would introduce PomBase, and show how to view gene sequences, protein domains, and 3D structures, as well as literature.",
+    "author": "Phong Tran, Team Leader at Institut Curie, France, and Associate Professor at University of Pennsylvania, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase is invaluable to our research. Without it published work such as those with <a target='_blank' href='/reference/PMID:41023123'>PMID:41023123</a>, <a target='_blank' href='/reference/PMID:40584586'>PMID:40584586</a>, <a target='_blank' href='/reference/PMID:34525330'>PMID:34525330</a>, <a target='_blank' href='/reference/PMID:32160533'>PMID:32160533</a> would have been significantly delayed or compromised. Our running programmes funded by BBSRC and MRC depend heavily on PomBase as a resource.",
+    "author": "Charalampos Rallis, Group Leader, Queen Mary University of London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is used in my teaching activities, especially in MSci, MSc, MRes and BSc research projects. Students are introduced to PomBase and its capabilities/tools and they use it for their own needs and gene/s of interest. Sourcing information from PomBase is in most cases the 'entry point' for researching on a gene, protein or mutant and for easily finding related papers.",
+    "author": "Charalampos Rallis, Group Leader, Queen Mary University of London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is invaluable to our research. Without it published work such as those with <a target='_blank' href='/reference/PMID:41023123'>PMID:41023123</a>, <a target='_blank' href='/reference/PMID:40584586'>PMID:40584586</a>, <a target='_blank' href='/reference/PMID:34525330'>PMID:34525330</a>, <a target='_blank' href='/reference/PMID:32160533'>PMID:32160533</a> would have been significantly delayed or compromised. Our running programmes funded by BBSRC and MRC depend heavily on PomBase as a resource.<p>PomBase is used in my teaching activities, especially in MSci, MSc, MRes and BSc research projects. Students are introduced to PomBase and its capabilities/tools and they use it for their own needs and gene/s of interest. Sourcing information from PomBase is in most cases the 'entry point' for researching on a gene, protein or mutant and for easily finding related papers.",
+    "author": "Charalampos Rallis, Group Leader, Queen Mary University of London, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase is an essential resource for my lab. We use it for both individual gene experiments and genome-wide analyses. For individual genes, we use it for designing genetic manipulations, for researching phenotypes and genetic interactions, and for finding relevant literature. Having these resources organized on one interactive site is an invaluable tool, one that saves us hours and hours that would be required to assemble such data from disparate sources, and that results in better information. For genome-wide analyses, PomBase is even more important. It provides genome-level data that is not available from any other source.",
+    "author": "Professor Nick Rhind, UMass Chan Medical School, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "We are currently working on a proteomics project, identifying size-dependent protein expression and turnover rates. The analysis of our data would be severely curtailed without PomBase data. Not only do we rely heavily on the best, most up-to-date GO annotation of any organism, we also depend on other unique curated datasets, such as protein interactions and stoichiometric complexes. Without PomBase, my lab's would be significantly less productive and our work would be significantly less insightful.",
+    "author": "Professor Nick Rhind, UMass Chan Medical School, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is an essential resource for my lab. We use it for both individual gene experiments and genome-wide analyses. For individual genes, we use it for designing genetic manipulations, for researching phenotypes and genetic interactions, and for finding relevant literature. Having these resources organized on one interactive site is an invaluable tool, one that saves us hours and hours that would be required to assemble such data from disparate sources, and that results in better information. For genome-wide analyses, PomBase is even more important. It provides genome-level data that is not available from any other source. We are currently working on a proteomics project, identifying size-dependent protein expression and turnover rates. The analysis of our data would be severely curtailed without PomBase data. Not only do we rely heavily on the best, most up-to-date GO annotation of any organism, we also depend on other unique curated datasets, such as protein interactions and stoichiometric complexes. Without PomBase, my lab's would be significantly less productive and our work would be significantly less insightful.",
+    "author": "Professor Nick Rhind, UMass Chan Medical School, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "Who works on S. pombe and doesn't use PomBase? No one, of course. PomBase is the pombologist's cookbook. Could we continue to work without PomBase? Yes, but it would be like going back to candlelight. Whatever we do, whatever we look for, we'll make a few (or a lot) of clicks, for the simplest to the most complex question. And when we can't do what we want, the staff is there to help! Thank you, well done!",
+    "author": "Jean-Paul Javerzat, Directeur de Recherche CNRS, Bordeaux, France",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase has been enormously helpful for my work, first as a postdoc and now as a group leader. I use it almost daily, and it's the first tool I show incoming students to the lab. When doing literature searches, I use it for hours on end to find connections between genes. Specifically, in my main postdoctoral paper (<a target='_blank' href='/reference/PMID:37783794'>PMID:37783794</a>), we used the wealth of mutant information to make key insights directing a targeted screen for synthetic lethality/sick mutants with CMP7. PomBase made planning this significantly easier, resulting in immense saving of time and money.",
+    "author": "Nick Ader, Assistant Professor, UNC Greensboro, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I am on PomBase every day, or nearly every day, be it to check the position of genes when planning a genetic cross, to look at the known interactions of a new protein we encounter or to find the S. pombe homologue of a protein I read about in a paper. For instance, I have repetitively used it to scan through lists of candidate interactors found in IP-MS experiments to find the hidden gem. PomBase is extremely complete, yet easy to navigate, which makes the searching and browsing extremely efficient. Without PomBase, it would have taken weeks... and perhaps without success.",
+    "author": "Professor Sophie G Martin, University of Geneva, Switzerland",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I use it in teaching to illustrate the strength of a research community and of a database that centralises the information collected over decades of work by hundreds of labs. I also encourage undergrads to be curious and browse through it.",
+    "author": "Professor Sophie G Martin, University of Geneva, Switzerland",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I am on PomBase every day, or nearly every day, be it to check the position of genes when planning a genetic cross, to look at the known interactions of a new protein we encounter or to find the S. pombe homologue of a protein I read about in a paper. For instance, I have repetitively used it to scan through lists of candidate interactors found in IP-MS experiments to find the hidden gem. PomBase is extremely complete, yet easy to navigate, which makes the searching and browsing extremely efficient. Without PomBase, it would have taken weeks... and perhaps without success.<p>I use it in teaching to illustrate the strength of a research community and of a database that centralises the information collected over decades of work by hundreds of labs. I also encourage undergrads to be curious and browse through it.",
+    "author": "Professor Sophie G Martin, University of Geneva, Switzerland",
+    "location": "FULL"
+  },
+  {
+    "quote": "To get the upstream promoter region sequences, this server is very useful. We used to search for cis-elements in the genes we identified by the NGS analyses.<p>All students who use S. pombe are PomBase users.<p>For searching cis-elements (TF binding sequences) in the promoter region of genes. Of course, we usually use this database for searching gene sequence, function and structure, and homologous genes.<p>For beginners, we use this site to introduce the methodology to search required information from databases.",
+    "author": "Professor Kouji Hirota, Tokyo Metropolitan University, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "One of our projects is looking at all proteins (hundreds) that are localized at a specific organella. We could easily find the proteins with PomBase in only a few minutes. Without PomBase, I do not know how much time it takes, maybe impossible.",
+    "author": "Anonymous PI, Hiroshima University, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "We are trying to understand the properties and requirements for neo-centromere function. Each of us uses PomBase between five and 20 hours per week.<p>All PhD students use PomBase and undergraduate project students also use PomBase.",
+    "author": "William Brown, Principal Investigator, University of Nottingham, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I supervise final-year undergraduate research projects that employ Schizosaccharomyces pombe as a model organism for gene-editing studies. PomBase serves as a comprehensive and authoritative resource, providing access to genomic sequences and detailed information on genes of interest, including protein structure, genetic interactions, phenotypic data, and associated literature. Its well-annotated and evidence-based content makes it an accessible and reliable tool for undergraduate research. Furthermore, the curated literature highlights on the PomBase platform offer valuable insight into the breadth and depth of research applications utilizing S. pombe as a model system.",
+    "author": "Ye Dee Tay, Lecturer in Biomedical Sciences, Cardiff University, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "Yes, I used PomBase in a university teaching setting at Universidad de Salamanca. Students in a molecular genetics module used the database to investigate a different S. pombe gene each, reviewing gene function, mutants and human orthologs. They then gave a brief presentation of their findings. The exercise helped them familiarise with curated biological databases and appreciate model-organism research.",
+    "author": "Alfonso Fernández-Álvarez, Instituto de Biología Funcional y Genómica, Zacarías González 2, Salamanca, Spain.",
+    "location": "BOTH"
+  },
+  {
+    "quote": "My lab uses PomBase several times a week for our research projects. It is of crucial importance for both designing our research and interpreting our data.",
+    "author": "Pascal Bernard, Senior scientist at CNRS, Ecole Normale Supérieure de Lyon, France",
+    "location": "FULL"
+  },
+  {
+    "quote": "Our laboratory uses fission yeast as a model system to investigate how homologous recombination facilitates the restart of collapsed replication forks, a vital process that promotes genome stability. [...] Fission yeast remains one of the most powerful model organisms for this research area, offering unique genetic tools and assays that are not available in other systems. The continued maintenance and development of PomBase is absolutely essential to sustain and advance this work.",
+    "author": "Professor Matthew Whitby, University of Oxford, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is an indispensable resource that underpins nearly every aspect of our research — we use it on an almost daily basis. It has been instrumental in our recent studies, enabling us to rapidly redesign genomic regions to create new assays for replication restart and termination, and to identify candidate components of the recombination machinery through efficient data mining (e.g., <a target='_blank' href='/reference/PMID:39561776'>PMID:39561776</a>; <a target='_blank' href='/reference/PMID:38007544'>PMID:38007544</a>)<p>Without PomBase, much of our work would be significantly slower, more complex, and far more costly. Continued investment in this resource will ensure that the fission yeast research community—and the broader fields of genome maintenance and DNA repair—can continue to make discoveries of international significance.”",
+    "author": "Professor Matthew Whitby, University of Oxford, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Our laboratory uses fission yeast as a model system to investigate how homologous recombination facilitates the restart of collapsed replication forks, a vital process that promotes genome stability. Our work is currently funded by the BBSRC. Fission yeast remains one of the most powerful model organisms for this research area, offering unique genetic tools and assays that are not available in other systems. The continued maintenance and development of PomBase is absolutely essential to sustain and advance this work.<p>PomBase is an indispensable resource that underpins nearly every aspect of our research — we use it on an almost daily basis. It has been instrumental in our recent studies, enabling us to rapidly redesign genomic regions to create new assays for replication restart and termination, and to identify candidate components of the recombination machinery through efficient data mining (e.g., <a target='_blank' href='/reference/PMID:39561776'>PMID:39561776</a>; <a target='_blank' href='/reference/PMID:38007544'>PMID:38007544</a>).<p>Without PomBase, much of our work would be significantly slower, more complex, and far more costly. Continued investment in this resource will ensure that the fission yeast research community—and the broader fields of genome maintenance and DNA repair—can continue to make discoveries of international significance.<p>We also run a practical class for students on the MBiochem Molecular and Cellular Biochemistry course at the University of Oxford, in which students investigate genetic interactions in DNA repair and homologous recombination in fission yeast. As part of their investigations, students use PomBase to mine and interpret genetic and genomic data. This provides them with invaluable hands-on experience in bioinformatics and illustrates how community databases like PomBase directly support both research and education in molecular genetics.",
+    "author": "Professor Matthew Whitby, University of Oxford, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "First thing in mind, I use PomBase every single day to check available resources. Not only specific datasets such as sequencing data in the browser from different studies, which is very helpful to have in a single database in order to compare your own data, but little and vital information such as viability of specific mutations, phenotypes of deleted genes, expression of single genes in different conditions, get full sequences of interest from this database, look for published papers about specific topics, complexes, or proteins. It is updated regularly and always evolving and adapting, developing new tools very consistently. PomBase gives every information available about anything S. pombe related, in an easy to follow and clear manner, while being one of the most updated and reliable sources of knowledge for my day to day work. My work and my colleagues would not be possible without PomBase.",
+    "author": "Ruben Barrios, Post-doctoral researcher, Universidad Pompeu Fabra, Spain",
+    "location": "FULL"
+  },
+  {
+    "quote": "Most of my projects will effect without Pombase, I think 10% of time",
+    "author": "Pin Tong, Post-doctoral researcher, Edinburgh university, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase is part of our daily workflow — whether we are looking up gene functions, mutant phenotypes, sequences, or protein interactions, it is almost always the first (and often only) place we turn to. Its carefully curated and consistently updated content makes it easy to find reliable information quickly, which is essential for planning experiments and interpreting results. PomBase doesn’t just save time — it shapes how we think about our data. I genuinely cannot imagine working with S. pombe without it.",
+    "author": "Professor Sigurd Braun, Justus Liebig University Giessen, Germany",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is part of our daily workflow — whether we are looking up gene functions, mutant phenotypes, sequences, or protein interactions, it is almost always the first (and often only) place we turn to. Its carefully curated and consistently updated content makes it easy to find reliable information quickly, which is essential for planning experiments and interpreting results. PomBase doesn’t just save time — it shapes how we think about our data. I genuinely cannot imagine working with S. pombe without it.<p>We have not yet used PomBase in formal teaching, but we are planning to incorporate it into future courses. For example, students will use PomBase to retrieve gene sequences, identify protein domains and homologs, and design primers for generating gene deletions, truncations, or point mutants. It provides an excellent hands-on resource for training in basic molecular genetics and bioinformatics.",
+    "author": "Professor Sigurd Braun, Justus Liebig University Giessen, Germany",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase is very important for the day-to-day research activities in the lab. I would say that the lab (including myself) checks PomBase gene pages 5-10 times a day. It is an essential resource for retrieving sequences to design primers, but is also a key hypothesis generator and partner in thinking about how to follow up on genomics and proteomics results. There is no equivalent resource that could substitute for it.",
+    "author": "Jason Tanny, Associate Professor, McGill University, Canada",
+    "location": "BOTH"
+  },
+  {
+    "quote": "The depth of curation and the ability to traverse from a gene to its interactions, phenotypes, and GO terms in a single interface have repeatedly highlighted connections we might otherwise have overlooked, directly informing experimental design and follow-up validation. PomBase representatives proactively inform users about new features through training and information sessions, ensuring that enhancements that might otherwise be overlooked are brought to users’ attention.",
+    "author": "Agnisrota Mazumder, PhD student, Justus Liebig University, Gießen, Germany",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is foundational to my research and to my laboratory’s daily operations. We study heterochromatin regulation in Schizosaccharomyces pombe and routinely conduct high-throughput genetic screens. PomBase’s integrated annotations on the S. pombe genome, genes, proteins, genetic and physical interactions, and functional ontologies enable rapid hypothesis generation, target prioritization, and interpretation of screening hits.<p>Project impact: Several ongoing projects in my group would have been substantially delayed, or not feasible at all, without PomBase’s curated datasets and cross-links that consolidate literature, interaction networks, and functional annotations in one place.<p>Time use and efficiency: We access PomBase daily for sequence retrieval, coordinates, orthology, and Gene Ontology lookups. Compared with assembling this information from primary literature and disparate databases, PomBase conservatively saves our lab several hours each week by streamlining search, verification, and annotation. PomBase is actively maintained and kept up to date, making it an extremely reliable resource to consult.<p>Specific insights: The depth of curation and the ability to traverse from a gene to its interactions, phenotypes, and GO terms in a single interface have repeatedly highlighted connections we might otherwise have overlooked, directly informing experimental design and follow-up validation. PomBase representatives proactively inform users about new features through training and information sessions, ensuring that enhancements that might otherwise be overlooked are brought to users’ attention.<p>Planned use of additional PomBase features:<p>In addition, a feature I have not yet used but expect to be valuable is “All curated GO-CAM pathways,” which represents complex biological pathways in a structured, computable format. I also plan to explore the Tools and Resources section, including the Identifier Mapping tool, peptide motif resources, and the PomBase Advanced Search function.",
+    "author": "Agnisrota Mazumder, PhD student, Justus Liebig University, Gießen",
+    "location": "FULL"
+  },
+  {
+    "quote": "Our laboratory is studying telomere maintenance mechanisms in various species including Schizosaccharomyces pombe. Together with Saccharomyces Genome Database, PomBase is an invaluable tool for gathering comprehensive information about the proteins directly or indirectly involved in telomere replication and protection not only in fission yeasts, but also in non-conventional yeast species lacking such resources. It also allows a genome/proteome-wide bioinformatic analysis that can yield novel hypotheses.<p>Students at advanced seminars in molecular and cell biology are asked to obtain information about a gene/protein of interest and then, based on the available data, suggest an experiment of how to test its involvement in a particular cellular process.",
+    "author": "Professor Lubomir Tomaska, Comenius University Bratislava, Slovakia",
+    "location": "FULL"
+  },
+  {
+    "quote": "Since I am working with wild fission yeast strains, searching for (currently unknown) genes in these strains that provide interesting phenotypes, PomBase has allowed me to narrow down the search. [...] The time gained having this resource is immense. Compared to my work with Aspergillus niger (no PomBase-like resource available) I am twice as effective with time when working with S. pombe and I am made more aware of the knowledge present in the community thanks to PomBase.",
+    "author": "Sjoerd Seekles, Post-doctoral researcher, University of Geneva, Switzerland",
+    "location": "FRONT"
+  },
+  {
+    "quote": "As a postdoctoral researcher working with fission yeast I use PomBase close to every day. It has been vital for my work and is a considerable resource. Many projects, small or large, would have become infeasible without PomBase.<p>Since I am working with wild fission yeast strains, searching for (currently unknown) genes in these strains that provide interesting phenotypes, PomBase has allowed me to narrow down the search. The many databases, such as phenotype, potential interactors, searching for proteins of specific length / having specific domain, are all things I do frequently. It is my reference for genes, proteins and even papers associated with said proteins. The time gained having this resource is immense. Compared to my work with Aspergillus niger (no PomBase-like resource available) I am twice as effective with time when working with S. pombe and I am made more aware of the knowledge present in the community thanks to PomBase.",
+    "author": "Sjoerd Seekles, Post-doctoral researcher, University of Geneva, Switzerland",
+    "location": "FULL"
+  },
+  {
+    "quote": "Our lab members all spend a good amount of time on PomBase, because it’s such an easy and efficient way to gather information. I would estimate that we save at least one to two hours each week thanks to PomBase. Without it, checking all the phenotypes at once would be impossible, and searching for this information in individual papers would be a very time-consuming process.",
+    "author": "Mian Wu, Ph.D. Student at Wake Forest University, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I always show my mentees how to use PomBase during our first meeting, since it provides all the basic information about Schizosaccharomyces pombe as a model organism, as well as details on any gene or protein they plan to study. The gene tools are intuitive and easy to demonstrate, allowing them to grasp key concepts quickly and efficiently.",
+    "author": "Mian Wu, Ph.D. Student at Wake Forest University, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I often use PomBase to get fundamental information about the genes or proteins I plan to work with, and it’s also extremely helpful when designing tagged proteins or other genetic constructs. Our lab members all spend a good amount of time on PomBase, because it’s such an easy and efficient way to gather information. I would estimate that we save at least one to two hours each week thanks to PomBase. Without it, checking all the phenotypes at once would be impossible, and searching for this information in individual papers would be a very time-consuming process.<p>I always show my mentees how to use PomBase during our first meeting, since it provides all the basic information about Schizosaccharomyces pombe as a model organism, as well as details on any gene or protein they plan to study. The gene tools are intuitive and easy to demonstrate, allowing them to grasp key concepts quickly and efficiently.",
+    "author": "Mian Wu, Ph.D. Student at Wake Forest University, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "In my current PhD project on Schizosaccharomyces pombe epigenetics, I routinely use PomBase on a weekly basis to access gene sequences and genomic positions for my genes of interest. It has been an exceptionally robust and reliable resource, consolidating a wide range of information — from gene sequences and phenotypes to protein structure, genetic interactions, and functional annotations — in one place. Without PomBase, my work would have been significantly delayed due to the additional time required to gather and cross-check this information from multiple disparate sources.",
+    "author": "Paresh P. Rana, PhD student, University of Edinburgh, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "We use PomBase every single day, and use it without thinking twice about how we would otherwise get the information we need. It is definitely something we take as a given, and therefore take for granted, because PomBase is always there. The gene information is invaluable, whether it is phenotypes of mutants, interacting partners, expression data, or just having sequences available without having to put any effort into it. Without PomBase, this information would still exist, but would undoubtedly be much harder to access.",
+    "author": "Randy Hyppa, Research assistant, Fred Hutch Cancer Center, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Without PomBase [...] We also would be missing the cooperative, collaborative experience that makes research possible. The S. pombe community helps one another, and PomBase is the central source of connection. The PomBase team goes above and beyond to make sure labs have the resources they need to succeed - it is not just a website, they are active in answering questions and concerns, and always trying to improve PomBase for users.",
+    "author": "Randy Hyppa, Research assistant, Fred Hutch Cancer Center, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "We use PomBase every single day, and use it without thinking twice about how we would otherwise get the information we need. It is definitely something we take as a given, and therefore take for granted, because PomBase is always there. The gene information is invaluable, whether it is phenotypes of mutants, interacting partners, expression data, or just having sequences available without having to put any effort into it. Without PomBase, this information would still exist, but would undoubtedly be much harder to access. We also would be missing the cooperative, collaborative experience that makes research possible. The S. pombe community helps one another, and PomBase is the central source of connection. The PomBase team goes above and beyond to make sure labs have the resources they need to succeed - it is not just a website, they are active in answering questions and concerns, and always trying to improve PomBase for users. Our lab collectively spends a few hours a week on PomBase, but if we had to find the gene data, the genome data, the publications, etc. on our own, it would take far longer. PomBase is an essential time saver, time we need for experiments. I have pulled up multiple genes and retrieved the protein sequences in the last week to put into Alphafold and look for unique protein-protein interactions, and in the process found potential partners that I had overlooked, and publications that I had otherwise missed. We are very grateful for the hard work of the PomBase team, and we would absolutely struggle without their efforts. Thank you.",
+    "author": "Randy Hyppa, Research assistant, Fred Hutch Cancer Center, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "Even though I don’t directly work on S. pombe, I often rely on PomBase to find homologous proteins and access detailed gene information with just a few clicks. It saves me a great deal of time that would otherwise be spent searching across multiple databases. It has become an essential part of my research workflow.",
+    "author": "Mengyuan Li, Post-doctoral researcher, University of Edinburgh, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "My past postdoctoral projects, already published in Nat Comm and Cell Rep, as well as my current project as a PI, would have been extremely difficult to carry out and significantly delayed without PomBase. We use PomBase almost daily and it is essential to plan and design experiments in the timeframe of our grants. Screening the literature to support an hypothesis or to properly design the best strategy to demonstrate it is extremely time consuming; PomBase significantly reduces the time required for doing so. Also, searching for the sequence, genome location, domains, interactions, structure, localization, expression, phenotypes, etc, of your favorite gene or protein is done in a mouse click, while it would take hours to individually search for such information.",
+    "author": "Alberto Elías Villalobos, Principal Investigator, Institute of Biomedicine of Seville, Department of Genetics,  University of Seville, Spain",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I have used PomBase to illustrate model-organisms databases in Genetic courses of the Grade in Biology at the University. It is intuitive and extremely useful and I typically use it as an example of what a well-done database should look like.",
+    "author": "Alberto Elías Villalobos, Principal Investigator, Institute of Biomedicine of Seville, Department of Genetics,  University of Seville, Spain",
+    "location": "FRONT"
+  },
+  {
+    "quote": "My past postdoctoral projects, already published in Nat Comm and Cell Rep, as well as my current project as a PI, would have been extremely difficult to carry out and significantly delayed without PomBase. We use PomBase almost daily and it is essential to plan and design experiments in the timeframe of our grants. Screening the literature to support an hypothesis or to properly design the best strategy to demonstrate it is extremely time consuming; PomBase significantly reduces the time required for doing so. Also, searching for the sequence, genome location, domains, interactions, structure, localization, expression, phenotypes, etc, of your favorite gene or protein is done in a mouse click, while it would take hours to individually search for such information.<p>I have used PomBase to illustrate model-organisms databases in Genetic courses of the Grade in Biology at the University. It is intuitive and extremely useful and I typically use it as an example of what a well-done database should look like.",
+    "author": "Alberto Elías Villalobos, Principal Investigator, Institute of Biomedicine of Seville, Department of Genetics,  University of Seville, Spain",
+    "location": "FULL"
+  },
+  {
+    "quote": "My research lab has studied TEs in S. pombe for the past 35 years and each day we rely on PomBase to interpret the results of our genome-wide experiments. [...] We use PomBase to visualize patterns of insertions and explore how the TEs impact the physiology of the cell. We scan the curated information of each gene and generate models for how phenotypes occur. PomBase has been essential for these evolution experiments by providing highly organized sets of functional and genomic data. Our study of TEs is just one example of hundreds of labs that use PomBase to explore fundamental questions of biology that have direct connections to human disease.",
+    "author": "Henry Levin, Senior Investigator, NIH, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Without PomBase I am certain that S. pombe would not be the major model for single cell biology that it is today. With increasingly complex questions of cellular and molecular biology, PomBase will be absolutely essential to unravel complex interactions of proteins in their cellular context.",
+    "author": "Henry Levin, Senior Investigator, NIH, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "My group studies transposable elements (TEs) and their impact on their host. I began my postdoctoral research just when TEs in Saccharomyces cerevisiae were discovered to be excellent models for HIV-1, the source of the pandemic that has claimed over 40 million lives.  In exploring Schizosaccharomyces pombe I found it too carried a dynamic population of TEs. However, the behavior of the TEs in S. pombe contrasted sharply with those of S. cerevisiae providing a powerful model for how TEs with regulatory elements wire networks of co-expressed genes.  My research lab has studied TEs in S. pombe for the past 35 years and each day we rely on PomBase to interpret the results of our genome-wide experiments. By studying ultra-high numbers of TE insertions, we find TE integration stimulates groups of stress response genes. We use PomBase to visualize patterns of insertions and explore how the TEs impact the physiology of the cell. We scan the curated information of each gene and generate models for how phenotypes occur. PomBase has been essential for these evolution experiments by providing highly organized sets of functional and genomic data. Our study of TEs is just one example of hundreds of labs that use PomBase to explore fundamental questions of biology that have direct connections to human disease. Without PomBase I am certain that S. pombe would not be the major model for single cell biology that it is today. With increasingly complex questions of cellular and molecular biology, PomBase will be absolutely essential to unravel complex interactions of proteins in their cellular context.",
+    "author": "Henry Levin, Senior Investigator, NIH, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "I use PomBase almost everyday. I can't imagine how to continue my research without PomBase. It will be impossible!",
+    "author": "Jun-Song Chen, Research assistant professor, Vanderbilt University, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I use PomBase on a weekly—often daily—basis, and I cannot count the number of times I’ve said ‘Have you checked PomBase?’ to my lab members. What makes PomBase so useful is how up-to-date, comprehensive, well-curated, and intuitive it is. And the team behind PomBase is outstanding: knowledgeable, approachable, and consistently quick to respond. I also appreciate that they provide clear, effective training that helps everyone get the most out of PomBase’s features. Without PomBase, our research progress would be significantly slower.",
+    "author": "Professor Silke Hauf, Virginia Tech, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I use PomBase in my undergraduate Molecular Biology class to teach gene structure, genome annotation, genotype–phenotype relationships, and the integration of large-scale resources. Because PomBase is so easy to use, it is an ideal platform for student-led projects.",
+    "author": "Professor Silke Hauf, Virginia Tech, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I use PomBase on a weekly—often daily—basis, and I cannot count the number of times I’ve said ‘Have you checked PomBase?’ to my lab members. What makes PomBase so useful is how up-to-date, comprehensive, well-curated, and intuitive it is. And the team behind PomBase is outstanding: knowledgeable, approachable, and consistently quick to respond. I also appreciate that they provide clear, effective training that helps everyone get the most out of PomBase’s features. Without PomBase, our research progress would be significantly slower.<p>I use PomBase in my undergraduate Molecular Biology class to teach gene structure, genome annotation, genotype–phenotype relationships, and the integration of large-scale resources. Because PomBase is so easy to use, it is an ideal platform for student-led projects.",
+    "author": "Professor Silke Hauf, Virginia Tech, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "Specific projects: Without PomBase, I would need to spend much more time collecting information on the genes of interest, including their roles, functions, protein activities, structures, and publications.<p>Time estimates: We primarily use PomBase to understand the features of the genes of interest.",
+    "author": "Professor Takuro Nakagawa, The University of Osaka, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase has been of exceptional help to me in my research. The database has well-annotated and detailed information about the proteins I am working on—nucleotide and protein sequences and protein structures.<p>PomBase is a complete, all-in-one database where I get all the information I need for my genes of interest. [...] This saves me and my students a lot of time, in that we don't waste time hopping from one database to the other, gathering fractions of information. Because my lab uses S. pombe as our model organism for our research, I, together with my students, spend a lot of hours per day on PomBase, learning and gathering information.",
+    "author": "Professor Gang Feng, Institute of Microbiology and Biotechnology, Nanjing Normal University, China.",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase has been of exceptional help to me in my research. The database has well-annotated and detailed information about the proteins I am working on—nucleotide and protein sequences and protein structures.<p>PomBase is a complete, all-in-one database where I get all the information I need for my genes of interest. Importantly, PomBase shows me the specific chromosome number and loci of my genes. This saves me and my students a lot of time, in that we don't waste time hopping from one database to the other, gathering fractions of information. Because my lab uses S. pombe as our model organism for our research, I, together with my students, spend a lot of hours per day on PomBase, learning and gathering information.<p>Yes. I used PomBase to teach gene annotation and functional analysis by showing students how to explore their gene of interest and interpret its biological data.",
+    "author": "Professor Gang Feng, Institute of Microbiology and Biotechnology, Nanjing Normal University, China.",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase has been indispensable for both my ongoing and published projects on TORC1 signaling and organelle-selective autophagy in Schizosaccharomyces pombe. The integrated annotation of gene functions, protein–protein interactions, and phenotypes has enabled rapid hypothesis generation and experimental design. For instance, our identification of the mitochondrial autophagy proteins relied heavily on curated datasets and ortholog information available through PomBase. Without this resource, the project would likely have been delayed by several months due to the time required to manually collect and verify relevant gene annotations and interaction data.",
+    "author": "Tomoyuki Fukuda, Niigata University Graduate School of Medical and Dental Sciences, Japan.",
+    "location": "FRONT"
+  },
+  {
+    "quote": "In addition, PomBase has provided insights that would have been difficult to obtain otherwise—for example, identifying conserved motifs and uncovering potential genetic interactions between TORC1 regulators and organelle maintenance factors. These community-curated datasets not only accelerate our research but also ensure that our work remains aligned with the broader understanding of S. pombe biology.",
+    "author": "Tomoyuki Fukuda, Niigata University Graduate School of Medical and Dental Sciences, Japan",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I used PomBase to demonstrate how biological databases are curated and maintained, and encouraged students to independently use the platform to investigate particular genes of interest. This activity helped students understand the value of community curation and data sharing in modern biological research.",
+    "author": "Tomoyuki Fukuda, Niigata University Graduate School of Medical and Dental Sciences, Japan",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase has been indispensable for both my ongoing and published projects on TORC1 signaling and organelle-selective autophagy in Schizosaccharomyces pombe. The integrated annotation of gene functions, protein–protein interactions, and phenotypes has enabled rapid hypothesis generation and experimental design. For instance, our identification of the mitochondrial autophagy proteins relied heavily on curated datasets and ortholog information available through PomBase. Without this resource, the project would likely have been delayed by several months due to the time required to manually collect and verify relevant gene annotations and interaction data.<p>My laboratory uses PomBase on an almost daily basis for gene function lookup, mutant phenotype comparison, and strain construction planning. I estimate that PomBase saves us at least several hours per week compared with searching multiple independent databases or primary literature sources.<p>In addition, PomBase has provided insights that would have been difficult to obtain otherwise—for example, identifying conserved motifs and uncovering potential genetic interactions between TORC1 regulators and organelle maintenance factors. These community-curated datasets not only accelerate our research but also ensure that our work remains aligned with the broader understanding of S. pombe biology.<p>I used PomBase to demonstrate how biological databases are curated and maintained, and encouraged students to independently use the platform to investigate particular genes of interest. This activity helped students understand the value of community curation and data sharing in modern biological research.",
+    "author": "Tomoyuki Fukuda, Niigata University Graduate School of Medical and Dental Sciences, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "To write journal club, and to think about protein, gene. Spending 10h. I save 5h.",
+    "author": "Takumi Yamamoto, PhD student, Osaka University, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase has been an invaluable resource for our research, significantly enhancing the efficiency and depth of our work on fission yeast. Here are some specific ways in which PomBase has supported our projects:<ol><li><h4>Specific Projects Supported by PomBase</h4>One of our ongoing projects focuses on understanding the essential genes system biology in fission yeast. Without PomBase, this project would have been significantly delayed. Manually curating and integrating data from thousands of publications would have been a monumental task, taking months if not years. PomBase’s comprehensive literature curation and integration of genomic features have allowed us to quickly access detailed information. This has enabled us to design more targeted experiments and rapidly build on existing knowledge.</li><li><h4>Time Estimates</h4>Our lab spends approximately 5-10 hours per week using PomBase for various tasks, including literature searches, gene annotation, and data analysis. Compared to alternative approaches, such as manually searching through multiple databases and publications, PomBase saves us an estimated 50-75% of the time. This time-saving is crucial, as it allows us to focus more on experimental work and data interpretation rather than data collection.</li><li><h4>Specific Insights Gained</h4>PomBase has provided specific insights that would have been difficult to obtain otherwise. For instance, the detailed annotations and integration of high-throughput datasets have helped us identify previously overlooked gene interactions and regulatory networks. The community curation feature, facilitated by tools like Canto, has been particularly useful. It allows us to access up-to-date information from the latest publications and incorporate community-generated data into our analyses. This collaborative aspect has been instrumental in uncovering novel regulatory mechanisms that we might have missed with traditional curation methods.</li></ol><p>PomBase has been an invaluable tool in our research，albeit for teaching purpose. It is very important for us. One specific example is we use it to investigate the role of specific genes in the fission yeast Schizosaccharomyces pombe. Using PomBase, we can access detailed annotations of genes, including their molecular functions, biological processes, and cellular components. It helps to understand how different alleles and genotypes affect phenotypes, which is crucial for grasping the principles of genetic variation and inheritance.<p>Moreover, PomBase’s integration of high-throughput datasets and manual curation from the literature provides us with a comprehensive view of how genetic research is conducted and documented<p>For instance, we can explore the phenotypes associated with different alleles and genotypes, as well as specific protein modifications. This hands-on experience with a curated database not only enhances our understanding of genetic concepts but also familiarizes us with the tools and resources used by other researchers in the field.<p>Additionally, the use of Canto, a web-based annotation tool originally developed for PomBase, allows us to participate in the annotation process. This interactive experience helps us appreciate the importance of accurate data curation and the collaborative nature of scientific research. By engaging with PomBase and Canto, we gain practical insights into gene function and the broader context of genetic research, making our learning experience more enriching and relevant.<p>In summary, PomBase has been essential to our research, providing a comprehensive, user-friendly, and community-driven resource that accelerates our work and enhances the quality of our findings.",
+    "author": "Xiao-Ran Zhang, Post-doctoral researcher",
+    "location": "FULL"
+  },
+  {
+    "quote": "I use PomBase on a daily basis, sometimes a dozen or more times a day.  Indeed, my browser history indicates that I made 466 visits to PomBase over a 3-month period.  Other people in our lab also each consult PomBase numerous times a week.",
+    "author": "Alison Pidoux, Senior research associate, Allshire Lab, University of Edinburgh, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "My favourite feature is Advanced Search which allows comparison of lists of genes based on phenotype, chromosome position, and numerous other features, including import of custom lists. Without the gene lists available in advanced search I would be completely lost as to where to find this information.  What takes minutes to do using the information and tools on PomBase would take me days without it.",
+    "author": "Alison Pidoux, Senior research associate, Allshire Lab, University of Edinburgh, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Three things I love about PomBase: the incredibly comprehensive, well-organised, user-friendly gene pages; the Advanced Search function – invaluable for making connections, cross comparing lists based on phenotype, genome position, protein domains, imported lists, etc; the dedication, innovation and responsiveness of the PomBase team and the ongoing addition of new features and tools.",
+    "author": "Alison Pidoux, Senior research associate, Allshire Lab, University of Edinburgh, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is easy for undergraduate students to get to grips with and successive honours students in our lab have mined it for information over the years.  In one project, students used the information in PomBase gene pages to identify which genes might have links to mitochondrial function, and which were candidates to give resistance phenotypes when deleted, then downloaded gene regions to design their constructs.  This experience gave the students insight into genome organisation, gene structure, phenotypes and pathways.  The research carried out in this project – based on information contained within PomBase pages – resulted in authorship for two undergraduate honours students on a paper recently accepted for publication (Fellas et al, EMBO J, in press).",
+    "author": "Alison Pidoux, Senior research associate, Allshire Lab, University of Edinburgh, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I use PomBase on a daily basis, sometimes a dozen or more times a day.  Indeed, my browser history indicates that I made 466 visits to PomBase over a 3-month period.  Other people in our lab also each consult PomBase numerous times a week.<p>My favourite feature is advanced search which allows comparison of lists of genes based on phenotype, chromosome position, and numerous other features, including import of custom lists. Without the gene lists available in advanced search I would be completely lost as to where to find this information.  What takes minutes to do using the information and tools on PomBase would take me days without it.<p>Three things I love about PomBase: the incredibly comprehensive, well-organised, user-friendly gene pages; the Advanced Search function – invaluable for making connections, cross comparing lists based on phenotype, genome position, protein domains, imported lists, etc; the dedication, innovation and responsiveness of the PomBase team and the ongoing addition of new features and tools.<p>PomBase is easy for undergraduate students to get to grips with and successive honours students in our lab have mined it for information over the years.  In one project, students used the information in PomBase gene pages to identify which genes might have links to mitochondrial function, and which were candidates to give resistance phenotypes when deleted, then downloaded gene regions to design their constructs.  This experience gave the students insight into genome organisation, gene structure, phenotypes and pathways.  The research carried out in this project – based on information contained within PomBase pages – resulted in authorship for two undergraduate honours students on a paper recently accepted for publication (Fellas et al, EMBO J, in press).",
+    "author": "Alison Pidoux, Senior research associate, Allshire Lab, University of Edinburgh, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "I work on understanding the role of regulatory phosphorylation sites on G2/M cell cycle regulators and PomBase was essential for me to figure out if these phosphosites have been found before in large phosphoproteomic based studies or any other genetic studies. To accomplish this goal through literature search would have been an impossible task. Almost at every stage of the project, I have gone back to PomBase to get further information about these regulators whether looking at genetic interactors or get basic details about the gene/protein sequence/structure. PomBase had been an invaluable resource that really helped me at every stage of my project.",
+    "author": "Pawan Singh, Staff Scientist, Cell Division Lab, CRUK-MI, UK.",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I used PomBase for my recent paper published in Nature, “Spatiotemporal Orchestration of Mitosis by Cyclin-Dependent Kinase”. I used it almost on a weekly basis as it was a very efficient resource to gather information on phenotypes association with genetic perturbations as well as localization of proteins. The information from PomBase was highly valuable to interpret my results and generate hypotheses. Several important aspects of the project would not have been possible without PomBase. Furthermore, the same situation applies to a follow up project I'm currently preparing a manuscript for. Therefore, PomBase has been instrumental for my work in fission yeast and success in my projects.",
+    "author": "Nitin Kapadia, Post-doctoral researcher, The Francis Crick Institute, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase has played a critical role in every project I have published. Without PomBase, I don’t think I could have published any of the work I’ve accomplished so far. When I searched for genes related to my project,  I first opened PomBase, not PubMed. To find some insight, Pombase is the first choice for me.",
+    "author": "Yasuhiro Hirano, Post-doctoral researcher, The University of Osaka, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "Our group uses PomBase daily as our go-to resource for S. pombe research. When a tricky gene integration stalled our work, the genome browser helped me quickly identify suitable alternate regions near Ura4 and His7. I was able to design and order new integration primers within a day—something that could’ve easily taken weeks by searching the literature. The phenotype browser has also been invaluable; thanks to it, we now use a simple high-temperature screen to identify cdc12-112 offspring instead of sequencing every sample, saving significant time and cost.",
+    "author": "Brié Levesque, Research associate, North Carolina State University (NCSU), USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "I have used genome browsers and gene ontology data to design experiments and assess possible phenotypic outcomes. This would be much more difficult without PomBase access.",
+    "author": "Regina Sepsiova, Research assistant, Comenius University, Faculty of Natural Sciences, Department of Genetics, Bratislava, Slovakia",
+    "location": "FULL"
+  },
+  {
+    "quote": "We recently published our first lab paper - all the gene annotations and genetic information necessary to do most of the analysis in the paper was only possible thanks to PombBase - The careful curation made it possible to work in a very time efficient manner.<p>For training Undergraduate and Masters students - it's the one stop site to help designing clonings and get gene ontology information that would have not been otherwise possible.",
+    "author": "Ayo Araoyinbo, PhD student, Centre for Integrative Genomics, University of Lausanne, Switzerland",
+    "location": "FULL"
+  },
+  {
+    "quote": "Our lab works on several projects that would greatly suffer without access to PomBase. From planning experiments and looking up references, to checking little details to make sure the projects run smoothly. It would take us weeks, if not months, to do all the research without PomBase, and we could easily miss out on some key information that could affect our project massively. For example, PomBase is incredibly helpful for instantly finding the size of any protein in S. pombe, as well as all of the information on it, such as different strains that have been generated (e.g deletes, mutants, etc) and what phenotype those present. This, as one example out of many, has been a key part of the planning stages of my project. Additionally, having access to PomBase is a huge “quality of life improvement” in terms of research as being able to easily find information you need during your experiments makes everything run far more smoothly. PomBase was one of the very first things shown to me when I started my project and I have actively used it every single day since.<p>PomBase is used in our lab for teaching undergrads how to do research for their projects with us.",
+    "author": "Sara Ilic, Student",
+    "location": "FULL"
+  },
+  {
+    "quote": "I’ve been using PomBase since I started my scientific career 20 years ago, and I still use it almost every day. It’s an indispensable tool for the work of the entire lab, saving us a huge amount of time on literature searches. Moreover, it keeps improving day by day, providing more detailed and up-to-date information on everything known about the different S. pombe genes and the publications related to them—their functions, known interactions, sequences, protein structures, and more. It’s the database where you can find everything you need for your daily work with fission yeast. It would be a great loss if it ever stopped functioning.",
+    "author": "Patricia García Rodríguez, Assistant Professor, Instituto de Biología Funcional y Genómica (IBFG), CSIC/Universidad de Salamanca, Spain",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase has been an invaluable resource in supporting my research on Schizosaccharomyces pombe cell cycle pathways. [...] The comprehensive and well-curated datasets in PomBase covering gene annotations, protein interactions, and GO terms have significantly streamlined experimental planning. Without PomBase, much of this work would have been considerably delayed, as collecting and validating equivalent information from scattered publications and databases would have required weeks of effort. For instance, identifying conserved domains, orthologs, and functional annotations related to Cdc13 and its interacting partners was made straightforward through PomBase tools, saving an estimated 30–40% of the time we would otherwise spend gathering and verifying similar information from disparate sources.",
+    "author": "Samirul Bashir, Post-doctoral researcher, UMass Chan Medical School, Worcester, Massachusetts, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase has been a cornerstone of our S. pombe research, offering both efficiency and depth that would be difficult to achieve through alternative resources.",
+    "author": "Samirul Bashir, Post-doctoral researcher, UMass Chan Medical School, Worcester, Massachusetts, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase has been an invaluable resource in supporting my research on Schizosaccharomyces pombe cell cycle pathways. Specifically, I have used PomBase extensively in my ongoing project, “Size-Dependent Expression of the Fission Yeast Cdc13 Cyclin.” The comprehensive and well-curated datasets in PomBase covering gene annotations, protein interactions, and GO terms have significantly streamlined experimental planning. Without PomBase, much of this work would have been considerably delayed, as collecting and validating equivalent information from scattered publications and databases would have required weeks of effort. For instance, identifying conserved domains, orthologs, and functional annotations related to Cdc13 and its interacting partners was made straightforward through PomBase tools, saving an estimated 30–40% of the time we would otherwise spend gathering and verifying similar information from disparate sources<p>In summary, PomBase has been a cornerstone of our S. pombe research, offering both efficiency and depth that would be difficult to achieve through alternative resources.",
+    "author": "Samirul Bashir, Post-doctoral researcher, UMass Chan Medical School, Worcester, Massachusetts, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase has been an indispensable resource for our work with Schizosaccharomyces pombe. The database provides highly detailed, structured information that is easy to navigate, saving a significant amount of time compared with other approaches. Curated gene functions, interactions, and phenotype annotations reveal patterns and connections that might otherwise be overlooked. In my published work, immediate access to this wealth of information accelerated experimental planning and data interpretation, enabling work that would have been significantly delayed. Every aspect of PomBase, from search tools to curated datasets, is thoughtfully designed, making it an essential platform for both routine and complex research. For a pombe enthusiast, it truly streamlines and organises the entire workflow.",
+    "author": "Anonymous post-doctoral researcher, Justus-Liebig University, Giessen, Germany",
+    "location": "FULL"
+  },
+  {
+    "quote": "My group uses PomBase many times a week, typically for interrogating individual genes/proteins. The community-led curation and functional analysis of proteins is extremely important for our work on cell cycle regulation and chromosome segregation.  It provides important historical perspective through links to the literature, enabling us to rapidly link all the knowledge of this excellent model organism with our studies in this and other systems.  PomBase is the best database we use, saving us many hours of ‘fact-finding’ on each new gene/protein of interest. It is indispensable for our research.",
+    "author": "Kevin Hardwick, Professor of Molecular Genetics, Institute of Cell Biology, University of Edinburgh, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I have been working on mitochondrial biogenesis for 30 years, and 15 years ago, my laboratory switched from the S. cerevisiae model to S. pombe, which seemed to be a more relevant system in this field for mimicking human cells. In addition to scientific reasons, the support provided by PomBase was a determining factor in my decision to change model organisms. PomBase has been invaluable in helping us manage this change, and readily became an essential daily resource for our work, especially since the community of researchers working on S. pombe mitochondria is rather small. Our exchanges with PomBase are therefore all the more valuable.",
+    "author": "Nathalie Bonnefoy, Group leader, I2BC-CNRS Gif-sur-Yvette, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase saves us a considerable amount of time, which is crucial for a small team like ours. To put it simply, in my group our first instinct when we have a question about a gene, a function, or the conservation of a factor is to look for the information on PomBase. For all new students or lab members, I immediately introduce PomBase as the basic tool for researchers working on S. pombe and give them initial guidance on how to find information, retrieve sequences of interest, examine expression levels, and much more.",
+    "author": "Nathalie Bonnefoy, Group leader, I2BC-CNRS Gif-sur-Yvette, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is systematically mentioned in our publications, and we recently published a review in 2024 on mitochondrial gene expression in S. pombe, for which PomBase played a fundamental role (<a target='_blank' href='/reference/PMID:38117001'>PMID:38117001</a>). We also published a comprehensive study on the physical and genetic links between several proteins involved in mitochondrial translation (<a target='_blank' href='/reference/PMID:34634819'>PMID:34634819</a>), and our exchanges with Valerie Wood have been regular and invaluable in advancing this work. Finally, another article will soon be submitted on mitochondrial RNAse P in S. pombe, for which PomBase's contribution was also decisive.",
+    "author": "Nathalie Bonnefoy, Group leader, I2BC-CNRS Gif-sur-Yvette, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "In my laboratory, we make extensive use of immunoprecipitation approaches followed by LC-MS/MS analysis. To analyze the enriched gene lists obtained, we rely mainly on Pombase, complemented with UniProt and PANTHER, and it is clear that I would stop using this type of approach if I could no longer benefit from PomBase, as the analyses would take us too long. Together, I strongly believe that the whole PomBase project is and will keep being of great benefit for the S. pombe research community and beyond.",
+    "author": "Nathalie Bonnefoy, Group leader, I2BC-CNRS Gif-sur-Yvette, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I have been working on mitochondrial biogenesis for 30 years, and 15 years ago, my laboratory switched from the S. cerevisiae model to S. pombe, which seemed to be a more relevant system in this field for mimicking human cells. In addition to scientific reasons, the support provided by PomBase was a determining factor in my decision to change model organisms. PomBase has been invaluable in helping us manage this change, and readily became an essential daily resource for our work, especially since the community of researchers working on S. pombe mitochondria is rather small. Our exchanges with PomBase are therefore all the more valuable. PomBase saves us a considerable amount of time, which is crucial for a small team like ours. To put it simply, in my group our first instinct when we have a question about a gene, a function, or the conservation of a factor is to look for the information on PomBase. For all new students or lab members, I immediately introduce PomBase as the basic tool for researchers working on S. pombe and give them initial guidance on how to find information, retrieve sequences of interest, examine expression levels, and much more. PomBase is systematically mentioned in our publications, and we recently published a review in 2024 on mitochondrial gene expression in S. pombe, for which PomBase played a fundamental role (<a target='_blank' href='/reference/PMID:38117001'>PMID:38117001</a>). We also published a comprehensive study on the physical and genetic links between several proteins involved in mitochondrial translation (<a target='_blank' href='/reference/PMID:34634819'>PMID:34634819</a>), and our exchanges with Valerie Wood have been regular and invaluable in advancing this work. Finally, another article will soon be submitted on mitochondrial RNAse P in S. pombe, for which PomBase's contribution was also decisive. In my laboratory, we make extensive use of immunoprecipitation approaches followed by LC-MS/MS analysis. To analyze the enriched gene lists obtained, we rely mainly on Pombase, complemented with UniProt and PANTHER, and it is clear that I would stop using this type of approach if I could no longer benefit from PomBase, as the analyses would take us too long. Together, I strongly believe that the whole PomBase project is and will keep being of great benefit for the S. pombe research community and beyond<p>I don't usually teach, but I have given a few review seminars on mitochondrial biogenesis in S. pombe, and I made extensive use of PomBase resources to prepare my presentation, for example to compile a list of genes involved in a given process and to find orthologs in budding yeast and humans.",
+    "author": "Nathalie Bonnefoy, Group leader, I2BC-CNRS Gif-sur-Yvette, France",
+    "location": "FULL"
+  },
+  {
+    "quote": "We use PomBase primarily for gene identification and potential protein function, some key references and the physical interaction summaries.  PomBase has been specifically useful in going after genes identified in screens that make little sense with regard to original mutant selection or screen.",
+    "author": "Kurt Runge, Ph.D., Cleveland Clinic Lerner College of Medicine at CWRU, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "The Humphrey lab uses PomBase on at least a daily basis and have done so since its inception. We use it for many different purposes: Looking for fission yeast homologues /orthologues of human genes; looking at whether the deletion is viable or lethal; looking to see which proteins a particular protein interacts with; and looking for genetic interactions with deletions in a particular gene. PomBase provides an extensive user-friendly knowledge base, which is a tremendous resource for fission yeast researchers.",
+    "author": "Professor Timothy Humphrey, Genome Damage and Stability Centre, University of Sussex, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "The Humphrey lab uses PomBase on at least a daily basis and have done so since its inception. We use it for many different purposes: Looking for fission yeast homologues /orthologues of human genes; looking at whether the deletion is viable or lethal; looking to see which proteins a particular protein interacts with; and looking for genetic interactions with deletions in a particular gene. PomBase provides an extensive user-friendly knowledge base, which is a tremendous resource for fission yeast researchers.<p>My lab has used PomBase for undergraduate projects to test candidates for genetic interactions with a set2 deletion. These were written up in undergraduate project dissertations and are available upon request.",
+    "author": "Professor Timothy Humphrey, Genome Damage and Stability Centre, University of Sussex, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "Our lab studies on S. pombe as an organism and I will spend lots of time on PomBase, it's very important for my research.",
+    "author": "Xiaolin Xie, Student from China Pharmaceutical University",
+    "location": "FULL"
+  },
+  {
+    "quote": "We have ongoing projects that rely on PomBase to easily retrieve information about genes so that we can perform genetic manipulation on them. Without PomBase, we will need significant amount of time to find those information scattered around online. So, PomBase has provided a good platform with consolidated information in one place and with an easy-to-use interface.",
+    "author": "Chew Ting Gang, Associate Professor, Zhejiang University, China",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I would waste a lot of time and effort on strain construction and genetic screening without PomBase.<p>When I perform gene mutation and knockout, I need to query the gene sequence and gene deletion viability from PomBase.",
+    "author": "Guangchun Lu,  PhD student from State Key Laboratory of Cellular Stress Biology, School of Life Sciences,  Xiamen University, China",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase is an invaluable platform that greatly supports my research journey. I always use it when I need information about the protein sequences I am working with. When I need specific references or publications related to my research topic, I rely on PomBase to find them. So, I open PomBase almost every day.",
+    "author": "Fara Difka Afdilla, PhD student, Hiroshima University, Japan",
+    "location": "BOTH"
+  },
+  {
+    "quote": "For the international community of researchers studying Schizosaccharomyces pombe, PomBase is not simply a database; it is the indispensable, central axis of our work. Every one of us relies on PomBase for our research. <p> My laboratory would not be fully functional without PomBase. Literally, the first web we show in our laboratory to new investigadors is PomBase. <p> KEEP CALM AND POMBASE",
+    "author": "Rafael Lucena, Group leader, Department of Cell Biology, University of Seville, Spain",
+    "location": "BOTH"
+  },
+  {
+    "quote": "We use PomBase for all our S. pombe based projects. It has been essential for us to publish at least 10 manuscripts in the last funding cycle, including papers in Nature Communications, Cell Reports, Nucleic Acids Research and the Journal of Biological Chemistry.",
+    "author": "Professor Mark Bayfield, York University, Canada",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I have created specific assignments in which my 2nd year Biochemistry course students  use PomBase to learn about how we do modern biochemistry and molecular biology, as well as the importance of model organisms.  It is a much more active and current resource than a textbook, and the students get very excited seeing the modern tools that principal investigators are currently using.",
+    "author": "Professor Mark Bayfield, York University, Canada",
+    "location": "FRONT"
+  },
+  {
+    "quote": "We use PomBase for all our S. pombe based projects. It has been essential for us to publish at least 10 manuscripts in the last funding cycle, including papers in Nature Communications, Cell Reports, Nucleic Acids Research and the Journal of Biological Chemistry. <p> I have created specific assignments in which my 2nd year Biochemistry course students  use PomBase to learn about how we do modern biochemistry and molecular biology, as well as the importance of model organisms.  It is a much more active and current resource than a textbook, and the students get very excited seeing the modern tools that principal investigators are currently using.",
+    "author": "Professor Mark Bayfield, York University, Canada",
+    "location": "FULL"
+  },
+  {
+    "quote": "I integrated PomBase extensively into a graduate-level course I designed and taught, Introduction to AlphaFold. In this course, students learned to generate and interpret structural protein models using Schizosaccharomyces pombe proteins as real-world examples. PomBase served as an essential resource, providing access to protein sequences, domain annotations, functional descriptions, and interaction data that allowed students to interpret their models within a rich biological context.",
+    "author": "Alaina Willet, Research associate professor, Vanderbilt University, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is also a cornerstone of the undergraduate research-for-credit course, where students conduct independent projects focused on topic such as S. pombe cell division, cell growth and DNA damage repair. Undergraduate researchers routinely use PomBase to identify candidate genes, explore functional annotations, examine genetic interactions, and access linked primary literature. This resource empowers students with little prior research experience to develop testable hypotheses and connect molecular details to broader cellular processes, making it an indispensable platform for both teaching and discovery.",
+    "author": "Alaina Willet, Research associate professor, Vanderbilt University, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I integrated PomBase extensively into a graduate-level course I designed and taught, Introduction to AlphaFold. In this course, students learned to generate and interpret structural protein models using Schizosaccharomyces pombe proteins as real-world examples. PomBase served as an essential resource, providing access to protein sequences, domain annotations, functional descriptions, and interaction data that allowed students to interpret their models within a rich biological context. <p> PomBase is also a cornerstone of the undergraduate research-for-credit course, where students conduct independent projects focused on topic such as S. pombe cell division, cell growth and DNA damage repair. Undergraduate researchers routinely use PomBase to identify candidate genes, explore functional annotations, examine genetic interactions, and access linked primary literature. This resource empowers students with little prior research experience to develop testable hypotheses and connect molecular details to broader cellular processes, making it an indispensable platform for both teaching and discovery.",
+    "author": "Alaina Willet, Research associate professor, Vanderbilt University, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "My ongoing postdoctoral research on ribosome stalling mechanisms in Schizosaccharomyces pombe would have been significantly delayed without PomBase. The database provides an essential, well-curated source of gene annotations, GO terms, mutant phenotypes, and interaction data that inform both experimental design and data interpretation. In particular, I have relied on PomBase to identify candidate genes involved in RNA–protein interactions, ribosome rescue, and oxidative stress responses. Access to integrated datasets (including orthology and expression data) allowed me to prioritise genes for deletion strain testing and downstream mass spectrometry validation. Without PomBase, gathering this information manually from literature and disparate databases would have been prohibitively time-consuming and error-prone.",
+    "author": "Dr Eddison Loades, Post-doctoral researcher, University of Cambridge, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "As an instructor of an upper-level Cellular Dynamics course, I've found PomBase.org to be an exceptional resource. What impresses me most is how intuitive and accessible the platform is—students pick it up quickly, even without prior experience using specialized biological databases. <p> We routinely use PomBase in class to explore specific genes, and the platform makes it remarkably easy for students to understand how genes connect to other genes, pathways, and cellular functions. This integrative approach is exactly what students need to develop a systems-level understanding of cell biology. <p> The depth of PomBase's curated information is outstanding, and has become an essential tool in my teaching toolkit. In my experience, this is the best database out there for any model system.",
+    "author": "Maitreyi Das, Associate professor, Boston College, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "When I began a project focused on a specific protein in Schizosaccharomyces pombe, I was new to working with fission yeast and initially had no clear starting point for my literature review. PomBase was absolutely essential in helping me get oriented and move forward. Being able to look up my protein of interest and immediately access integrated information—including the AlphaFold-predicted structure, curated literature citations, and all known physical and genetic interactions—allowed me to form testable hypotheses and identify relevant studies much faster than I could have otherwise.",
+    "author": "Lili DeGraw, PhD student, NCSU, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I use PomBase routinely for all my fission yeast projects. It has become an indispensable resource that saves me countless hours compared with manually searching databases or literature sources separately. For this particular project, I estimate PomBase saved me several weeks of background research time and helped ensure I didn’t overlook important prior findings. The ability to quickly visualize connections between genes, pathways, and phenotypes has directly guided my experimental design and literature review.",
+    "author": "Lili DeGraw, PhD student, NCSU, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Simply put, this project—and many others in my lab—would have been significantly delayed and less comprehensive without PomBase. It continues to be one of the most valuable tools for anyone working with fission yeast.",
+    "author": "Lili DeGraw, PhD student, NCSU, USA",
+    "location": "FRONT"
+  },
+  {
+    "quote": "When I began a project focused on a specific protein in Schizosaccharomyces pombe, I was new to working with fission yeast and initially had no clear starting point for my literature review. PomBase was absolutely essential in helping me get oriented and move forward. Being able to look up my protein of interest and immediately access integrated information—including the AlphaFold-predicted structure, curated literature citations, and all known physical and genetic interactions—allowed me to form testable hypotheses and identify relevant studies much faster than I could have otherwise. <p> I use PomBase routinely for all my fission yeast projects. It has become an indispensable resource that saves me countless hours compared with manually searching databases or literature sources separately. For this particular project, I estimate PomBase saved me several weeks of background research time and helped ensure I didn’t overlook important prior findings. The ability to quickly visualize connections between genes, pathways, and phenotypes has directly guided my experimental design and literature review. <p> Simply put, this project—and many others in my lab—would have been significantly delayed and less comprehensive without PomBase. It continues to be one of the most valuable tools for anyone working with fission yeast.",
+    "author": "Lili DeGraw, PhD student, NCSU, USA",
+    "location": "FULL"
+  },
+  {
+    "quote": "Without PomBase,  we are not able to easily find gene loci, their functions, non-coding regions, etc.  When we design primers for PCR, we always use PomBase to check the coding and non-coding (untranslated) regions of each gene. That is, PomBase extremely saves our time. Without PomBase, we cannot perform our experiments normally. We use PomBase almost everyday, 1 hour per day on average.",
+    "author": "Professor Junko Kanoh, University of Tokyo, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "All projects running in the lab would not be possible without PomBase. We are using it everyday to form initial ideas by drawing connections among genes based on information provided by PomBase. There are no alternative approach or online tools for a considerable portion of information provided by PomBase, for instance, advanced search, detailed phenotypic records from respective lab curation, disease association, and interaction information.",
+    "author": "Dan Zhang, Adjunct assistant professor, National University of Singapore",
+    "location": "FRONT"
+  },
+  {
+    "quote": "All projects running in the lab would not be possible without PomBase. We are using it everyday to form initial ideas by drawing connections among genes based on information provided by PomBase. There are no alternative approach or online tools for a considerable portion of information provided by PomBase, for instance, advanced search, detailed phenotypic records from respective lab curation, disease association, and interaction information.<p>PomBase is always the first resource that I refer to when I train new lab members. I teach them how to find and use the information from all sectors for designing experiments and for brainstorming their projects.",
+    "author": "Dan Zhang, Adjunct assistant professor, National University of Singapore",
+    "location": "FULL"
+  },
+  {
+    "quote": "We have a few experimental evolution projects running in the lab using pombe and PomBase is very important for these projects regarding the genomic and functional investigations on adaptive genes and mutations.",
+    "author": "Jia-Xing Yue, Associate professor, Sun Yat-sen University Cancer Center, China",
+    "location": "FULL"
+  },
+  {
+    "quote": "As i started my PhD journey, my seniors advised me to visit PomBase and learn whatever I can. The gene which was assigned to me for future work, didn't have much papers. So I scrounged PomBase and found some papers which gave me deep insights into my work. <p>So inspired from the papers I set out to plan my work and I immediately realised that the information which I needed, was already sorted out in PomBase.<p> For example, The gene knockout phenotypes were present, RNA expression, Nucleotide sequence and Various Homologues. PomBase has played a crucial role in developing my skills as a researcher and also provided a deep dive into Gene functions and literature.",
+    "author": "Girdhar Bhati, PhD student, CSIR-CDRI, India",
+    "location": "BOTH"
+  },
+  {
+    "quote": "We use PomBase from the start to the end of each project. It is a database that we frequently use for getting the directions of each project. My lab use PomBase about 1-2 h per week. If, PomBase were not available, we would need to likely spend about 8h to find the info needed.",
+    "author": "Anonymous",
+    "location": "FULL"
+  },
+  {
+    "quote": "My project is focused on investigating the role of unknown genes that are conserved from fission yeast to human. Thanks to PomBase, I can easily access the information regarding these genes (genomic location, protein domains and structure, orthologs, genetic and physical interactors, GO functional annotations and associated literature) all in one place. PomBase curates the genes' functional annotations and keeps them always updated to the latest literature, which is essential for my work. Without it, I would have to regularly search for papers regarding these genes manually, to check whether any new functional information has come out, and that would be an extremely time-consuming task.",
+    "author": "Melania Jennifer D'Angiolo, Post-doctoral researcher, The Francis Crick Institute and University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Recently, PomBase has taken up the challenge of modelling all cellular pathways in the form of GO-CAM models. This type of visualisation puts genes in the context of their biological pathways and it is extremely useful to find out what are their main interactors and in which context they exert their function. Some of these models have helped me to make hypotheses on the function of some unknown genes, which are readily testable in the lab.",
+    "author": "Melania Jennifer D'Angiolo, Post-doctoral researcher, The Francis Crick Institute and University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "My project is focused on investigating the role of unknown genes that are conserved from fission yeast to human. Thanks to PomBase, I can easily access the information regarding these genes (genomic location, protein domains and structure, orthologs, genetic and physical interactors, GO functional annotations and associated literature) all in one place. PomBase curates the genes' functional annotations and keeps them always updated to the latest literature, which is essential for my work. Without it, I would have to regularly search for papers regarding these genes manually, to check whether any new functional information has come out, and that would be an extremely time-consuming task. Recently, PomBase has taken up the challenge of modelling all cellular pathways in the form of GO-CAM models. This type of visualisation puts genes in the context of their biological pathways and it is extremely useful to find out what are their main interactors and in which context they exert their function. Some of these models have helped me to make hypotheses on the function of some unknown genes, which are readily testable in the lab.",
+    "author": "Melania Jennifer D'Angiolo, Post-doctoral researcher, The Francis Crick Institute and University College London, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "Me and our lab specifically works on S. pombe. PomBase as a database helps in finding pinpoint sources related to our work. We use PomBase to find proteins, domains, sequences, literature and many more. We spent a significant time on to PomBase for our work it a very useful tool for our work.",
+    "author": "Ritik Yadav, PhD student, Indian Institute of Science Education and Research Mohali",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase really helped us in RNA sequencing data analysis for our project as we can find all the information regarding the pombe genome and gene annotations.",
+    "author": "Anonymous student",
+    "location": "FULL"
+  },
+  {
+    "quote": "PomBase has been essential for my research. Several key aspects of my work would not have been possible without PomBase’s comprehensive genome annotations, curated gene function data, and high‐quality datasets. <p>I use PomBase almost every day for gene look-ups, functional interpretation, and pathway analysis.",
+    "author": "Ying Luo, PhD student, Nanjing Normal University, China, & University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I have used PomBase in teaching to help students learn how to navigate biological databases, interpret gene information, and retrieve useful functional annotations. The curated literature summaries in PomBase are especially valuable for showing students how to connect genomic data with published research.",
+    "author": "Ying Luo, PhD student, Nanjing Normal University, China, & University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase has been essential for my research. Several key aspects of my work would not have been possible without PomBase’s comprehensive genome annotations, curated gene function data, and high‐quality datasets.<p>I use PomBase almost every day for gene look-ups, functional interpretation, and pathway analysis.<p>​​I have used PomBase in teaching to help students learn how to navigate biological databases, interpret gene information, and retrieve useful functional annotations. The curated literature summaries in PomBase are especially valuable for showing students how to connect genomic data with published research.",
+    "author": "Ying Luo, PhD student, Nanjing Normal University, China, & University College London, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "At the start of my PhD, I made extensive use of PomBase to get an overview of the literature, especially regarding mutant phenotypes and genetic interactions. PomBase was the perfect entry point into the fission yeast world. Nowadays, I still use PomBase on a daily basis, whether to refresh my memory or explore new ideas. As I’m writing this, I have PomBase open on my computer. It’s easy to navigate, regularly updated, and truly \"the\" database for fission yeast research.",
+    "author": "Yannis Reignier, PhD student, Institut Jacques Monod, France",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase has been a cornerstone of my research program for more than 20 years. My lab relies on it daily to integrate and interpret data from large-scale genomics and proteomics experiments in Schizosaccharomyces pombe. The database’s depth of curated gene annotations, GO terms, and pathway connections has made it an indispensable platform for linking molecular-level findings to biological function. PomBase’s constant evolution and adoption of new technologies ensure that it remains at the forefront of data integration and analysis for the fission yeast community.",
+    "author": "Professor François Bachand, Université de Sherbrooke, Canada",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase serves not only as a database but as a living knowledge base that connects our datasets to the collective understanding of fission yeast biology. The quality of curation, integration of cutting-edge analytical tools, and responsiveness of the PomBase team have consistently set the standard for model organism resources. For labs like ours that generate and interpret high-throughput datasets, PomBase is simply indispensable.",
+    "author": "Professor François Bachand, Université de Sherbrooke, Canada",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase has been a cornerstone of my research program for more than 20 years. My lab relies on it daily to integrate and interpret data from large-scale genomics and proteomics experiments in Schizosaccharomyces pombe. The database’s depth of curated gene annotations, GO terms, and pathway connections has made it an indispensable platform for linking molecular-level findings to biological function. PomBase’s constant evolution and adoption of new technologies ensure that it remains at the forefront of data integration and analysis for the fission yeast community.<p>PomBase serves not only as a database but as a living knowledge base that connects our datasets to the collective understanding of fission yeast biology. The quality of curation, integration of cutting-edge analytical tools, and responsiveness of the PomBase team have consistently set the standard for model organism resources. For labs like ours that generate and interpret high-throughput datasets, PomBase is simply indispensable.",
+    "author": "Professor François Bachand, Université de Sherbrooke, Canada",
+    "location": "FULL"
+  },
+  {
+    "quote": "Recently, we reported the construction of a genome-wide biological resource designed to suppress genes required for S. pombe viability (essential genes). PomBase provided the most up-to-date and definitive list of essential genes (1,221 genes). Based on this list, we generated a comprehensive set of conditional knockdown strains. While PomBase enabled us to obtain an updated, data-driven list of essential genes—reflecting the latest findings from recent studies—within only a few hours, manually surveying the literature would require more than 3,700 hours (1221 x 3). Thus, PomBase greatly facilitated our project, which would otherwise have been impossible.",
+    "author": "Ken Ishikawa, Senior assistant professor, Kurume University, Japan",
+    "location": "FRONT"
+  },
+  {
+    "quote": "… PomBase also enabled robust functional analyses of our strain libraries. The internal PomBase tool, the Quick Little Tool (QuiLT), was used to classify essential genes according to Gene Ontology biological processes. Although that tool allowed us to obtain a function-based classification of genes within one hour, manually reviewing the literature would again require more than 3,700 hours. This classification enabled us to investigate correlations between a gene’s functional category and its susceptibility to the gene-knockdown method (CRISPRi) utilized in this study.",
+    "author": "Ken Ishikawa, Senior assistant professor, Kurume University, Japan",
+    "location": "FRONT"
+  },
+  {
+    "quote": "In summary, PomBase is not only an essential data repository that provides foundational genome information; it also offers organizational frameworks (GO/QuiLT) necessary for large-scale genetic projects and identifies limitations in existing biological resources. Its continued curation is indispensable for sustaining long-term efforts to achieve a comprehensive understanding of fundamental biological processes in eukaryotes.",
+    "author": "Ken Ishikawa, Senior assistant professor, Kurume University, Japan",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Recently, we reported the construction of a genome-wide biological resource designed to suppress genes required for S. pombe viability (essential genes). PomBase provided the most up-to-date and definitive list of essential genes (1,221 genes). Based on this list, we generated a comprehensive set of conditional knockdown strains. While PomBase enabled us to obtain an updated, data-driven list of essential genes—reflecting the latest findings from recent studies—within only a few hours, manually surveying the literature would require more than 3,700 hours (1221 x 3). Thus, PomBase greatly facilitated our project, which would otherwise have been impossible.<p>Beyond defining the target set, PomBase also enabled robust functional analyses of our strain libraries. The internal PomBase tool, the Quick Little Tool (QuiLT), was used to classify essential genes according to Gene Ontology biological processes. Although that tool allowed us to obtain a function-based classification of genes within one hour, manually reviewing the literature would again require more than 3,700 hours. This classification enabled us to investigate correlations between a gene’s functional category and its susceptibility to the gene-knockdown method (CRISPRi) utilized in this study. Our analysis revealed that the efficiency of CRISPRi-mediated transcriptional repression varied depending on the functional category of the target gene.<p>Moreover, PomBase data quantified critical research gaps, thereby justifying the need for the biological resource described in our study. By accessing this genome database, we determined that existing conditional knockdown strains—such as temperature- and cold-sensitive alleles—are available for only 14% of the 1,221 essential genes. Even after incorporating other systematic methods, the total coverage reaches only about 25% (~300 essential genes), leaving roughly 900 essential genes inaccessible to conventional genetic analyses. Although PomBase allowed us to complete this survey within one week, we estimate that performing a manual literature review would require more than 3,700 hours. This clear demonstration of unmet needs, directly supported by PomBase data, served as the impetus for designing and constructing comprehensive libraries capable of perturbing ~98% of all essential genes.<p>In summary, PomBase is not only an essential data repository that provides foundational genome information; it also offers organizational frameworks (GO/QuiLT) necessary for large-scale genetic projects and identifies limitations in existing biological resources. Its continued curation is indispensable for sustaining long-term efforts to achieve a comprehensive understanding of fundamental biological processes in eukaryotes.",
+    "author": "Ken Ishikawa, Senior assistant professor, Kurume University, Japan",
+    "location": "FULL"
+  },
+  {
+    "quote": "My research is on rare human diseases that affect the lysosome, and I have long used S. pombe as a simple unicellar model organism to study conserved disease genes as its biology is particularly relevant to human cell biology. My research benefits tremendously from the use of PomBase which provides my lab with resources and tools that enrich our experimental planning and use of S. pombe. This is especially important because we are not a lab working solely with S. pombe and we do not have the expertise nor time to provide the same information ourselves. Without PomBase we might have overlooked some of the genes of interest that relate to human disease and the biology around the affected pathways and organelles. I find PomBase to be a high quality and trusted expert resource.",
+    "author": "Professor Sara Mole, UCL, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "Losing access to PomBase would feel like losing my closest scientific ally. I honestly can’t imagine continuing research in my group without it—this resource is essential to our day-to-day work in countless ways.",
+    "author": "Dom Helmlinger, Directeur de Recherche, CRBM, CNRS, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": " ... PomBase provides far more efficient access to published studies than PubMed, thanks to its outstanding literature curation. We recently began investigating glycolysis and carbon metabolism, a novel field of research for us. The integration of ontologies, biochemical pathways, and curated article lists significantly accelerated our ability to identify key factors to mutate and important phenotypes to measure.<p>Another example comes from our recent work on S. pombe strains beyond the type strain. We performed several transcriptomic analyses, and their interpretation relied heavily on the wealth of data available at PomBase, whether via the links to external resources, their integration into a genome browser, or the high-quality ontology annotations. That project simply would not have been possible without PomBase.",
+    "author": "Dom Helmlinger, Directeur de Recherche, CRBM, CNRS, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Losing access to PomBase would feel like losing my closest scientific ally. I honestly can’t imagine continuing research in my group without it—this resource is essential to our day-to-day work in countless ways. <p>For example, PomBase provides far more efficient access to published studies than PubMed, thanks to its outstanding literature curation. We recently began investigating glycolysis and carbon metabolism, a novel field of research for us. The integration of ontologies, biochemical pathways, and curated article lists significantly accelerated our ability to identify key factors to mutate and important phenotypes to measure. <p>Another example comes from our recent work on S. pombe strains beyond the type strain. We performed several transcriptomic analyses, and their interpretation relied heavily on the wealth of data available at PomBase, whether via the links to external resources, their integration into a genome browser, or the high-quality ontology annotations. That project simply would not have been possible without PomBase. <p>Finally, PomBase rapidly integrated the predicted structures from AlphaFold, which allowed us to quickly identify a key difference between two paralogues of the well-studied enzyme invertase. This insight enabled us to design experiments that successfully demonstrated distinct subcellular localization and function.",
+    "author": "Dom Helmlinger, Directeur de Recherche, CRBM, CNRS, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Having recently begun working with organisms other than Schizosaccharomyces pombe, I have been starkly reminded of how fortunate I am to have relied on such a comprehensive and user-friendly resource for so many years. I use PomBase on a daily basis, and find it consistently reliable, efficient, and straightforward to navigate. The curated data are of great quality, and the interface makes it easy to move seamlessly between PomBase and other relevant databases. PomBase sets a high standard for accessibility and integration in model organism resources; it is an indispensable resource for my research. I continue to discover new tools and features that I have yet to explore to their full potential.",
+    "author": "Sharon White, Post-doctoral researcher, University of Edinburgh, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Having recently begun working with organisms other than Schizosaccharomyces pombe, I have been starkly reminded of how fortunate I am to have relied on such a comprehensive and user-friendly resource for so many years. I use PomBase on a daily basis, and find it consistently reliable, efficient, and straightforward to navigate. The curated data are of great quality, and the interface makes it easy to move seamlessly between PomBase and other relevant databases. PomBase sets a high standard for accessibility and integration in model organism resources; it is an indispensable resource for my research. I continue to discover new tools and features that I have yet to explore to their full potential.<p>I have used PomBase many times in supervising PhD and undergraduate students and enabling them to use it themselves.",
+    "author": "Sharon White, Post-doctoral researcher, University of Edinburgh, UK",
+    "location": "FULL"
+  },
+  {
+    "quote": "From my very early days as a researcher working on pombe, PomBase has been an indispensable one-stop go-to solution for my work.  On any given day, I would use information available on PomBase for engineering strains or look for gene functions, protein structures, expression profiles, genetic interactions and localization data and the list goes on. These are all essential pieces of information I need to function as researcher and I would spend a lot more time collating these if PomBase wasn't available.",
+    "author": "Manu Shukla, Post-doctoral researcher, University of Edinburgh, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "Working without access to PomBase would be extremely cumbersome. I consider it indispensable, and it is rare for a day to pass without my consulting it. In our lab, we routinely perform genetic screens that yield many candidate genes (e.g. <a target='_blank' href='/reference/PMID:31278118'>PMID:31278118</a>; <a target='_blank' href='/reference/PMID:31883795'>PMID:31883795</a>). Having to search for information on each gene individually—paper by paper—would slow progress considerably. Importantly, many PomBase annotations are not easily discoverable through PubMed or other databases using keyword searches alone.",
+    "author": "Diego Folco, Staff scientist, NCI, NIH, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase is our first port of call for information on any gene or biological process in fission yeast. It is often the first tool new students in our lab use, and we all continue to use it daily or several times a week. In particular, we find the annotated gene/UTR sequence downloads indispensable for designing targeted gene manipulation constructs that don't disrupt other genes. We also make extensive use of the genome browser and collected data tracks to compare to our own sequencing results, something that can be accomplished in only a few clicks as opposed to laborious literature searches for links to other databases or supplementary files, which can easily take hours.",
+    "author": "Rahul Thadani, Post-doctoral researcher, University of Colorado, USA",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase plays a critical role in our daily work. For example, in our recent work identifying tdk1 as a killer meiotic driver (<a target='_blank' href='/reference/PMID:39485795'>PMID:39485795</a>; <a target='_blank' href='/reference/PMID:39485800'>PMID:39485800</a>), the detailed phenotypic description and interaction with Bdf1 displayed in PomBase provided us the first hint of the killing mechanism of Tdk1. I use PomBase almost every day or every other day.",
+    "author": "Yu Hua, Assistant professor, Zhejiang University-University of Edinburgh Institute, School of Medicine, Zhejiang University, China",
+    "location": "BOTH"
+  },
+  {
+    "quote": "I believe that quantifying the critical role of PomBase for our research is difficult to do...because PomBase does not specifically impact a given study or a given project, but actually plays an essential role in everything we do, on a daily basis. I began to work with fission yeast as a post-doc in 2007 and started my own research lab in 2012. Over the last ~20 years, all our work and publications were based on fission yeast biology. Throughout all these years, PomBase has been, without any doubt, the main source of information for my team.",
+    "author": "Dr. Damien Coudreuse, Group leader, Institute of Biochemistry and Cellular Genetics, CNRS, University of Bordeaux, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "It is a database that my students, post-docs and myself use every single day. It is just as important to our research as PubMed, if not more important. Furthermore, the tremendous work that the PomBase team has done to improve PomBase, propose new features, new links with other databases, integrate feedback from the community etc... has only increased the importance of PomBase for our science. Without the support of what I really consider as our primary resource for fission yeast biology, the time we would have lost is immense. The end of financial support for PomBase and the PomBase team would be catastrophic and have an immediate and direct impact on our productivity and our science.",
+    "author": "Dr. Damien Coudreuse, Group leader, Institute of Biochemistry and Cellular Genetics, CNRS, University of Bordeaux, France",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I believe that quantifying the critical role of PomBase for our research is difficult to do...because PomBase does not specifically impact a given study or a given project, but actually plays an essential role in everything we do, on a daily basis. I began to work with fission yeast as a post-doc in 2007 and started my own research lab in 2012. Over the last ~20 years, all our work and publications were based on fission yeast biology. Throughout all these years, PomBase has been, without any doubt, the main source of information for my team. It is a database that my students, post-docs and myself use every single day. It is just as important to our research as Pubmed, if not more important. Furthermore, the tremendous work that the PomBase team has done to improve PomBase, propose new features, new links with other databases, integrate feedback from the community etc... has only increased the importance of PomBase for our science. Without the support of what I really consider as our primary resource for fission yeast biology, the time we would have lost is immense. The end of financial support for PomBase and the PomBase team would be catastrophic and have an immediate and direct impact on our productivity and our science.",
+    "author": "Dr. Damien Coudreuse, Group leader, Institute of Biochemistry and Cellular Genetics, CNRS, University of Bordeaux, France",
+    "location": "FULL"
+  },
+  {
+    "quote": "I investigated the role of Mid1p in cytokinesis and published the work and added mid1 interaction with vps4 as a novel interaction in the PomBase dataset (<a target='_blank' href='/reference/PMID:34382912'>PMID:34382912</a>).<p>I delivered Bioinformatics workshops and used PomBase as an example search engine.",
+    "author": "Anonymous post-doctoral researcher",
+    "location": "FULL"
+  },
+  {
+    "quote": "In our laboratory, the PomBase resource is indispensable, greatly enhancing our research efficiency by providing immediate access to curated data. It has been critical for our published findings and remains vital for our ongoing research initiatives. Whenever investigating a fission yeast gene, we routinely consult PomBase as our primary resource to access comprehensive information, including protein domains, phenotypes associated with gene dysfunction, relevant literature, and available experimental tools, among others. As it provides a wide array of the key information required for our research, it has become an essential daily resource for both our team and students.",
+    "author": "Professor Yue Fang, China Medical University, China",
+    "location": "FRONT"
+  },
+  {
+    "quote": "In our laboratory, the PomBase resource is indispensable, greatly enhancing our research efficiency by providing immediate access to curated data. It has been critical for our published findings and remains vital for our ongoing research initiatives. Whenever investigating a fission yeast gene, we routinely consult PomBase as our primary resource to access comprehensive information, including protein domains, phenotypes associated with gene dysfunction, relevant literature, and available experimental tools, among others. As it provides a wide array of the key information required for our research, it has become an essential daily resource for both our team and students.<p>When teaching students about literature retrieval tools for biomedical research, I introduce PomBase as the specialist model organism database for S. pombe.",
+    "author": "Professor Yue Fang, China Medical University, China",
+    "location": "FULL"
+  },
+  {
+    "quote": "Carrying out a PhD project which relies on fission yeast as model organism, PomBase has so far proven to be indispensable to my research. I utilise the database to infer results of assays as well as obtaining locus sequences for any CRISPR editing I carry out.",
+    "author": "Felix Selasi Dewornu, PhD student, The University of Edinburgh, UK",
+    "location": "BOTH"
+  },
+  {
+    "quote": "PomBase is an indispensable resource for my laboratory’s research program. Nearly every project we undertake—whether focused on gene function, comparative genomics, or molecular mechanisms in Schizosaccharomyces pombe—relies critically on the depth, accuracy, and accessibility of PomBase data. Without PomBase, our work would be substantially delayed, less comprehensive, and in several cases, simply not feasible.",
+    "author": "Professor Li-Lin Du, National Institute of Biological Sciences, Beijing, China",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I consult PomBase daily, and my lab collectively spends many hours each week using the resource. On a personal level, I typically spend several hours per week on PomBase queries, but this time would multiply manyfold if we had to reconstruct the same information from primary literature or disparate databases. PomBase saves us countless hours by integrating curated functional annotations, expression profiles, mutant phenotypes, orthology relationships, and community-generated data into a single, reliable platform.",
+    "author": "Professor Li-Lin Du, National Institute of Biological Sciences, Beijing, China",
+    "location": "FRONT"
+  },
+  {
+    "quote": "In sum, PomBase is far more than a database—it is a foundational pillar of modern fission yeast research, and its continued support is vital to the productivity and innovation of our field.",
+    "author": "Professor Li-Lin Du, National Institute of Biological Sciences, Beijing, China",
+    "location": "FRONT"
+  },
+  {
+    "quote": "PomBase is an indispensable resource for my laboratory’s research program. Nearly every project we undertake—whether focused on gene function, comparative genomics, or molecular mechanisms in Schizosaccharomyces pombe—relies critically on the depth, accuracy, and accessibility of PomBase data. Without PomBase, our work would be substantially delayed, less comprehensive, and in several cases, simply not feasible.<p>I consult PomBase daily, and my lab collectively spends many hours each week using the resource. On a personal level, I typically spend several hours per week on PomBase queries, but this time would multiply manyfold if we had to reconstruct the same information from primary literature or disparate databases. PomBase saves us countless hours by integrating curated functional annotations, expression profiles, mutant phenotypes, orthology relationships, and community-generated data into a single, reliable platform.<p>One compelling example is our 2025 Nucleic Acids Research study (<a target='_blank' href='/reference/PMID:39878217'>PMID:39878217</a>) on the fission yeast ortholog of human DNAJC9. PomBase was essential for rapidly identifying conserved domains, known interaction partners, and relevant mutant alleles—information that directly shaped our experimental design.<p>Even more striking is our 2023 G3 paper (<a target='_blank' href='https://pubmed.ncbi.nlm.nih.gov/36748990'>PMID:36748990</a>) describing a high-quality reference genome for the related species Schizosaccharomyces osmophilus. That project would have been effectively impossible without PomBase. We depended entirely on PomBase’s rigorously curated S. pombe gene models, gene function annotation, and orthology information to annotate S. osmophilus genes and assign putative functions.<p> <p>We have cited PomBase in nearly all of our publications. Below are just several examples since 2019: <ul> <li>The ortholog of human DNAJC9 promotes histone H3–H4 degradation and is counteracted by Asf1 in fission yeast. Nucleic Acids Res. 2025 (<a target='_blank' href='/reference/PMID:39878217'>PMID:39878217</a>)</li> <li>A high-quality reference genome for the fission yeast Schizosaccharomyces osmophilus. G3. 2023 (<a target='_blank' href='https://pubmed.ncbi.nlm.nih.gov/36748990'>PMID:36748990</a>)</li> <li>An improved tetracycline-inducible expression system for fission yeast. J Cell Sci. 2024 (<a target='_blank' href='/reference/PMID:39318285'>PMID:39318285</a>)</li> <li>Molecular and structural mechanisms of ZZ domain–mediated cargo selection by Nbr1. EMBO J. 2021 (<a target='_blank' href='/reference/PMID:34169534'>PMID:34169534</a>)</li> <li>Atg1 kinase in fission yeast is activated by Atg11-mediated dimerization and cis-autophosphorylation. eLife 2020 (<a target='_blank' href='/reference/PMID:32909946'>PMID:32909946</a>)</li> <li>Intraspecific Diversity of Fission Yeast Mitochondrial Genomes. Genome Biol Evol. 2019 (<a target='_blank' href='/reference/PMID:31364709'>PMID:31364709</a>)</li> <li>Systematic analysis reveals the prevalence and principles of bypassable gene essentiality. Nat Commun. 2019 (<a target='_blank' href='/reference/PMID:30824696'>PMID:30824696</a>)</li> </ul> <p> In sum, PomBase is far more than a database—it is a foundational pillar of modern fission yeast research, and its continued support is vital to the productivity and innovation of our field. <p> I recently taught a class on protein sequence homology to first-year PhD students. One way to obtain protein sequence homology information is to consult databases, including model organism genome databases. In teaching this aspect, I used PomBase as a prominent example.",
+    "author": "Professor Li-Lin Du, National Institute of Biological Sciences, Beijing, China",
+    "location": "FULL"
+  },
+  {
+    "quote": "I worked on a project that involved a Quantitative Trait Locus analysis to understand genes responsible for multicellular-like phenotypes in yeast https://www.biorxiv.org/content/10.1101/2023.12.15.571870v2.<p>PomBase was crucial in several ways for this study. For our strongest hit, there was research in other species that linked it to multicellular like phenotypes and PomBase helped us quickly find this research, also linking out to other model organism databases. This also pointed us to data from other researchers who had investigated these genes under different contexts and saved us the time and effort of doing the experiments ourselves so that we could quickly move on to the more important experiments. We may have eventually found that literature ourselves, but by lowering the barrier for finding relevant research, it allows researchers to quickly test hypotheses and make use of one another's work to accelerate science.",
+    "author": "Ben Heineike, Post-doctoral researcher, Francis Crick Institute and University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "There have been an explosion of journals, publications and preprints in recent years and, for the fission yeast community, PomBase does the important role of curating that research so that results get to the right researchers at the right time, and prevents scientists from getting stuck in silos. This is similar to the role that Scientific Conferences play in research, but it is updated in real time (rather than a few times a year), accessible to all (rather than just the small percentage of the community that can go to conferences), is comprehensive and is easily retrievable. PomBase allows fission yeast to be a model organism to a much wider community than it would be if the knowledge were disorganized and specific to just a few labs.",
+    "author": "Ben Heineike, Post-doctoral researcher, Francis Crick Institute and University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "Without PomBase, fission yeast researchers would be reluctant to branch out to study genes and proteins that they identify in their research that are outside of their specific experience and expertise. With PomBase, researchers can ask the simple questions and find the right papers quickly in a new field, and for the tough questions it helps put them in touch with the experts.",
+    "author": "Ben Heineike, Post-doctoral researcher, Francis Crick Institute and University College London, UK",
+    "location": "FRONT"
+  },
+  {
+    "quote": "I worked on a project that involved a Quantitative Trait Locus analysis to understand genes responsible for multicellular-like phenotypes in yeast https://www.biorxiv.org/content/10.1101/2023.12.15.571870v2.<p>PomBase was crucial in several ways for this study. For our strongest hit, there was research in other species that linked it to multicellular like phenotypes and PomBase helped us quickly find this research, also linking out to other model organism databases. This also pointed us to data from other researchers who had investigated these genes under different contexts and saved us the time and effort of doing the experiments ourselves so that we could quickly move on to the more important experiments. We may have eventually found that literature ourselves, but by lowering the barrier for finding relevant research, it allows researchers to quickly test hypotheses and make use of one another's work to accelerate science. Without PomBase, fission yeast researchers would be reluctant to branch out to study genes and proteins that they identify in their research that are outside of their specific experience and expertise. With PomBase, researchers can ask the simple questions and find the right papers quickly in a new field, and for the tough questions it helps put them in touch with the experts. There have been an explosion of journals, publications and preprints in recent years and, for the fission yeast community, PomBase does the important role of curating that research so that results get to the right researchers at the right time, and prevents scientists from getting stuck in silos. This is similar to the role that Scientific Conferences play in research, but it is updated in real time (rather than a few times a year), accessible to all (rather than just the small percentage of the community that can go to conferences), is comprehensive and is easily retrievable. PomBase allows fission yeast to be a model organism to a much wider community than it would be if the knowledge were disorganized and specific to just a few labs.",
+    "author": "Ben Heineike, Post-doctoral researcher, Francis Crick Institute and University College London, UK",
+    "location": "FULL"
+  }
+]
