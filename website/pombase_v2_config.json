@@ -7415,56 +7415,28 @@
                             {
                                 "not": [
                                     {
-                                        "not": [
-                                            {
-                                                "node_name": "subset: feature_type_mRNA_gene",
-                                                "subset": {
-                                                    "subset_name": "feature_type_mRNA_gene"
-                                                }
-                                            },
-                                            {
-                                                "node_name": "subset: characterisation_status_transposon",
-                                                "subset": {
-                                                    "subset_name": "characterisation_status_transposon"
-                                                }
-                                            }
-                                        ],
-                                        "node_name": "subset: feature_type_mRNA_gene NOT subset: characterisation_status_transposon"
+                                        "node_name": "subset: feature_type_mRNA_gene",
+                                        "subset": {
+                                            "subset_name": "feature_type_mRNA_gene"
+                                        }
                                     },
                                     {
-                                        "node_name": "subset: characterisation_status_dubious",
+                                        "node_name": "subset: characterisation_status_transposon",
                                         "subset": {
-                                            "subset_name": "characterisation_status_dubious"
+                                            "subset_name": "characterisation_status_transposon"
                                         }
                                     }
                                 ],
-                                "node_name": "All protein coding genes (excluding dubious and transposon)"
+                                "node_name": "subset: feature_type_mRNA_gene NOT subset: characterisation_status_transposon"
                             },
                             {
-                                "or": [
-                                    {
-                                        "node_name": "subset: characterisation_status_conserved_unknown",
-                                        "subset": {
-                                            "subset_name": "characterisation_status_conserved_unknown"
-                                        }
-                                    },
-                                    {
-                                        "node_name": "subset: characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized",
-                                        "subset": {
-                                            "subset_name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized"
-                                        }
-                                    },
-                                    {
-                                        "node_name": "subset: characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized",
-                                        "subset": {
-                                            "subset_name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized"
-                                        }
-                                    }
-                                ],
-                                "node_name": "Protein coding genes, unknown process"
+                                "node_name": "subset: characterisation_status_dubious",
+                                "subset": {
+                                    "subset_name": "characterisation_status_dubious"
+                                }
                             }
                         ],
-                        "node_name": "(All protein coding genes (excluding dubious and transposon)) NOT (Protein coding genes, unknown process)"
+                        "node_name": "All protein coding genes (excluding dubious and transposon)"
                     },
                     {
                         "node_name": "genes annotated with \"molecular_function\" (GO:0003674)",
@@ -7476,14 +7448,14 @@
                         }
                     }
                 ],
-                "node_name": "genes annotated with \"molecular_function\" (GO:0003674) AND ((All protein coding genes (excluding dubious and transposon)) NOT (Protein corresponding_author_id genes, unknown process))"
+                "node_name": "genes annotated with \"molecular_function\" (GO:0003674) AND (All protein coding genes (excluding dubious and transposon))"
             },
             "output_options": {}
         },
         "canned_query:coding_genes_with_bp_annotation": {
             "name": "Protein coding Genes with GO biological process annotation",
             "constraints": {
-                "not": [
+                "and": [
                     {
                         "not": [
                             {
@@ -7513,30 +7485,16 @@
                         "node_name": "All protein coding genes (excluding dubious and transposon)"
                     },
                     {
-                        "or": [
-                            {
-                                "node_name": "subset: characterisation_status_conserved_unknown",
-                                "subset": {
-                                    "subset_name": "characterisation_status_conserved_unknown"
-                                }
-                            },
-                            {
-                                "node_name": "subset: characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized",
-                                "subset": {
-                                    "subset_name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized"
-                                }
-                            },
-                            {
-                                "node_name": "subset: characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized",
-                                "subset": {
-                                    "subset_name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized"
-                                }
-                            }
-                        ],
-                        "node_name": "Protein coding genes, unknown process"
+                        "node_name": "genes annotated with \"biological_process\" (GO:0008150)",
+                        "term": {
+                            "termid": "GO:0008150",
+                            "name": "biological_process",
+                            "ploidiness": null,
+                            "expression": null
+                        }
                     }
                 ],
-                "node_name": "(All protein coding genes (excluding dubious and transposon)) NOT (Protein coding genes, unknown process)"
+                "node_name": "genes annotated with \"biological_process\" (GO:0008150) AND (All protein coding genes (excluding dubious and transposon))"
             },
             "output_options": {}
         }
