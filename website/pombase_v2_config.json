@@ -7499,26 +7499,51 @@
             "output_options": {}
         }
     },
-    "canned_query_ids": [
-        "all_diseases",
-        "all_protein_coding_ex_dubious_and_transposon",
-        "all_genes",
-        "viable_deletions",
-        "inviable_deletions",
-        "conserved_in_S_cerevisiae",
-        "conserved_in_human",
-        "conserved_in_S_japonicus",
-        "genes_with_paralogs",
-        "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
-        "protein_coding_genes_unknown_process",
-        "proteins_with_pdb_structures",
-        "genes_with_rna_secondary_structure_predictions",
-        "gocam_activity_gene_count",
-        "genes_with_annotated_protein_feature",
-        "canned_query:genes_in_complexes",
-        "canned_query:proteins_in_complexes",
-        "canned_query:coding_genes_with_mf_annotation",
-        "canned_query:coding_genes_with_bp_annotation"
+    "canned_queries": [
+        {
+            "heading": "Gene number",
+            "query_ids": [
+                "all_protein_coding_ex_dubious_and_transposon",
+                "all_genes"
+            ]
+        },
+        {
+            "heading": "Viability",
+            "query_ids": [
+                "viable_deletions",
+                "inviable_deletions"
+            ]
+        },
+        {
+            "heading": "Homology and Disease queries",
+            "query_ids": [
+                "conserved_in_S_cerevisiae",
+                "conserved_in_human",
+                "conserved_in_S_japonicus",
+                "genes_with_paralogs",
+                "all_diseases"
+            ]
+        },
+        {
+            "heading": "Genes with specific features available",
+            "query_ids": [
+                "proteins_with_pdb_structures",
+                "genes_with_rna_secondary_structure_predictions",
+                "canned_query:proteins_in_complexes",
+                "canned_query:genes_in_complexes",
+                "gocam_activity_gene_count",
+                "genes_with_annotated_protein_feature"
+            ]
+        },
+        {
+            "heading": "GO status queries",
+            "query_ids": [
+                "protein_coding_genes_unknown_process",
+                "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
+                "canned_query:coding_genes_with_mf_annotation",
+                "canned_query:coding_genes_with_bp_annotation"
+            ]
+        }
     ],
     "api_seq_chunk_sizes": [
         10000,
