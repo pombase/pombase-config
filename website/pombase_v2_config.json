@@ -480,10 +480,63 @@
             {
                 "id": "canned_queries",
                 "displayName": "Commonly used queries",
-                "nodeType": "canned-queries",
+                "nodeType": "sub-nodes",
                 "topDescription": [
                     {
                         "text": "Shortcuts for commonly used queries"
+                    }
+                ],
+                "subNodes": [
+                    {
+                        "id": "canned_queries_gene_number",
+                        "displayName": "Gene number",
+                        "nodeType": "canned-queries",
+                        "query_ids": [
+                            "all_protein_coding_ex_dubious_and_transposon",
+                            "all_genes"
+                        ]
+                    },
+                    {
+                        "id": "canned_queries_viability",
+                        "displayName": "Viability",
+                        "nodeType": "canned-queries",
+                        "query_ids": [
+                            "viable_deletions", "inviable_deletions"
+                        ]
+                    },
+                    {
+                        "id": "canned_queries_homology_and_disease",
+                        "displayName": "Homology and Disease queries",
+                        "nodeType": "canned-queries",
+                        "query_ids": [
+                            "conserved_in_S_cerevisiae", "conserved_in_human",
+                            "conserved_in_S_japonicus", "genes_with_paralogs",
+                            "all_diseases"
+                        ]
+                    },
+                    {
+                        "id": "canned_queries_specific_features",
+                        "displayName": "Genes with specific features available",
+                        "nodeType": "canned-queries",
+                        "query_ids": [
+                            "proteins_with_pdb_structures",
+                            "genes_with_rna_secondary_structure_predictions",
+                            "canned_query:proteins_in_complexes",
+                            "canned_query:genes_in_complexes",
+                            "gocam_activity_gene_count",
+                            "genes_with_annotated_protein_feature"
+                        ]
+                    },
+                    {
+                        "id": "canned_queries_go_status",
+                        "displayName": "GO status queries",
+                        "nodeType": "canned-queries",
+                        "query_ids": [
+                            "protein_coding_genes_unknown_process",
+                            "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
+                            "canned_query:coding_genes_with_mf_annotation",
+                            "canned_query:coding_genes_with_bp_annotation"
+                        ]
                     }
                 ]
             },
@@ -7512,52 +7565,6 @@
             "output_options": {}
         }
     },
-    "canned_queries": [
-        {
-            "heading": "Gene number",
-            "query_ids": [
-                "all_protein_coding_ex_dubious_and_transposon",
-                "all_genes"
-            ]
-        },
-        {
-            "heading": "Viability",
-            "query_ids": [
-                "viable_deletions",
-                "inviable_deletions"
-            ]
-        },
-        {
-            "heading": "Homology and Disease queries",
-            "query_ids": [
-                "conserved_in_S_cerevisiae",
-                "conserved_in_human",
-                "conserved_in_S_japonicus",
-                "genes_with_paralogs",
-                "all_diseases"
-            ]
-        },
-        {
-            "heading": "Genes with specific features available",
-            "query_ids": [
-                "proteins_with_pdb_structures",
-                "genes_with_rna_secondary_structure_predictions",
-                "canned_query:proteins_in_complexes",
-                "canned_query:genes_in_complexes",
-                "gocam_activity_gene_count",
-                "genes_with_annotated_protein_feature"
-            ]
-        },
-        {
-            "heading": "GO status queries",
-            "query_ids": [
-                "protein_coding_genes_unknown_process",
-                "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
-                "canned_query:coding_genes_with_mf_annotation",
-                "canned_query:coding_genes_with_bp_annotation"
-            ]
-        }
-    ],
     "api_seq_chunk_sizes": [
         10000,
         200000
