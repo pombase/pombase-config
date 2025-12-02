@@ -698,7 +698,7 @@ TF binding sites,yes,no,TF binding site - heat shock element (HSE),,,,,,,,,,,,,,
 TF binding sites,yes,no,TF binding site - homol D box,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_homol_D_box.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - homol E box,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_homol_E_box.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - Hsf1 binding motif,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_Hsf1_binding_motif.sorted.bed.gz
-TF binding sites,yes,no,TF binding site - Inr consensus initiator sequence,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_Inr_consensus_initiator_sequence.sorted.bed.gz
+TF binding sites,no,no,TF binding site - Inr consensus initiator sequence,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_Inr_consensus_initiator_sequence.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - Inr immediate downstream motif,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_Inr_immediate_downstream_motif.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - iron repressed GATA element,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_iron_repressed_GATA_element.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - Loz1 binding motif,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_Loz1_binding_motif.sorted.bed.gz
