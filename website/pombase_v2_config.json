@@ -12209,19 +12209,53 @@
         ]
     },
     "dataset_versions": {
-        "descriptions": {
-            "PSI-MOD": "Protein Modifications Ontology",
-            "biological_process": "GO biological process",
-            "cell": "The Cell Ontology of biological cell types (CL)",
-            "cellular_component": "GO cellular component",
-            "chebi_ontology": "Chemical Entities of Biological Interest Ontology (CHEBI)",
-            "fission_yeast_phenotype": "A formal ontology of phenotypes observed in fission yeast (FYPO)",
-            "fission_yeast_phenotype_condition": "FYPO condition ontology",
-            "molecular_function": "GO molecular function",
-            "mondo": "Mondo disease ontology",
-            "pombase_relations": "PomBase specific ontology relations",
-            "protein": "PRO protein-relation entity ontology (PRO)",
-            "sequence": "Ontology of sequence features used in biological sequence annotation (SO)"
+        "ontology_details": {
+            "PSI-MOD": {
+                "description": "Protein Modifications Ontology",
+                "external_link": "https://github.com/HUPO-PSI/psi-mod-CV"
+            },
+            "biological_process": {
+                "description": "GO biological process",
+                "external_link": "https://geneontology.org/docs/ontology-documentation/"
+            },
+            "cell": {
+                "description": "The Cell Ontology of biological cell types (CL)",
+                "external_link": "https://obophenotype.github.io/cell-ontology/"
+            },
+            "cellular_component": {
+                "description": "GO cellular component",
+                "external_link": "https://geneontology.org/docs/ontology-documentation/"
+            },
+            "chebi_ontology": {
+                "description": "Chemical Entities of Biological Interest Ontology (CHEBI)",
+                "external_link": "https://www.ebi.ac.uk/chebi/about/"
+            },
+            "fission_yeast_phenotype": {
+                "description": "A formal ontology of phenotypes observed in fission yeast (FYPO)",
+                "external_link": "https://www.pombase.org/browse-curation/fission-yeast-phenotype-ontology"
+            },
+            "fission_yeast_phenotype_condition": {
+                "description": "FYPO condition ontology"
+            },
+            "molecular_function": {
+                "description": "GO molecular function",
+                "external_link": "https://geneontology.org/docs/ontology-documentation/"
+            },
+            "mondo": {
+                "description": "Mondo disease ontology",
+                "external_link": "https://mondo.monarchinitiative.org/"
+            },
+            "pombase_relations": {
+                "description": "PomBase specific ontology relations"
+            },
+            "protein": {
+                "description": "PRO protein-relation entity ontology (PRO)",
+                "external_link": "https://proconsortium.org/"
+            },
+            "sequence": {
+                "description": "Ontology of sequence features used in biological sequence annotation (SO)",
+                "external_link": "http://www.sequenceontology.org/"
+            }
         }
     },
     "stats": {
