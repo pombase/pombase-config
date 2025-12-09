@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Step into the unknown",
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-10-08-unknowns.png"
+    ],
+    "content": "Browse PomBase's inventory of conserved proteins with no known biological role",
+    "link": "/status/priority-unstudied-genes",
+    "link_label": "more ...",
+    "date_added": "2017-10-10",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Biological process overview",
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-10-08-slimming.png"
+    ],
+    "content": "The fission yeast [GO slim](browse-curation/fission-yeast-bp-go-slim-terms) provides a summary of genes annotated to broad biological processes",
+    "date_added": "2017-10-10",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Data mining",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-10-13-data_mining.png"
+    ],
+    "content": "Use the [Advanced Search](/query) to construct complex queries (GO, phenotypes, taxonomic distribution, domain, chromosomal location).",
+    "date_added": "2017-10-13",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Over 200,000 curated annotations",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-06-200_000_curated_annotations.png"
+    ],
+    "content": "PomBase has integrated over 200,000 manually curated gene-specific annotations. See our [Resource Metrics](about/resource-metrics) page for more literature curation progress reports.",
+    "date_added": "2017-11-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Building networks",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-06-building_networks.png"
+    ],
+    "content": "PomBase uses manually curated Gene Ontology annotation to generate biological process-specific networks, such as the cytokinesis network excerpted above. Currently available networks are linked to the [GO slim](browse-curation/fission-yeast-bp-go-slim-terms) page.",
+    "date_added": "2017-11-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Help!",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-06-help.png"
+    ],
+    "content": "PomBase provides extensive documentation and answers many questions in the [FAQ](faq). For any information you can't find there, please <app-contact-email [linkName]=\"'contact the helpdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
+    "date_added": "2017-11-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Community curation in Canto",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-06-community_curation.png"
+    ],
+    "content": "PomBase has pioneered a community curation system that enables researchers to contribute publication-based annotations directly to database curators. To participate, search for the PubMed ID of your paper [in Canto](https://curation.pombase.org/pombe) or <app-contact-email [linkName]=\"'contact the helpdesk'\" [subject]=\"'PomBase question'\"></app-contact-email>.",
+    "date_added": "2017-11-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "The naming of parts",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-09-name_that_gene.png"
+    ],
+    "content": "4020 of the 5070 fission yeast protein-coding genes now have assigned standard names. We encourage all authors and reviewers to ensure that gene names are registered prior to publication. Visit our [gene registry page](gene-names) and the [<em>S. pombe</em> gene naming guidelines](gene-names/gene-naming-guidelines) for more information.",
+    "date_added": "2017-11-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Disease gene orthologs",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-06-disease_gene_orthologs.png"
+    ],
+    "content": "Of the 3526 *S. pombe* with identified human orthologs, over 500 have been implicated in disease. These are manually annotated with terms from a small in-house vocabulary, and can be searched as described in the [disease gene FAQ](faq/how-can-i-find-s.-pombe-genes-associated-human-disease).",
+    "date_added": "2017-11-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Methods and Protocols chapter",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2018-05-21-pombase-book-chapter.png"
+    ],
+    "content": "A guide to getting the most from PomBase, and to its curation philosophy and data organization. [Free download](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4) thanks to the [Wellcome Trust](https://wellcome.ac.uk/).\n\n[View chapter ...](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)",
+    "date_added": "2018-05-21",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Browse our inventory of conserved proteins with no known biological role",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-17-unknowns.png"
+    ],
+    "content": "Unknown process now down to 696, [conserved unknowns 410](/gene_subset/characterisation_status_conserved_unknown).\nOur \"Unknowns\" manuscript is now available on bioRxiv: [DOI: 10.1101/469569](https://www.biorxiv.org/content/early/2018/11/16/469569).",
+    "date_added": "2018-11-17",
+    "show_on_front_page": false
+  },
+  {
+    "title": "25% of fission yeast proteins have disease associations",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-01-27-disease.png"
+    ],
+    "content": "Access [Disease associations](/term/MONDO:0000001) for 907 pombe genes (up from 610), includes new associations derived from MalaCards. This number will increase as work is still in progress...",
+    "date_added": "2019-01-27",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Browse our inventory of conserved proteins with no known biological role",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-17-unknowns.png"
+    ],
+    "content": "Our \"unknowns\" analysis is now published in [Open Biology](https://royalsocietypublishing.org/doi/10.1098/rsob.180241). You can browse the [list of fission yeast unknown proteins](status/priority-unstudied-genes), and use the \"Visualise\" button to explore the data interactively in QuiLT, the new tool inspired by [Figure 4](https://royalsocietypublishing.org/doi/10.1098/rsob.180241#RSOB180241F4).",
+    "date_added": "2019-02-20",
+    "show_on_front_page": true
+  },
+  {
+    "title": "GO slim analysis for any gene list",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-03-05-slim-list.png"
+    ],
+    "content": "PomBase's advanced search now allows you to retrieve [GO slim](documentation/pombase-go-slim-documentation) annotations for any set of search results. Combine with the \"Gene IDs\" query option to find GO slim annotations for your own list of genes.",
+    "date_added": "2019-03-05",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Motif search updated",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2017-11-06-motif_search.png"
+    ],
+    "content": "The PomBase [Protein Motif Search Tool](/motif_search) allows you to search for any user-defined amino acid sequence, supporting exact matches, wildcards, gaps, and ambiguity codes. This search is now fully integrated into PomBase, allowing results to be sent directly to the [advanced search](/query).",
+    "date_added": "2019-03-19",
+    "show_on_front_page": false
+  },
+  {
+    "title": "The PomBase genome browser",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-09-05-explore-JBrowse.png"
+    ],
+    "content": "The PomBase [JBrowse instance](https://www.pombase.org/jbrowse/) provides a responsive online environment in which to visualise published genomic datasets. For more information please see our [JBrowse documentation page](https://www.pombase.org/documentation/JBrowse_quick_start). Authors are welcome to submit their published data to PomBase for hosting.",
+    "date_added": "2019-09-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "PomBase community curation",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2020-05-01-community_curation.png"
+    ],
+    "content": "Authors now contribute curation to PomBase for almost all new fission yeast publications. Find out how you can benefit in our [new paper on community curation](https://academic.oup.com/database/article/doi/10.1093/database/baaa028/5827230), and visit the [*S. pombe* Canto home](https://curation.pombase.org/pombe) to participate.",
+    "date_added": "2020-05-01",
+    "show_on_front_page": false
+  },
+  {
+    "title": "25% of pombe proteins have disease associations",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-01-27-disease.png"
+    ],
+    "content": "Access [Disease associations](/term/MONDO:0000001) for 1239 of the 3540 pombe genes with human orthologs (up from 987 in 2019), using the MONDO disease ontology. Or browse the [disease slim set here](https://www.pombase.org/browse-curation/disease-slim).",
+    "date_added": "2020-08-07",
+    "show_on_front_page": false
+  },
+  {
+    "title": "Fission yeast microPublications",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2021-06-08-pombe-micropublications.png"
+    ],
+    "content": "[*S. pombe* microPublications](https://www.micropublication.org/journals/biology/species/s-pombe/) describe brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. Find microPublications in the PomBase simple search, or [submit your own](https://www.micropublication.org/submit-new-article/).",
+    "date_added": "2021-06-08",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Disease associations for fission yeast proteins",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-01-27-disease.png"
+    ],
+    "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1401 (up from 907 in 2019 and 1239 in 2020) of the 3560 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
+    "date_added": "2021-08-06",
+    "show_on_front_page": false
+  },
+  {
+    "title": "New disease associations for fission yeast proteins",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-01-27-disease.png"
+    ],
+    "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1471 (up from 1401 in August 2021) of the 3597 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
+    "date_added": "2022-06-23",
+    "show_on_front_page": true
+  },
+  {
+    "title": "PomBase's 'sister' database for fission yeast Schizosaccharomyces japonicus",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2023-02-13-explore-JaponicusDB.png"
+    ],
+    "content": "We cloned PomBase to create a fully community-maintained resource for the [emerging model S. japonicus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789812/); providing genome browser, literature curation, and query tools.\n\n[Visit JaponicusDB](https://www.japonicusdb.org/)",
+    "date_added": "2023-02-13",
+    "show_on_front_page": true
+  },
+  {
+    "title": "New documentation and videos for Canto",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2023-11-29-new-canto-video-docs.png"
+    ],
+    "content": "[A new website](https://pombase.github.io/canto_tutorial/) with videos and documentation for [Canto](https://curation.pombase.org/), our community curation tool. The website includes short step-by-step text and video guides on how to make annotations in Canto. \n\n[Visit the new Canto documentation](https://pombase.github.io/canto_tutorial/)",
+    "date_added": "2023-11-29",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Protein-coding gene characterisation status",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2023-11-29-gene-characterisation-status.png"
+    ],
+    "content": "Although over half of fission yeast proteins are now published in small-scale experiments, and the roles of a further >1900 can be inferred, there are still 616 of unknown process, of these 356 are conserved outside the fission yeast, 126 as far as human. \n\n[View the protein characterization graph](https://www.pombase.org/status/protein-status-tracker)",
+    "date_added": "2023-11-29",
+    "show_on_front_page": true
+  }
+]
