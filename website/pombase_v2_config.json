@@ -5942,9 +5942,10 @@
         "amigo": "GO",
         "cathgene3d": "Gene3D",
         "scanprosite": "Prosite",
-        "prositeprofiles": "Prosite",
-        "prosite_profiles": "Prosite",
-        "prositepatterns": "Prosite",
+        "prositeprofiles": "PROSITE_Profiles",
+        "prosite profiles": "PROSITE_Profiles",
+        "prositepatterns": "PROSITE_Patterns",
+        "prosite patterns": "PROSITE_Patterns",
         "coils": "Coiled coils"
     },
     "misc_external_links": {
