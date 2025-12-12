@@ -4974,4 +4974,17 @@
     "date_added": "2025-11-27",
     "show_on_front_page": true
   }
+  {
+    "title": "Zhang et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/08-12-2025-PMID-41144523.png"
+    ],
+    "content": "The Ync13-Rga7-Rng10 complex selectively coordinates secretory vesicle trafficking and secondary septum formation during cytokinesis.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3003466'>PLoS Biol</a>.",
+    "reference_id": "PMID:41144523",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2025-12-11",
+    "show_on_front_page": true
+   },
 ]
