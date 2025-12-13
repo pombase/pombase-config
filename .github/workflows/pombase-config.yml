@@ -20,3 +20,7 @@ jobs:
         run: git clone --depth 1 https://github.com/pombase/website.git pombase-website
       - name: Run test script
         run: etc/check_config.pl website/pombase_v2_config.json website/jbrowse_track_metadata.csv pombase-website/src/assets
+      - name: Check spotlights.json
+        run: jq . spotlights.json > /dev/null
+      - name: Check explore.json
+        run: jq . explore.json > /dev/null
