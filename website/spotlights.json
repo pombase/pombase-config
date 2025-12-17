@@ -4987,4 +4987,17 @@
     "date_added": "2025-12-11",
     "show_on_front_page": true
    }
+  {
+    "title": "Lu et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2025-12-17-PMID40402811.png"
+    ],
+    "content": "Characterization of oncohistone H2B variants in Schizosaccharomyces pombe reveals a key role of H2B monoubiquitination deficiency in genomic instability by altering gene expression.\n\nOriginally published in <a href='https://doi.org/10.1093/femsyr/foaf027'>FEMS Yeast Res</a>.",
+    "reference_id": "PMID:40402811",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2025-12-17",
+    "show_on_front_page": true
+  }
 ]
