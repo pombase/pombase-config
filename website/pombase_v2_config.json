@@ -3325,14 +3325,6 @@
             ],
             "split_by_parents": [
                 {
-                    "config_name": "population_phenotype",
-                    "termids": [
-                        "FYPO:0000003",
-                        "FYPO:0001155"
-                    ],
-                    "display_name": "population"
-                },
-                {
                     "config_name": "cell_phenotype",
                     "termids": [
                         "FYPO:0000002",
@@ -3365,6 +3357,14 @@
                         "FYPO:0007491"
                     ],
                     "display_name": "cell"
+                },
+                {
+                    "config_name": "population_phenotype",
+                    "termids": [
+                        "FYPO:0000003",
+                        "FYPO:0001155"
+                    ],
+                    "display_name": "population"
                 }
             ],
             "summary_relations_to_hide": [
@@ -7039,12 +7039,16 @@
                 "cv_names": ["orthologous_to"]
             },
             {
+                "display_name": "Disease",
+                "cv_names": ["mondo"]
+            },
+            {
                 "display_name": "Other",
                 "cv_names": [
                     "pombase_family_or_domain", "complementation", "EC numbers",
                     "PomBase gene characterisation status", "external_link",
                     "PomBase gene products", "ex_tools", "genome_org",
-                    "m_f_g", "misc", "mondo",
+                    "m_f_g", "misc",
                     "name_description", "sequence", "species_dist", "warning",
                     "cat_act", "subunit_composition"]
             }
