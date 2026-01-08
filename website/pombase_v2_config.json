@@ -7039,16 +7039,12 @@
                 "cv_names": ["orthologous_to"]
             },
             {
-                "display_name": "Disease",
-                "cv_names": ["mondo"]
-            },
-            {
                 "display_name": "Other",
                 "cv_names": [
                     "pombase_family_or_domain", "complementation", "EC numbers",
                     "PomBase gene characterisation status", "external_link",
                     "PomBase gene products", "ex_tools", "genome_org",
-                    "m_f_g", "misc",
+                    "m_f_g", "misc", "mondo",
                     "name_description", "sequence", "species_dist", "warning",
                     "cat_act", "subunit_composition"]
             }
