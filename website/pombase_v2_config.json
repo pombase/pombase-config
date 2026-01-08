@@ -7027,12 +7027,8 @@
                 "cv_names": ["gene_ex", "PomGeneExProt", "PomGeneExRD", "PomGeneExRNA"]
             },
             {
-                "display_name": "Genetic interactions",
-                "cv_names": ["interacts_genetically"]
-            },
-            {
-                "display_name": "Physical interactions",
-                "cv_names": ["interacts_physically"]
+                "display_name": "Interactions",
+                "cv_names": ["interacts_genetically", "interacts_physically"]
             },
             {
                 "display_name": "Orthologs",
