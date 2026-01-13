@@ -158,7 +158,7 @@
                 ]
             },
             {
-                "header": "Genome Status",
+                "header": "Status",
                 "entries": [
                     {
                         "title": "Genome status index",
