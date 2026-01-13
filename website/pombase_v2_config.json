@@ -161,6 +161,10 @@
                 "header": "Genome Status",
                 "entries": [
                     {
+                        "title": "Genome status index",
+                        "url": "/status"
+                    },
+                    {
                         "title": "Literature and curation metrics",
                         "url": "/metrics"
                     },
