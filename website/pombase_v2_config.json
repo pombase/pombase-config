@@ -169,6 +169,10 @@
                         "url": "/status/sequencing-status"
                     },
                     {
+                        "title": "Non-gene features",
+                        "url": "/documentation/non-gene-features"
+                    },
+                    {
                         "title": "Genome updates",
                         "url": "/status/sequencing-updates"
                     },
