@@ -108,7 +108,8 @@
         ]
     },
     "doc_page_aliases": {
-        "/browse-curation/fission-yeast-go-slim-terms": "/browse-curation/fission-yeast-bp-go-slim-terms"
+        "/browse-curation/fission-yeast-go-slim-terms": "/browse-curation/fission-yeast-bp-go-slim-terms",
+        "/documentation/misc-sequence-features": "/documentation/non-gene-features"
     },
     "nav_bar_config": {
         "nav_bar_menus": [
