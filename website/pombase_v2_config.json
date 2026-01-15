@@ -174,12 +174,12 @@
                         "url": "/status/genome-overview"
                     },
                     {
-                        "title": "Genome sequence status",
-                        "url": "/status/sequencing-status"
-                    },
-                    {
                         "title": "Non-gene features",
                         "url": "/documentation/non-gene-features"
+                    },
+                    {
+                        "title": "Genome sequence status",
+                        "url": "/status/sequencing-status"
                     },
                     {
                         "title": "Genome updates",
