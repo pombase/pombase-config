@@ -170,6 +170,10 @@
                         "url": "/metrics"
                     },
                     {
+                        "title": "Genome overview",
+                        "url": "/status/genome-overview"
+                    },
+                    {
                         "title": "Genome sequence status",
                         "url": "/status/sequencing-status"
                     },
