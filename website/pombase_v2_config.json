@@ -154,7 +154,7 @@
                         "url": "/status/protein-status-tracker"
                     },
                     {
-                        "title": "Genome statistics",
+                        "title": "Genome overview",
                         "url": "/status/genome-overview"
                     }
                 ]
@@ -171,7 +171,7 @@
                         "url": "/metrics"
                     },
                     {
-                        "title": "Genome overview",
+                        "title": "Genome statistics",
                         "url": "/status/genome-overview"
                     },
                     {
