@@ -7058,6 +7058,30 @@
                     "name_description", "sequence", "species_dist", "warning",
                     "cat_act", "subunit_composition"]
             }
+        ],
+        "feature_types_table": [
+            {
+                "sub_title": "Repeat type",
+                "type_names": [
+                    "dg_repeat",
+                    "dh_repeat",
+                    "long_terminal_repeat",
+                    "LTR_retrotransposon",
+                    "nuclear_mt_pseudogene",
+                    "regional_centromere_inner_repeat_region",
+                    "repeat_region"
+                ]
+            },
+            {
+                "sub_title": "Other",
+                "type_names": [
+                    "gap",
+                    "low_complexity_region",
+                    "mating_type_region",
+                    "regional_centromere",
+                    "regional_centromere_central_core"
+                ]
+            }
         ]
     },
     "apicuron": {
