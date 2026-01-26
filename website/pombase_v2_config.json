@@ -257,6 +257,10 @@
                         "url": "/community"
                     },
                     {
+                        "title": "pombeTalks seminars",
+                        "url": "/community/pombetalks"
+                    },
+                    {
                         "title": "Community curated publications",
                         "url": "/reference_list/community"
                     },
