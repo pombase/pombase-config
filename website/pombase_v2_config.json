@@ -4910,6 +4910,20 @@
             "url": "http://www.pantherdb.org/genes/gene.do?acc=SCHPO%7CPomBase%3D<<UNIQUENAME>>%7CUniProtKB%3D<<IDENTIFIER>>"
         },
         {
+            "ref_type": "Orthologs",
+            "feature_types": [
+                "mRNA gene",
+                "pseudogene"
+            ],
+            "name": "Schizosaccharomyces orthogroup (SOG)",
+            "description": "Schizosaccharomyces genes sharing a common ancestry",
+            "field_name": "schizosaccharomyces_orthogroup",
+            "show_in_sections": [
+                "orthologs"
+            ],
+            "url": "https://www.sogweb.org/iSOG/<<IDENTIFIER>>.html"
+        },
+        {
             "ref_type": "Promoters",
             "feature_types": [
                 "ALL"
