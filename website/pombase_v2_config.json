@@ -4612,7 +4612,8 @@
             "name": "OpenCloning",
             "description": "Plan and document cloning and genome engineering",
             "field_name": "uniquename",
-            "url": "http://app.opencloning.org/?source=locus_tag&assembly_accession=GCA_000002945.3&locus_tag=<<IDENTIFIER>>"
+            "url": "http://app.opencloning.org/?source=locus_tag&assembly_accession=GCA_000002945.3&locus_tag=<<IDENTIFIER>>",
+            "show_in_sections": ["transcript-sequence"]
         },
         {
             "ref_type": "GO annotation",
