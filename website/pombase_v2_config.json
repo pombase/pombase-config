@@ -393,6 +393,24 @@
                 "link": "https://modelarchive.org/doi/10.5452/ma-dm-hisrep",
                 "text": "AlphaFold-Multimer predictions of protein-protein interactions"
             }
+        ],
+        "PMID:25002536": [
+            {
+                "link": "https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-2543?query=E-MTAB-2543",
+                "text": "Expression profiling for several gene deletion and overexpression strains by microarray assay"
+            }
+        ],
+        "PMID:26697368": [
+            {
+                "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE71820",
+                "text": “Gene expression profiling in Atf1 overexpression strain by microarray assay"
+            }
+        ],
+        “PMID:17868468": [
+            {
+                "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5941",
+                "text": “Gene expression profiling in Pog1 mutant strains by microarray assay"
+            }
         ]
     },
     "reference_page_jbrowse_columns": [
