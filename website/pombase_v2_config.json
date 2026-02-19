@@ -403,13 +403,13 @@
         "PMID:26697368": [
             {
                 "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE71820",
-                "text": “Gene expression profiling in Atf1 overexpression strain by microarray assay"
+                "text": "Gene expression profiling in Atf1 overexpression strain by microarray assay"
             }
         ],
-        “PMID:17868468": [
+        "PMID:17868468": [
             {
                 "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5941",
-                "text": “Gene expression profiling in Pog1 mutant strains by microarray assay"
+                "text": "Gene expression profiling in Pog1 mutant strains by microarray assay"
             }
         ]
     },
