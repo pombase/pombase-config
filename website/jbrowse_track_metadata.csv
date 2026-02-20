@@ -742,3 +742,4 @@ TF binding sites,yes,no,TF binding site - Zas1 recognition motif,,,,,,,,,,,,,,,,
 TF binding sites,yes,no,TF binding site - zinc repressed element,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_zinc_repressed_element.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - rDNA intergenic spacer element,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_rDNA_intergenic_spacer_element.sorted.bed.gz
 TF binding sites,yes,no,TF binding site - Zip1 binding motif,,,,,,,,,,,,,,,,,bed,https://www.pombase.org/internal_datasets/tf_binding_sites/pombe_binding_sites_Zip1_binding_motif.sorted.bed.gz
+Chromatin binding,yes,yes,Nts1 binding sites (ChIP peaks) - Zillio et al. (2014),,nts1,,wt,not applicable,,vegetative growth,,ChIP-seq,Zillio,2014,25002536,GEO,GSE71820,,,bed,https://www.pombase.org/external_datasets/Zillio_2014_PMID_25002536/GSM1373640_nts1_peaks.sorted.bed.gz
