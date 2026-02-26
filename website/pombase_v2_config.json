@@ -4864,22 +4864,8 @@
                 "mRNA gene",
                 "pseudogene"
             ],
-            "name": "DIOPT",
-            "description": "DRSC Integrative Ortholog Prediction Tool",
-            "field_name": "uniquename",
-            "show_in_sections": [
-                "orthologs"
-            ],
-            "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Orthologs",
-            "feature_types": [
-                "mRNA gene",
-                "pseudogene"
-            ],
-            "name": "Schizosaccharomyces orthogroup (SOG)",
-            "description": "Schizosaccharomyces genes sharing a common ancestry",
+            "name": "SOG",
+            "description": "Schizosaccharomyces OrthoGroup - orthologs, gene trees, alignments, synteny (Schizosaccharomyces)",
             "field_name": "schizosaccharomyces_orthogroup",
             "show_in_sections": [
                 "orthologs"
@@ -4893,7 +4879,7 @@
                 "pseudogene"
             ],
             "name": "OMA",
-            "description": "Orthologous MAtrix (Fungi)",
+            "description": "Orthologous MAtrix - orthologs, gene trees , alignments (Fungal)",
             "field_name": "uniprot_identifier",
             "show_in_sections": [
                 "orthologs"
@@ -4907,7 +4893,7 @@
                 "pseudogene"
             ],
             "name": "Ensembl Fungal Compara",
-            "description": "Alignments, gene trees, orthologs, families",
+            "description": "Orthologs, gene trees, alignments",
             "field_name": "uniquename",
             "show_in_sections": [
                 "orthologs"
@@ -4921,7 +4907,7 @@
                 "pseudogene"
             ],
             "name": "PANTHER",
-            "description": "Orthologs, gene trees, alignments",
+            "description": "Orthologs, gene trees, alignments (Fungal)",
             "field_name": "uniprot_identifier",
             "show_in_sections": [
                 "orthologs"
@@ -4934,13 +4920,13 @@
                 "mRNA gene",
                 "pseudogene"
             ],
-            "name": "Ensembl Pan-taxonomic Compara",
-            "description": " Gene tree, orthologs",
+            "name": "DIOPT",
+            "description": "DRSC Integrative Ortholog Prediction Tool - Integrated ortholog predictors (eukaryotic model species focus)",
             "field_name": "uniquename",
             "show_in_sections": [
                 "orthologs"
             ],
-            "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/PanCompara?db=core;g=<<IDENTIFIER>>"
+            "url": "http://www.flyrnai.org/cgi-bin/DRSC_orthologs.pl?input_species=4896&output_species=0&additional_filter=None&search_fields=***&search_datasets=***&gene_list=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Orthologs",
@@ -4949,12 +4935,26 @@
                 "pseudogene"
             ],
             "name": "HCOP",
-            "description": "Integrated human orthologs",
+            "description": "Integrated ortholog predictors (human focus)",
             "field_name": "uniquename",
             "show_in_sections": [
                 "orthologs"
             ],
             "url": "https://www.genenames.org/tools/hcop/#!/?q=<<IDENTIFIER>>&qtype=pombase&qtax_id=284812&ttax_id=9606&submit=true"
+        },
+        {
+            "ref_type": "Orthologs",
+            "feature_types": [
+                "mRNA gene",
+                "pseudogene"
+            ],
+            "name": "Ensembl Pan-taxonomic Compara",
+            "description": "Orthologs, gene trees (174 selected species, pan kingdom)",
+            "field_name": "uniquename",
+            "show_in_sections": [
+                "orthologs"
+            ],
+            "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/PanCompara?db=core;g=<<IDENTIFIER>>"
         },
         {
             "ref_type": "Promoters",
