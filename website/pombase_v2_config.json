@@ -4878,6 +4878,20 @@
                 "mRNA gene",
                 "pseudogene"
             ],
+            "name": "OMA",
+            "description": "OMA - Orthologous MAtrix - Fungi matches",
+            "field_name": "uniprot_identifier",
+            "show_in_sections": [
+                "orthologs"
+            ],
+            "url": "https://omabrowser.org/oma/hogs/<<IDENTIFIER>>/Fungi/"
+        },
+        {
+            "ref_type": "Orthologs",
+            "feature_types": [
+                "mRNA gene",
+                "pseudogene"
+            ],
             "name": "HCOP",
             "description": "Integrated human orthologs",
             "field_name": "uniquename",
