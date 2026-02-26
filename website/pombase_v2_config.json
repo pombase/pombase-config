@@ -4879,7 +4879,7 @@
                 "pseudogene"
             ],
             "name": "OMA",
-            "description": "OMA - Orthologous MAtrix - Fungi matches",
+            "description": "OMA - Orthologous MAtrix (Fungi)",
             "field_name": "uniprot_identifier",
             "show_in_sections": [
                 "orthologs"
