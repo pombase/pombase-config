@@ -4999,5 +4999,70 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2025-12-17",
     "show_on_front_page": true
+   },
+   {
+    "title": "Hirai et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-02-26-PMID41258116.png"
+    ],
+    "content": "TORC2 inactivation promotes heterochromatin formation in rDNA and prolongs viability of quiescent fission yeast cells.\n\nOriginally published in <a href='https://doi.org/10.1038/s42003-025-08953-5'>Commun Biol</a>.",
+    "reference_id": "PMID:41258116",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-02-26",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Sánchez-Molina et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-02-26-PMID41259369.png"
+    ],
+    "content": "Hydroxyurea induces an oxidative stress response that triggers ER expansion and cytoplasmic protein aggregation.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pbio.3003493'>PLoS Biol</a>.",
+    "reference_id": "PMID:41259369",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-02-26",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Araoyinbo et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-02-26-PMID41298081.png"
+    ],
+    "content": "Gamete fusion triggers cytosolic functions and P-body recruitment of the RNA-binding protein Mei2 to drive fission yeast zygotic development.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.353201.125'>Genes Dev</a>.",
+    "reference_id": "PMID:41298081",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-02-26",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Nirmal et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-02-26-PMID41316862.png"
+    ],
+    "content": "Deletion of Elongator Protein 1 (Elp1) relieves heterochromatin defects in a Pol II mutant of Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1093/genetics/iyaf258'>Genetics</a>.",
+    "reference_id": "PMID:41316862",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-02-26",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Markowska et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-02-26-PMID41330900.png"
+    ],
+    "content": "PolySUMOylation of PCNA and Rad52 restricts centromeric recombination in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-025-65862-1'>Nat Commun</a>.",
+    "reference_id": "PMID:41330900",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-02-26",
+    "show_on_front_page": true
   }
 ]
