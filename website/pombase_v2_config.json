@@ -4878,13 +4878,13 @@
                 "mRNA gene",
                 "pseudogene"
             ],
-            "name": "OMA",
-            "description": "OMA - Orthologous MAtrix (Fungi)",
-            "field_name": "uniprot_identifier",
+            "name": "Schizosaccharomyces orthogroup (SOG)",
+            "description": "Schizosaccharomyces genes sharing a common ancestry",
+            "field_name": "schizosaccharomyces_orthogroup",
             "show_in_sections": [
                 "orthologs"
             ],
-            "url": "https://omabrowser.org/oma/hogs/<<IDENTIFIER>>/Fungi/"
+            "url": "https://www.sogweb.org/iSOG/<<IDENTIFIER>>.html"
         },
         {
             "ref_type": "Orthologs",
@@ -4892,13 +4892,13 @@
                 "mRNA gene",
                 "pseudogene"
             ],
-            "name": "HCOP",
-            "description": "Integrated human orthologs",
-            "field_name": "uniquename",
+            "name": "OMA",
+            "description": "Orthologous MAtrix (Fungi)",
+            "field_name": "uniprot_identifier",
             "show_in_sections": [
                 "orthologs"
             ],
-            "url": "https://www.genenames.org/tools/hcop/#!/?q=<<IDENTIFIER>>&qtype=pombase&qtax_id=284812&ttax_id=9606&submit=true"
+            "url": "https://omabrowser.org/oma/hogs/<<IDENTIFIER>>/Fungi/"
         },
         {
             "ref_type": "Orthologs",
@@ -4920,20 +4920,6 @@
                 "mRNA gene",
                 "pseudogene"
             ],
-            "name": "Ensembl Pan-taxonomic Compara",
-            "description": " Gene tree, orthologs",
-            "field_name": "uniquename",
-            "show_in_sections": [
-                "orthologs"
-            ],
-            "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/PanCompara?db=core;g=<<IDENTIFIER>>"
-        },
-        {
-            "ref_type": "Orthologs",
-            "feature_types": [
-                "mRNA gene",
-                "pseudogene"
-            ],
             "name": "PANTHER",
             "description": "Orthologs, gene trees, alignments",
             "field_name": "uniprot_identifier",
@@ -4948,13 +4934,27 @@
                 "mRNA gene",
                 "pseudogene"
             ],
-            "name": "Schizosaccharomyces orthogroup (SOG)",
-            "description": "Schizosaccharomyces genes sharing a common ancestry",
-            "field_name": "schizosaccharomyces_orthogroup",
+            "name": "Ensembl Pan-taxonomic Compara",
+            "description": " Gene tree, orthologs",
+            "field_name": "uniquename",
             "show_in_sections": [
                 "orthologs"
             ],
-            "url": "https://www.sogweb.org/iSOG/<<IDENTIFIER>>.html"
+            "url": "http://fungi.ensembl.org/Schizosaccharomyces_pombe/Gene/PanCompara?db=core;g=<<IDENTIFIER>>"
+        },
+        {
+            "ref_type": "Orthologs",
+            "feature_types": [
+                "mRNA gene",
+                "pseudogene"
+            ],
+            "name": "HCOP",
+            "description": "Integrated human orthologs",
+            "field_name": "uniquename",
+            "show_in_sections": [
+                "orthologs"
+            ],
+            "url": "https://www.genenames.org/tools/hcop/#!/?q=<<IDENTIFIER>>&qtype=pombase&qtax_id=284812&ttax_id=9606&submit=true"
         },
         {
             "ref_type": "Promoters",
