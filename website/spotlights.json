@@ -5064,5 +5064,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-02-26",
     "show_on_front_page": true
-  }
+  },
+  {
+    "title": "Akizuki et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-02-24-PMID_41354344-CK1.png"
+    ],
+    "content": "The mitotic functions of a fission yeast CK1 enzyme are regulated by Cdk1-dependent and auto-phosphorylation.\n\nOriginally published in <a href='https://doi.org/10.1016/j.jbc.2025.111007'>J Biol Chem</a>.",
+    "reference_id": "PMID:41354344",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-02-26",
+    "show_on_front_page": true
+  } 
 ]
