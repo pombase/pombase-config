@@ -4880,7 +4880,7 @@
             ],
             "name": "OMA",
             "description": "Orthologous MAtrix - orthologs, gene trees , alignments (Fungal)",
-            "field_name": "uniprot_identifier",
+            "field_name": "uniquename",
             "show_in_sections": [
                 "orthologs"
             ],
