@@ -4907,7 +4907,7 @@
                 "pseudogene"
             ],
             "name": "PANTHER",
-            "description": "Orthologs, gene trees, alignments (Fungal)",
+            "description": "Orthologs, gene trees, alignments (selected species, pan kingdom, eukaryotic focus)",
             "field_name": "uniprot_identifier",
             "show_in_sections": [
                 "orthologs"
