@@ -259,8 +259,8 @@
     "head_image": [
       "explore/2023-11-29-gene-characterisation-status.png"
     ],
-    "content": "Although over half of fission yeast proteins are now published in small-scale experiments, and the roles of a further >1900 can be inferred, there are still 616 of unknown process, of these 356 are conserved outside the fission yeast, 126 as far as human. \n\n[View the protein characterization graph](https://www.pombase.org/status/protein-status-tracker)",
-    "date_added": "2023-11-29",
+    "content": "The unknown [status tracker page](/status/protein-status-tracker) has been updated to include new datasets: There are still 651 proteins of unknown process, of these 403 are conserved outside the fission yeast, 144 as far as human.\n\n[View the protein characterization graph](/status/protein-status-tracker)",
+    "date_added": "2026-03-10",
     "show_on_front_page": true
   }
 ]
