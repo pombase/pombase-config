@@ -5090,5 +5090,19 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-03-06",
     "show_on_front_page": true
+},
+{
+    "title": "Takeuchi et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-03-09-PMID41201383.png"
+    ],
+    "content": "Combinatorial Analyses of Pre-mRNA Splicing-Defective Mutants Reveal Differential Quantitative Requirements for Shelterin in Distinct Telomere Functions.\n\nOriginally published in <a href='https://doi.org/10.1111/gtc.70064'>Genes Cells</a>.",
+    "reference_id": "PMID:41201383",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-03-09",
+    "show_on_front_page": true
 }
+  
 ]
