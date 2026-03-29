@@ -5129,5 +5129,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-03-29",
     "show_on_front_page": true
-}  
+} ,
+  {
+    "title": "Melero et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-03-29-PMID41850284.png"
+    ],
+    "content": "Arp2/3-dependent actin assembly shapes endosomes and promotes intracellular trafficking in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1016/j.cub.2026.02.030'>Curr Biol</a>.",
+    "reference_id": "PMID:41850284",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-03-29",
+    "show_on_front_page": true
+}
 ]
