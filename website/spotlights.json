@@ -5129,7 +5129,7 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-03-29",
     "show_on_front_page": true
-} ,
+},
   {
     "title": "Melero et al, 2026",
     "title_link": null,
@@ -5141,6 +5141,45 @@
     "reference_id": "PMID:41850284",
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-03-29",
+    "show_on_front_page": true
+},
+{
+    "title": "Hoshikawa et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-04-07-PMID40424131.png"
+    ],
+    "content": "Formation of giant ER sheets by pentadecanoic acid causes lipotoxicity in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2422126122'>Proc Natl Acad Sci U S A</a>.",
+    "reference_id": "PMID:40424131",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-04-07",
+    "show_on_front_page": true
+},
+{
+    "title": "Osaki et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-04-07-PMID40520116.png"
+    ],
+    "content": "Histone deacetylation as a landmark for Sgo2 relocation from centromeres to subtelomeres during interphase.\n\nOriginally published in <a href='https://doi.org/10.1016/j.isci.2025.112717'>iScience</a>.",
+    "reference_id": "PMID:40520116",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-04-07",
+    "show_on_front_page": true
+},
+{
+    "title": "Nakamura et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-04-07-PMID40923761.png"
+    ],
+    "content": "Intrinsically disordered region of Clr4/Suv39 regulates its enzymatic activity and ensures heterochromatin spreading.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkaf878'>Nucleic Acids Res</a>.",
+    "reference_id": "PMID:40923761",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-04-07",
     "show_on_front_page": true
 }
 ]
