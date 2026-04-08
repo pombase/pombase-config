@@ -5181,5 +5181,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-04-07",
     "show_on_front_page": true
+},
+{
+    "title": "Ito et al, 2024",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-04-08-PMID39340300.png"
+    ],
+    "content": "The Swi5-Sfr1 complex regulates Dmc1- and Rad51-driven DNA strand exchange proceeding through two distinct three-stranded intermediates by different mechanisms.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkae841'>Nucleic Acids Res</a>.",
+    "reference_id": "PMID:39340300",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-04-08",
+    "show_on_front_page": true
 }
 ]
