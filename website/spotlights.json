@@ -5207,5 +5207,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-04-11",
     "show_on_front_page": true
+},
+{
+    "title": "Xu et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-04-16-PMID41729970.png"
+    ],
+    "content": "The RPA-binding domain and the KKRK motif in Rad26ATRIP cooperate at the perturbed DNA replication fork for initiating checkpoint signalling.\n\nOriginally published in <a href='https://doi.org/10.1371/journal.pgen.1012052'>PLoS Genet</a>.",
+    "reference_id": "PMID:41729970",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-04-16",
+    "show_on_front_page": true
 }
 ]
