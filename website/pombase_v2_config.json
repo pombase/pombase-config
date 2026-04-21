@@ -483,6 +483,11 @@
         "sequence",
         "mondo"
     ],
+    "go_cv_names": [
+        "molecular_function",
+        "biological_process",
+        "cellular_component"
+    ],
     "search_box_config": {
         "suffixes_to_trim": [
             "\\\\.1",
