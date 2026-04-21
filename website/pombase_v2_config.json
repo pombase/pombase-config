@@ -476,9 +476,6 @@
     "jbrowse2_assembly_name": "pombe_v1",
     "jbrowse2_default_track_ids": ["Schizosaccharomyces_pombe_all_chromosomes_forward_strand", "Schizosaccharomyces_pombe_all_chromosomes_reverse_strand"],
     "search_box_cv_names": [
-        "molecular_function",
-        "biological_process",
-        "cellular_component",
         "fission_yeast_phenotype",
         "sequence",
         "mondo"
