@@ -4936,7 +4936,7 @@
                 "pseudogene"
             ],
             "name": "OMA",
-            "description": "Orthologous MAtrix - orthologs, gene trees , alignments (Fungal)",
+            "description": "Orthologous MAtrix - orthologs, gene trees, alignments (Fungal)",
             "field_name": "uniquename",
             "show_in_sections": [
                 "orthologs"
