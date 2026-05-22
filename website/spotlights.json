@@ -5233,5 +5233,57 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-04-18",
     "show_on_front_page": true
-}  
+},
+{
+    "title": "Bakosova et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-05-22-PMID40594858.png"
+    ],
+    "content": "Dbl2 interacts with helicases and an endonuclease to maintain the integrity of repetitive regions.\n\nOriginally published in <a href='https://doi.org/10.1038/s41598-025-08626-7'>Sci Rep</a>.",
+    "reference_id": "PMID:40594858",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-05-22",
+    "show_on_front_page": true
+},
+{
+    "title": "Xu et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-05-22-PMID41525994.png"
+    ],
+    "content": "Transcriptional PBR cycles at pericentromeric repeats cause gross chromosomal rearrangements through Rad52-dependent ADR-loop formation.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkaf1455'>Nucleic Acids Res</a>.",
+    "reference_id": "PMID:41525994",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-05-22",
+    "show_on_front_page": true
+},
+{
+    "title": "Innokentev et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-05-22-PMID41744897.png"
+    ],
+    "content": "Ifn1 is an intracellular GMP 5'-nucleotidase induced during the fission yeast response to phosphate starvation.\n\nOriginally published in <a href='https://doi.org/10.1128/mbio.03942-25'>mBio</a>.",
+    "reference_id": "PMID:41744897",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-05-22",
+    "show_on_front_page": true
+},
+{
+    "title": "Toda et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-05-22-PMID41786738.png"
+    ],
+    "content": "An H3K14ub-H3K9me3 feedback circuit governs heterochromatin spreading and inheritance in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-026-70276-8'>Nat Commun</a>.",
+    "reference_id": "PMID:41786738",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-05-22",
+    "show_on_front_page": true
+}
 ]
