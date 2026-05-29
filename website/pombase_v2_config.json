@@ -257,6 +257,10 @@
                         "url": "/community"
                     },
                     {
+                        "title": "PomBase user testimonials",
+                        "url": "/about/testimonials"
+                    },
+                    {
                         "title": "pombeTalks seminars",
                         "url": "/community/pombetalks"
                     },
