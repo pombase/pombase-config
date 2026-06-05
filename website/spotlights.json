@@ -5285,5 +5285,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-05-22",
     "show_on_front_page": true
+},
+{
+    "title": "Jiménez-Martín et al, 2025",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-06-05-PMID39833200.png"
+    ],
+    "content": "Centromere positioning orchestrates telomere bouquet formation and the initiation of meiotic differentiation.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-025-56049-9'>Nat Commun</a>.",
+    "reference_id": "PMID:39833200",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-06-05",
+    "show_on_front_page": true
 }
 ]
