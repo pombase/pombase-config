@@ -5298,5 +5298,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-06-05",
     "show_on_front_page": true
+},
+{
+    "title": "Kolesar et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-06-09-PMID41873186.png"
+    ],
+    "content": "Homologous recombination mutants cause differing lethality between h- and h+ Schizosaccharomyces pombe strains due to mat1 heterochromatin.\n\nOriginally published in <a href='https://doi.org/10.1111/febs.70507'>FEBS J</a>.",
+    "reference_id": "PMID:41873186",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-06-09",
+    "show_on_front_page": true
 }
 ]
