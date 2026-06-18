@@ -6913,13 +6913,14 @@
             "Binding sites",
             "Active sites",
             "Conserved motifs",
-            "MobiDB-lite-Disorder",
-            "MobiDB-lite-Glycine-rich",
-            "MobiDB-lite-Negative-Polyelectrolyte",
-            "MobiDB-lite-Polar",
-            "MobiDB-lite-Polyampholyte",
-            "MobiDB-lite-Positive-Polyelectrolyte",
-            "MobiDB-lite-Proline-rich",
+            "MobiDB",
+            "MobiDB-Disorder",
+            "MobiDB-Glycine-rich",
+            "MobiDB-Negative-Polyelectrolyte",
+            "MobiDB-Polar",
+            "MobiDB-Polyampholyte",
+            "MobiDB-Positive-Polyelectrolyte",
+            "MobiDB-Proline-rich",
             "CDD",
             "CATH-FunFam",
             "CATH-Gene3D",
@@ -6975,7 +6976,7 @@
             }
         ],
         "full_display_excluded": [
-            "MOBIDB-Low-complexity",
+            "MobiDB-Low-complexity",
             "Pfam domains"
         ]
     },
