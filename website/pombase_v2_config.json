@@ -6878,7 +6878,10 @@
         "SUPERFAMILY",
         "PANTHER",
         "PIRSF",
-        "OTHER"
+        "NCBIFAM",
+        "SFLD",
+        "OTHER",
+        "DeepTMHMM"
     ],
     "protein_feature_table": {
         "feature_types": {
@@ -6936,6 +6939,7 @@
             "SMART",
             "SUPERFAMILY",
             "Localization signals",
+            "DeepTMHMM",
             "TM domains",
             "Disordered regions",
             "Low complexity",
