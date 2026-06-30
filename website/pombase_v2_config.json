@@ -167,10 +167,6 @@
                         "url": "/status"
                     },
                     {
-                        "title": "Literature and curation metrics",
-                        "url": "/metrics"
-                    },
-                    {
                         "title": "Genome statistics",
                         "url": "/status/genome-overview"
                     },
