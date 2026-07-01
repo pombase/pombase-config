@@ -561,7 +561,8 @@
                             "canned_query:proteins_in_complexes",
                             "canned_query:genes_in_complexes",
                             "gocam_activity_gene_count",
-                            "genes_with_annotated_protein_feature"
+                            "genes_with_annotated_protein_feature",
+                            "genes_with_tm_domain_from_deeptmhmm"
                         ]
                     },
                     {
@@ -2205,6 +2206,33 @@
                     "termid": "SO:0000839",
                     "name": " polypeptide_region"
                 }
+            }
+        },
+        "canned_query:genes_with_tm_domain_from_deeptmhmm": {
+            "name": "Genes with TM domain predicted by DeepTMHMM",
+            "constraints": {
+                "or": [
+                    {
+                        "node_name": "DeepTMHMM Periplasmic Domains",
+                        "subset": {
+                            "subset_name": "interpro:DeepTMHMM:Periplasmic Domain"
+
+                        }
+                    },
+                    {
+                        "node_name": "DeepTMHMM Transmembrane alpha helix",
+                        "subset": {
+                            "subset_name": "interpro:DeepTMHMM:Transmembrane alpha helix"
+
+                        }
+                    },
+                    {
+                        "node_name": "DeepTMHMM Periplasmic Domains",
+                        "subset": {
+                            "subset_name": "interpro:DeepTMHMM:Transmembrane beta barrel"
+                        }
+                    }
+                ]
             }
         },
         "canned_query:genes_in_complexes": {
