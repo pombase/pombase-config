@@ -5311,5 +5311,31 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-06-09",
     "show_on_front_page": true
+},
+  {
+    "title": "Ma et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-07-03-PMID 41917004.png"
+    ],
+    "content": "Nucleophagy is promoted by two autophagy receptors and inhibited by chromatin-nuclear envelope tethering in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-026-71237-x'>Nat Commun</a>.",
+    "reference_id": "PMID: 41917004",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-07-03",
+    "show_on_front_page": true
+},
+{
+    "title": "Du et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-07-03-PMID42030144.png"
+    ],
+    "content": "Gene loss, repression, amplification, and horizontal acquisition shape galactose/melibiose metabolism in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1073/pnas.2532532123'>Proc Natl Acad Sci U S A</a>.",
+    "reference_id": "PMID:42030144",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-07-03",
+    "show_on_front_page": true
 }
 ]
