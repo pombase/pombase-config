@@ -216,6 +216,10 @@
                         "url": "https://www.pombase.org/latest_release"
                     },
                     {
+                        "title": "PomBase user API",
+                        "url": "/documentation/api"
+                    },
+                    {
                         "title": "GO annotation",
                         "url": "/downloads/go-annotations"
                     },
@@ -755,13 +759,25 @@
                             },
                             {
                                 "id": "tm_domain_count",
-                                "displayName": "TM domains",
+                                "displayName": "TM domains (TMHMM)",
                                 "nodeType": "int-range",
                                 "range_minimum": 0,
                                 "range_any_and_none": true,
                                 "topDescription": [
                                     {
-                                        "text": "Retrieve protein-coding genes by number of predicted transmembrane domains in the product"
+                                        "text": "Retrieve protein-coding genes by number of transmembrane domains in the product as predicted by <a href='https://services.healthtech.dtu.dk/services/TMHMM-2.0/'>TMHMM</a>"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "deeptmhmm_domain_count",
+                                "displayName": "TM domains (DeepTMHMM)",
+                                "nodeType": "int-range",
+                                "range_minimum": 0,
+                                "range_any_and_none": true,
+                                "topDescription": [
+                                    {
+                                        "text": "Retrieve protein-coding genes by number of transmembrane domains in the product as predicted by <a href='https://services.healthtech.dtu.dk/services/DeepTMHMM-1.0/'>DeepTMHMM</a>"
                                     }
                                 ]
                             },
