@@ -6306,6 +6306,25 @@
                     }
                 ]
             },
+            "signal_peptide": {
+                "display_name": "Signal peptides",
+                "column_type": "attribute",
+                "attr_values": [
+                    {
+                        "name": "present",
+                        "color": "#283048"
+                    },
+                    {
+                        "name": "absent",
+                        "color": "#e8e8e8"
+                    },
+                    {
+                        "name": "not_applicable",
+                        "display_name": "not applicable",
+                        "color": "#bbf"
+                    }
+                ]
+            },
             "go_process_superslim": {
                 "display_name": "GO process",
                 "column_type": "ontology_term",
@@ -6754,6 +6773,7 @@
             "molecular_function",
             "biological_process",
             "cellular_component",
+            "sequence",
             "mondo"
         ],
         "visualisation_field_names": [
@@ -6762,6 +6782,7 @@
             "ortholog_taxonids:4897",
             "ortholog_taxonids:9606",
             "tmm",
+            "signal_peptide",
             "go_process_superslim",
             "go_component",
             "go_function",
