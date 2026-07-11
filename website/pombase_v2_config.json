@@ -566,7 +566,8 @@
                             "canned_query:genes_in_complexes",
                             "gocam_activity_gene_count",
                             "genes_with_annotated_protein_feature",
-                            "genes_with_tm_domain_from_deeptmhmm"
+                            "genes_with_tm_domain_from_deeptmhmm",
+                            "genes_with_signal_peptide"
                         ]
                     },
                     {
@@ -2249,6 +2250,15 @@
                         }
                     }
                 ]
+            }
+        },
+        "canned_query:genes_with_signal_peptide": {
+            "name": "Genes with predicted signal peptide",
+            "constraints": {
+                "term": {
+                    "termid": "SO:0000418",
+                    "name": "signal_peptide"
+                }
             }
         },
         "canned_query:genes_in_complexes": {
