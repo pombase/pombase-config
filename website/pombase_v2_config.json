@@ -6734,6 +6734,10 @@
                         "color": "#777"
                     }
                 ]
+            },
+            "gocam_ids": {
+                "display_name": "GO-CAM IDs",
+                "column_type": "list"
             }
         },
         "gene_summary_field_names": [
@@ -6772,6 +6776,7 @@
             "taxonomic_distribution",
             "pdb_ids",
             "paralogs",
+            "gocam_ids",
             "rnacentral_id",
             "molecular_weight",
             "protein_length",
