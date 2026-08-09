@@ -6985,7 +6985,7 @@
             "Binding sites",
             "Active sites",
             "Localization signals",
-            "DeepTMHMM-Signal-Peptide",
+            "Signal-Peptide-DeepTMHMM",
             "Propeptides",
             "Cleavage sites"
         ],
@@ -7016,7 +7016,7 @@
             "SMART",
             "SUPERFAMILY",
             "Localization signals",
-            "DeepTMHMM-Signal-Peptide",
+            "Signal-Peptide-DeepTMHMM",
             "DeepTMHMM",
             "TM domains",
             "Disordered regions",
