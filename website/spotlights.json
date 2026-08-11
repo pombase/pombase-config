@@ -5337,5 +5337,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-07-03",
     "show_on_front_page": true
+},
+{
+    "title": "Bednor et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-08-11-PMID41974504.png"
+    ],
+    "content": "Nuclear basket subunits Nup211 and Rsm1 influence RNA 3'-processing and transcription termination in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1261/rna.081007.126'>RNA</a>.",
+    "reference_id": "PMID:41974504",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-08-11",
+    "show_on_front_page": true
 }
 ]
