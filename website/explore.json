@@ -262,5 +262,16 @@
     "content": "The unknown [status tracker page](/status/protein-status-tracker) has been updated to include new datasets: There are still 651 proteins of unknown process, of these 403 are conserved outside the fission yeast, 144 as far as human.\n\n[View the protein characterization graph](/status/protein-status-tracker)",
     "date_added": "2026-03-10",
     "show_on_front_page": true
+  },
+  {
+    "title": "Application Programming Interface (API)",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "assets/explore/2026-08-13-pombase-api.png"
+    ],
+    "content": "The PomBase [API](https://en.wikipedia.org/wiki/API) allow programmatic access to the latest *S. pombe* gene and annotation data. An ID mapping tool is also available.\n\n[View the API documentation](/documentation/api)",
+    "date_added": "2026-08-13",
+    "show_on_front_page": true
   }
 ]
