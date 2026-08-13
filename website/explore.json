@@ -270,7 +270,7 @@
     "head_image": [
       "assets/explore/2026-08-13-pombase-api.png"
     ],
-    "content": "The PomBase [API](https://en.wikipedia.org/wiki/API) allow programmatic access to the latest *S. pombe* gene and annotation data. An ID mapping tool is also available.\n\n[View the API documentation](/documentation/api)",
+    "content": "The PomBase [API](https://en.wikipedia.org/wiki/API) allows programmatic access to the latest *S. pombe* gene and annotation data. An ID mapping tool is also available.\n\n[View the API documentation](/documentation/api)",
     "date_added": "2026-08-13",
     "show_on_front_page": true
   }
