@@ -5351,4 +5351,17 @@
     "date_added": "2026-08-11",
     "show_on_front_page": true
 }
+{
+    "title": "Gluc et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-08-21-PMID42129552.png"
+    ],
+    "content": "SNOR promotes translation restart after dormancy.\n\nOriginally published in <a href='https://doi.org/10.1038/s41586-026-10530-7'>Nature</a>.",
+    "reference_id": "PMID:42129552",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-08-21",
+    "show_on_front_page": true
+},
 ]
