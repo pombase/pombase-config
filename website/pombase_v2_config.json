@@ -80,6 +80,16 @@
     "has_unknowns_list": true,
     "has_characterisation_status": true,
     "news_on_front_page": true,
+    "front_box_content": [
+        {
+            "summary": "<b>Save the date!</b><h5>13th International Fission Yeasts Meeting, July 12-16, 2027</h5>",
+            "details": "<div><em>From the organisers:</em></div> <div> The 13th International Fission Yeasts Meeting will take place from July 12 to 16, 2027 in Bordeaux, France. The meeting will be held in the beautiful and historic Palais de la Bourse, located in the heart of the city and on the quays of the Garonne River. </div> <div> We will be updating with more information as well as a meeting website in the near future. Looking forward to seeing everyone at the meeting! </div>"
+        },
+        {
+            "summary": "<b>Call for Speakers and Organisers - pombeTalks S07</b>",
+            "details": "<div><em>From the The pombeTalks Organising Team:</em></div><div>Dear fission yeast enthusiasts,</div><div>We are very excited to announce Season 07 of pombeTalks, launching this October 2026! We are now reaching out for speakers- whether you have an exciting fission yeast story taking shape or a project that seems to be going nowhere and could benefit from some feedback and discussion, this is for you. We would love to hear about your exciting findings, ideas, and challenges and we look forward to having many of you join us!</div><div>See <a href='https://lists.cam.ac.uk/sympa/info/ucam-pombelist'>pombeList</a> for more details</div>"
+        }
+    ],
     "has_admin_curation": true,
     "no_gene_name_route": "/submit-data/gene-names",
     "ensembl_blast_url": "https://fungi.ensembl.org/Schizosaccharomyces_pombe/Tools/Blast",
