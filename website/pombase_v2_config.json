@@ -567,8 +567,19 @@
                         ]
                     },
                     {
-                        "id": "canned_queries_specific_features",
-                        "displayName": "Genes with specific features available",
+                        "id": "canned_queries_go_status",
+                        "displayName": "GO status queries",
+                        "nodeType": "canned-queries",
+                        "query_ids": [
+                            "protein_coding_genes_unknown_process",
+                            "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
+                            "canned_query:coding_genes_with_mf_annotation",
+                            "canned_query:coding_genes_with_bp_annotation"
+                        ]
+                    },
+                    {
+                        "id": "other_popular_gene_lists",
+                        "displayName": "Other popular gene lists",
                         "nodeType": "canned-queries",
                         "query_ids": [
                             "proteins_with_pdb_structures",
@@ -579,17 +590,6 @@
                             "genes_with_annotated_protein_feature",
                             "genes_with_tm_domain_from_deeptmhmm",
                             "genes_with_signal_peptide"
-                        ]
-                    },
-                    {
-                        "id": "canned_queries_go_status",
-                        "displayName": "GO status queries",
-                        "nodeType": "canned-queries",
-                        "query_ids": [
-                            "protein_coding_genes_unknown_process",
-                            "priority-unstudied-genes:conserved_unknown_AND_conserved_in_vertebrates",
-                            "canned_query:coding_genes_with_mf_annotation",
-                            "canned_query:coding_genes_with_bp_annotation"
                         ]
                     }
                 ]
