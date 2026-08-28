@@ -582,6 +582,8 @@
                         "displayName": "Other popular gene lists",
                         "nodeType": "canned-queries",
                         "query_ids": [
+                            "genes_with_rna_levels_increased_during_cesr",
+                            "genes_with_rna_levels_decreased_during_cesr",
                             "proteins_with_pdb_structures",
                             "genes_with_rna_secondary_structure_predictions",
                             "canned_query:proteins_in_complexes",
@@ -2467,6 +2469,32 @@
                     }
                 ],
                 "node_name": "((subset: feature_type_mRNA_gene NOT subset: characterisation_status_transposon) NOT subset: characterisation_status_dubious) AND genes annotated with \"biological_process\" (GO:0008150) AND genes annotated with \"molecular_function\" (GO:0003674)"
+            },
+            "output_options": {}
+        },
+        "canned_query:genes_with_rna_levels_increased_during_cesr": {
+            "name": "Genes with RNA level increased during Core Environmental Stress Response",
+            "constraints": {
+                "node_name": "genes annotated with \"RNA level increased during Core Environmental Stress Response\" (PomGeneEx:0000028)",
+                "term": {
+                    "termid": "PomGeneEx:0000028",
+                    "name": "RNA level increased during Core Environmental Stress Response",
+                    "ploidiness": null,
+                    "expression": null
+                }
+            },
+            "output_options": {}
+        },
+        "canned_query:genes_with_rna_levels_decreased_during_cesr": {
+            "name": "Genes with RNA level decreased during Core Environmental Stress Response",
+            "constraints": {
+                "node_name": "genes annotated with \"RNA level decreased during Core Environmental Stress Response\" (PomGeneEx:0000028)",
+                "term": {
+                    "termid": "PomGeneEx:0000029",
+                    "name": "RNA level decreased during Core Environmental Stress Response",
+                    "ploidiness": null,
+                    "expression": null
+                }
             },
             "output_options": {}
         }
