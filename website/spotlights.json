@@ -5363,5 +5363,70 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-08-21",
     "show_on_front_page": true
+},
+  {
+    "title": "Mansouri-Noori et al, 2023",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-03-PMID37851576.png"
+    ],
+    "content": "The LARP1 homolog Slr1p controls the stability and expression of proto-5'TOP mRNAs in fission yeast.\n\nOriginally published in <a href='https://doi.org/10.1016/j.celrep.2023.113226'>Cell Rep</a>.",
+    "reference_id": "PMID:37851576",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-03",
+    "show_on_front_page": true
+},
+{
+    "title": "Bhatt et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-03-PMID41501458.png"
+    ],
+    "content": "Stress controls heterochromatin inheritance via histone H3 ubiquitylation.\n\nOriginally published in <a href='https://doi.org/10.1038/s41586-025-09899-8'>Nature</a>.",
+    "reference_id": "PMID:41501458",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-03",
+    "show_on_front_page": true
+},
+{
+    "title": "Sun et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-03-PMID42391044.png"
+    ],
+    "content": "Defective queuosine and i6A/ms2i6A modification of tRNATyr cause frameshifting and protein aggregation.\n\nOriginally published in <a href='https://doi.org/10.1093/nar/gkag664'>Nucleic Acids Res</a>.",
+    "reference_id": "PMID:42391044",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-03",
+    "show_on_front_page": true
+},
+{
+    "title": "Vijayakumari et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-03-PMID42420319.png"
+    ],
+    "content": "Spliceosomal proteins direct RNA methylation to modulate gene expression and silence retrotransposons.\n\nOriginally published in <a href='https://doi.org/10.1038/s41467-026-75362-5'>Nat Commun</a>.",
+    "reference_id": "PMID:42420319",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-03",
+    "show_on_front_page": true
+},
+{
+    "title": "Gomez-Gil et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-03-PMID42562571.png"
+    ],
+    "content": "Adaptation of eukaryotic membrane homeostasis to species-specific cellular lipid landscapes.\n\nOriginally published in <a href='https://doi.org/10.1101/gad.353500.125'>Genes Dev</a>.",
+    "reference_id": "PMID:42562571",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-03",
+    "show_on_front_page": true
 }
 ]
