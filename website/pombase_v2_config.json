@@ -426,6 +426,12 @@
                 "link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5941",
                 "text": "Gene expression profiling in Pog1 mutant strains by microarray assay"
             }
+        ],
+        "PMID:42562571": [
+            {
+                "link": "https://www.japonicusdb.org/reference/PMID:42562571",
+                "text": "Visit the JaponicusDB page for this publication"
+            }
         ]
     },
     "reference_page_jbrowse_columns": [
