@@ -5428,5 +5428,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-09-03",
     "show_on_front_page": true
+},
+  {
+    "title": "Tominaga et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-08-PMID42454989.png"
+    ],
+    "content": "Analysis of the sorting sequences of vacuolar serine proteases, Isp6 and Psp3, in Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1093/bbb/zbag105'>Biosci Biotechnol Biochem</a>.",
+    "reference_id": "PMID:42454989",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-08",
+    "show_on_front_page": true
 }
 ]
