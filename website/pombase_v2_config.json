@@ -317,6 +317,10 @@
                         "url": "/metrics"
                     },
                     {
+                        "title": "GO-CAM pathway statistics",
+                        "url": "/gocam/total-stats"
+                    },
+                    {
                         "title": "Community curation stats",
                         "url": "https://curation.pombase.org/pombe/stats/annotation"
                     },
