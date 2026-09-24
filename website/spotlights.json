@@ -5441,5 +5441,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-09-08",
     "show_on_front_page": true
+},
+  {
+    "title": "Cipakova et al, 2024",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-09-24-PMID38673778.png"
+    ],
+    "content": "Dysfunction of Gpl1-Gih35-Wdr83 Complex in S. pombe Affects the Splicing of DNA Damage Repair Factors Resulting in Increased Sensitivity to DNA Damage.\n\nOriginally published in <a href='https://doi.org/10.3390/ijms25084192'>Int J Mol Sci</a>.",
+    "reference_id": "PMID:38673778",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-09-24",
+    "show_on_front_page": true
 }
 ]
