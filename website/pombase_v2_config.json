@@ -2336,7 +2336,7 @@
             }
         },
         "canned_query:coding_genes_with_mf_annotation": {
-            "name": "Protein coding Genes with GO molecular function annotation",
+            "name": "Protein coding genes with GO molecular function annotation",
             "constraints": {
                 "and": [
                     {
@@ -2382,7 +2382,7 @@
             "output_options": {}
         },
         "canned_query:coding_genes_with_bp_annotation": {
-            "name": "Protein coding Genes with GO biological process annotation",
+            "name": "Protein coding genes with GO biological process annotation",
             "constraints": {
                 "and": [
                     {
@@ -2428,7 +2428,7 @@
             "output_options": {}
         },
         "canned_query:coding_genes_with_mf_and_bp_annotation": {
-            "name": "Protein coding Genes with GO biological process and molecular function annotation",
+            "name": "Protein coding genes with GO biological process and molecular function annotation",
             "constraints": {
                 "and": [
                     {
