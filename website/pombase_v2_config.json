@@ -4763,6 +4763,16 @@
             "url": "http://www.riken.jp/SPD/<<IDENTIFIER>>.html"
         },
         {
+            "ref_type": "Complexes",
+            "feature_types": [
+                "ALL"
+            ],
+            "name": "Complex Portal",
+            "description": "Macromolecular complex database",
+            "field_name": "complex_portal_id",
+            "go_xrf_abbrev": "ComplexPortal"
+        },
+        {
             "ref_type": "Strain and reagents",
             "feature_types": [
                 "ALL"
