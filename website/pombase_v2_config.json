@@ -4769,8 +4769,8 @@
             ],
             "name": "Complex Portal",
             "description": "Macromolecular complex database",
-            "field_name": "complex_portal_id",
-            "go_xrf_abbrev": "ComplexPortal"
+            "field_name": "complex_portal_ids",
+            "url": "https://www.ebi.ac.uk/complexportal/complex/search?query=<<UNIPROT_ACCESSION>>"
         },
         {
             "ref_type": "Strain and reagents",
