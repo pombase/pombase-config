@@ -151,7 +151,7 @@
     ],
     "content": "PomBase's advanced search now allows you to retrieve [GO slim](documentation/pombase-go-slim-documentation) annotations for any set of search results. Combine with the \"Gene IDs\" query option to find GO slim annotations for your own list of genes.",
     "date_added": "2019-03-05",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "Motif search updated",
@@ -206,7 +206,7 @@
     ],
     "content": "[*S. pombe* microPublications](https://www.micropublication.org/journals/biology/species/s-pombe/) describe brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. Find microPublications in the PomBase simple search, or [submit your own](https://www.micropublication.org/submit-new-article/).",
     "date_added": "2021-06-08",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "Disease associations for fission yeast proteins",
@@ -239,7 +239,7 @@
     ],
     "content": "We cloned PomBase to create a fully community-maintained resource for the [emerging model S. japonicus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789812/); providing genome browser, literature curation, and query tools.\n\n[Visit JaponicusDB](https://www.japonicusdb.org/)",
     "date_added": "2023-02-13",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "New documentation and videos for Canto",
@@ -250,7 +250,7 @@
     ],
     "content": "[A new website](https://pombase.github.io/canto_tutorial/) with videos and documentation for [Canto](https://curation.pombase.org/), our community curation tool. The website includes short step-by-step text and video guides on how to make annotations in Canto. \n\n[Visit the new Canto documentation](https://pombase.github.io/canto_tutorial/)",
     "date_added": "2023-11-29",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "Protein-coding gene characterisation status",
@@ -261,7 +261,7 @@
     ],
     "content": "The unknown [status tracker page](/status/protein-status-tracker) has been updated to include new datasets: There are still 651 proteins of unknown process, of these 403 are conserved outside the fission yeast, 144 as far as human.\n\n[View the protein characterization graph](/status/protein-status-tracker)",
     "date_added": "2026-03-10",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "Application Programming Interface (API)",
@@ -272,7 +272,7 @@
     ],
     "content": "The PomBase [API](https://en.wikipedia.org/wiki/API) allows programmatic access to the latest *S. pombe* gene and annotation data. An ID mapping tool is also available.\n\n[View the API documentation](/documentation/api)",
     "date_added": "2026-08-13",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "New disease associations for fission yeast proteins",
