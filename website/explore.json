@@ -283,7 +283,7 @@
     ],
     "content": "608 fission yeast proteins still have no known biological process. 398 are conserved beyond fission yeast, and 132 are conserved in human.\n\nSee the [Protein Status Tracker](status/protein-status-tracker)",
     "date_added": "2026-10-19",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "GO-CAM pathways",
