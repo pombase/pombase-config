@@ -253,17 +253,6 @@
     "show_on_front_page": false
   },
   {
-    "title": "Protein-coding gene characterisation status",
-    "title_link": null,
-    "panel_type": "explore",
-    "head_image": [
-      "explore/2023-11-29-gene-characterisation-status.png"
-    ],
-    "content": "The unknown [status tracker page](/status/protein-status-tracker) has been updated to include new datasets: There are still 651 proteins of unknown process, of these 403 are conserved outside the fission yeast, 144 as far as human.\n\n[View the protein characterization graph](/status/protein-status-tracker)",
-    "date_added": "2026-03-10",
-    "show_on_front_page": false
-  },
-  {
     "title": "Application Programming Interface (API)",
     "title_link": null,
     "panel_type": "explore",
@@ -282,6 +271,28 @@
       "explore/2019-01-27-disease.png"
     ],
     "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1593 (up from 1471 in June 2022) of the 3631 *S. pombe* genes that have human orthologs (up from 3597). See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
+    "date_added": "2026-10-19",
+    "show_on_front_page": true
+  },
+  {
+    "title": "Protein-coding gene characterisation status",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2023-11-29-gene-characterisation-status.png"
+    ],
+    "content": "608 fission yeast proteins still have no known biological process. 398 are conserved beyond fission yeast, and 132 are conserved in human.\n\nSee the [Protein Status Tracker](status/protein-status-tracker)",
+    "date_added": "2026-10-19",
+    "show_on_front_page": true
+  },
+  {
+    "title": "GO-CAM pathways",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2026-10-19-go-cams.png"
+    ],
+    "content": "Our goal: every fission yeast protein in a [GO-CAM model](gocam). Over a third of the proteome is already included, and more models are linking into our connected [\"Mega Model\"](gocam/mega-model/connected).\n\nFollow our progress on the [GO-CAM pathways page](gocam).",
     "date_added": "2026-10-19",
     "show_on_front_page": true
   }
