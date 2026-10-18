@@ -228,7 +228,7 @@
     ],
     "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1471 (up from 1401 in August 2021) of the 3597 *S. pombe* genes that have human orthologs. See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
     "date_added": "2022-06-23",
-    "show_on_front_page": true
+    "show_on_front_page": false
   },
   {
     "title": "PomBase's 'sister' database for fission yeast Schizosaccharomyces japonicus",
@@ -272,6 +272,17 @@
     ],
     "content": "The PomBase [API](https://en.wikipedia.org/wiki/API) allows programmatic access to the latest *S. pombe* gene and annotation data. An ID mapping tool is also available.\n\n[View the API documentation](/documentation/api)",
     "date_added": "2026-08-13",
+    "show_on_front_page": true
+  },
+  {
+    "title": "New disease associations for fission yeast proteins",
+    "title_link": null,
+    "panel_type": "explore",
+    "head_image": [
+      "explore/2019-01-27-disease.png"
+    ],
+    "content": "Browse [Disease associations](/term/MONDO:0000001), annotated using the Mondo disease ontology, for 1593 (up from 1471 in June 2022) of the 3631 *S. pombe* genes that have human orthologs (up from 3597). See the [disease slim set](/browse-curation/disease-slim) for a summary view.",
+    "date_added": "2026-10-19",
     "show_on_front_page": true
   }
 ]
