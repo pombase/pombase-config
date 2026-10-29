@@ -83,7 +83,7 @@
     "news_on_front_page": true,
     "front_box_content": [
         {
-            "summary": "<div class='front-box-logo'><img src='/assets/newsfeed/13th-international-fission-yeasts-meeting-logo-64x64px.png'/></div><b>Save the date!</b><h5>13th International Fission Yeasts Meeting, July 12-16, 2027</h5><div>",
+            "summary": "<div class='front-box-logo'><img width='64px' src='/assets/newsfeed/13th-international-fission-yeasts-meeting-logo-64x64px.png'/></div><b>Save the date!</b><h5>13th International Fission Yeasts Meeting, July 12-16, 2027</h5><div>",
             "details": "<div><em>From the organisers:</em></div> <div> The 13th International Fission Yeasts Meeting will take place from July 12 to 16, 2027 in Bordeaux, France. The meeting will be held in the beautiful and historic Palais de la Bourse, located in the heart of the city and on the quays of the Garonne River. </div> <div> <a href='https://event.gayakoa.com/13thFissionYeastMeeting'>Visit the conference website for more information</a></div><div><a href='https://event.gayakoa.com/13thFissionYeastMeeting'><img alt='Visit the conference website for more information' src='/assets/newsfeed/13th-international-fission-yeasts-meeting-banner-small.png'/></a></div>"
         },
         {
