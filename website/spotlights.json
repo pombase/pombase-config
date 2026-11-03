@@ -5467,5 +5467,18 @@
     "link_label": "Publication record in PomBase ...",
     "date_added": "2026-11-01",
     "show_on_front_page": true
-  }
+  },
+  {
+    "title": "Ullah et al, 2026",
+    "title_link": null,
+    "panel_type": "spotlight",
+    "head_image": [
+        "spotlight/2026-11-03-PMID42742843.png"
+    ],
+    "content": "Gdt1, Gdt2 and the P-type ATPase Pmr1 regulate divalent cations (Ca²⁺ and Mn²⁺) in the fission yeast Schizosaccharomyces pombe.\n\nOriginally published in <a href='https://doi.org/10.1007/s10123-026-00887-0'>Int Microbiol</a>.",
+    "reference_id": "PMID:42742843",
+    "link_label": "Publication record in PomBase ...",
+    "date_added": "2026-11-03",
+    "show_on_front_page": true
+}
 ]
