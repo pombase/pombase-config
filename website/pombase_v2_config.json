@@ -3906,6 +3906,11 @@
             ],
             "help_route": "/documentation/gene-page-gene-ontology"
         },
+        "GO:0032991": {
+            "feature_type": "gene",
+            "display_name": "Protein complexes",
+            "inherits_from": "cellular_component"
+        },
         "PSI-MOD": {
             "feature_type": "gene",
             "display_name": "Modification",
