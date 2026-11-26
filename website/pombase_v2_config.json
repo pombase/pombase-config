@@ -64,10 +64,22 @@
         ]
     },
     "example_pages": {
-        "gene": "SPBC216.07c",
-        "term": "GO:0000070",
-        "reference": "PMID:39094570",
-        "gocam": "6796b94c00006848"
+        "gene": {
+            "title": "Visit the gene page for tor2 / SPBC216.07c",
+            "id": "SPBC216.07c"
+        },
+        "term": {
+            "title": "Visit the ontology term page for mitotic sister chromatid segregation (GO:0000070)",
+            "id": "GO:0000070"
+        },
+        "reference": {
+            "title": "Visit the publication page for \"A replisome-associated histone H3-H4 chaperone required for epigenetic inheritance\" - PMID:39094570",
+            "id": "PMID:39094570"
+        },
+        "gocam": {
+            "title": "Visit the TORC1 signaling GO-CAM pathway",
+            "id": "6796b94c00006848"
+        }
     },
     "social_media": {
         "bluesky": "pombase.bsky.social",
