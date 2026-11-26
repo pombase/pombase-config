@@ -3859,22 +3859,6 @@
                 "exists_during",
                 "happens_during"
             ],
-            "split_by_parents": [
-                {
-                    "config_name": "not-complexes",
-                    "termids": [
-                        "NOT GO:0032991"
-                    ],
-                    "display_name": "location"
-                },
-                {
-                    "config_name": "complexes",
-                    "termids": [
-                        "GO:0032991"
-                    ],
-                    "display_name": "complexes"
-                }
-            ],
             "filters": [
                 {
                     "filter_type": "extension",
