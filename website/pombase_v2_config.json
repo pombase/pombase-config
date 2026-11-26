@@ -81,7 +81,7 @@
             "id": "6796b94c00006848"
         }
     },
-    "search_box_examples": "tor2, SPBC216.07c, chromatid segregation, GO:0000070, diabetes, Toda, PMID:39094570, abnormal mitosis",
+    "search_box_examples": "tor2, SPBC216.07c, chromatid segregation, GO:0000070, abnormal mitosis, diabetes, Toda, PMID:39094570",
     "social_media": {
         "bluesky": "pombase.bsky.social",
         "mastodon": "https://mstdn.science/@pombase",
